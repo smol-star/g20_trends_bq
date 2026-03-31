@@ -1,0 +1,6 @@
+streamlit
+google-cloud-bigquery
+google-generativeai
+pandas
+python-dotenv
+fpdf
