@@ -59,7 +59,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 1
     },
     "United Kingdom": {
@@ -122,7 +122,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 2
     },
     "Australia": {
@@ -185,7 +185,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 3
     },
     "Germany": {
@@ -248,7 +248,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 4
     },
     "Canada": {
@@ -267,7 +267,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             },
             {
-                "record_id": 1297008021,
+                "record_id": 1297008494,
                 "mentions": 56,
                 "sources": 7,
                 "goldstein": 7.0,
@@ -278,7 +278,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             },
             {
-                "record_id": 1297008494,
+                "record_id": 1297008021,
                 "mentions": 56,
                 "sources": 7,
                 "goldstein": 7.0,
@@ -311,7 +311,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 5
     },
     "Brazil": {
@@ -374,12 +374,12 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 6
     },
     "Turkey": {
         "gdp_rank": 16,
-        "spike_score": 349.0,
+        "spike_score": 338.5,
         "trends": [
             {
                 "record_id": 1296974712,
@@ -426,18 +426,18 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             },
             {
-                "record_id": 1296974493,
-                "mentions": 27,
+                "record_id": 1296974532,
+                "mentions": 36,
                 "sources": 9,
-                "goldstein": -5.0,
+                "goldstein": -2.0,
                 "tone": -1.82103108494491,
-                "score": 56.5,
+                "score": 46.0,
                 "keyword": "주요 글로벌 이슈 식별불가",
                 "hook": "현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.",
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 7
     },
     "Russia": {
@@ -500,7 +500,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 8
     },
     "China": {
@@ -530,22 +530,22 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             },
             {
-                "record_id": 1296926322,
-                "mentions": 36,
-                "sources": 2,
-                "goldstein": -6.5,
-                "tone": -1.46341463414634,
+                "record_id": 1297000784,
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": -7.5,
+                "tone": 0.99009900990099,
                 "score": 54.5,
                 "keyword": "주요 글로벌 이슈 식별불가",
                 "hook": "현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.",
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             },
             {
-                "record_id": 1297000784,
-                "mentions": 30,
-                "sources": 1,
-                "goldstein": -7.5,
-                "tone": 0.99009900990099,
+                "record_id": 1296926322,
+                "mentions": 36,
+                "sources": 2,
+                "goldstein": -6.5,
+                "tone": -1.46341463414634,
                 "score": 54.5,
                 "keyword": "주요 글로벌 이슈 식별불가",
                 "hook": "현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.",
@@ -563,7 +563,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 9
     },
     "Italy": {
@@ -626,7 +626,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 10
     },
     "Saudi Arabia": {
@@ -689,7 +689,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 11
     },
     "South Korea": {
@@ -730,7 +730,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             },
             {
-                "record_id": 1296906725,
+                "record_id": 1296906942,
                 "mentions": 30,
                 "sources": 1,
                 "goldstein": 7.0,
@@ -741,7 +741,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             },
             {
-                "record_id": 1296906942,
+                "record_id": 1296906725,
                 "mentions": 30,
                 "sources": 1,
                 "goldstein": 7.0,
@@ -752,7 +752,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 12
     },
     "France": {
@@ -793,7 +793,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 13
     },
     "India": {
@@ -845,7 +845,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 14
     },
     "Japan": {
@@ -897,7 +897,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 15
     },
     "Indonesia": {
@@ -927,17 +927,6 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             },
             {
-                "record_id": 1296896621,
-                "mentions": 30,
-                "sources": 1,
-                "goldstein": 0.0,
-                "tone": 2.75482093663912,
-                "score": 17.0,
-                "keyword": "주요 글로벌 이슈 식별불가",
-                "hook": "현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.",
-                "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
-            },
-            {
                 "record_id": 1296902959,
                 "mentions": 30,
                 "sources": 1,
@@ -958,9 +947,20 @@
                 "keyword": "주요 글로벌 이슈 식별불가",
                 "hook": "현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.",
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
+            },
+            {
+                "record_id": 1296896621,
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": 2.75482093663912,
+                "score": 17.0,
+                "keyword": "주요 글로벌 이슈 식별불가",
+                "hook": "현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.",
+                "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 16
     },
     "Argentina": {
@@ -990,7 +990,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 17
     },
     "South Africa": {
@@ -1031,7 +1031,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 18
     },
     "Mexico": {
@@ -1061,7 +1061,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:20:49",
+        "last_updated": "2026-03-31 17:39:40",
         "current_rank": 19
     }
 }
