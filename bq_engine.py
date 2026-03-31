@@ -31,8 +31,8 @@ def get_g20_trends_query():
         GoldsteinScale,
         AvgTone,
         SOURCEURL
-    FROM `gdelt-bq.gdeltv2.events`
-    WHERE SQLDATE >= CAST(FORMAT_DATE('%Y%m%d', DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY)) AS INT64)
+    FROM `gdelt-bq.gdeltv2.events_partitioned`
+    WHERE _PARTITIONTIME >= TIMESTAMP_SUB(CURRENT_TIMESTAMP(), INTERVAL 24 HOUR)
         AND ActionGeo_CountryCode IN ('US', 'CH', 'GM', 'JA', 'IN', 'UK', 'FR', 'IT', 'BR', 'CA', 'RS', 'MX', 'AS', 'KS', 'ID', 'TU', 'SA', 'AR', 'SF')
     ORDER BY NumMentions DESC, NumSources DESC
     LIMIT 300
