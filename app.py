@@ -64,6 +64,10 @@ def render_dashboard(data, kst_now):
                 
                 st.divider()
                 st.markdown(f"📊 **GDELT 원본 스탯** : 전파력(언급) {mentions}회 &nbsp;|&nbsp; 공신력(매체수) {sources}곳 &nbsp;|&nbsp; 파급력(Goldstein) {goldstein} &nbsp;|&nbsp; 언론 분위기 지수 {tone_badge}", unsafe_allow_html=True)
+                
+                url = t.get('url', '')
+                if url:
+                    st.markdown(f"🔗 **대표 보도 기사 원본**: <a href='{url}' target='_blank'>링크 이동하기</a> (안전상의 이유로 1개만 우선 제공)", unsafe_allow_html=True)
             
             st.markdown("<br>", unsafe_allow_html=True)
             
@@ -84,5 +88,38 @@ if page == "실시간 AI 심층 브리핑":
         render_dashboard(data, "최신 (실시간 렌더링)")
 else:
     st.title("📜 BQ-AI 과거 데이터 기록소")
-    st.markdown("1시간 주기로 데이터가 보존된 과거 기록을 열람할 수 있습니다. (hourly_archive 폴더 기준)")
-    st.info("현재 UI 버전에서는 Streamlit이 백그라운드 스냅샷을 곧바로 보여줄 수 있도록 개발 중이며, 향후 기능이 확장될 예정입니다.")
+    st.markdown("매시간 수집되어 보존된 과거 기록 스냅샷을 열람할 수 있습니다.")
+    
+    archive_dir = "hourly_archive"
+    if not os.path.exists(archive_dir):
+        st.warning("🗂️ 아직 수집되어 저장된 과거 기록이 없습니다. 데이터가 쌓일 때까지 기다려 주세요.")
+    else:
+        dates = sorted(os.listdir(archive_dir), reverse=True)
+        if not dates:
+            st.warning("🗂️ 아직 수집되어 저장된 시간별 기록이 없습니다.")
+        else:
+            col1, col2 = st.columns(2)
+            with col1:
+                selected_date = st.selectbox("📅 보관 날짜 선택 (KST 기준)", dates)
+            
+            date_dir = os.path.join(archive_dir, selected_date)
+            # JSON 파일만 필터링 후 시간(숫자) 기준 내림차순 정렬
+            hour_files = [f for f in os.listdir(date_dir) if f.endswith('.json')]
+            hours = sorted([f.replace('.json', '') for f in hour_files], reverse=True)
+            
+            with col2:
+                if not hours:
+                    st.selectbox("⏰ 시간 선택", ["기록 없음"])
+                else:
+                    selected_hour = st.selectbox("⏰ 수집 시간 선택", hours, format_func=lambda x: f"{x}시 스냅샷")
+            
+            if hours:
+                st.markdown("<br>", unsafe_allow_html=True)
+                file_path = os.path.join(date_dir, f"{selected_hour}.json")
+                try:
+                    with open(file_path, "r", encoding="utf-8") as f:
+                        archive_data = json.load(f)
+                    st.success(f"✅ {selected_date} {selected_hour}시에 저장된 역사적 글로벌 트렌드 기록입니다.")
+                    render_dashboard(archive_data, f"{selected_date} {selected_hour}시 (과거 아카이브)")
+                except Exception as e:
+                    st.error(f"기록 파일을 읽는데 실패했습니다: {e}")
