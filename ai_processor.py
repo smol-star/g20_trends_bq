@@ -21,6 +21,7 @@ def summarize_themes_batch(themes_dict):
 
     prompt = """다음은 GDELT 글로벌 이슈들의 뉴스 URL과 파급력/톤(분위기) 분석 수치 모음입니다.
 이 이벤트들의 목록을 보고, 각 이벤트별로 다음의 3가지를 반드시 포함하는 명확한 JSON 형태의 배열(Array)로 답변해주세요.
+다른 인사이트나 인사말은 절대로 출력하지 말고 **오직 순수한 JSON 형식**으로만 대답할 것!
 
 예시 형식:
 ```json
@@ -49,27 +50,39 @@ def summarize_themes_batch(themes_dict):
         prompt += f"- ID: {k} | URL: {url} | 톤: {tone} | 파급력: {goldstein}\n"
         
     try:
-        response = model.generate_content(prompt)
-        result = response.text.strip()
-        
-        # 언어 모델의 ```json 포맷팅 제거
-        if "```json" in result:
-            result = result.split("```json")[1]
-            if "```" in result:
-                result = result.split("```")[0]
-        elif "```" in result:
-            result = result.replace("```", "")
-                
-        parsed_result = {}
-        json_data = json.loads(result.strip())
-        for item in json_data:
-            parsed_result[str(item['id'])] = {
-                "headline": item.get("headline", "식별 불가"),
-                "hook": item.get("hook", "분석 실패"),
-                "script": item.get("script", "대본 생성 실패")
-            }
-        
-        return parsed_result
+        try:
+            response = model.generate_content(prompt)
+            result = response.text.strip()
+            
+            # JSON 배열 텍스트만 찾아서 강력하게 추출 (정규식/문자열 슬라이싱 방식)
+            start_idx = result.find('[')
+            end_idx = result.rfind(']')
+            if start_idx != -1 and end_idx != -1:
+                result = result[start_idx:end_idx+1]
+            else:
+                # 대괄호가 없다면 예비로 마크다운 찌꺼기 제거
+                result = result.replace("```json", "").replace("```", "").strip()
+                    
+            parsed_result = {}
+            json_data = json.loads(result)
+            for item in json_data:
+                parsed_result[str(item['id'])] = {
+                    "headline": item.get("headline", "식별 불가"),
+                    "hook": item.get("hook", "분석 실패"),
+                    "script": item.get("script", "대본 생성 실패")
+                }
+            
+            return parsed_result
+        except json.JSONDecodeError as je:
+            print(je)
+            print(f"==============================")
+            print(f"[JSON 파싱 에러 발생] Gemini 원본 응답 내용:\n{response.text}")
+            print(f"==============================")
+            return {}
     except Exception as e:
-        print(f"Gemini API 일괄 처리 오류: {e}")
+        import traceback
+        print(f"==============================")
+        print(f"Gemini API 통신/기타 오류: {e}")
+        traceback.print_exc()
+        print(f"==============================")
         return {}
