@@ -1,7 +1,7 @@
 import bq_engine
 import ai_processor
 from data_manager import save_current_data
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 import pandas as pd
 
 def calculate_impact_score(row):
@@ -59,6 +59,7 @@ def fetch_and_process():
             
             trends_list.append({
                 "record_id": record_id,
+                "url": themes,
                 "mentions": row['NumMentions'],
                 "sources": row['NumSources'],
                 "goldstein": row['GoldsteinScale'],
@@ -66,12 +67,13 @@ def fetch_and_process():
                 "score": float(row['ImpactScore'])
             })
             
+        kst = timezone(timedelta(hours=9))
         if trends_list:
             result_data[country_name] = {
                 "gdp_rank": list(g20_mapping.values()).index(country_name) + 1,
                 "spike_score": sum([t['score'] for t in trends_list]), # 총합 스코어
                 "trends": trends_list,
-                "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                "last_updated": datetime.now(kst).strftime("%Y-%m-%d %H:%M:%S KST")
             }
             
     print(f"총 {len(themes_to_translate)}개의 이슈 그룹에 대해 Gemini AI 분석 요청 중...")
