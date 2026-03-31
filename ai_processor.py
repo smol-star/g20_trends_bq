@@ -1,6 +1,7 @@
 import os
 import google.generativeai as genai
 from dotenv import load_dotenv
+import json
 
 load_dotenv()
 
@@ -16,26 +17,57 @@ def summarize_themes_batch(themes_dict):
     themes_dict: { id: "TAX_..., ENV_...", ... }
     """
     init_gemini()
-    # Cost & speed effective model
     model = genai.GenerativeModel('gemini-1.5-flash-8b')
-    
-    prompt = "다음은 GDELT 이벤트 아이디와 관련된 뉴스 URL(또는 식별자) 모음입니다. 이 주소 텍스트를 분석해 이 사건이 어떤 사건인지 유추하여 일반인이 알기 쉬운 자연스럽고 간결한 '뉴스 헤드라인 키워드(한국어, 3단어 내외)'로 바꿔서 반환해주세요.\n"
-    prompt += "결과는 반드시 '아이디: 키워드' 형식으로 한 줄씩 출력해주세요.\n\n"
+
+    prompt = """다음은 GDELT 글로벌 이슈들의 뉴스 URL과 파급력/톤(분위기) 분석 수치 모음입니다.
+이 이벤트들의 목록을 보고, 각 이벤트별로 다음의 3가지를 반드시 포함하는 명확한 JSON 형태의 배열(Array)로 답변해주세요.
+
+예시 형식:
+```json
+[
+  {
+    "id": "12345",
+    "headline": "아르헨티나 물가 폭등",
+    "hook": "전 세계적인 비난 속에 아르헨티나가 최악의 경제 비상사태에 직면했습니다.",
+    "script": "안녕하세요 글로벌 트렌드입니다. 아르헨티나 물가 폭등 소식입니다. 현재 전 세계적인 비난 속에... (약 30초 분량의 쇼츠 대본 멘트 작성)"
+  }
+]
+```
+
+조건:
+- headline: URL을 분석하여, 이 사건이 무엇인지 유추해 자연스럽고 간결한 '구체적인 한글 뉴스 헤드라인' 3단어 내외로 요약.
+- hook: 사건의 톤(분위기: -10 ~ +10)과 파급력(Goldstein: -10 ~ 10) 수치를 적극 반영해 시청자의 이목을 끄는 1~2줄 요약 문장.
+- script: 유튜브 쇼츠 아나운서 리딩용 대본 초안 (30초 분량, 3~4문장).
+
+입력 데이터:
+"""
     
     for k, v in themes_dict.items():
-        # URL 텍스트를 전달
-        short_v = v[:300] if isinstance(v, str) else str(v)
-        prompt += f"{k}: {short_v}\n"
+        url = str(v.get('url', ''))[:300]
+        tone = v.get('tone', 0.0)
+        goldstein = v.get('goldstein', 0.0)
+        prompt += f"- ID: {k} | URL: {url} | 톤: {tone} | 파급력: {goldstein}\n"
         
     try:
         response = model.generate_content(prompt)
         result = response.text.strip()
         
+        # 언어 모델의 ```json 포맷팅 제거
+        if "```json" in result:
+            result = result.split("```json")[1]
+            if "```" in result:
+                result = result.split("```")[0]
+        elif "```" in result:
+            result = result.replace("```", "")
+                
         parsed_result = {}
-        for line in result.split('\n'):
-            if ':' in line:
-                idx, kw = line.split(':', 1)
-                parsed_result[idx.strip()] = kw.strip().replace('"', '')
+        json_data = json.loads(result.strip())
+        for item in json_data:
+            parsed_result[str(item['id'])] = {
+                "headline": item.get("headline", "식별 불가"),
+                "hook": item.get("hook", "분석 실패"),
+                "script": item.get("script", "대본 생성 실패")
+            }
         
         return parsed_result
     except Exception as e:

@@ -24,41 +24,51 @@ def render_dashboard(data, kst_now):
         flag_code = FLAG_CODES.get(country, 'kr')
         
         st.markdown(f'''
-            <div style="display: flex; align-items: center; margin-top: 20px; margin-bottom: 5px;">
-                <span style="font-size: 1.2em; font-weight: bold; margin-right: 12px; color: #555;">{current_rank}위</span>
+            <div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 10px;">
+                <span style="font-size: 1.5em; font-weight: bold; margin-right: 12px; color: #1a73e8;">{current_rank}위</span>
                 <img src="https://flagcdn.com/w40/{flag_code}.png" width="36" style="border: 1px solid #e0e0e0; border-radius: 4px; margin-right: 12px; box-shadow: 0px 2px 4px rgba(0,0,0,0.1);">
-                <h3 style="margin: 0; padding: 0;">{country} <span style="font-size: 0.7em; font-weight: normal; color: #888;">(엔진 평가 점수: {score:.1f}p)</span></h3>
+                <h3 style="margin: 0; padding: 0;">{country} <span style="font-size: 0.7em; font-weight: normal; color: #888;">(Spike: {score:.1f}p)</span></h3>
             </div>
         ''', unsafe_allow_html=True)
         
-        with st.expander(f"👉 {country} AI 분석 핵심 뉴스와 지수 열기", expanded=False):
-            st.caption(f"🔄 수집 및 분석 갱신 시간: {info.get('last_updated', 'N/A')} &nbsp;|&nbsp; ⏰ 기록 시간: {kst_now}")
+        trends = info.get("trends", [])
+        if not trends:
+            st.write("GDELT 데이터셋에서 최근 24시간 내 수집된 주요 이슈가 없습니다.")
+            continue
             
-            trends = info.get("trends", [])
-            if not trends:
-                st.write("GDELT 데이터셋에서 최근 24시간 내 수집된 주요 이슈가 없습니다.")
+        for idx, t in enumerate(trends):
+            keyword = t.get('keyword', '이슈명 분석 실패')
+            hook = t.get('hook', '요약 훅이 생성되지 않았습니다.')
+            script = t.get('script', '쇼츠 대본이 생성되지 않았습니다.')
+            mentions = t.get('mentions', 0)
+            sources = t.get('sources', 0)
+            goldstein = t.get('goldstein', 0.0)
+            tone = t.get('tone', 0.0)
             
-            for idx, t in enumerate(trends):
-                keyword = t.get('keyword', '이슈명 분석 실패')
-                mentions = t.get('mentions', 0)
-                sources = t.get('sources', 0)
-                goldstein = t.get('goldstein', 0.0)
-                tone = t.get('tone', 0.0)
+            # 톤(Tone) 뱃지 색상
+            if tone > 0:
+                tone_badge = f"<span style='color: #4CAF50;'>긍정 (Tone: +{tone:.1f})</span>"
+            elif tone < 0:
+                tone_badge = f"<span style='color: #F44336;'>부정 (Tone: {tone:.1f})</span>"
+            else:
+                tone_badge = f"<span style='color: #9E9E9E;'>중립 (Tone: 0.0)</span>"
                 
-                # 톤(Tone) 뱃지 색상
-                if tone > 0:
-                    tone_badge = f"<span style='color: #4CAF50;'>긍정 (Tone: +{tone:.1f})</span>"
-                elif tone < 0:
-                    tone_badge = f"<span style='color: #F44336;'>부정 (Tone: {tone:.1f})</span>"
-                else:
-                    tone_badge = f"<span style='color: #9E9E9E;'>중립 (Tone: 0.0)</span>"
-                    
-                st.markdown(f"<p style='font-size: 1.2em; font-weight: bold; margin: 6px 0 2px 0; color: #E91E63;'>{idx+1}. 📢 {keyword}</p>", unsafe_allow_html=True)
+            # 바깥쪽에 바로 읽을 수 있는 헤드라인과 훅 노출
+            st.markdown(f"<h4 style='margin-bottom: 5px; color: #d32f2f;'>🚨 {keyword}</h4>", unsafe_allow_html=True)
+            st.markdown(f"<div style='background-color: #f8f9fa; border-left: 4px solid #1a73e8; padding: 10px; margin-bottom: 10px; font-size: 1.1em;'>💡 <b>{hook}</b></div>", unsafe_allow_html=True)
+            
+            # 안쪽에 구체적인 대본과 수치 숨김
+            with st.expander(f"👉 🎤 리딩용 대본 및 원본 지표 열람"):
+                st.markdown("#### 🎙️ AI 제안 쇼츠 대본 (약 30초)")
+                st.info(script)
                 
-                st.markdown(f"**전파력(언급횟수)**: {mentions}회 &nbsp;|&nbsp; **공신력(보도매체 수)**: {sources}곳 &nbsp;|&nbsp; **국제사회 영향력(Goldstein)**: {goldstein} &nbsp;|&nbsp; **분위기**: {tone_badge}", unsafe_allow_html=True)
-                
-                if idx < len(trends) - 1:
-                    st.markdown("<div style='border-top: 1px dashed #e0e0e0; margin: 8px 0;'></div>", unsafe_allow_html=True)
+                st.divider()
+                st.markdown(f"📊 **GDELT 원본 스탯** : 전파력(언급) {mentions}회 &nbsp;|&nbsp; 공신력(매체수) {sources}곳 &nbsp;|&nbsp; 파급력(Goldstein) {goldstein} &nbsp;|&nbsp; 언론 분위기 지수 {tone_badge}", unsafe_allow_html=True)
+            
+            st.markdown("<br>", unsafe_allow_html=True)
+            
+        st.caption(f"🔄 최신 동기화 완료 시간 (BigQuery): {info.get('last_updated', 'N/A')}")
+        st.markdown("<hr style='border: 1px dotted #ccc;'>", unsafe_allow_html=True)
 
 page = st.sidebar.radio("메뉴", ["실시간 AI 심층 브리핑", "과거 기록 보기"])
 

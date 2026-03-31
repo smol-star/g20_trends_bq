@@ -54,9 +54,9 @@ def verify_and_fetch_data():
     
     print(f"[비용 최적화] 예상 쿼리 스캔 용량: {gb_processed:.3f} GB")
     
-    # 2. 20GB 초과 시 안전 장치 발동
-    if gb_processed > 20.0:
-        raise MemoryError(f"안전 장치 발동: 스캔 용량이 20GB를 초과합니다. (예상: {gb_processed:.2f} GB) 실행을 중단합니다.")
+    # 2. 2GB 초과 시 안전 장치 발동
+    if gb_processed > 2.0:
+        raise MemoryError(f"안전 장치 발동: 스캔 용량이 2GB를 초과합니다. (예상: {gb_processed:.2f} GB) 실행을 중단합니다.")
         
     # 3. 실제 쿼리 실행
     print("용량 확인 완료. 실제 쿼리를 실행합니다...")

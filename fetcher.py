@@ -50,8 +50,12 @@ def fetch_and_process():
             themes = str(row['SOURCEURL'])
             avg_tone = float(row['AvgTone']) if pd.notna(row['AvgTone']) else 0.0
             
-            # 번역 큐에 담기
-            themes_to_translate[record_id] = themes
+            # 번역 큐에 담기 (딕셔너리로 상세 정보 전달)
+            themes_to_translate[record_id] = {
+                'url': themes,
+                'tone': avg_tone,
+                'goldstein': row['GoldsteinScale']
+            }
             
             trends_list.append({
                 "record_id": record_id,
@@ -70,16 +74,18 @@ def fetch_and_process():
                 "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             }
             
-    # 3. Gemini 일괄 번역 (존재하는 경우만)
     print(f"총 {len(themes_to_translate)}개의 이슈 그룹에 대해 Gemini AI 분석 요청 중...")
-    translated_keywords = ai_processor.summarize_themes_batch(themes_to_translate)
+    translated_info = ai_processor.summarize_themes_batch(themes_to_translate)
     
     # 4. 번역 결과를 최종 데이터셋에 병합
     for country, info in result_data.items():
         for t in info['trends']:
             rid = t['record_id']
-            # Gemini가 응답을 안줬거나 파싱 실패 시 원본의 일부를 표출
-            t['keyword'] = translated_keywords.get(rid, "주요 글로벌 이슈")
+            ai_data = translated_info.get(str(rid), {})
+            
+            t['keyword'] = ai_data.get('headline', '주요 글로벌 이슈 식별불가')
+            t['hook'] = ai_data.get('hook', '현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.')
+            t['script'] = ai_data.get('script', '이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다.')
             
     # 5. 국가별 이슈 스파이크 점수에 따라 최종 정렬
     sorted_countries = sorted(result_data.items(), key=lambda x: (-x[1]['spike_score'], x[1]['gdp_rank']))
