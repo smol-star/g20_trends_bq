@@ -17,7 +17,7 @@ def summarize_themes_batch(themes_dict):
     themes_dict: { id: "TAX_..., ENV_...", ... }
     """
     init_gemini()
-    model = genai.GenerativeModel('gemini-1.5-flash-8b')
+    model = genai.GenerativeModel('gemini-1.5-flash')
 
     prompt = """다음은 GDELT 글로벌 이슈들의 뉴스 URL과 파급력/톤(분위기) 분석 수치 모음입니다.
 이 이벤트들의 목록을 보고, 각 이벤트별로 다음의 3가지를 반드시 포함하는 명확한 JSON 형태의 배열(Array)로 답변해주세요.
