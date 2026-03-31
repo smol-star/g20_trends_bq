@@ -1,0 +1,901 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 662.0,
+        "trends": [
+            {
+                "record_id": 1296996710,
+                "mentions": 244,
+                "sources": 1,
+                "goldstein": -6.5,
+                "tone": -9.78535353535354,
+                "score": 156.5,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296996703,
+                "mentions": 242,
+                "sources": 1,
+                "goldstein": -6.5,
+                "tone": -9.78535353535355,
+                "score": 155.5,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296996713,
+                "mentions": 224,
+                "sources": 1,
+                "goldstein": -6.5,
+                "tone": -9.78535353535356,
+                "score": 146.5,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296996706,
+                "mentions": 146,
+                "sources": 1,
+                "goldstein": -6.5,
+                "tone": -9.78535353535357,
+                "score": 107.5,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296905725,
+                "mentions": 160,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 0.288888703409012,
+                "score": 96.0,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 1
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 590.0,
+        "trends": [
+            {
+                "record_id": 1296966639,
+                "mentions": 170,
+                "sources": 17,
+                "goldstein": 5.2,
+                "tone": 2.48449539560233,
+                "score": 145.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296890356,
+                "mentions": 110,
+                "sources": 11,
+                "goldstein": -10.0,
+                "tone": 0.14771048744461,
+                "score": 127.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296982428,
+                "mentions": 78,
+                "sources": 13,
+                "goldstein": -10.0,
+                "tone": -7.193515704154,
+                "score": 115.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296982441,
+                "mentions": 52,
+                "sources": 13,
+                "goldstein": -10.0,
+                "tone": -7.193515704154,
+                "score": 102.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296881014,
+                "mentions": 120,
+                "sources": 12,
+                "goldstein": 3.4,
+                "tone": 0.00856457690990083,
+                "score": 101.0,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 2
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 429.0,
+        "trends": [
+            {
+                "record_id": 1296920088,
+                "mentions": 140,
+                "sources": 7,
+                "goldstein": -10.0,
+                "tone": -7.48708153450474,
+                "score": 134.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296920085,
+                "mentions": 120,
+                "sources": 7,
+                "goldstein": -2.0,
+                "tone": -7.52487429554758,
+                "score": 84.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296906051,
+                "mentions": 60,
+                "sources": 3,
+                "goldstein": -9.0,
+                "tone": -11.6735023614218,
+                "score": 81.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296915703,
+                "mentions": 30,
+                "sources": 3,
+                "goldstein": -9.0,
+                "tone": -6.44152595372106,
+                "score": 66.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296920293,
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 3.0,
+                "tone": -7.48708153450474,
+                "score": 64.0,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 3
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 399.0,
+        "trends": [
+            {
+                "record_id": 1296974970,
+                "mentions": 90,
+                "sources": 8,
+                "goldstein": -10.0,
+                "tone": -2.39752862922371,
+                "score": 111.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296961735,
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -10.0,
+                "tone": -8.55527806435963,
+                "score": 92.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296986295,
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": -4.4,
+                "tone": -0.586886383893033,
+                "score": 78.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296961744,
+                "mentions": 70,
+                "sources": 6,
+                "goldstein": 3.5,
+                "tone": -2.68714631130739,
+                "score": 64.5,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296961479,
+                "mentions": 30,
+                "sources": 3,
+                "goldstein": -6.5,
+                "tone": -1.73611111111111,
+                "score": 53.5,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 4
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 380.0,
+        "trends": [
+            {
+                "record_id": 1296914705,
+                "mentions": 64,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": 0.694875516597321,
+                "score": 84.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1297008494,
+                "mentions": 56,
+                "sources": 7,
+                "goldstein": 7.0,
+                "tone": -0.31152647975078,
+                "score": 77.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1297008021,
+                "mentions": 56,
+                "sources": 7,
+                "goldstein": 7.0,
+                "tone": -0.31152647975078,
+                "score": 77.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1297009548,
+                "mentions": 48,
+                "sources": 6,
+                "goldstein": 7.0,
+                "tone": -0.1527883880825,
+                "score": 71.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1297010948,
+                "mentions": 48,
+                "sources": 6,
+                "goldstein": 7.0,
+                "tone": -0.1527883880825,
+                "score": 71.0,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 5
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 367.0,
+        "trends": [
+            {
+                "record_id": 1296986259,
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -11.4114114114114,
+                "score": 92.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296965640,
+                "mentions": 120,
+                "sources": 1,
+                "goldstein": 5.0,
+                "tone": -3.0193236714976,
+                "score": 87.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296894907,
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -9.0,
+                "tone": -7.98722044728435,
+                "score": 67.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296958140,
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": 1.52963671128108,
+                "score": 67.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296958136,
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": 7.4,
+                "tone": 1.52963671128108,
+                "score": 54.0,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 6
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 349.0,
+        "trends": [
+            {
+                "record_id": 1296974712,
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 3.5,
+                "tone": -1.82103108494491,
+                "score": 80.5,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296974710,
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 3.0,
+                "tone": -1.82103108494491,
+                "score": 78.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296911998,
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -9.0,
+                "tone": -5.71679859278804,
+                "score": 67.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296911997,
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -9.0,
+                "tone": -5.71679859278804,
+                "score": 67.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296974493,
+                "mentions": 27,
+                "sources": 9,
+                "goldstein": -5.0,
+                "tone": -1.82103108494491,
+                "score": 56.5,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 7
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 338.0,
+        "trends": [
+            {
+                "record_id": 1296947992,
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -13.4210526315789,
+                "score": 72.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296965845,
+                "mentions": 30,
+                "sources": 3,
+                "goldstein": -10.0,
+                "tone": -2.88523575209619,
+                "score": 71.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296912063,
+                "mentions": 30,
+                "sources": 2,
+                "goldstein": -10.0,
+                "tone": -5.86160130134071,
+                "score": 69.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296997770,
+                "mentions": 32,
+                "sources": 1,
+                "goldstein": 10.0,
+                "tone": -7.41831864364201,
+                "score": 68.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1297006848,
+                "mentions": 30,
+                "sources": 3,
+                "goldstein": 7.4,
+                "tone": -1.57894736842105,
+                "score": 58.0,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 8
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 325.5,
+        "trends": [
+            {
+                "record_id": 1296912194,
+                "mentions": 113,
+                "sources": 1,
+                "goldstein": 10.0,
+                "tone": 2.84122562674094,
+                "score": 108.5,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1297011138,
+                "mentions": 30,
+                "sources": 3,
+                "goldstein": 9.0,
+                "tone": 0.46996576408341,
+                "score": 66.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296926322,
+                "mentions": 36,
+                "sources": 2,
+                "goldstein": -6.5,
+                "tone": -1.46341463414634,
+                "score": 54.5,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1297000784,
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": -7.5,
+                "tone": 0.99009900990099,
+                "score": 54.5,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296941033,
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -5.90405904059041,
+                "score": 42.0,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 9
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 307.5,
+        "trends": [
+            {
+                "record_id": 1296938079,
+                "mentions": 92,
+                "sources": 3,
+                "goldstein": -4.0,
+                "tone": -1.52596283143123,
+                "score": 72.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296943898,
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": -9.5,
+                "tone": -6.84410646387832,
+                "score": 64.5,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296986234,
+                "mentions": 40,
+                "sources": 3,
+                "goldstein": 7.0,
+                "tone": -0.832624971877048,
+                "score": 61.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296970186,
+                "mentions": 30,
+                "sources": 3,
+                "goldstein": 7.4,
+                "tone": 3.14434948135713,
+                "score": 58.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296953454,
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -1.03092783505154,
+                "score": 52.0,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 10
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 271.0,
+        "trends": [
+            {
+                "record_id": 1296880726,
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -5.0,
+                "tone": -3.92364793213149,
+                "score": 74.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296882232,
+                "mentions": 56,
+                "sources": 7,
+                "goldstein": 2.8,
+                "tone": -3.92364793213149,
+                "score": 56.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296918977,
+                "mentions": 36,
+                "sources": 9,
+                "goldstein": 3.5,
+                "tone": -4.26666666666667,
+                "score": 53.5,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296880760,
+                "mentions": 56,
+                "sources": 7,
+                "goldstein": 1.9,
+                "tone": -3.92364793213149,
+                "score": 51.5,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296919365,
+                "mentions": 36,
+                "sources": 9,
+                "goldstein": 0.0,
+                "tone": -4.26666666666667,
+                "score": 36.0,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 11
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 269.0,
+        "trends": [
+            {
+                "record_id": 1296909306,
+                "mentions": 72,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": -1.00334448160535,
+                "score": 55.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296915362,
+                "mentions": 36,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -4.48717948717949,
+                "score": 55.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296914967,
+                "mentions": 36,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -4.48717948717949,
+                "score": 55.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296906725,
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -0.722832722832723,
+                "score": 52.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296906942,
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -0.722832722832723,
+                "score": 52.0,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 12
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 179.0,
+        "trends": [
+            {
+                "record_id": 1296924054,
+                "mentions": 72,
+                "sources": 12,
+                "goldstein": 3.4,
+                "tone": 2.99145299145299,
+                "score": 77.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296923734,
+                "mentions": 48,
+                "sources": 12,
+                "goldstein": 3.4,
+                "tone": 2.99145299145299,
+                "score": 65.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296898265,
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": 4.0,
+                "tone": -3.5273368606702,
+                "score": 37.0,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 13
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 167.5,
+        "trends": [
+            {
+                "record_id": 1296961682,
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -9.2,
+                "tone": -5.84415584415584,
+                "score": 68.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1297008074,
+                "mentions": 30,
+                "sources": 3,
+                "goldstein": 3.4,
+                "tone": -1.53693604362915,
+                "score": 38.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296936910,
+                "mentions": 30,
+                "sources": 2,
+                "goldstein": 2.8,
+                "tone": -12.1757705218188,
+                "score": 33.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296937219,
+                "mentions": 30,
+                "sources": 2,
+                "goldstein": 1.9,
+                "tone": -12.1757705218188,
+                "score": 28.5,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 14
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 163.5,
+        "trends": [
+            {
+                "record_id": 1296901063,
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -0.27210884353742,
+                "score": 52.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296881831,
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 2.8,
+                "tone": 0.58823529411765,
+                "score": 42.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296880721,
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 1.9,
+                "tone": 0.58823529411765,
+                "score": 37.5,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296898405,
+                "mentions": 28,
+                "sources": 2,
+                "goldstein": 2.8,
+                "tone": -1.88474597585513,
+                "score": 32.0,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 15
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 146.5,
+        "trends": [
+            {
+                "record_id": 1296918945,
+                "mentions": 36,
+                "sources": 9,
+                "goldstein": 2.8,
+                "tone": -4.26666666666667,
+                "score": 50.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296918493,
+                "mentions": 36,
+                "sources": 9,
+                "goldstein": 1.9,
+                "tone": -4.26666666666667,
+                "score": 45.5,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296896621,
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": 2.75482093663912,
+                "score": 17.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296902959,
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": 4.67836257309941,
+                "score": 17.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1297014583,
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": 1.1204481792717,
+                "score": 17.0,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 16
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 121.0,
+        "trends": [
+            {
+                "record_id": 1296898238,
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -7.23514211886305,
+                "score": 87.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296889305,
+                "mentions": 30,
+                "sources": 2,
+                "goldstein": 3.0,
+                "tone": -3.02666413156721,
+                "score": 34.0,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 17
+    },
+    "South Africa": {
+        "gdp_rank": 19,
+        "spike_score": 120.0,
+        "trends": [
+            {
+                "record_id": 1296890260,
+                "mentions": 52,
+                "sources": 1,
+                "goldstein": 6.4,
+                "tone": -1.56145691708493,
+                "score": 60.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296890263,
+                "mentions": 52,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -1.56145691708493,
+                "score": 38.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296999579,
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": -10.9965635738832,
+                "score": 22.0,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 18
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 80.0,
+        "trends": [
+            {
+                "record_id": 1296896503,
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": 5.2,
+                "tone": 2.45298446443173,
+                "score": 43.0,
+                "keyword": "주요 글로벌 이슈"
+            },
+            {
+                "record_id": 1296898425,
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": 4.0,
+                "tone": 5.79710144927537,
+                "score": 37.0,
+                "keyword": "주요 글로벌 이슈"
+            }
+        ],
+        "last_updated": "2026-03-31 16:56:09",
+        "current_rank": 19
+    }
+}
