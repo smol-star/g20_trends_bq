@@ -5,6 +5,7 @@
         "trends": [
             {
                 "record_id": 1296996710,
+                "url": "https://www.yahoo.com/news/articles/grove-city-police-report-details-125817177.html",
                 "mentions": 244,
                 "sources": 1,
                 "goldstein": -6.5,
@@ -16,6 +17,7 @@
             },
             {
                 "record_id": 1296996703,
+                "url": "https://www.yahoo.com/news/articles/grove-city-police-report-details-125817177.html",
                 "mentions": 242,
                 "sources": 1,
                 "goldstein": -6.5,
@@ -27,6 +29,7 @@
             },
             {
                 "record_id": 1296996713,
+                "url": "https://www.yahoo.com/news/articles/grove-city-police-report-details-125817177.html",
                 "mentions": 224,
                 "sources": 1,
                 "goldstein": -6.5,
@@ -38,6 +41,7 @@
             },
             {
                 "record_id": 1296996706,
+                "url": "https://www.yahoo.com/news/articles/grove-city-police-report-details-125817177.html",
                 "mentions": 146,
                 "sources": 1,
                 "goldstein": -6.5,
@@ -49,6 +53,7 @@
             },
             {
                 "record_id": 1296905725,
+                "url": "https://laopcion.com.mx/juarez/arrestan-a-conductor-con-mas-de-2-kilos-de-marihuana-en-senderos-de-san-isidro-20260330-514604.html",
                 "mentions": 160,
                 "sources": 1,
                 "goldstein": 2.8,
@@ -59,7 +64,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:39:40",
+        "last_updated": "2026-04-01 02:51:39 KST",
         "current_rank": 1
     },
     "United Kingdom": {
@@ -68,6 +73,7 @@
         "trends": [
             {
                 "record_id": 1296966639,
+                "url": "https://www.impartialreporter.com/news/national/25983699.poundstretcher-vows-not-cut-stores-jobs-launches-restructure/",
                 "mentions": 170,
                 "sources": 17,
                 "goldstein": 5.2,
@@ -79,6 +85,7 @@
             },
             {
                 "record_id": 1296890356,
+                "url": "https://www.wiltsglosstandard.co.uk/news/national/25982067.snp-plan-nhs-working-says-swinney/",
                 "mentions": 110,
                 "sources": 11,
                 "goldstein": -10.0,
@@ -90,6 +97,7 @@
             },
             {
                 "record_id": 1296982428,
+                "url": "https://www.northwalespioneer.co.uk/news/national/25984084.man-owned-xl-bully-dog-fatally-mauled-woman-jailed-10-years/",
                 "mentions": 78,
                 "sources": 13,
                 "goldstein": -10.0,
@@ -101,6 +109,7 @@
             },
             {
                 "record_id": 1296982441,
+                "url": "https://www.northwalespioneer.co.uk/news/national/25984084.man-owned-xl-bully-dog-fatally-mauled-woman-jailed-10-years/",
                 "mentions": 52,
                 "sources": 13,
                 "goldstein": -10.0,
@@ -112,6 +121,7 @@
             },
             {
                 "record_id": 1296881014,
+                "url": "https://www.chardandilminsternews.co.uk/news/national/25982062.findlay-promises-permanent-tax-cuts-business-scottish-canary-wharf/",
                 "mentions": 120,
                 "sources": 12,
                 "goldstein": 3.4,
@@ -122,7 +132,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:39:40",
+        "last_updated": "2026-04-01 02:51:39 KST",
         "current_rank": 2
     },
     "Australia": {
@@ -131,6 +141,7 @@
         "trends": [
             {
                 "record_id": 1296920088,
+                "url": "https://www.wellingtontimes.com.au/story/9211482/teen-accused-allegedly-had-sword-day-after-boys-deaths/",
                 "mentions": 140,
                 "sources": 7,
                 "goldstein": -10.0,
@@ -142,6 +153,7 @@
             },
             {
                 "record_id": 1296920085,
+                "url": "https://www.wellingtontimes.com.au/story/9211482/teen-accused-allegedly-had-sword-day-after-boys-deaths/",
                 "mentions": 120,
                 "sources": 7,
                 "goldstein": -2.0,
@@ -153,6 +165,7 @@
             },
             {
                 "record_id": 1296906051,
+                "url": "https://www.portnews.com.au/story/9211110/rape-charge-dropped-but-accused-murderer-to-stand-trial/",
                 "mentions": 60,
                 "sources": 3,
                 "goldstein": -9.0,
@@ -164,6 +177,7 @@
             },
             {
                 "record_id": 1296915703,
+                "url": "https://www.centralwesterndaily.com.au/story/9211410/good-character-evidence-ban-could-create-bad-sentencing/",
                 "mentions": 30,
                 "sources": 3,
                 "goldstein": -9.0,
@@ -175,6 +189,7 @@
             },
             {
                 "record_id": 1296920293,
+                "url": "https://www.wellingtontimes.com.au/story/9211482/teen-accused-allegedly-had-sword-day-after-boys-deaths/",
                 "mentions": 70,
                 "sources": 7,
                 "goldstein": 3.0,
@@ -185,7 +200,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:39:40",
+        "last_updated": "2026-04-01 02:51:39 KST",
         "current_rank": 3
     },
     "Germany": {
@@ -194,6 +209,7 @@
         "trends": [
             {
                 "record_id": 1296974970,
+                "url": "https://www.zeit.de/news/2026-03/31/ein-wolf-in-hamburg-warum-das-tier-uns-naeher-kommt",
                 "mentions": 90,
                 "sources": 8,
                 "goldstein": -10.0,
@@ -205,6 +221,7 @@
             },
             {
                 "record_id": 1296961735,
+                "url": "http://www.come-on.de/politik/feindbild-der-rechten-report-beklagt-systematischen-druck-zr-94243646.html",
                 "mentions": 60,
                 "sources": 6,
                 "goldstein": -10.0,
@@ -216,6 +233,7 @@
             },
             {
                 "record_id": 1296986295,
+                "url": "https://www.weser-kurier.de/politik/inland/wie-leben-syrer-in-deutschland-die-wichtigsten-fragen-doc857r56hvsrry1bn2ohc",
                 "mentions": 80,
                 "sources": 8,
                 "goldstein": -4.4,
@@ -227,6 +245,7 @@
             },
             {
                 "record_id": 1296961744,
+                "url": "http://www.fnp.de/wirtschaft/65-milliarden-auftraege-rheinmetalls-comeback-story-zr-94243627.html",
                 "mentions": 70,
                 "sources": 6,
                 "goldstein": 3.5,
@@ -238,6 +257,7 @@
             },
             {
                 "record_id": 1296961479,
+                "url": "https://www.vosgesmatin.fr/faits-divers-justice/2026/03/31/une-attaque-de-loup-en-pleine-ville-une-femme-mordue-au-visage",
                 "mentions": 30,
                 "sources": 3,
                 "goldstein": -6.5,
@@ -248,7 +268,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:39:40",
+        "last_updated": "2026-04-01 02:51:39 KST",
         "current_rank": 4
     },
     "Canada": {
@@ -257,6 +277,7 @@
         "trends": [
             {
                 "record_id": 1296914705,
+                "url": "https://calgarysun.com/news/economy/canada-hits-defence-spending-target-wont-help-economy/wcm/caceb2a5-e37f-41ca-850b-83fbf802fe60",
                 "mentions": 64,
                 "sources": 1,
                 "goldstein": -10.0,
@@ -267,7 +288,8 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             },
             {
-                "record_id": 1297008494,
+                "record_id": 1297008021,
+                "url": "https://www.kiiitv.com/article/news/nation-world/how-much-do-astronauts-get-paid/507-8426afcd-7e70-4fba-9cb0-b84419023539",
                 "mentions": 56,
                 "sources": 7,
                 "goldstein": 7.0,
@@ -278,7 +300,8 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             },
             {
-                "record_id": 1297008021,
+                "record_id": 1297008494,
+                "url": "https://www.kiiitv.com/article/news/nation-world/how-much-do-astronauts-get-paid/507-8426afcd-7e70-4fba-9cb0-b84419023539",
                 "mentions": 56,
                 "sources": 7,
                 "goldstein": 7.0,
@@ -290,6 +313,7 @@
             },
             {
                 "record_id": 1297009548,
+                "url": "https://www.wfmynews2.com/article/news/nation-world/how-much-do-astronauts-get-paid/507-8426afcd-7e70-4fba-9cb0-b84419023539",
                 "mentions": 48,
                 "sources": 6,
                 "goldstein": 7.0,
@@ -301,6 +325,7 @@
             },
             {
                 "record_id": 1297010948,
+                "url": "https://www.wfmynews2.com/article/news/nation-world/how-much-do-astronauts-get-paid/507-8426afcd-7e70-4fba-9cb0-b84419023539",
                 "mentions": 48,
                 "sources": 6,
                 "goldstein": 7.0,
@@ -311,7 +336,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:39:40",
+        "last_updated": "2026-04-01 02:51:39 KST",
         "current_rank": 5
     },
     "Brazil": {
@@ -320,6 +345,7 @@
         "trends": [
             {
                 "record_id": 1296986259,
+                "url": "https://www.correio24horas.com.br/brasil/juizes-sofrem-ataques-racistas-durante-transmissao-online-ofensas-criminosas-0326",
                 "mentions": 80,
                 "sources": 1,
                 "goldstein": -10.0,
@@ -331,6 +357,7 @@
             },
             {
                 "record_id": 1296965640,
+                "url": "https://rpp.pe/cine/cartelera/cartelera-cine-en-lima-y-peru-hoy-martes-31-de-marzo-noticia-1682313?hash=7f0c811b-174d-3cbd-0ab3-fbb81ae097f1",
                 "mentions": 120,
                 "sources": 1,
                 "goldstein": 5.0,
@@ -342,6 +369,7 @@
             },
             {
                 "record_id": 1296894907,
+                "url": "https://ultimosegundo.ig.com.br/2026-03-30/trio-de-adolescentes-e-detido-por-estupro-coletivo-em-manaus.html",
                 "mentions": 40,
                 "sources": 1,
                 "goldstein": -9.0,
@@ -353,6 +381,7 @@
             },
             {
                 "record_id": 1296958140,
+                "url": "https://oglobo.globo.com/blogs/saideira/post/2026/03/origem-na-america-uso-em-rituais-religiosos-artigo-de-luxo-energetico-na-guerra-confira-curiosidades-sobre-o-chocolate.ghtml",
                 "mentions": 30,
                 "sources": 1,
                 "goldstein": -10.0,
@@ -364,6 +393,7 @@
             },
             {
                 "record_id": 1296958136,
+                "url": "https://oglobo.globo.com/blogs/saideira/post/2026/03/origem-na-america-uso-em-rituais-religiosos-artigo-de-luxo-energetico-na-guerra-confira-curiosidades-sobre-o-chocolate.ghtml",
                 "mentions": 30,
                 "sources": 1,
                 "goldstein": 7.4,
@@ -374,7 +404,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:39:40",
+        "last_updated": "2026-04-01 02:51:39 KST",
         "current_rank": 6
     },
     "Turkey": {
@@ -383,6 +413,7 @@
         "trends": [
             {
                 "record_id": 1296974712,
+                "url": "https://www.newarkadvertiser.co.uk/national/recall-parliament-to-sort-out-ferries-crisis-demands-scottish-lib-dem-leader-164803/",
                 "mentions": 90,
                 "sources": 9,
                 "goldstein": 3.5,
@@ -394,6 +425,7 @@
             },
             {
                 "record_id": 1296974710,
+                "url": "https://www.newarkadvertiser.co.uk/national/recall-parliament-to-sort-out-ferries-crisis-demands-scottish-lib-dem-leader-164803/",
                 "mentions": 90,
                 "sources": 9,
                 "goldstein": 3.0,
@@ -405,6 +437,7 @@
             },
             {
                 "record_id": 1296911997,
+                "url": "https://www.birgun.net/haber/birgun-muhabiri-ismail-ari-gazetecilik-sucundan-9-gundur-tutuklu-701327%20target=_blank",
                 "mentions": 40,
                 "sources": 1,
                 "goldstein": -9.0,
@@ -416,6 +449,7 @@
             },
             {
                 "record_id": 1296911998,
+                "url": "https://www.birgun.net/haber/birgun-muhabiri-ismail-ari-gazetecilik-sucundan-9-gundur-tutuklu-701327%20target=_blank",
                 "mentions": 40,
                 "sources": 1,
                 "goldstein": -9.0,
@@ -427,6 +461,7 @@
             },
             {
                 "record_id": 1296974532,
+                "url": "https://www.newarkadvertiser.co.uk/national/recall-parliament-to-sort-out-ferries-crisis-demands-scottish-lib-dem-leader-164803/",
                 "mentions": 36,
                 "sources": 9,
                 "goldstein": -2.0,
@@ -437,7 +472,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:39:40",
+        "last_updated": "2026-04-01 02:51:39 KST",
         "current_rank": 7
     },
     "Russia": {
@@ -446,6 +481,7 @@
         "trends": [
             {
                 "record_id": 1296947992,
+                "url": "https://naslovi.net/tema/2480681",
                 "mentions": 40,
                 "sources": 1,
                 "goldstein": -10.0,
@@ -457,6 +493,7 @@
             },
             {
                 "record_id": 1296965845,
+                "url": "https://www.skai.gr/news/world/ee-apo-oukrania-tha-synexisoume-tin-ypostiriksi-i-rosia-prepei-na-logodotisei",
                 "mentions": 30,
                 "sources": 3,
                 "goldstein": -10.0,
@@ -468,6 +505,7 @@
             },
             {
                 "record_id": 1296912063,
+                "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/del-dronu-veiklos-rusijoje-estija-skelbe-oro-pavoju-57-2652582",
                 "mentions": 30,
                 "sources": 2,
                 "goldstein": -10.0,
@@ -479,6 +517,7 @@
             },
             {
                 "record_id": 1296997770,
+                "url": "https://news.yam.md/ro/story/19346724",
                 "mentions": 32,
                 "sources": 1,
                 "goldstein": 10.0,
@@ -490,6 +529,7 @@
             },
             {
                 "record_id": 1297006848,
+                "url": "https://diena.lt/naujienos/pasaulis/ekonomika-ir-politika/volodymyras-zelenskis-vengrijos-veto-del-paskolos-ukrainai-bus-iveiktas-1749501",
                 "mentions": 30,
                 "sources": 3,
                 "goldstein": 7.4,
@@ -500,7 +540,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:39:40",
+        "last_updated": "2026-04-01 02:51:39 KST",
         "current_rank": 8
     },
     "China": {
@@ -509,6 +549,7 @@
         "trends": [
             {
                 "record_id": 1296912194,
+                "url": "https://english.news.cn/20260331/f0063c1ad9f9401ea4e57e2825d5a07f/c.html",
                 "mentions": 113,
                 "sources": 1,
                 "goldstein": 10.0,
@@ -520,6 +561,7 @@
             },
             {
                 "record_id": 1297011138,
+                "url": "https://ikypros.com/?p=695769",
                 "mentions": 30,
                 "sources": 3,
                 "goldstein": 9.0,
@@ -531,6 +573,7 @@
             },
             {
                 "record_id": 1297000784,
+                "url": "https://www.dhakatimes24.com/2026/03/31/403969",
                 "mentions": 30,
                 "sources": 1,
                 "goldstein": -7.5,
@@ -542,6 +585,7 @@
             },
             {
                 "record_id": 1296926322,
+                "url": "http://french.peopledaily.com.cn/Chine/n3/2026/0331/c31354-20441711.html",
                 "mentions": 36,
                 "sources": 2,
                 "goldstein": -6.5,
@@ -553,6 +597,7 @@
             },
             {
                 "record_id": 1296941033,
+                "url": "https://www.saps.gov.za/newsroom/msspeechdetail.php?nid=67779",
                 "mentions": 30,
                 "sources": 1,
                 "goldstein": -5.0,
@@ -563,7 +608,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:39:40",
+        "last_updated": "2026-04-01 02:51:39 KST",
         "current_rank": 9
     },
     "Italy": {
@@ -572,6 +617,7 @@
         "trends": [
             {
                 "record_id": 1296938079,
+                "url": "https://www.ilmessaggero.it:443/italia/sigonella_italia_nega_base_usa_aerei_crosetto-9447461.html",
                 "mentions": 92,
                 "sources": 3,
                 "goldstein": -4.0,
@@ -583,6 +629,7 @@
             },
             {
                 "record_id": 1296943898,
+                "url": "https://www.zazoom.it/2026-03-31/milano-banlieue-coppia-aggredita-e-picchiata-da-maranza-in-piazza-leonardo-da-vinci-usato-anche-manganello-per-il-pestaggio/18917171/",
                 "mentions": 30,
                 "sources": 1,
                 "goldstein": -9.5,
@@ -594,6 +641,7 @@
             },
             {
                 "record_id": 1296986234,
+                "url": "https://www.zazoom.it/2026-03-31/organici-docenti-2026-2027-la-uil-scuola-taglio-di-5-000-posti-inaccettabile-solo-134-in-piu-sul-sostegno-e-posti-di-potenziamento-in-calo-per-tre-anni-consecutivi/18919193/",
                 "mentions": 40,
                 "sources": 3,
                 "goldstein": 7.0,
@@ -605,6 +653,7 @@
             },
             {
                 "record_id": 1296970186,
+                "url": "https://www.adnkronos.com/economia/a-torino-cdp-incontra-studenti-per-spiegare-le-scelte-finanziarie-degli-italiani_4dYKXMsKXxC7yaSxM2vd1x",
                 "mentions": 30,
                 "sources": 3,
                 "goldstein": 7.4,
@@ -616,6 +665,7 @@
             },
             {
                 "record_id": 1296953454,
+                "url": "https://www.index.hr/vijesti/clanak/italija-zabranila-americkim-bombarderima-da-slete-u-bazu-na-siciliji/2777033.aspx",
                 "mentions": 30,
                 "sources": 1,
                 "goldstein": 7.0,
@@ -626,7 +676,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:39:40",
+        "last_updated": "2026-04-01 02:51:39 KST",
         "current_rank": 10
     },
     "Saudi Arabia": {
@@ -635,6 +685,7 @@
         "trends": [
             {
                 "record_id": 1296880726,
+                "url": "https://www.wxpr.org/2026-03-30/yemeni-politician-says-former-u-s-soldiers-tried-to-kill-him-now-hes-suing-in-u-s-court",
                 "mentions": 70,
                 "sources": 7,
                 "goldstein": -5.0,
@@ -646,6 +697,7 @@
             },
             {
                 "record_id": 1296882232,
+                "url": "https://www.wxpr.org/2026-03-30/yemeni-politician-says-former-u-s-soldiers-tried-to-kill-him-now-hes-suing-in-u-s-court",
                 "mentions": 56,
                 "sources": 7,
                 "goldstein": 2.8,
@@ -657,6 +709,7 @@
             },
             {
                 "record_id": 1296918977,
+                "url": "https://www.whtimes.co.uk/news/national/25982115.trump-says-us-negotiating-irans-parliamentary-speaker-denies-talks/",
                 "mentions": 36,
                 "sources": 9,
                 "goldstein": 3.5,
@@ -668,6 +721,7 @@
             },
             {
                 "record_id": 1296880760,
+                "url": "https://www.wxpr.org/2026-03-30/yemeni-politician-says-former-u-s-soldiers-tried-to-kill-him-now-hes-suing-in-u-s-court",
                 "mentions": 56,
                 "sources": 7,
                 "goldstein": 1.9,
@@ -679,6 +733,7 @@
             },
             {
                 "record_id": 1296919365,
+                "url": "https://www.whtimes.co.uk/news/national/25982115.trump-says-us-negotiating-irans-parliamentary-speaker-denies-talks/",
                 "mentions": 36,
                 "sources": 9,
                 "goldstein": 0.0,
@@ -689,7 +744,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:39:40",
+        "last_updated": "2026-04-01 02:51:39 KST",
         "current_rank": 11
     },
     "South Korea": {
@@ -698,6 +753,7 @@
         "trends": [
             {
                 "record_id": 1296909306,
+                "url": "https://www.ohmynews.com/NWS_Web/OhmyPhoto/annual/2026_at_pg.aspx?CNTN_CD=A0003219938",
                 "mentions": 72,
                 "sources": 1,
                 "goldstein": 3.4,
@@ -709,6 +765,7 @@
             },
             {
                 "record_id": 1296915362,
+                "url": "https://www.edaily.co.kr/News/Read?newsId=04077046645388896&mediaCodeNo=257",
                 "mentions": 36,
                 "sources": 1,
                 "goldstein": 7.0,
@@ -720,6 +777,7 @@
             },
             {
                 "record_id": 1296914967,
+                "url": "https://www.edaily.co.kr/News/Read?newsId=04077046645388896&mediaCodeNo=257",
                 "mentions": 36,
                 "sources": 1,
                 "goldstein": 7.0,
@@ -731,6 +789,7 @@
             },
             {
                 "record_id": 1296906942,
+                "url": "https://www.ddaily.co.kr:443/page/view/2026033111145614201",
                 "mentions": 30,
                 "sources": 1,
                 "goldstein": 7.0,
@@ -742,6 +801,7 @@
             },
             {
                 "record_id": 1296906725,
+                "url": "https://www.ddaily.co.kr:443/page/view/2026033111145614201",
                 "mentions": 30,
                 "sources": 1,
                 "goldstein": 7.0,
@@ -752,7 +812,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:39:40",
+        "last_updated": "2026-04-01 02:51:39 KST",
         "current_rank": 12
     },
     "France": {
@@ -761,6 +821,7 @@
         "trends": [
             {
                 "record_id": 1296924054,
+                "url": "https://www.yorkpress.co.uk/news/national/25982126.second-world-war-veteran-got-thousands-cards-birthday-dies-aged-100/",
                 "mentions": 72,
                 "sources": 12,
                 "goldstein": 3.4,
@@ -772,6 +833,7 @@
             },
             {
                 "record_id": 1296923734,
+                "url": "https://www.yorkpress.co.uk/news/national/25982126.second-world-war-veteran-got-thousands-cards-birthday-dies-aged-100/",
                 "mentions": 48,
                 "sources": 12,
                 "goldstein": 3.4,
@@ -783,6 +845,7 @@
             },
             {
                 "record_id": 1296898265,
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/03/30/franca-pede-reuniao-de-emergencia-do-conselho-de-seguranca-da-onu-apos-integrantes-da-forca-de-paz-morrerem-no-libano.ghtml",
                 "mentions": 30,
                 "sources": 1,
                 "goldstein": 4.0,
@@ -793,7 +856,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:39:40",
+        "last_updated": "2026-04-01 02:51:39 KST",
         "current_rank": 13
     },
     "India": {
@@ -802,6 +865,7 @@
         "trends": [
             {
                 "record_id": 1296961682,
+                "url": "https://lb.ua/society/2026/03/31/730065_sumschini_dobu_vorog_poraniv_16.html",
                 "mentions": 40,
                 "sources": 1,
                 "goldstein": -9.2,
@@ -813,6 +877,7 @@
             },
             {
                 "record_id": 1297008074,
+                "url": "http://www.arabherald.com/news/278955762/why-india-is-doubling-down-on-russian-air-defense-systems",
                 "mentions": 30,
                 "sources": 3,
                 "goldstein": 3.4,
@@ -824,6 +889,7 @@
             },
             {
                 "record_id": 1296936910,
+                "url": "https://english.news.cn/20260331/d8a6d8c9da44441fbb4b0164cca8e957/c.html",
                 "mentions": 30,
                 "sources": 2,
                 "goldstein": 2.8,
@@ -835,6 +901,7 @@
             },
             {
                 "record_id": 1296937219,
+                "url": "https://english.news.cn/20260331/d8a6d8c9da44441fbb4b0164cca8e957/c.html",
                 "mentions": 30,
                 "sources": 2,
                 "goldstein": 1.9,
@@ -845,60 +912,8 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:39:40",
+        "last_updated": "2026-04-01 02:51:39 KST",
         "current_rank": 14
-    },
-    "Japan": {
-        "gdp_rank": 4,
-        "spike_score": 163.5,
-        "trends": [
-            {
-                "record_id": 1296901063,
-                "mentions": 30,
-                "sources": 1,
-                "goldstein": 7.0,
-                "tone": -0.27210884353742,
-                "score": 52.0,
-                "keyword": "주요 글로벌 이슈 식별불가",
-                "hook": "현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.",
-                "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
-            },
-            {
-                "record_id": 1296881831,
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": 2.8,
-                "tone": 0.58823529411765,
-                "score": 42.0,
-                "keyword": "주요 글로벌 이슈 식별불가",
-                "hook": "현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.",
-                "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
-            },
-            {
-                "record_id": 1296880721,
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": 1.9,
-                "tone": 0.58823529411765,
-                "score": 37.5,
-                "keyword": "주요 글로벌 이슈 식별불가",
-                "hook": "현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.",
-                "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
-            },
-            {
-                "record_id": 1296898405,
-                "mentions": 28,
-                "sources": 2,
-                "goldstein": 2.8,
-                "tone": -1.88474597585513,
-                "score": 32.0,
-                "keyword": "주요 글로벌 이슈 식별불가",
-                "hook": "현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.",
-                "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
-            }
-        ],
-        "last_updated": "2026-03-31 17:39:40",
-        "current_rank": 15
     },
     "Indonesia": {
         "gdp_rank": 15,
@@ -906,6 +921,7 @@
         "trends": [
             {
                 "record_id": 1296918945,
+                "url": "https://www.whtimes.co.uk/news/national/25982115.trump-says-us-negotiating-irans-parliamentary-speaker-denies-talks/",
                 "mentions": 36,
                 "sources": 9,
                 "goldstein": 2.8,
@@ -917,6 +933,7 @@
             },
             {
                 "record_id": 1296918493,
+                "url": "https://www.whtimes.co.uk/news/national/25982115.trump-says-us-negotiating-irans-parliamentary-speaker-denies-talks/",
                 "mentions": 36,
                 "sources": 9,
                 "goldstein": 1.9,
@@ -928,6 +945,7 @@
             },
             {
                 "record_id": 1296902959,
+                "url": "https://www.viva.co.id/berita/nasional/1888839-mendagri-tito-apresiasi-bsps-jadi-program-mulia-bantu-masyarakat-kurang-mampu",
                 "mentions": 30,
                 "sources": 1,
                 "goldstein": 0.0,
@@ -939,6 +957,7 @@
             },
             {
                 "record_id": 1297014583,
+                "url": "https://www.merdeka.com/uang/kemenperin-catat-iki-maret-2026-tetap-ekspansif-ini-penyebab-perlambatannya-556711-mvk.html",
                 "mentions": 30,
                 "sources": 1,
                 "goldstein": 0.0,
@@ -950,6 +969,7 @@
             },
             {
                 "record_id": 1296896621,
+                "url": "https://www.merdeka.com/uang/prabowo-ke-investor-jepang-indonesia-tak-pernah-gagal-bayar-utang-556415-mvk.html",
                 "mentions": 30,
                 "sources": 1,
                 "goldstein": 0.0,
@@ -960,7 +980,51 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:39:40",
+        "last_updated": "2026-04-01 02:51:39 KST",
+        "current_rank": 15
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 131.5,
+        "trends": [
+            {
+                "record_id": 1296901063,
+                "url": "https://gamerant.com/jojos-bizarre-adventure-part-7-netflix-new-steel-ball-run-delay-update/",
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -0.27210884353742,
+                "score": 52.0,
+                "keyword": "주요 글로벌 이슈 식별불가",
+                "hook": "현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.",
+                "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
+            },
+            {
+                "record_id": 1296881831,
+                "url": "https://wgxa.tv/news/entertainment/nancy-cartwright-did-was-asked-to-do-her-bart-simpson-voice-in-a-ridiculous-place",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 2.8,
+                "tone": 0.58823529411765,
+                "score": 42.0,
+                "keyword": "주요 글로벌 이슈 식별불가",
+                "hook": "현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.",
+                "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
+            },
+            {
+                "record_id": 1296880721,
+                "url": "https://wgxa.tv/news/entertainment/nancy-cartwright-did-was-asked-to-do-her-bart-simpson-voice-in-a-ridiculous-place",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 1.9,
+                "tone": 0.58823529411765,
+                "score": 37.5,
+                "keyword": "주요 글로벌 이슈 식별불가",
+                "hook": "현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.",
+                "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
+            }
+        ],
+        "last_updated": "2026-04-01 02:51:39 KST",
         "current_rank": 16
     },
     "Argentina": {
@@ -969,6 +1033,7 @@
         "trends": [
             {
                 "record_id": 1296898238,
+                "url": "https://time.mk/c/fd48d96dbf/argentina-ucenik-otvori-ogan-vo-uciliste-ubieno-edno-a-povredeni-nekolu-lica.html",
                 "mentions": 70,
                 "sources": 1,
                 "goldstein": -10.0,
@@ -980,6 +1045,7 @@
             },
             {
                 "record_id": 1296889305,
+                "url": "https://www.diariopopular.com.ar/politica/reforma-laboral-el-gobierno-apelara-el-fallo-contra-la-nueva-ley-n893162",
                 "mentions": 30,
                 "sources": 2,
                 "goldstein": 3.0,
@@ -990,7 +1056,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:39:40",
+        "last_updated": "2026-04-01 02:51:39 KST",
         "current_rank": 17
     },
     "South Africa": {
@@ -999,6 +1065,7 @@
         "trends": [
             {
                 "record_id": 1296890260,
+                "url": "https://island.lk/cdl-under-new-management-completes-major-norwegian-ship-order/",
                 "mentions": 52,
                 "sources": 1,
                 "goldstein": 6.4,
@@ -1010,6 +1077,7 @@
             },
             {
                 "record_id": 1296890263,
+                "url": "https://island.lk/cdl-under-new-management-completes-major-norwegian-ship-order/",
                 "mentions": 52,
                 "sources": 1,
                 "goldstein": -2.0,
@@ -1021,6 +1089,7 @@
             },
             {
                 "record_id": 1296999579,
+                "url": "https://www.saps.gov.za/newsroom/msspeechdetail.php?nid=67791",
                 "mentions": 30,
                 "sources": 1,
                 "goldstein": 1.0,
@@ -1031,7 +1100,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:39:40",
+        "last_updated": "2026-04-01 02:51:39 KST",
         "current_rank": 18
     },
     "Mexico": {
@@ -1040,6 +1109,7 @@
         "trends": [
             {
                 "record_id": 1296896503,
+                "url": "https://almomento.mx/65-de-los-trabajadores-en-mexico-consideran-la-reduccion-de-horas-como-un-factor-decisivo-para-su-bienestar/",
                 "mentions": 30,
                 "sources": 1,
                 "goldstein": 5.2,
@@ -1051,6 +1121,7 @@
             },
             {
                 "record_id": 1296898425,
+                "url": "https://www.termometroenlinea.com.mx/vernoticiasN.php?artid=129474&cat=1",
                 "mentions": 30,
                 "sources": 1,
                 "goldstein": 4.0,
@@ -1061,7 +1132,7 @@
                 "script": "이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다."
             }
         ],
-        "last_updated": "2026-03-31 17:39:40",
+        "last_updated": "2026-04-01 02:51:39 KST",
         "current_rank": 19
     }
 }
