@@ -17,7 +17,6 @@ def summarize_themes_batch(themes_dict):
     themes_dict: { id: "TAX_..., ENV_...", ... }
     """
     init_gemini()
-    model = genai.GenerativeModel('gemini-1.5-flash')
 
     prompt = """다음은 GDELT 글로벌 이슈들의 뉴스 URL과 파급력/톤(분위기) 분석 수치 모음입니다.
 이 이벤트들의 목록을 보고, 각 이벤트별로 다음의 3가지를 반드시 포함하는 명확한 JSON 형태의 배열(Array)로 답변해주세요.
@@ -51,9 +50,17 @@ def summarize_themes_batch(themes_dict):
         
     try:
         try:
+            model = genai.GenerativeModel('gemini-3-flash')
             response = model.generate_content(prompt)
-            result = response.text.strip()
+        except Exception as e_3:
+            print(f"gemini-3-flash 오류 또는 한도 초과: {e_3}")
+            print("Fallback: gemini-2.5-flash 모델로 시도합니다.")
+            model = genai.GenerativeModel('gemini-2.5-flash')
+            response = model.generate_content(prompt)
             
+        result = response.text.strip()
+        
+        try:
             # JSON 배열 텍스트만 찾아서 강력하게 추출 (정규식/문자열 슬라이싱 방식)
             start_idx = result.find('[')
             end_idx = result.rfind(']')
