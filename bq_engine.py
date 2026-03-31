@@ -31,7 +31,7 @@ def get_g20_trends_query():
             NumSources,
             GoldsteinScale
         FROM `gdelt-bq.gdeltv2.events`
-        WHERE _PARTITIONTIME >= TIMESTAMP_SUB(CURRENT_TIMESTAMP(), INTERVAL 24 HOUR)
+        WHERE SQLDATE >= CAST(FORMAT_DATE('%Y%m%d', DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY)) AS INT64)
             AND ActionGeo_CountryCode IN ('US', 'CH', 'GM', 'JA', 'IN', 'UK', 'FR', 'IT', 'BR', 'CA', 'RS', 'MX', 'AS', 'KS', 'ID', 'TU', 'SA', 'AR', 'SF')
     ),
     RecentGKG AS (
@@ -40,7 +40,7 @@ def get_g20_trends_query():
             V2Themes,
             V2Tone
         FROM `gdelt-bq.gdeltv2.gkg_partitioned`
-        WHERE _PARTITIONTIME >= TIMESTAMP_SUB(CURRENT_TIMESTAMP(), INTERVAL 24 HOUR)
+        WHERE _PARTITIONDATE >= DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY)
     )
     SELECT
         g.GKGRECORDID,
