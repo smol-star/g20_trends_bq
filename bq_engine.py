@@ -23,40 +23,19 @@ def get_g20_trends_query():
     # 이벤트 테이블에서 국가 필터링 및 지표 확보 후, GKG 뷰와 조인 (혹은 독립적 수행)
     # 비용 절감을 위해 24시간 파티션 필터 엄격 적용
     return """
-    WITH RecentEvents AS (
-        SELECT 
-            GLOBALEVENTID,
-            ActionGeo_CountryCode,
-            NumMentions,
-            NumSources,
-            GoldsteinScale
-        FROM `gdelt-bq.gdeltv2.events`
-        WHERE SQLDATE >= CAST(FORMAT_DATE('%Y%m%d', DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY)) AS INT64)
-            AND ActionGeo_CountryCode IN ('US', 'CH', 'GM', 'JA', 'IN', 'UK', 'FR', 'IT', 'BR', 'CA', 'RS', 'MX', 'AS', 'KS', 'ID', 'TU', 'SA', 'AR', 'SF')
-    ),
-    RecentGKG AS (
-        SELECT
-            GKGRECORDID,
-            V2Themes,
-            V2Tone
-        FROM `gdelt-bq.gdeltv2.gkg_partitioned`
-        WHERE _PARTITIONDATE >= DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY)
-    )
-    SELECT
-        g.GKGRECORDID,
-        g.V2Themes,
-        g.V2Tone,
-        e.ActionGeo_CountryCode,
-        e.NumMentions,
-        e.NumSources,
-        e.GoldsteinScale
-    FROM RecentEvents e
-    -- GDELT 2.0에서 일부 GKGRECORDID는 이벤트 ID와 뒤에 일련번호가 붙는 형식을 취하므로 이를 매칭
-    JOIN RecentGKG g ON SPLIT(g.GKGRECORDID, '-')[SAFE_OFFSET(0)] = CAST(e.GLOBALEVENTID AS STRING)
-    WHERE g.V2Themes IS NOT NULL
-    -- 상위 영향력 이벤트를 위해 미리 정렬 및 limit으로 비용/데이터 크기 방어
-    ORDER BY e.NumMentions DESC, e.NumSources DESC, e.GoldsteinScale DESC
-    LIMIT 200
+    SELECT 
+        GLOBALEVENTID,
+        ActionGeo_CountryCode,
+        NumMentions,
+        NumSources,
+        GoldsteinScale,
+        AvgTone,
+        SOURCEURL
+    FROM `gdelt-bq.gdeltv2.events`
+    WHERE SQLDATE >= CAST(FORMAT_DATE('%Y%m%d', DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY)) AS INT64)
+        AND ActionGeo_CountryCode IN ('US', 'CH', 'GM', 'JA', 'IN', 'UK', 'FR', 'IT', 'BR', 'CA', 'RS', 'MX', 'AS', 'KS', 'ID', 'TU', 'SA', 'AR', 'SF')
+    ORDER BY NumMentions DESC, NumSources DESC
+    LIMIT 300
     """
 
 def verify_and_fetch_data():

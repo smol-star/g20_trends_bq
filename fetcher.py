@@ -46,10 +46,9 @@ def fetch_and_process():
         
         trends_list = []
         for idx, row in country_df.iterrows():
-            record_id = row['GKGRECORDID']
-            themes = str(row['V2Themes'])
-            tone_info = str(row['V2Tone']).split(',')
-            avg_tone = float(tone_info[0]) if len(tone_info) > 0 else 0.0
+            record_id = row['GLOBALEVENTID']
+            themes = str(row['SOURCEURL'])
+            avg_tone = float(row['AvgTone']) if pd.notna(row['AvgTone']) else 0.0
             
             # 번역 큐에 담기
             themes_to_translate[record_id] = themes

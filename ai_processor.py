@@ -19,12 +19,12 @@ def summarize_themes_batch(themes_dict):
     # Cost & speed effective model
     model = genai.GenerativeModel('gemini-1.5-flash-8b')
     
-    prompt = "다음은 GDELT 이벤트 아이디와 관련된 테마 코드 모음입니다. 전문 코드를 일반인이 알기 쉬운 자연스럽고 간결한 '뉴스 헤드라인 키워드(한국어, 3단어 내외)'로 바꿔서 반환해주세요.\n"
+    prompt = "다음은 GDELT 이벤트 아이디와 관련된 뉴스 URL(또는 식별자) 모음입니다. 이 주소 텍스트를 분석해 이 사건이 어떤 사건인지 유추하여 일반인이 알기 쉬운 자연스럽고 간결한 '뉴스 헤드라인 키워드(한국어, 3단어 내외)'로 바꿔서 반환해주세요.\n"
     prompt += "결과는 반드시 '아이디: 키워드' 형식으로 한 줄씩 출력해주세요.\n\n"
     
     for k, v in themes_dict.items():
-        # 너무 길면 자름
-        short_v = v[:200] if isinstance(v, str) else str(v)
+        # URL 텍스트를 전달
+        short_v = v[:300] if isinstance(v, str) else str(v)
         prompt += f"{k}: {short_v}\n"
         
     try:
