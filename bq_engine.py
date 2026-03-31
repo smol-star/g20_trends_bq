@@ -30,7 +30,7 @@ def get_g20_trends_query():
             NumMentions,
             NumSources,
             GoldsteinScale
-        FROM `gdelt-bq.gdeltv2.events_partitioned`
+        FROM `gdelt-bq.gdeltv2.events`
         WHERE _PARTITIONTIME >= TIMESTAMP_SUB(CURRENT_TIMESTAMP(), INTERVAL 24 HOUR)
             AND ActionGeo_CountryCode IN ('US', 'CH', 'GM', 'JA', 'IN', 'UK', 'FR', 'IT', 'BR', 'CA', 'RS', 'MX', 'AS', 'KS', 'ID', 'TU', 'SA', 'AR', 'SF')
     ),
@@ -68,8 +68,7 @@ def verify_and_fetch_data():
     try:
         dry_run_job = client.query(query, job_config=job_config)
     except GoogleAPIError as e:
-        print(f"Dry Run 실패: {e}")
-        return None
+        raise RuntimeError(f"빅쿼리 접속/문법/권한 오류가 발생했습니다: {e}")
         
     bytes_processed = dry_run_job.total_bytes_processed
     gb_processed = bytes_processed / (1024 ** 3)
