@@ -1,5 +1,6 @@
 streamlit
 google-cloud-bigquery
+db-dtypes
 google-generativeai
 pandas
 python-dotenv
