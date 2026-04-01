@@ -2,8 +2,9 @@ name: BQ-GKG Lifestyle & Subculture Scraper
 
 on:
   schedule:
-    # 매주 월요일, 목요일 00:00 UTC (KST 09:00 AM)
-    - cron: '0 0 * * 1,4'
+    # KST 기준 매주 월요일, 목요일 오전 7시 13분 실행
+    # UTC 기준: 전날(일/수) 22시 13분 (KST = UTC+9)
+    - cron: '13 22 * * 0,3'
   workflow_dispatch:
 
 permissions:
