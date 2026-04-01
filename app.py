@@ -145,6 +145,15 @@ if page == "실시간 AI 심층 브리핑":
     st.markdown("전세계 최대 글로벌 이벤트 DB인 **GDELT 2.0 (Google BigQuery)**를 통해 **최근 3시간** 내 수십만 건의 기사를 기반으로 각국의 가장 큰 이슈들을 추출한 뒤, **Gemini AI**를 통해 쉬운 키워드로 번역/요약한 대시보드입니다.")
     st.markdown("💡 **순위 기준**: 국제사회 파급력(Goldstein) 및 다수 매체 동시보도(NumSources), 누적 언급량(Mentions) 복합점수제")
     
+    st.markdown("""
+    <div style='display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap;'>
+        <div style='background: #F1F8E9; border: 1px solid #4CAF50; padding: 5px 10px; border-radius: 15px; font-size: 0.85em;'>✅ <b>긍정 (Positive)</b></div>
+        <div style='background: #FFEBEE; border: 1px solid #e53935; padding: 5px 10px; border-radius: 15px; font-size: 0.85em;'>🚨 <b>부정/위기 (Negative)</b></div>
+        <div style='background: #FFF3E0; border: 1px solid #FF9800; padding: 5px 10px; border-radius: 15px; font-size: 0.85em;'>⚠️ <b>경고/주의 (Warning)</b></div>
+        <div style='background: #f8f9fa; border: 1px solid #1a73e8; padding: 5px 10px; border-radius: 15px; font-size: 0.85em;'>ℹ️ <b>중립/일반 (Neutral)</b></div>
+    </div>
+    """, unsafe_allow_html=True)
+    
     tab_news, tab_life, tab_sub = st.tabs(["[1] ⚡ 실시간 속보", "[2] 🌿 라이프스타일 뷰", "[3] 🎮 서브컬처 & 애니"])
     
     with tab_news:
