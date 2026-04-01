@@ -1,17 +1,16 @@
-name: BQ-AI Trends Auto Scraper
+name: BQ-GKG Lifestyle & Subculture Scraper
 
 on:
   schedule:
-    # 정각/0분 대신 17분에 실행하여 GitHub Actions 서버 부하 분산
-    - cron: '17 * * * *'
-  # 수동 실행 가능하도록 설정
+    # 매주 월요일, 목요일 00:00 UTC (KST 09:00 AM)
+    - cron: '0 0 * * 1,4'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  scrape_and_process:
+  scrape_and_process_gkg:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -28,23 +27,20 @@ jobs:
           pip install -r requirements.txt
           
       - name: Create Google Credentials File
-        # GitHub Secret에 저장된 JSON 내용을 실제 파일로 생성합니다.
         run: |
           echo "$GCP_CREDENTIALS_JSON" > gcp_service_account.json
         env:
           GCP_CREDENTIALS_JSON: ${{ secrets.GCP_CREDENTIALS }}
 
-      - name: Execute BQ & AI Pipeline
-        # 환경 변수에 만들어진 파일 경로와 Gemini API 키를 주입하여 실행합니다.
+      - name: Execute GKG Fetcher & AI Summarizer Task
         run: |
-          echo "Running BQ Fetcher & AI Summarizer Task..."
-          python fetcher.py
+          echo "Running GKG Fetcher Task..."
+          python fetcher_gkg.py
         env:
           GOOGLE_APPLICATION_CREDENTIALS: "gcp_service_account.json"
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           
       - name: Clean up Credentials
-        # 보안을 위해 사용이 끝난 서비스 계정 키 파일은 즉시 삭제합니다.
         if: always()
         run: rm -f gcp_service_account.json
           
@@ -53,7 +49,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add -A
-          git commit -m "BQ-AI: Auto-update trends data & archives [skip ci]" || echo "No changes to commit"
+          git commit -m "BQ-GKG: Auto-update Lifestyle & Subculture trends [skip ci]" || echo "No changes to commit"
           for i in 1 2 3; do
             git pull --rebase origin main && git push && break
             echo "Push attempt $i failed, retrying..."
