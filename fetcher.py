@@ -3,6 +3,20 @@ import ai_processor
 from data_manager import save_current_data
 from datetime import datetime, timezone, timedelta
 import pandas as pd
+import re
+
+def extract_url_keywords(url):
+    url = str(url).split('?')[0] # Remove query params
+    words = re.findall(r'[a-zA-Z]+', url.lower())
+    stopwords = {'http', 'https', 'www', 'com', 'org', 'net', 'news', 'article', 'html', 'story', 'post', 'world', 'the', 'and', 'for', 'with', 'index'}
+    return set([w for w in words if w not in stopwords and len(w) > 3])
+
+def calculate_jaccard(set1, set2):
+    if not set1 or not set2:
+        return 0.0
+    intersection = len(set1.intersection(set2))
+    union = len(set1.union(set2))
+    return intersection / union if union > 0 else 0.0
 
 def calculate_impact_score(row):
     # 전파력(언급수), 공신력(매체수), 영향력(골드스타인) 복합 점수
@@ -42,20 +56,48 @@ def fetch_and_process():
         if country_df.empty:
             continue
             
-        # 국가별 상위 5건 이슈 추출
-        country_df = country_df.sort_values(by='ImpactScore', ascending=False).head(5)
+        country_df = country_df.sort_values(by='ImpactScore', ascending=False)
+        clusters = []
+        
+        for idx, row in country_df.iterrows():
+            url = row['SOURCEURL']
+            score = float(row['ImpactScore'])
+            kw_set = extract_url_keywords(url)
+            
+            matched = False
+            for cluster in clusters:
+                if calculate_jaccard(cluster['kw_set'], kw_set) > 0.45:
+                    cluster['score'] += score
+                    cluster['items'].append(row)
+                    matched = True
+                    break
+            
+            if not matched:
+                clusters.append({
+                    'kw_set': kw_set,
+                    'score': score,
+                    'items': [row],
+                    'representative': row
+                })
+        
+        # 국가별 상위 5건 클러스터 추출
+        clusters = sorted(clusters, key=lambda x: x['score'], reverse=True)[:5]
         
         trends_list = []
-        for idx, row in country_df.iterrows():
+        for c in clusters:
+            row = c['representative']
+            related_urls = [item['SOURCEURL'] for item in c['items'] if item['SOURCEURL'] != row['SOURCEURL']]
+            
             trends_list.append({
-                "record_id": row['GLOBALEVENTID'],
+                "record_id": str(row['GLOBALEVENTID']),
                 "url": row['SOURCEURL'],
+                "related_urls": list(set(related_urls))[:3],
                 "title": "",  # BigQuery 쿼리에 title 컬럼 없음. URL로 AI 분석.
-                "mentions": row['NumMentions'],
-                "sources": row['NumSources'],
-                "goldstein": row['GoldsteinScale'],
+                "mentions": int(row['NumMentions']),
+                "sources": int(row['NumSources']),
+                "goldstein": float(row['GoldsteinScale']),
                 "tone": float(row['AvgTone']) if pd.notna(row['AvgTone']) else 0.0,
-                "score": float(row['ImpactScore'])
+                "score": float(c['score'])
             })
             
         if trends_list:
@@ -95,10 +137,21 @@ def fetch_and_process():
             if not matched:
                 print(f"  [경고] AI 국가명 '{ai_country}' 매칭 실패. 건너뜁니다.")
                 continue
+                
+            if not isinstance(ai_data, list):
+                print(f"  [경고] AI 데이터가 배열 형식이 아닙니다(국가: '{ai_country}'). 건너뜁니다.")
+                continue
+            
+            ai_data_dict = {str(item.get("id")): item for item in ai_data if "id" in item}
+            
             for t in result_data[matched]['trends']:
-                t['keyword'] = ai_data.get('headline', '주요 글로벌 이슈 식별불가')
-                t['hook'] = ai_data.get('hook', '현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.')
-                t['script'] = ai_data.get('script', '이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다.')
+                t_id = str(t['record_id'])
+                if t_id in ai_data_dict:
+                    ai_item = ai_data_dict[t_id]
+                    t['keyword'] = ai_item.get('headline', '주요 글로벌 이슈 식별불가')
+                    t['hook'] = ai_item.get('hook', '현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.')
+                    t['script'] = ai_item.get('script', '이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다.')
+                    t['sentiment'] = ai_item.get('sentiment', 'neutral')
 
     # 4. 국가별 이슈 스파이크 점수에 따라 최종 정렬
     sorted_countries = sorted(result_data.items(), key=lambda x: (-x[1]['spike_score'], x[1]['gdp_rank']))

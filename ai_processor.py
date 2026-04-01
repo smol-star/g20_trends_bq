@@ -45,14 +45,19 @@ def summarize_g20_batch(bundle_dict):
 - 응답의 첫 번째 문자는 반드시 {{ 이어야 한다.
 - JSON 전후에 어떤 텍스트도, 마크다운 코드블록도, 인사말도 추가하지 마라.
 - "안녕하세요", "결과입니다", "알겠습니다" 같은 문구는 생성 즉시 시스템 오류로 처리된다.
+- 입력된 각 기사의 고유 ID를 유지하여 정확히 1:1 매칭되게 반환해라. 절대 요약본을 중복해서 출력하지 마라.
 
 [출력 형식]
 {{
-  "Country Name": {{
-    "headline": "한글 헤드라인 (3단어 내외, 명사형으로 끝낼 것)",
-    "hook": "1문장. 시청자가 스크롤을 멈추게 만드는 충격적/긴박한 도입부.",
-    "script": "30초 분량 쇼츠 대본. 첫 단어부터 바로 사건 핵심으로 돌진. 인사 없음."
-  }},
+  "Country Name": [
+    {{
+      "id": "기사_ID",
+      "headline": "한글 헤드라인 (3단어 내외, 명사형으로 끝낼 것)",
+      "hook": "1문장. 시청자가 스크롤을 멈추게 만드는 충격적/긴박한 도입부.",
+      "script": "30초 분량 쇼츠 대본. 첫 단어부터 바로 사건 핵심으로 돌진. 인사 없음.",
+      "sentiment": "positive, negative, neutral, 혹은 warning 중 하나"
+    }}
+  ],
   ...
 }}
 
@@ -62,18 +67,19 @@ def summarize_g20_batch(bundle_dict):
 [분석 지침]
 - TONE(감성): 음수일수록 부정, 양수일수록 긍정적 결말.
 - IMPACT(파급력): 절댓값이 클수록 국제사회 파급 강도 높음.
-- 3시간치 복수 기사 → '가장 큰 하나의 흐름'으로 통합 요약.
+- 3시간치 복수 기사 → 가장 큰 하나의 흐름으로 통합 요약하되 주어진 고유 ID는 반드시 포함.
 
 [분석할 데이터]
 """
     for country, items in bundle_dict.items():
         prompt += f"\n### {country}\n"
         for i, item in enumerate(items[:5]):
+            rec_id = item.get('record_id', '')
             url = clean_text(item.get('url', ''))
             title = clean_text(item.get('title', ''))
             tone = round(float(item.get('tone', 0.0)), 2)
             goldstein = round(float(item.get('goldstein', 0.0)), 2)
-            prompt += f"{i+1}. TITLE={title} | URL={url} | TONE={tone} | IMPACT={goldstein}\n"
+            prompt += f"- ID={rec_id} | TITLE={title} | URL={url} | TONE={tone} | IMPACT={goldstein}\n"
 
     try:
         # 모델 선택 로직 (사용자 피드백 반영: 3 Flash -> 2.5 Flash 순서)

@@ -15,6 +15,11 @@ FLAG_CODES = {
 }
 
 def render_dashboard(data, kst_now):
+    if data:
+        first_country = list(data.values())[0]
+        last_updated = first_country.get('last_updated', '알 수 없음')
+        st.markdown(f"<div style='text-align: right; color: #2c3e50; font-size: 1.2em; font-weight: bold; background: #ecf0f1; padding: 10px; border-radius: 8px; margin-bottom: 20px;'>🔄 마지막 업데이트: {last_updated}</div>", unsafe_allow_html=True)
+    
     st.divider()
     for country, info in data.items():
         score = info.get("spike_score", 0.0)
@@ -53,21 +58,37 @@ def render_dashboard(data, kst_now):
             else:
                 tone_badge = f"<span style='color: #9E9E9E;'>중립 (Tone: 0.0)</span>"
                 
-            # 바깥쪽에 바로 읽을 수 있는 헤드라인과 훅 노출
-            st.markdown(f"<h4 style='margin-bottom: 5px; color: #d32f2f;'>🚨 {keyword}</h4>", unsafe_allow_html=True)
-            st.markdown(f"<div style='background-color: #f8f9fa; border-left: 4px solid #1a73e8; padding: 10px; margin-bottom: 10px; font-size: 1.1em;'>💡 <b>{hook}</b></div>", unsafe_allow_html=True)
+            # 감정 분석에 따른 뱃지 및 테두리 색상
+            sentiment = t.get('sentiment', 'neutral').lower()
+            if sentiment == 'positive':
+                border_color, bg_color, emoji = '#4CAF50', '#F1F8E9', '✅'
+            elif sentiment == 'negative':
+                border_color, bg_color, emoji = '#e53935', '#FFEBEE', '🚨'
+            elif sentiment == 'warning':
+                border_color, bg_color, emoji = '#FF9800', '#FFF3E0', '⚠️'
+            else:
+                border_color, bg_color, emoji = '#1a73e8', '#f8f9fa', 'ℹ️'
+                
+            # 바깥쪽: 강력한 헤드라인과 훅 노출
+            st.markdown(f"<h3 style='margin-bottom: 8px; color: #2C3E50;'>{emoji} {keyword}</h3>", unsafe_allow_html=True)
+            st.markdown(f"<div style='background-color: {bg_color}; border-left: 6px solid {border_color}; padding: 15px; margin-bottom: 8px; font-size: 1.3em; font-weight: 800; color: #111; border-radius: 4px; line-height: 1.4;'>💡 {hook}</div>", unsafe_allow_html=True)
             
-            # 안쪽에 구체적인 대본과 수치 숨김
-            with st.expander(f"👉 🎤 리딩용 대본 및 원본 지표 열람"):
-                st.markdown("#### 🎙️ AI 제안 쇼츠 대본 (약 30초)")
-                st.info(script)
+            # 안쪽: 대본, 상세 지표, 관련 기사 링크 등 숨김 처리
+            with st.expander(f"👉 🎤 관련 원문 기사 리스트 및 리딩용 대본 보기"):
+                st.markdown(f"<div style='font-size: 1.05em; line-height: 1.6; color: #333; padding: 15px; background: #fff; border: 1px solid #ddd; border-radius: 8px; font-family: sans-serif;'><h4 style='margin-top:0;'>🎙️ AI 제안 쇼츠 대본</h4>{script}</div>", unsafe_allow_html=True)
                 
                 st.divider()
                 st.markdown(f"📊 **GDELT 원본 스탯** : 전파력(언급) {mentions}회 &nbsp;|&nbsp; 공신력(매체수) {sources}곳 &nbsp;|&nbsp; 파급력(Goldstein) {goldstein} &nbsp;|&nbsp; 언론 분위기 지수 {tone_badge}", unsafe_allow_html=True)
                 
                 url = t.get('url', '')
+                related_urls = t.get('related_urls', [])
+                
                 if url:
-                    st.markdown(f"🔗 **대표 보도 기사 원본**: <a href='{url}' target='_blank'>링크 이동하기</a> (안전상의 이유로 1개만 우선 제공)", unsafe_allow_html=True)
+                    st.markdown(f"🔗 **[대표 원본 기사 보러가기]({url})**")
+                if related_urls:
+                    st.markdown("🔗 **관련 원본 기사 묶음:**")
+                    for r_url in related_urls:
+                        st.markdown(f"- [{r_url}]({r_url})")
             
             st.markdown("<br>", unsafe_allow_html=True)
             
