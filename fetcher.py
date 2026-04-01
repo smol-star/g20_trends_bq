@@ -18,8 +18,11 @@ def fetch_and_process():
     print(f"[{datetime.now()}] GDELT BigQuery 수집 시작...")
     
     df = bq_engine.verify_and_fetch_data()
-    if df is None or df.empty:
-        print("수집된 데이터가 없습니다.")
+    if df is None:
+        print("[안전장치 발동] 스캔 용량 초과로 이번 회차 수집을 건너뜁니다. 기존 데이터를 유지합니다.")
+        return  # 기존 current_trends.json 유지 (save 호출 없음)
+    if df.empty:
+        print("BigQuery 응답이 비어 있습니다. 기존 데이터를 유지합니다.")
         return
         
     print(f"총 {len(df)}건의 병합된 글로벌 이벤트 데이터 확보 성공.")
@@ -47,7 +50,7 @@ def fetch_and_process():
             trends_list.append({
                 "record_id": row['GLOBALEVENTID'],
                 "url": row['SOURCEURL'],
-                "title": row.get('title', ''), # BigQuery 쿼리 결과에 따라 다름
+                "title": "",  # BigQuery 쿼리에 title 컬럼 없음. URL로 AI 분석.
                 "mentions": row['NumMentions'],
                 "sources": row['NumSources'],
                 "goldstein": row['GoldsteinScale'],
@@ -79,16 +82,23 @@ def fetch_and_process():
         # AI 호출
         ai_results = ai_processor.summarize_g20_batch(batch_payload)
         
-        # 결과 매핑
-        for country, ai_data in ai_results.items():
-            if country in result_data:
-                # 해당 국가의 모든 트렌드에 동일한(혹은 통합된) 요약 적용
-                # (또는 AI가 개별 이슈별로 준 경우 r-id 매칭도 가능하지만, 
-                # 현재 summarize_g20_batch는 국가 단위 통합 요약을 권장함)
-                for t in result_data[country]['trends']:
-                    t['keyword'] = ai_data.get('headline', '주요 글로벌 이슈 식별불가')
-                    t['hook'] = ai_data.get('hook', '현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.')
-                    t['script'] = ai_data.get('script', '이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다.')
+        # 결과 매핑 (정확 일치 → 부분 일치 fuzzy 순서)
+        for ai_country, ai_data in ai_results.items():
+            # 정확 일치
+            matched = ai_country if ai_country in result_data else None
+            # Fuzzy 매칭 (AI가 "Korea" 혹은 "UK" 등 축약형 반환 시 대응)
+            if not matched:
+                for real in result_data:
+                    if ai_country.lower() in real.lower() or real.lower() in ai_country.lower():
+                        matched = real
+                        break
+            if not matched:
+                print(f"  [경고] AI 국가명 '{ai_country}' 매칭 실패. 건너뜁니다.")
+                continue
+            for t in result_data[matched]['trends']:
+                t['keyword'] = ai_data.get('headline', '주요 글로벌 이슈 식별불가')
+                t['hook'] = ai_data.get('hook', '현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.')
+                t['script'] = ai_data.get('script', '이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다.')
 
     # 4. 국가별 이슈 스파이크 점수에 따라 최종 정렬
     sorted_countries = sorted(result_data.items(), key=lambda x: (-x[1]['spike_score'], x[1]['gdp_rank']))
