@@ -143,7 +143,7 @@ if page == "실시간 AI 심층 브리핑":
                 else:
                     render_lifestyle(life_data.get("data", []))
         except FileNotFoundError:
-            st.info("💡 라이프스타일 트렌드 데이터는 주 2회(월, 목 오전 9시 KST) 정기 업데이트됩니다. 아직 데이터가 수집되지 않았습니다.")
+            st.info("💡 라이프스타일 트렌드 데이터는 주 2회(월, 목 오전 7시 13분 KST) 정기 업데이트됩니다. 아직 데이터가 수집되지 않았습니다.")
             
     with tab_sub:
         try:
@@ -155,7 +155,7 @@ if page == "실시간 AI 심층 브리핑":
                 else:
                     render_subculture(sub_data.get("data", []))
         except FileNotFoundError:
-            st.info("💡 서브컬처 및 시장 파급력 데이터는 주 2회(월, 목 오전 9시 KST) 정기 업데이트됩니다. 아직 데이터가 수집되지 않았습니다.")
+            st.info("💡 서브컬처 및 시장 파급력 데이터는 주 2회(월, 목 오전 7시 13분 KST) 정기 업데이트됩니다. 아직 데이터가 수집되지 않았습니다.")
 else:
     st.title("📜 BQ-AI 과거 데이터 기록소")
     st.markdown("매시간 수집되어 보존된 과거 기록 스냅샷을 열람할 수 있습니다.")
