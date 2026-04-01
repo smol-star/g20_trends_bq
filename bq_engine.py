@@ -92,11 +92,16 @@ def get_bq_client():
     return bigquery.Client()
 
 # ─────────────────────────────────────────────
-# 속보 쿼리 (events_partitioned)
+# 속보 쿼리 (events_partitioned) — DATE 파티션 명시로 스캔량 최소화
 # ─────────────────────────────────────────────
-def get_g20_trends_query():
-    return """
-    SELECT 
+def get_g20_trends_query(limit=150):
+    """
+    BigQuery GDELT 속보 쿼리 (최적화 버전).
+    - _PARTITIONTIME을 오늘/어제 DATE로 명시 → 불필요한 파티션 전체 스캔 차단.
+    - LIMIT를 파라미터화하여 캡 초과 시 축소 재시도 가능.
+    """
+    return f"""
+    SELECT
         GLOBALEVENTID,
         ActionGeo_CountryCode,
         NumMentions,
@@ -105,44 +110,55 @@ def get_g20_trends_query():
         AvgTone,
         SOURCEURL
     FROM `gdelt-bq.gdeltv2.events_partitioned`
-    WHERE _PARTITIONTIME >= TIMESTAMP_SUB(CURRENT_TIMESTAMP(), INTERVAL 3 HOUR)
-        AND ActionGeo_CountryCode IN ('US', 'CH', 'GM', 'JA', 'IN', 'UK', 'FR', 'IT', 'BR', 'CA', 'RS', 'MX', 'AS', 'KS', 'ID', 'TU', 'SA', 'AR', 'SF')
+    WHERE (
+        _PARTITIONTIME = TIMESTAMP(CURRENT_DATE())
+        OR _PARTITIONTIME = TIMESTAMP(DATE_SUB(CURRENT_DATE(), INTERVAL 1 DAY))
+    )
+        AND ActionGeo_CountryCode IN ('US','CH','GM','JA','IN','UK','FR','IT','BR','CA','RS','MX','AS','KS','ID','TU','SA','AR','SF')
     ORDER BY NumMentions DESC, NumSources DESC
-    LIMIT 300
+    LIMIT {limit}
     """
 
 def verify_and_fetch_data():
     print_usage_status()
     cap_events, _ = get_caps()
-
     client = get_bq_client()
-    query = get_g20_trends_query()
 
-    # Dry Run으로 예상 스캔량 측정
-    job_config = bigquery.QueryJobConfig(dry_run=True, use_query_cache=False)
-    try:
-        dry_run_job = client.query(query, job_config=job_config)
-    except GoogleAPIError as e:
-        raise RuntimeError(f"빅쿼리 접속/문법/권한 오류가 발생했습니다: {e}")
+    # 1차(LIMIT 150) → 캡 초과 시 2차(LIMIT 75)로 자동 재시도
+    for attempt, limit in enumerate([150, 75], start=1):
+        query = get_g20_trends_query(limit=limit)
+        job_config = bigquery.QueryJobConfig(dry_run=True, use_query_cache=False)
+        try:
+            dry_run_job = client.query(query, job_config=job_config)
+        except GoogleAPIError as e:
+            raise RuntimeError(f"빅쿼리 접속/문법/권한 오류: {e}")
 
-    gb_processed = dry_run_job.total_bytes_processed / (1024 ** 3)
-    print(f"[속보 Dry Run] 예상 스캔 용량: {gb_processed:.3f} GB  (현재 캡: {cap_events} GB)")
+        gb_processed = dry_run_job.total_bytes_processed / (1024 ** 3)
+        print(f"[속보 Dry Run #{attempt}] 예상 스캔: {gb_processed:.3f} GB  (캡: {cap_events} GB, LIMIT: {limit})")
 
-    if gb_processed > cap_events:
-        print(f"[안전장치] {gb_processed:.2f} GB > 캡 {cap_events} GB → 이번 회차 수집 건너뜁니다.")
-        return None
+        if gb_processed <= cap_events:
+            print(f"용량 확인 완료. 실제 쿼리 실행 (LIMIT {limit})...")
+            query_job = client.query(query, bigquery.QueryJobConfig())
+            df = query_job.to_dataframe()
+            add_usage_and_check(gb_processed)
+            return df
 
-    # 실제 쿼리 실행 후 사용량 기록
-    print("용량 확인 완료. 실제 쿼리를 실행합니다...")
-    query_job = client.query(query, bigquery.QueryJobConfig())
-    df = query_job.to_dataframe()
-    add_usage_and_check(gb_processed)
-    return df
+        print(f"[경고] 시도 #{attempt}: {gb_processed:.3f} GB > 캡 {cap_events} GB — {'재시도' if attempt < 2 else '차단'}")
+
+    print("[안전장치] 모든 시도가 캡을 초과했습니다. 이번 회차는 건너뜁니다. 기존 데이터 유지.")
+    return None
+
+
 
 # ─────────────────────────────────────────────
 # GKG 쿼리 (gkg_partitioned)
 # ─────────────────────────────────────────────
 def get_gkg_trends_query():
+    """
+    GKG 트렌드 쿼리 (최적화 버전).
+    - _PARTITIONTIME >= INTERVAL N HOUR 방식은 파티션 매칭 불가 버그 존재.
+    - 오늘부터 7일 전까지의 파티션을 날짜별로 명시하여 정확히 읽음.
+    """
     return """
     SELECT 
         GKGRECORDID,
@@ -150,7 +166,8 @@ def get_gkg_trends_query():
         DocumentIdentifier,
         V2Locations
     FROM `gdelt-bq.gdeltv2.gkg_partitioned`
-    WHERE _PARTITIONTIME >= TIMESTAMP_SUB(CURRENT_TIMESTAMP(), INTERVAL 168 HOUR)
+    WHERE _PARTITIONTIME >= TIMESTAMP(DATE_SUB(CURRENT_DATE(), INTERVAL 7 DAY))
+      AND _PARTITIONTIME < TIMESTAMP(DATE_ADD(CURRENT_DATE(), INTERVAL 1 DAY))
       AND REGEXP_CONTAINS(V2Themes, r'CULTURE|LIFESTYLE|TOURISM|FASHION|ENTERTAINMENT_VIDEO_GAMES')
     """
 
