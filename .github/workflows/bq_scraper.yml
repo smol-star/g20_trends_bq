@@ -2,8 +2,9 @@ name: BQ-AI Trends Auto Scraper
 
 on:
   schedule:
-    # 정각/0분 대신 17분에 실행하여 GitHub Actions 서버 부하 분산
-    - cron: '17 * * * *'
+    # 3시간마다 :17분에 실행 (하루 8회: 00:17, 03:17, 06:17 ... 21:17 KST 기준)
+    # 정각 혼잡 회피 + 기존 매시간 대비 스캔량 1/3로 절감
+    - cron: '17 */3 * * *'
   # 수동 실행 가능하도록 설정
   workflow_dispatch:
 
@@ -49,11 +50,12 @@ jobs:
         run: rm -f gcp_service_account.json
           
       - name: Commit and Push Data Updates
+        if: always()
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add -A
-          git commit -m "BQ-AI: Auto-update trends data & archives [skip ci]" || echo "No changes to commit"
+          git commit -m "BQ-AI: Auto-update trends data & usage tracker [skip ci]" || echo "No changes to commit"
           for i in 1 2 3; do
             git pull --rebase origin main && git push && break
             echo "Push attempt $i failed, retrying..."
