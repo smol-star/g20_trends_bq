@@ -101,4 +101,44 @@ def fetch_and_process():
     print("성공적으로 데이터를 수집하고 AI를 통해 요약 저장했습니다!")
 
 if __name__ == "__main__":
-    fetch_and_process()
+    try:
+        fetch_and_process()
+    except Exception as e:
+        import traceback
+        import json
+        from data_manager import save_current_data
+        from datetime import datetime, timezone, timedelta
+
+        kst = timezone(timedelta(hours=9))
+        now_str = datetime.now(kst).strftime("%Y-%m-%d %H:%M:%S KST")
+        
+        print("=" * 60)
+        print(f"[CRITICAL ERROR] 파이프라인 예외 발생. Fallback 데이터를 저장합니다.")
+        traceback.print_exc()
+        print("=" * 60)
+
+        fallback_data = {
+            "_pipeline_error": True,
+            "Global Summary": {
+                "gdp_rank": 1,
+                "current_rank": 1,
+                "spike_score": 0.0,
+                "last_updated": now_str,
+                "trends": [
+                    {
+                        "record_id": 0,
+                        "url": "",
+                        "mentions": 0,
+                        "sources": 0,
+                        "goldstein": 0.0,
+                        "tone": 0.0,
+                        "score": 0.0,
+                        "keyword": "갱신 일시 지연",
+                        "hook": f"데이터 수집 중 문제가 발생하여 이번 회차({now_str})는 갱신이 지연되었습니다. 다음 정각에 자동으로 재시도합니다.",
+                        "script": f"[시스템 알림] {str(e)[:200]}"
+                    }
+                ]
+            }
+        }
+        save_current_data(fallback_data)
+        print("Fallback 데이터 저장 완료. 파이프라인이 정상 종료(exit 0) 처리됩니다.")
