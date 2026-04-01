@@ -29,67 +29,68 @@ def fetch_and_process():
     
     # 2. 국가별 정리 준비
     g20_mapping = bq_engine.G20_CODES
-    reverse_mapping = {v: k for k, v in g20_mapping.items()} # Name to Code if needed, here we use Code
-    
     result_data = {}
     
-    # G20 국가들을 순회하며 가장 스코어가 높은 탑 이슈 추출
-    # API 비용 방어를 위해 국가당 상위 3건 테마만 Gemini로 번역 요청할 텍스트 수집
-    themes_to_translate = {}
+    # AI 분석용 국가별 큐 (배치 처리용)
+    country_batch_queue = {}
     
     for code, country_name in g20_mapping.items():
         country_df = df[df['ActionGeo_CountryCode'] == code]
         if country_df.empty:
             continue
             
+        # 국가별 상위 5건 이슈 추출
         country_df = country_df.sort_values(by='ImpactScore', ascending=False).head(5)
         
         trends_list = []
         for idx, row in country_df.iterrows():
-            record_id = row['GLOBALEVENTID']
-            themes = str(row['SOURCEURL'])
-            avg_tone = float(row['AvgTone']) if pd.notna(row['AvgTone']) else 0.0
-            
-            # 번역 큐에 담기 (딕셔너리로 상세 정보 전달)
-            themes_to_translate[record_id] = {
-                'url': themes,
-                'tone': avg_tone,
-                'goldstein': row['GoldsteinScale']
-            }
-            
             trends_list.append({
-                "record_id": record_id,
-                "url": themes,
+                "record_id": row['GLOBALEVENTID'],
+                "url": row['SOURCEURL'],
+                "title": row.get('title', ''), # BigQuery 쿼리 결과에 따라 다름
                 "mentions": row['NumMentions'],
                 "sources": row['NumSources'],
                 "goldstein": row['GoldsteinScale'],
-                "tone": avg_tone,
+                "tone": float(row['AvgTone']) if pd.notna(row['AvgTone']) else 0.0,
                 "score": float(row['ImpactScore'])
             })
             
-        kst = timezone(timedelta(hours=9))
         if trends_list:
+            kst = timezone(timedelta(hours=9))
             result_data[country_name] = {
                 "gdp_rank": list(g20_mapping.values()).index(country_name) + 1,
-                "spike_score": sum([t['score'] for t in trends_list]), # 총합 스코어
+                "spike_score": sum([t['score'] for t in trends_list]),
                 "trends": trends_list,
                 "last_updated": datetime.now(kst).strftime("%Y-%m-%d %H:%M:%S KST")
             }
-            
-    print(f"총 {len(themes_to_translate)}개의 이슈 그룹에 대해 Gemini AI 분석 요청 중...")
-    translated_info = ai_processor.summarize_themes_batch(themes_to_translate)
+            # AI 배치 큐에 추가
+            country_batch_queue[country_name] = trends_list
+
+    # 3. AI 배치 요약 실행 (5~7개 국가씩 분할 호출)
+    all_countries = list(country_batch_queue.keys())
+    batch_size = 6
     
-    # 4. 번역 결과를 최종 데이터셋에 병합
-    for country, info in result_data.items():
-        for t in info['trends']:
-            rid = t['record_id']
-            ai_data = translated_info.get(str(rid), {})
-            
-            t['keyword'] = ai_data.get('headline', '주요 글로벌 이슈 식별불가')
-            t['hook'] = ai_data.get('hook', '현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.')
-            t['script'] = ai_data.get('script', '이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다.')
-            
-    # 5. 국가별 이슈 스파이크 점수에 따라 최종 정렬
+    print(f"총 {len(all_countries)}개국 이슈에 대해 Gemini AI 배치 분석 요청 중 (배치 크기: {batch_size})...")
+    
+    for i in range(0, len(all_countries), batch_size):
+        batch_keys = all_countries[i : i + batch_size]
+        batch_payload = {k: country_batch_queue[k] for k in batch_keys}
+        
+        # AI 호출
+        ai_results = ai_processor.summarize_g20_batch(batch_payload)
+        
+        # 결과 매핑
+        for country, ai_data in ai_results.items():
+            if country in result_data:
+                # 해당 국가의 모든 트렌드에 동일한(혹은 통합된) 요약 적용
+                # (또는 AI가 개별 이슈별로 준 경우 r-id 매칭도 가능하지만, 
+                # 현재 summarize_g20_batch는 국가 단위 통합 요약을 권장함)
+                for t in result_data[country]['trends']:
+                    t['keyword'] = ai_data.get('headline', '주요 글로벌 이슈 식별불가')
+                    t['hook'] = ai_data.get('hook', '현재 수집된 글로벌 뉴스를 분석 중인 이슈입니다.')
+                    t['script'] = ai_data.get('script', '이 이슈에 대한 쇼츠 대본 초안을 준비 중입니다.')
+
+    # 4. 국가별 이슈 스파이크 점수에 따라 최종 정렬
     sorted_countries = sorted(result_data.items(), key=lambda x: (-x[1]['spike_score'], x[1]['gdp_rank']))
     
     final_dict = {}
