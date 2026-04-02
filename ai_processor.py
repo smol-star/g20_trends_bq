@@ -113,35 +113,37 @@ def summarize_themes_batch(themes_dict):
     return summarize_g20_batch({"General": list(themes_dict.values())})
 
 def summarize_gkg_trends(themes_dict, category="lifestyle"):
-    """GKG (라이프스타일/서브컬처) 전용 배치 요약"""
+    """GKG (라이프스타일/서브컬처) 전용 배치 요약 — RSS 배치와 동일한 스타일"""
     init_gemini()
-    
+
     if not themes_dict: return {}
 
-    persona_name = "트렌드 매거진 에디터" if category == "lifestyle" else "서브컬처 전문 리뷰어"
-    extra_rule = "가챠 게임(원신, 스타레일 등) 포착 시 시장 파급력과 매출 영향력을 심층 기술해라." if category != "lifestyle" else "세련된 도심지 라이프스타일의 변화에 주목해라."
+    # 카테고리 힌트 (페르소나 없이, 분석 맥락만 한 줄로)
+    category_hint = "라이프스타일·문화·여행·패션 트렌드" if category == "lifestyle" else "애니·만화·게임·서브컬처 트렌드"
+    id_list = ", ".join(str(k) for k in themes_dict.keys())
 
-    prompt = f"""
-너는 {persona_name}로서 글로벌 트렌드를 분석한다.
-다음 입력 데이터를 보고 각 ID별로 분석 결과를 JSON 객체로 반환해라.
+    prompt = f"""너는 GDELT 글로벌 뉴스 분석 전문 시스템이다. 인간처럼 말하지 마라. 오직 JSON만 출력하라.
+
+[출력 규칙 — 최우선 적용]
+- 응답의 첫 번째 문자는 반드시 {{ 이어야 한다.
+- JSON 전후에 어떤 텍스트도, 마크다운 코드블록도, 인사말도 추가하지 마라.
+- "안녕하세요", "결과입니다", "알겠습니다" 같은 문구는 절대 출력하지 마라.
+- 아래 ID 목록을 JSON 키로 그대로 사용할 것: {id_list}
+
+[분석 영역]
+{category_hint}
 
 [출력 형식]
 {{
-  "ID_STRING": {{
-    "headline": "한글 헤드라인 (3단어 내외)",
-    "hook": "독자의 시선을 끄는 1줄 문장",
-    "script": "전문적인 리딩용 대본 (30초 분량)"
+  "ID_문자열": {{
+    "headline": "한글 헤드라인 (3단어 내외, 명사형)",
+    "hook": "1문장. 독자의 시선을 멈추게 하는 강렬한 도입부.",
+    "script": "30초 분량 쇼츠 대본. 첫 단어부터 바로 핵심으로 직진. 인사 없음."
   }},
   ...
 }}
 
-[절대 규칙]
-1. 인사말 금지: "알겠습니다", "요약 결과입니다" 등 어떤 부약 설명도 없이 오직 JSON만 출력할 것.
-2. 강력한 시작: script는 인사 없이 바로 핵심 훅(Hook)으로 시작할 것.
-3. {extra_rule}
-4. 한국어로 작성할 것.
-
-[입력 데이터]
+[분석할 데이터]
 """
     for k, v in themes_dict.items():
         url = clean_text(v.get('url', ''))
@@ -155,7 +157,7 @@ def summarize_gkg_trends(themes_dict, category="lifestyle"):
         except Exception:
             model = genai.GenerativeModel('gemini-2.0-flash-lite')
             response = model.generate_content(prompt)
-            
+
         result_text = response.text.strip()
         start = result_text.find('{')
         end = result_text.rfind('}')
