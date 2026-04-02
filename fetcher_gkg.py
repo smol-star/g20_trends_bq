@@ -59,31 +59,36 @@ def process_gkg():
         url = str(row['DocumentIdentifier'])
         themes = str(row['V2Themes'])
         
-        # 라이프스타일 필터
-        if re.search(r'CULTURE(?![_A-Z])|LIFESTYLE|TOURISM|FASHION', themes):
+        # 라이프스타일 필터 (CULTURE 단독, LIFESTYLE, TOURISM, FASHION 등 포함)
+        if re.search(r'\bCULTURE\b|LIFESTYLE|TOURISM|FASHION', themes):
             if url != 'None' and url not in seen_lifestyle_urls and len(lifestyle_themes_to_ai) < 15:
                 lifestyle_themes_to_ai[rid] = {'url': url, 'themes': themes}
                 seen_lifestyle_urls.add(url)
                 
         # 서브컬처 필터
-        if re.search(r'CULTURE_ANIME|CULTURE_MANGA|ENTERTAINMENT_VIDEO_GAMES', themes):
+        # GDELT V2Themes에는 CULTURE_ANIME/MANGA 같은 정확한 코드가 없으므로
+        # 실제 존재하는 패턴(ANIME, MANGA, VIDEO_GAME, ESPORT, GAMING)으로 매칭
+        url_theme_combined = url + " " + themes
+        if re.search(r'ANIME|MANGA|VIDEO_GAME|ESPORT|GAMING|ENTERTAINMENT_VIDEO', themes, re.IGNORECASE) or \
+           re.search(r'anime|manga|gaming|esports|otaku|webtoon', url, re.IGNORECASE):
             if url != 'None' and url not in seen_subculture_urls and len(subculture_themes_to_ai) < 25:
                 # 서브카테고리 판별
                 sub_cats = []
-                if 'CULTURE_ANIME' in themes: sub_cats.append("Anime")
-                if 'CULTURE_MANGA' in themes: sub_cats.append("Manga")
-                if 'ENTERTAINMENT_VIDEO_GAMES' in themes: sub_cats.append("Video Games")
+                if re.search(r'ANIME|anime', url_theme_combined): sub_cats.append("Anime")
+                if re.search(r'MANGA|manga|webtoon', url_theme_combined): sub_cats.append("Manga")
+                if re.search(r'VIDEO_GAME|gaming|esport|ESPORT', url_theme_combined): sub_cats.append("Video Games")
+                if not sub_cats:
+                    sub_cats.append("Subculture")
                 
                 # 가챠 게임 확인
                 is_gacha = False
                 macro_tag = None
                 matched_game = None
                 
-                url_theme_text = url + " " + themes
-                if re.search(r'gacha|genshin|star rail|zenless|blue archive|nikke|uma musume|wuthering waves|arknights|project sekai|fate/grand order|fgo|love and deepspace|dokkan battle', url_theme_text, re.IGNORECASE):
+                if re.search(r'gacha|genshin|star rail|zenless|blue archive|nikke|uma musume|wuthering waves|arknights|project sekai|fate/grand order|fgo|love and deepspace|dokkan battle', url_theme_combined, re.IGNORECASE):
                     sub_cats.append("Gacha Game")
                     is_gacha = True
-                    macro_tag, matched_game = check_macro_game(url_theme_text)
+                    macro_tag, matched_game = check_macro_game(url_theme_combined)
                 
                 subculture_themes_to_ai[rid] = {
                     'url': url, 

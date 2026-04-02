@@ -82,12 +82,12 @@ def summarize_g20_batch(bundle_dict):
             prompt += f"- ID={rec_id} | TITLE={title} | URL={url} | TONE={tone} | IMPACT={goldstein}\n"
 
     try:
-        # 모델 선택 로직 (사용자 피드백 반영: 3 Flash -> 2.5 Flash 순서)
+        # 모델 선택 로직: 2.0-flash (Primary) -> 2.0-flash-lite (Fallback)
         try:
-            model = genai.GenerativeModel('gemini-3-flash')
+            model = genai.GenerativeModel('gemini-2.0-flash')
             response = model.generate_content(prompt)
         except Exception:
-            model = genai.GenerativeModel('gemini-2.5-flash')
+            model = genai.GenerativeModel('gemini-2.0-flash-lite')
             response = model.generate_content(prompt)
             
         result_text = response.text.strip()
@@ -150,10 +150,10 @@ def summarize_gkg_trends(themes_dict, category="lifestyle"):
 
     try:
         try:
-            model = genai.GenerativeModel('gemini-3-flash')
+            model = genai.GenerativeModel('gemini-2.0-flash')
             response = model.generate_content(prompt)
         except Exception:
-            model = genai.GenerativeModel('gemini-1.5-flash') # 2.5가 없을 경우 대비 실제 모델명 사용 권장
+            model = genai.GenerativeModel('gemini-2.0-flash-lite')
             response = model.generate_content(prompt)
             
         result_text = response.text.strip()
