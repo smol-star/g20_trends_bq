@@ -1,7 +1,7 @@
 {
     "United States": {
         "gdp_rank": 1,
-        "spike_score": 2284.5,
+        "spike_score": 2246.5,
         "trends": [
             {
                 "record_id": "1297179959",
@@ -28,6 +28,17 @@
                 "score": 629.0
             },
             {
+                "record_id": "1297272697",
+                "url": "https://laopcion.com.mx/juarez/asegura-manriquez-que-bravos-esta-listo-para-enfrentar-a-puebla-20260401-514730.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 200,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 0.290244169364056,
+                "score": 227.5
+            },
+            {
                 "record_id": "1297255877",
                 "url": "https://www.wesh.com/article/birthright-citizenship-supreme-court-trump/70910786",
                 "related_urls": [
@@ -38,18 +49,7 @@
                 "sources": 5,
                 "goldstein": -5.0,
                 "tone": -1.66471617333133,
-                "score": 236.0
-            },
-            {
-                "record_id": "1297272697",
-                "url": "https://laopcion.com.mx/juarez/asegura-manriquez-que-bravos-esta-listo-para-enfrentar-a-puebla-20260401-514730.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 200,
-                "sources": 1,
-                "goldstein": 2.8,
-                "tone": 0.290244169364056,
-                "score": 227.5
+                "score": 198.0
             },
             {
                 "record_id": "1297093234",
@@ -63,12 +63,12 @@
                 "score": 167.5
             }
         ],
-        "last_updated": "2026-04-03 00:02:24 KST",
+        "last_updated": "2026-04-03 00:09:50 KST",
         "current_rank": 1
     },
     "Australia": {
         "gdp_rank": 13,
-        "spike_score": 852.5,
+        "spike_score": 791.5,
         "trends": [
             {
                 "record_id": "1297099767",
@@ -93,17 +93,6 @@
                 "score": 170.5
             },
             {
-                "record_id": "1297073746",
-                "url": "https://www.begadistrictnews.com.au/story/9211639/aussies-ditch-easter-trips-as-first-fuel-savings-flow/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 120,
-                "sources": 6,
-                "goldstein": 4.0,
-                "tone": -2.90627762656778,
-                "score": 153.0
-            },
-            {
                 "record_id": "1297099077",
                 "url": "https://www.newcastleherald.com.au/story/9212221/us-gripes-over-aussie-tv-social-media-and-drug-rules/",
                 "related_urls": [],
@@ -124,9 +113,20 @@
                 "goldstein": 0.0,
                 "tone": -3.24371191767994,
                 "score": 105.0
+            },
+            {
+                "record_id": "1297073746",
+                "url": "https://www.begadistrictnews.com.au/story/9211639/aussies-ditch-easter-trips-as-first-fuel-savings-flow/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 6,
+                "goldstein": 4.0,
+                "tone": -2.90627762656778,
+                "score": 92.0
             }
         ],
-        "last_updated": "2026-04-03 00:02:24 KST",
+        "last_updated": "2026-04-03 00:09:50 KST",
         "current_rank": 2
     },
     "United Kingdom": {
@@ -189,7 +189,7 @@
                 "score": 105.0
             }
         ],
-        "last_updated": "2026-04-03 00:02:24 KST",
+        "last_updated": "2026-04-03 00:09:50 KST",
         "current_rank": 3
     },
     "France": {
@@ -219,7 +219,7 @@
                 "score": 75.0
             }
         ],
-        "last_updated": "2026-04-03 00:02:24 KST",
+        "last_updated": "2026-04-03 00:09:50 KST",
         "current_rank": 4
     },
     "Russia": {
@@ -284,12 +284,12 @@
                 "score": 51.5
             }
         ],
-        "last_updated": "2026-04-03 00:02:24 KST",
+        "last_updated": "2026-04-03 00:09:50 KST",
         "current_rank": 5
     },
     "Germany": {
         "gdp_rank": 3,
-        "spike_score": 435.5,
+        "spike_score": 448.5,
         "trends": [
             {
                 "record_id": "1297317123",
@@ -325,6 +325,17 @@
                 "score": 74.5
             },
             {
+                "record_id": "1297361464",
+                "url": "http://www.op-online.de/wirtschaft/atomkraft-kehrtwende-wirtschaftsministerin-reiche-fordert-neubewertung-zr-94247662.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -4.0,
+                "tone": 1.07825056299633,
+                "score": 55.0
+            },
+            {
                 "record_id": "1297137639",
                 "url": "https://www.badische-zeitung.de/teurer-sprit-oekonomin-plaediert-fuer-verzicht-auf-autofahrten",
                 "related_urls": [],
@@ -334,20 +345,9 @@
                 "goldstein": 3.0,
                 "tone": -1.7805000680426,
                 "score": 48.0
-            },
-            {
-                "record_id": "1297142125",
-                "url": "http://www.come-on.de/politik/trump-spricht-von-nato-austritt-papiertiger-zr-94245244.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 60,
-                "sources": 6,
-                "goldstein": 0.0,
-                "tone": -0.658580828680387,
-                "score": 42.0
             }
         ],
-        "last_updated": "2026-04-03 00:02:24 KST",
+        "last_updated": "2026-04-03 00:09:50 KST",
         "current_rank": 6
     },
     "Canada": {
@@ -388,7 +388,7 @@
                 "score": 78.5
             }
         ],
-        "last_updated": "2026-04-03 00:02:24 KST",
+        "last_updated": "2026-04-03 00:09:50 KST",
         "current_rank": 7
     },
     "Italy": {
@@ -396,7 +396,7 @@
         "spike_score": 270.5,
         "trends": [
             {
-                "record_id": "1297134883",
+                "record_id": "1297134220",
                 "url": "https://www.africom.mil/article/36339/massachusetts-national-guard-leaders-join-kenyan-partners-at-african-land-forces-summit",
                 "related_urls": [],
                 "title": "",
@@ -440,7 +440,7 @@
                 "score": 37.0
             }
         ],
-        "last_updated": "2026-04-03 00:02:24 KST",
+        "last_updated": "2026-04-03 00:09:50 KST",
         "current_rank": 8
     },
     "South Korea": {
@@ -483,7 +483,7 @@
                 "score": 78.0
             }
         ],
-        "last_updated": "2026-04-03 00:02:24 KST",
+        "last_updated": "2026-04-03 00:09:50 KST",
         "current_rank": 9
     },
     "China": {
@@ -524,7 +524,7 @@
                 "score": 44.0
             }
         ],
-        "last_updated": "2026-04-03 00:02:24 KST",
+        "last_updated": "2026-04-03 00:09:50 KST",
         "current_rank": 10
     },
     "India": {
@@ -554,7 +554,7 @@
                 "score": 62.0
             }
         ],
-        "last_updated": "2026-04-03 00:02:24 KST",
+        "last_updated": "2026-04-03 00:09:50 KST",
         "current_rank": 11
     },
     "South Africa": {
@@ -573,7 +573,7 @@
                 "score": 67.0
             }
         ],
-        "last_updated": "2026-04-03 00:02:24 KST",
+        "last_updated": "2026-04-03 00:09:50 KST",
         "current_rank": 12
     },
     "Argentina": {
@@ -592,7 +592,7 @@
                 "score": 62.0
             }
         ],
-        "last_updated": "2026-04-03 00:02:24 KST",
+        "last_updated": "2026-04-03 00:09:50 KST",
         "current_rank": 13
     }
 }
