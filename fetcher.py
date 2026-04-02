@@ -86,7 +86,7 @@ def fetch_and_process():
         trends_list = []
         for c in clusters:
             row = c['representative']
-            related_urls = [item['SOURCEURL'] for item in c['items'] if item['SOURCEURL'] != row['SOURCEURL']]
+            related_urls = [str(item['SOURCEURL']) for item in c['items'] if str(item['SOURCEURL']) != str(row['SOURCEURL'])]
             
             trends_list.append({
                 "record_id": str(row['GLOBALEVENTID']),
