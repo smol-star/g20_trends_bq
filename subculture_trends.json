@@ -3,8 +3,8 @@
     "status": "success",
     "data": [
       {
-        "id": "20260328234500-T814",
-        "url": "https://www.enbeauce.com/actualites/gens-de-chez-nous/661657/partager-la-culture-manga-en-beauce-le-pari-de-marie-eve-marquis",
+        "id": "20260405211500-T581",
+        "url": "https://www.leral.net/Lamb-Sa-Thies-devient-le-9e-Roi-des-Arenes-apres-sa-victoire-eclair-sur-Modou-Lo_a397029.html",
         "sub_categories": [
           "Manga"
         ],
@@ -13,28 +13,13 @@
         "matched_game": null,
         "market_monopoly": false,
         "impact": "Normal",
-        "keyword": "망가 문화 확산",
-        "hook": "퀘벡 주 보스 지역에 망가 문화를 전파하려는 한 여성의 열정이 뜨겁습니다.",
-        "script": "보스 지역에 망가 바람이 불고 있습니다. 마리-이브 마르키스 씨의 열정 덕분인데요. 그녀는 망가 카페를 운영하며 지역 사회에 일본 문화의 매력을 알리고, 팬들을 위한 공간을 마련했습니다. 망가 독서 모임부터 코스프레 이벤트까지, 보스 지역은 이제 망가 문화의 새로운 거점으로 떠오르고 있습니다. 망가, 더 이상 일부의 취미가 아닙니다."
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260328234500-T316",
-        "url": "https://www.publimetro.co/noticias/2026/03/28/alerta-en-bucaramanga-migracion-colombia-expulsa-a-siete-extranjeros-en-operativos-de-semana-santa/",
-        "sub_categories": [
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
-      },
-      {
-        "id": "20260401220000-878",
-        "url": "https://gamerant.com/april-2026-best-new-anime/",
+        "id": "20260405230000-266",
+        "url": "https://comicbook.com/anime/feature/8-years-later-one-piece-finally-unveils-the-face-of-its-main-villain/",
         "sub_categories": [
           "Anime",
           "Manga"
@@ -44,13 +29,45 @@
         "matched_game": null,
         "market_monopoly": false,
         "impact": "Normal",
-        "keyword": "4월 신작 애니",
-        "hook": "2026년 4월, 어떤 신작 애니메이션이 당신의 밤을 지배할 준비가 되어 있을까요?",
-        "script": "애니 팬들 주목! 2026년 4월, 최고의 신작 애니들이 쏟아집니다. 판타지 대작부터 감성 로맨스, 그리고 박진감 넘치는 액션까지, 당신의 취향을 저격할 작품들이 가득합니다. 놓쳐선 안 될 에피소드들과 함께 새로운 덕질 여정을 시작하세요. 지금 바로 당신의 시청 목록을 업데이트할 시간입니다."
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260402141500-490",
-        "url": "https://www.mangalorean.com/row-over-siddaramaiahs-stray-bulls-remark-bjp-counters-with-rodents-swipe-at-congress/",
+        "id": "20260405230000-352",
+        "url": "https://comicbook.com/anime/feature/chainsaw-man-returns-in-the-best-way-possible-that-fans-wont-believe/",
+        "sub_categories": [
+          "Anime",
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260405230000-117",
+        "url": "https://comicbook.com/anime/feature/17-years-ago-today-dragon-ball-z-got-the-anime-reboot-it-desperately-needed/",
+        "sub_categories": [
+          "Anime",
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260405230000-457",
+        "url": "https://gamerant.com/dragon-ball-strongest-characters-weaker-than-gohan-ranked/",
         "sub_categories": [
           "Manga"
         ],
@@ -59,13 +76,13 @@
         "matched_game": null,
         "market_monopoly": false,
         "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260402141500-1287",
-        "url": "https://aninews.in/news/business/mangalores-youth-answer-the-call-2644-sign-up-to-save-lives20260402183528/",
+        "id": "20260405230000-400",
+        "url": "https://gamerant.com/one-piece-oda-crafted-perfect-arc-with-elbaph/",
         "sub_categories": [
           "Manga"
         ],
@@ -74,13 +91,13 @@
         "matched_game": null,
         "market_monopoly": false,
         "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260402141500-586",
-        "url": "https://www.mangalorean.com/sc-denies-bail-to-former-jharkhand-minister-alamgir-alam-orders-speedy-trial/",
+        "id": "20260405221500-164",
+        "url": "https://screenrant.com/welcome-demon-school-iruma-kun-shonen-return-one-piece/",
         "sub_categories": [
           "Manga"
         ],
@@ -89,13 +106,13 @@
         "matched_game": null,
         "market_monopoly": false,
         "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260401231500-36",
-        "url": "https://timesofindia.indiatimes.com/city/mangaluru/mp-chowta-meets-union-minister-seeking-revision-of-areca-moisture-norms/articleshow/129958974.cms",
+        "id": "20260404234500-59",
+        "url": "https://gamerant.com/agents-of-the-four-seasons-when-where-to-watch/",
         "sub_categories": [
           "Manga"
         ],
@@ -104,13 +121,13 @@
         "matched_game": null,
         "market_monopoly": false,
         "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260328233000-T830",
-        "url": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/03/28/desnutricion-en-santander-mas-alla-de-la-falta-de-los-alimentos/",
+        "id": "20260402234500-T289",
+        "url": "https://news.mail.ru/politics/70399295/",
         "sub_categories": [
           "Manga"
         ],
@@ -119,13 +136,13 @@
         "matched_game": null,
         "market_monopoly": false,
         "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260401230000-509",
-        "url": "https://collider.com/crunchyroll-in-the-clear-moonlit-dusk-writer-ayumu-hisao-interview/",
+        "id": "20260402234500-T383",
+        "url": "https://toyokeizai.net/articles/-/939885",
         "sub_categories": [
           "Manga"
         ],
@@ -134,13 +151,13 @@
         "matched_game": null,
         "market_monopoly": false,
         "impact": "Normal",
-        "keyword": "인기 만화가 인터뷰",
-        "hook": "크런치롤 히트작 '맑게 갠 황혼의 한 조각' 작가 아유무 히사오가 작품 비하인드를 공개했습니다.",
-        "script": "'맑게 갠 황혼의 한 조각' 팬이라면 주목! 작가 아유무 히사오와의 독점 인터뷰가 공개됐습니다. 작품 탄생 비화부터 캐릭터 설정, 그리고 앞으로의 스토리 전개에 대한 힌트까지. 작가님의 깊은 생각과 열정을 엿볼 수 있는 소중한 시간이었는데요. 이 기사를 통해 작품에 대한 이해를 한층 더 깊게 만들어 보세요. 당신이 몰랐던 비하인드 스토리가 펼쳐집니다."
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260401230000-42",
-        "url": "https://collider.com/tag/tv-show/in-the-clear-moonlit-dusk/",
+        "id": "20260402234500-630",
+        "url": "https://www.el-balad.com/16900215",
         "sub_categories": [
           "Manga"
         ],
@@ -149,13 +166,13 @@
         "matched_game": null,
         "market_monopoly": false,
         "impact": "Normal",
-        "keyword": "'황혼의 한 조각' 태그",
-        "hook": "인기 TV쇼 '맑게 갠 황혼의 한 조각' 관련 정보들을 한눈에 확인하세요.",
-        "script": "'맑게 갠 황혼의 한 조각' 팬들을 위한 특별 페이지! 이 태그를 통해 작품과 관련된 모든 소식을 빠르게 접할 수 있습니다. 최신 에피소드 리뷰, 배우 인터뷰, 비하인드 스토리까지. 당신이 사랑하는 이 시리즈의 모든 것을 여기서 찾아보세요. 덕질 필수 코스, 지금 바로 방문하세요!"
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260401213000-T1845",
-        "url": "https://dailypakistan.pk/%D8%A8%D8%AE%D8%AA-%D8%A2%D9%88%D8%B1%D8%8C-%D8%AF%D9%84%D8%A7%D9%88%D8%B1/",
+        "id": "20260402233000-T551",
+        "url": "https://www.zazoom.it/2026-04-03/un-classico-dinfanzia-ritorna-con-una-nuova-saga/18934457/",
         "sub_categories": [
           "Manga"
         ],
@@ -164,13 +181,13 @@
         "matched_game": null,
         "market_monopoly": false,
         "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260327234500-T728",
-        "url": "https://www.vanguardia.com/judicial/2026/03/27/conozca-el-dispositivo-de-seguridad-que-regira-en-bucaramanga-y-santander-durante-la-semana-santa/",
+        "id": "20260404224500-T726",
+        "url": "https://br.ign.com/one-piece-2/151986/news/quantos-capitulos-o-manga-de-one-piece-teria-atualmente-se-eiichiro-oda-nunca-tivesse-feito-pausas",
         "sub_categories": [
           "Manga"
         ],
@@ -179,13 +196,13 @@
         "matched_game": null,
         "market_monopoly": false,
         "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260327234500-T875",
-        "url": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/03/27/descubren-nueva-especie-de-anturio-en-santander/",
+        "id": "20260404224500-T754",
+        "url": "https://br.ign.com/descontos/152098/news/oferta-44-box-de-demon-slayer-com-volumes-1-ao-23-esta-com-47-de-desconto-na-amazon-por-tempo-limita",
         "sub_categories": [
           "Manga"
         ],
@@ -194,129 +211,9 @@
         "matched_game": null,
         "market_monopoly": false,
         "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
-      },
-      {
-        "id": "20260327234500-T891",
-        "url": "https://www.vanguardia.com/area-metropolitana/bucaramanga/2026/03/27/conciertos-gastronomia-y-tradicion-asi-sera-la-semana-santa-en-bucaramanga/",
-        "sub_categories": [
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
-      },
-      {
-        "id": "20260402134500-T2806",
-        "url": "https://www.vanguardia.com/entretenimiento/tendencias/2026/04/02/planes-imperdibles-en-bucaramanga-para-semana-santa-2026/",
-        "sub_categories": [
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
-      },
-      {
-        "id": "20260402144500-686",
-        "url": "http://www.srilankasource.com/news/278960199/mangalore-youth-answer-the-call-2644-sign-up-to-save-lives",
-        "sub_categories": [
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
-      },
-      {
-        "id": "20260402144500-T316",
-        "url": "https://life.ru/p/1859129",
-        "sub_categories": [
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
-      },
-      {
-        "id": "20260402144500-T851",
-        "url": "https://www.savonanews.it/2026/04/02/leggi-notizia/argomenti/eventi-spettacoli/articolo/nasce-ceriale-al-cioccolato-eventi-dolcissimi-da-mattina-a-sera-animeranno-la-citta-dal-3-al.html",
-        "sub_categories": [
-          "Anime"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
-      },
-      {
-        "id": "20260402144500-T1473",
-        "url": "https://www.dagensps.se/motor/manga-bilagare-missar-detta-kostar-tusenlappar-varje-ar/",
-        "sub_categories": [
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
-      },
-      {
-        "id": "20260402144500-T841",
-        "url": "https://travelnostop.com/sicilia/travelexpo/a-travelexpo-in-vetrina-le-due-anime-del-viaggio-kel-12_671983",
-        "sub_categories": [
-          "Anime"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
-      },
-      {
-        "id": "20260402144500-T144",
-        "url": "https://www.radioconstanta.ro/2026/04/02/dialoguri-la-zi-litoralul-romanesc-in-pragul-unui-nou-sezon-estival-pregatiri-si-estimari-intr-un-periplu-de-la-navodari-pana-la-mangalia/",
-        "sub_categories": [
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
       },
       {
         "id": "20260330234500-T385",
@@ -329,13 +226,13 @@
         "matched_game": null,
         "market_monopoly": false,
         "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260402150000-829",
-        "url": "http://www.nepalnational.com/news/278960199/mangalore-youth-answer-the-call-2644-sign-up-to-save-lives",
+        "id": "20260331234500-1414",
+        "url": "https://gamerant.com/one-piece-kid-law-next-role-final-saga/",
         "sub_categories": [
           "Manga"
         ],
@@ -344,13 +241,13 @@
         "matched_game": null,
         "market_monopoly": false,
         "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260402150000-1070",
-        "url": "http://www.bruneinews.net/news/278960199/mangalore-youth-answer-the-call-2644-sign-up-to-save-lives",
+        "id": "20260405003000-T462",
+        "url": "https://palestinemonitor.org/index.php/Katsuki-Impression-3D-Confortable-Pour-Homme-Et-Femme-m-327495",
         "sub_categories": [
           "Manga"
         ],
@@ -359,13 +256,13 @@
         "matched_game": null,
         "market_monopoly": false,
         "impact": "Normal",
-        "keyword": "관련 정보 없음",
-        "hook": "요청된 분석 영역에 해당하는 뉴스 내용을 찾을 수 없습니다.",
-        "script": "해당 ID와 연관된 애니, 만화, 게임, 서브컬처 트렌드 정보는 현재 분석할 수 없습니다. 다른 주제로 제공된 뉴스 데이터입니다."
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260402150000-277",
-        "url": "https://metro.co.uk/2026/04/02/new-netflix-hit-racks-10-800-000-views-top-global-most-watched-chart-27822668/",
+        "id": "20260405004500-T382",
+        "url": "https://www.cretalive.gr/kosmos/o-iaponas-iroas-naroyto-prosgeiothike-sti-gallia-binteo",
         "sub_categories": [
           "Manga"
         ],
@@ -374,9 +271,116 @@
         "matched_game": null,
         "market_monopoly": false,
         "impact": "Normal",
-        "keyword": "넷플릭스 글로벌 히트",
-        "hook": "넷플릭스 신작이 전 세계 1천만 뷰를 돌파하며 글로벌 차트 1위를 차지했습니다.",
-        "script": "넷플릭스에 새로운 역사가 쓰였습니다. 신작 콘텐츠가 단숨에 전 세계 천만 시청을 기록하며 글로벌 시청 차트 1위를 강타한 건데요. 이 작품이 왜 이렇게 뜨거운 반응을 얻고 있는지 궁금하지 않으신가요? 몰입감 넘치는 스토리와 압도적인 영상미로 무장한 이 화제의 작품, 지금 바로 넷플릭스에서 만나보세요!"
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260405004500-T722",
+        "url": "https://www.punjabitribuneonline.com/news/malwa/chandbhan-anti-coercion-action-committees-victorious-rally/",
+        "sub_categories": [
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260405010000-T780",
+        "url": "https://www.excite.co.jp/news/article/Escala_3172755/",
+        "sub_categories": [
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260405010000-T777",
+        "url": "https://www.excite.co.jp/news/article/Inside_179527/",
+        "sub_categories": [
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260405013000-T21",
+        "url": "https://www.excite.co.jp/news/article/Animeanime_97518/",
+        "sub_categories": [
+          "Anime",
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260405014500-41",
+        "url": "https://gamerant.com/modern-shonen-manga-that-still-dont-have-anime-adaptations/",
+        "sub_categories": [
+          "Anime",
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260405000000-T269",
+        "url": "https://www.noticiasrcn.com/tendencias/jhorman-toloza-novio-de-alexa-torrex-de-la-casa-de-los-famosos-colombia-2026-habria-terminado-la-relacion-este-fue-su-mensaje-1008744",
+        "sub_categories": [
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260405001500-T328",
+        "url": "https://www.razon.com.mx/estados/2026/04/04/ricardo-gallardo-encabeza-inauguracion-de-parque-acuatico-dino-oasis-en-en-tangamanga-i/",
+        "sub_categories": [
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
       }
     ]
   }
