@@ -3,114 +3,6 @@
     "status": "success",
     "data": [
       {
-        "id": "20260405211500-T581",
-        "url": "https://www.leral.net/Lamb-Sa-Thies-devient-le-9e-Roi-des-Arenes-apres-sa-victoire-eclair-sur-Modou-Lo_a397029.html",
-        "sub_categories": [
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "주요 서브컬처 이슈",
-        "hook": "최신 서브컬처 동향입니다.",
-        "script": "생성된 대본이 없습니다."
-      },
-      {
-        "id": "20260405230000-266",
-        "url": "https://comicbook.com/anime/feature/8-years-later-one-piece-finally-unveils-the-face-of-its-main-villain/",
-        "sub_categories": [
-          "Anime",
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "주요 서브컬처 이슈",
-        "hook": "최신 서브컬처 동향입니다.",
-        "script": "생성된 대본이 없습니다."
-      },
-      {
-        "id": "20260405230000-352",
-        "url": "https://comicbook.com/anime/feature/chainsaw-man-returns-in-the-best-way-possible-that-fans-wont-believe/",
-        "sub_categories": [
-          "Anime",
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "주요 서브컬처 이슈",
-        "hook": "최신 서브컬처 동향입니다.",
-        "script": "생성된 대본이 없습니다."
-      },
-      {
-        "id": "20260405230000-117",
-        "url": "https://comicbook.com/anime/feature/17-years-ago-today-dragon-ball-z-got-the-anime-reboot-it-desperately-needed/",
-        "sub_categories": [
-          "Anime",
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "주요 서브컬처 이슈",
-        "hook": "최신 서브컬처 동향입니다.",
-        "script": "생성된 대본이 없습니다."
-      },
-      {
-        "id": "20260405230000-457",
-        "url": "https://gamerant.com/dragon-ball-strongest-characters-weaker-than-gohan-ranked/",
-        "sub_categories": [
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "주요 서브컬처 이슈",
-        "hook": "최신 서브컬처 동향입니다.",
-        "script": "생성된 대본이 없습니다."
-      },
-      {
-        "id": "20260405230000-400",
-        "url": "https://gamerant.com/one-piece-oda-crafted-perfect-arc-with-elbaph/",
-        "sub_categories": [
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "주요 서브컬처 이슈",
-        "hook": "최신 서브컬처 동향입니다.",
-        "script": "생성된 대본이 없습니다."
-      },
-      {
-        "id": "20260405221500-164",
-        "url": "https://screenrant.com/welcome-demon-school-iruma-kun-shonen-return-one-piece/",
-        "sub_categories": [
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "주요 서브컬처 이슈",
-        "hook": "최신 서브컬처 동향입니다.",
-        "script": "생성된 대본이 없습니다."
-      },
-      {
         "id": "20260404234500-59",
         "url": "https://gamerant.com/agents-of-the-four-seasons-when-where-to-watch/",
         "sub_categories": [
@@ -126,8 +18,8 @@
         "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260402234500-T289",
-        "url": "https://news.mail.ru/politics/70399295/",
+        "id": "20260407230000-252",
+        "url": "https://k99wigm.com/entertainment-news/6e4bee2f9bc38e006671baa43861fbd9",
         "sub_categories": [
           "Manga"
         ],
@@ -141,8 +33,8 @@
         "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260402234500-T383",
-        "url": "https://toyokeizai.net/articles/-/939885",
+        "id": "20260407230000-770",
+        "url": "https://gamerant.com/one-piece-imu-kaguya-final-villain/",
         "sub_categories": [
           "Manga"
         ],
@@ -156,8 +48,8 @@
         "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260402234500-630",
-        "url": "https://www.el-balad.com/16900215",
+        "id": "20260407230000-687",
+        "url": "https://gamerant.com/weakest-shonen-protagonists-ranked/",
         "sub_categories": [
           "Manga"
         ],
@@ -171,8 +63,8 @@
         "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260402233000-T551",
-        "url": "https://www.zazoom.it/2026-04-03/un-classico-dinfanzia-ritorna-con-una-nuova-saga/18934457/",
+        "id": "20260407230000-1090",
+        "url": "https://ktbb.com/post/?p=1494457",
         "sub_categories": [
           "Manga"
         ],
@@ -186,8 +78,8 @@
         "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260404224500-T726",
-        "url": "https://br.ign.com/one-piece-2/151986/news/quantos-capitulos-o-manga-de-one-piece-teria-atualmente-se-eiichiro-oda-nunca-tivesse-feito-pausas",
+        "id": "20260407224500-478",
+        "url": "https://wadk.com/entertainment-news/55bc50bd1a8fc66f8d31a1526ba2a315",
         "sub_categories": [
           "Manga"
         ],
@@ -201,8 +93,8 @@
         "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260404224500-T754",
-        "url": "https://br.ign.com/descontos/152098/news/oferta-44-box-de-demon-slayer-com-volumes-1-ao-23-esta-com-47-de-desconto-na-amazon-por-tempo-limita",
+        "id": "20260407224500-116",
+        "url": "https://1019thekeg.com/2026/04/07/one-piece-season-3-gets-title-at-netflix/",
         "sub_categories": [
           "Manga"
         ],
@@ -216,8 +108,8 @@
         "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260330234500-T385",
-        "url": "https://news.livedoor.com/article/detail/30875652/",
+        "id": "20260407224500-107",
+        "url": "https://screenrant.com/one-piece-netflix-remake-update-2026/",
         "sub_categories": [
           "Manga"
         ],
@@ -231,8 +123,8 @@
         "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260331234500-1414",
-        "url": "https://gamerant.com/one-piece-kid-law-next-role-final-saga/",
+        "id": "20260407224500-398",
+        "url": "https://www.1073modfm.com/syndicated-article/?id=1663750",
         "sub_categories": [
           "Manga"
         ],
@@ -246,83 +138,8 @@
         "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260405003000-T462",
-        "url": "https://palestinemonitor.org/index.php/Katsuki-Impression-3D-Confortable-Pour-Homme-Et-Femme-m-327495",
-        "sub_categories": [
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "주요 서브컬처 이슈",
-        "hook": "최신 서브컬처 동향입니다.",
-        "script": "생성된 대본이 없습니다."
-      },
-      {
-        "id": "20260405004500-T382",
-        "url": "https://www.cretalive.gr/kosmos/o-iaponas-iroas-naroyto-prosgeiothike-sti-gallia-binteo",
-        "sub_categories": [
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "주요 서브컬처 이슈",
-        "hook": "최신 서브컬처 동향입니다.",
-        "script": "생성된 대본이 없습니다."
-      },
-      {
-        "id": "20260405004500-T722",
-        "url": "https://www.punjabitribuneonline.com/news/malwa/chandbhan-anti-coercion-action-committees-victorious-rally/",
-        "sub_categories": [
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "주요 서브컬처 이슈",
-        "hook": "최신 서브컬처 동향입니다.",
-        "script": "생성된 대본이 없습니다."
-      },
-      {
-        "id": "20260405010000-T780",
-        "url": "https://www.excite.co.jp/news/article/Escala_3172755/",
-        "sub_categories": [
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "주요 서브컬처 이슈",
-        "hook": "최신 서브컬처 동향입니다.",
-        "script": "생성된 대본이 없습니다."
-      },
-      {
-        "id": "20260405010000-T777",
-        "url": "https://www.excite.co.jp/news/article/Inside_179527/",
-        "sub_categories": [
-          "Manga"
-        ],
-        "is_gacha": false,
-        "macro_tag": null,
-        "matched_game": null,
-        "market_monopoly": false,
-        "impact": "Normal",
-        "keyword": "주요 서브컬처 이슈",
-        "hook": "최신 서브컬처 동향입니다.",
-        "script": "생성된 대본이 없습니다."
-      },
-      {
-        "id": "20260405013000-T21",
-        "url": "https://www.excite.co.jp/news/article/Animeanime_97518/",
+        "id": "20260407220000-948",
+        "url": "https://comicbook.com/anime/news/netflixs-one-piece-season-3-confirms-first-story-details-ahead-of-2027-debut/",
         "sub_categories": [
           "Anime",
           "Manga"
@@ -337,8 +154,8 @@
         "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260405014500-41",
-        "url": "https://gamerant.com/modern-shonen-manga-that-still-dont-have-anime-adaptations/",
+        "id": "20260407220000-162",
+        "url": "https://comicbook.com/anime/news/witch-hat-atelier-exec-explains-the-animes-many-changes-from-the-manga/",
         "sub_categories": [
           "Anime",
           "Manga"
@@ -353,8 +170,24 @@
         "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260405000000-T269",
-        "url": "https://www.noticiasrcn.com/tendencias/jhorman-toloza-novio-de-alexa-torrex-de-la-casa-de-los-famosos-colombia-2026-habria-terminado-la-relacion-este-fue-su-mensaje-1008744",
+        "id": "20260407220000-1269",
+        "url": "https://comicbook.com/anime/list/anime-with-the-worst-release-schedules-ranked/",
+        "sub_categories": [
+          "Anime",
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260407220000-223",
+        "url": "https://wtmx.com/one-piece-season-3-gets-title-at-netflix/",
         "sub_categories": [
           "Manga"
         ],
@@ -368,8 +201,173 @@
         "script": "생성된 대본이 없습니다."
       },
       {
-        "id": "20260405001500-T328",
-        "url": "https://www.razon.com.mx/estados/2026/04/04/ricardo-gallardo-encabeza-inauguracion-de-parque-acuatico-dino-oasis-en-en-tangamanga-i/",
+        "id": "20260407213000-349",
+        "url": "https://www.1015vibe.com/entertainment/one-piece-season-3-gets-title-netflix/ZKP7IJFZ5YZZ3G3ZQPVNIMICWU/",
+        "sub_categories": [
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260407213000-15",
+        "url": "https://wondradio.com/abc-entertainment/9f25e0d8ff645280da30c6c8bac7eb8c",
+        "sub_categories": [
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260407213000-434",
+        "url": "https://www.river105.com/syndicated-article/?id=1663750",
+        "sub_categories": [
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260407213000-1276",
+        "url": "https://www.kix953.com/syndicated-article/?id=1663750",
+        "sub_categories": [
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260407234500-215",
+        "url": "https://theworld.org/segments/2026/04/07/the-worlds-best-comics-store-says-immersive-fantasy-is-key-to-its-success",
+        "sub_categories": [
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260407234500-696",
+        "url": "https://mixx993.com/abc-news-entertainment/55bc50bd1a8fc66f8d31a1526ba2a315",
+        "sub_categories": [
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260407234500-283",
+        "url": "https://www.987thebull.com/syndicated-article/?id=1663750",
+        "sub_categories": [
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260408213000-535",
+        "url": "https://gamerant.com/dragon-ball-super-manga-future-spine-art/",
+        "sub_categories": [
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260408213000-909",
+        "url": "https://gamerant.com/one-piece-devil-fruits-rival-yamato-inu-inu-no-mi-model-okuchi-no-makami/",
+        "sub_categories": [
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260406233000-T100",
+        "url": "https://www.ensonhaber.com/gundem/sehit-polis-seckin-yalcinin-naasi-memleketi-elazigda",
+        "sub_categories": [
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260407231500-529",
+        "url": "https://www.yoursourceone.com/entertainment/one-piece-season-3-gets-title-at-netflix/article_9773bdda-8ac3-52f4-99b8-c71209368e2d.html",
+        "sub_categories": [
+          "Manga"
+        ],
+        "is_gacha": false,
+        "macro_tag": null,
+        "matched_game": null,
+        "market_monopoly": false,
+        "impact": "Normal",
+        "keyword": "주요 서브컬처 이슈",
+        "hook": "최신 서브컬처 동향입니다.",
+        "script": "생성된 대본이 없습니다."
+      },
+      {
+        "id": "20260407231500-648",
+        "url": "https://www.slashfilm.com/2142567/netflix-one-piece-season-3-what-is-the-battle-of-alabasta/",
         "sub_categories": [
           "Manga"
         ],
