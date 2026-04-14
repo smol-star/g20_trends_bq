@@ -6,6 +6,22 @@ from datetime import datetime, timezone, timedelta
 import bq_engine
 import ai_processor
 
+# G20 FIPS 코드 -> 국가명 매핑
+FIPS_TO_COUNTRY = {
+    'US': 'United States', 'CH': 'China', 'GM': 'Germany', 'JA': 'Japan',
+    'IN': 'India', 'UK': 'United Kingdom', 'FR': 'France', 'IT': 'Italy',
+    'BR': 'Brazil', 'CA': 'Canada', 'RS': 'Russia', 'MX': 'Mexico',
+    'AS': 'Australia', 'KS': 'South Korea', 'ID': 'Indonesia', 'TU': 'Turkey',
+    'SA': 'Saudi Arabia', 'AR': 'Argentina', 'SF': 'South Africa'
+}
+
+def extract_country(v2locations_str):
+    """V2Locations 문자열에서 첫 번째로 발견된 G20 국가를 추출"""
+    for fips, name in FIPS_TO_COUNTRY.items():
+        if f'#{fips}#' in str(v2locations_str):
+            return name
+    return 'Unknown'
+
 def process_gkg():
     print(f"[{datetime.now()}] GKG 트렌드 (라이프스타일) 데이터 수집 시작...")
     df = bq_engine.verify_and_fetch_gkg_data()
@@ -39,7 +55,9 @@ def process_gkg():
         # 라이프스타일 필터 (CULTURE 단독, LIFESTYLE, TOURISM, FASHION 등 포함)
         if re.search(r'\bCULTURE\b|LIFESTYLE|TOURISM|FASHION', themes):
             if url != 'None' and url not in seen_lifestyle_urls and len(lifestyle_themes_to_ai) < 15:
-                lifestyle_themes_to_ai[rid] = {'url': url, 'themes': themes}
+                locations = str(row.get('V2Locations', ''))
+                country = extract_country(locations)
+                lifestyle_themes_to_ai[rid] = {'url': url, 'themes': themes, 'country': country}
                 seen_lifestyle_urls.add(url)
                 
     print(f"라이프스타일 {len(lifestyle_themes_to_ai)}건 AI 요약 요청...")
@@ -52,6 +70,7 @@ def process_gkg():
         lifestyle_data.append({
             "id": rid,
             "url": info['url'],
+            "country": info.get('country', 'Unknown'),
             "keyword": ai_data.get('headline', '일반 라이프스타일 트렌드'),
             "hook": ai_data.get('hook', '새로운 라이프스타일 트렌드가 관찰되었습니다.'),
             "script": ai_data.get('script', '생성된 대본이 없습니다.')

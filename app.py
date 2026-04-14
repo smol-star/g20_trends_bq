@@ -98,9 +98,22 @@ def render_lifestyle(trends):
     if not trends:
         st.write("최근 수집된 관련 트렌드 데이터가 없습니다.")
         return
-        
+
+    COUNTRY_TO_FLAG = {
+        'United States': 'us', 'China': 'cn', 'Germany': 'de', 'Japan': 'jp',
+        'India': 'in', 'United Kingdom': 'gb', 'France': 'fr', 'Italy': 'it',
+        'Brazil': 'br', 'Canada': 'ca', 'Russia': 'ru', 'Mexico': 'mx',
+        'Australia': 'au', 'South Korea': 'kr', 'Indonesia': 'id', 'Turkey': 'tr',
+        'Saudi Arabia': 'sa', 'Argentina': 'ar', 'South Africa': 'za'
+    }
+
     for t in trends:
-        st.markdown(f"<h4 style='color: #2E7D32;'>✨ {t.get('keyword', '')}</h4>", unsafe_allow_html=True)
+        country = t.get('country', '')
+        flag_code = COUNTRY_TO_FLAG.get(country, 'un')
+        if country and country != 'Unknown':
+            flag_html = f"<img src='https://flagcdn.com/w28/{flag_code}.png' width='22' style='vertical-align:middle; border-radius:3px; margin-right:6px;'><span style='font-size:0.85em; color:#555; vertical-align:middle;'>{country}</span>"
+            st.markdown(f"<div style='margin-bottom:4px;'>{flag_html}</div>", unsafe_allow_html=True)
+        st.markdown(f"<h4 style='color: #2E7D32; margin-top:2px;'>✨ {t.get('keyword', '')}</h4>", unsafe_allow_html=True)
         st.markdown(f"<div style='border-left: 4px solid #4CAF50; padding: 10px; background-color: #F1F8E9; margin-bottom: 10px;'>💡 <b>{t.get('hook', '')}</b></div>", unsafe_allow_html=True)
         with st.expander("👉 트렌드 매거진 에디터 대본 보기"):
             st.info(t.get('script', ''))
