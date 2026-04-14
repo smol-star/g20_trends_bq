@@ -1,4 +1,4 @@
-name: BQ-GKG Lifestyle & Subculture Scraper
+name: BQ-GKG Lifestyle Scraper
 
 on:
   schedule:
@@ -50,7 +50,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add -A
-          git commit -m "BQ-GKG: Auto-update Lifestyle & Subculture trends [skip ci]" || echo "No changes to commit"
+          git commit -m "BQ-GKG: Auto-update Lifestyle trends [skip ci]" || echo "No changes to commit"
           for i in 1 2 3; do
             git pull --rebase origin main && git push && break
             echo "Push attempt $i failed, retrying..."
