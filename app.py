@@ -107,36 +107,6 @@ def render_lifestyle(trends):
             st.markdown(f"[🔗 관련 보도/스레드 원문 이동]({t.get('url', '#')})")
         st.divider()
 
-def render_subculture(trends):
-    st.markdown("<br><h3>🎮 서브컬처 & 코어 게임 리뷰</h3>", unsafe_allow_html=True)
-    
-    if trends and trends[0].get('market_monopoly'):
-        st.warning("🚨 [Macro Tracker] 상위 12개 핵심 게임 라인업이 현재 전체 서브컬처 트래픽의 70% 이상을 장악하며 시장 내 간섭 현상(Cannibalization)을 주도하고 있습니다.")
-        
-    for t in trends:
-        badges = []
-        if 'Gacha Game' in t.get('sub_categories', []):
-            badges.append("🎲 가챠(Gacha)")
-        if 'Anime' in t.get('sub_categories', []):
-            badges.append("📺 애니(Anime)")
-            
-        badge_html = " ".join([f"<span style='background-color: #607D8B; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.8em;'>{b}</span>" for b in badges])
-        
-        # Macro 게임의 경우 특별 뱃지 적용
-        if t.get('macro_tag'):
-            color = "#E91E63" if t.get('macro_tag') == "Market_Leader" else "#9C27B0"
-            macro_badge = f"<span style='background-color: {color}; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.8em; margin-left: 8px;'>#{t.get('macro_tag')} ({t.get('matched_game')})</span>"
-            badge_html += macro_badge
-            
-        st.markdown(f"<h4 style='color: #E91E63;'>🔥 {t.get('keyword', '')} {badge_html}</h4>", unsafe_allow_html=True)
-        st.markdown(f"<div style='border-left: 4px solid #E91E63; padding: 10px; background-color: #FCE4EC; margin-bottom: 10px;'>💡 <b>{t.get('hook', '')}</b></div>", unsafe_allow_html=True)
-        with st.expander("👉 전문 리뷰어 심층 분석 리딩 대본"):
-            st.info(t.get('script', ''))
-            st.write(f"⚠️ 매크로 영향력 설정: **{t.get('impact', 'Normal')}**")
-            url = t.get('url', '#')
-            if url != "None":
-                st.markdown(f"[🔗 관련 출처 및 원문 링크]({url})")
-        st.divider()
 
 page = st.sidebar.radio("메뉴", ["실시간 AI 심층 브리핑", "과거 기록 보기"])
 
@@ -154,7 +124,7 @@ if page == "실시간 AI 심층 브리핑":
     </div>
     """, unsafe_allow_html=True)
     
-    tab_news, tab_life, tab_sub = st.tabs(["[1] ⚡ 실시간 속보", "[2] 🌿 라이프스타일 뷰", "[3] 🎮 서브컬처 & 애니"])
+    tab_news, tab_life = st.tabs(["[1] ⚡ 실시간 속보", "[2] 🌿 라이프스타일 뷰"])
     
     with tab_news:
         data = load_current_data()
@@ -173,24 +143,15 @@ if page == "실시간 AI 심층 브리핑":
                 else:
                     render_lifestyle(life_data.get("data", []))
         except FileNotFoundError:
-            st.info("💡 라이프스타일 트렌드 데이터는 주 2회(월, 목 오전 7시 13분 KST) 정기 업데이트됩니다. 아직 데이터가 수집되지 않았습니다.")
-            
-    with tab_sub:
-        try:
-            with open("subculture_trends.json", "r", encoding="utf-8") as f:
-                sub_data = json.load(f)[0]
-                if sub_data.get("status") == "error":
-                    st.error(f"🚨 {sub_data.get('title')}")
-                    st.warning(sub_data.get("summary"))
-                else:
-                    render_subculture(sub_data.get("data", []))
-        except FileNotFoundError:
-            st.info("💡 서브컬처 및 시장 파급력 데이터는 주 2회(월, 목 오전 7시 13분 KST) 정기 업데이트됩니다. 아직 데이터가 수집되지 않았습니다.")
+            st.info("💡 라이프스타일 트렌드 데이터는 정기적으로 수집됩니다. 아직 데이터가 수집되지 않았습니다.")
 else:
     st.title("📜 BQ-AI 과거 데이터 기록소")
-    st.markdown("매시간 수집되어 보존된 과거 기록 스냅샷을 열람할 수 있습니다.")
+    from datetime import datetime
+    st.markdown("매시간 수집되어 보존된 과거 기록 스냅샷을 열람할 수 있습니다. (뉴스 속보 및 라이프스타일)")
     
-    archive_dir = "hourly_archive"
+    archive_type = st.radio("📂 기록 종류 선택", ["뉴스 속보", "라이프스타일"])
+    archive_dir = "hourly_archive" if archive_type == "뉴스 속보" else "hourly_archive_lifestyle"
+    
     if not os.path.exists(archive_dir):
         st.warning("🗂️ 아직 수집되어 저장된 과거 기록이 없습니다. 데이터가 쌓일 때까지 기다려 주세요.")
     else:
@@ -198,28 +159,42 @@ else:
         if not dates:
             st.warning("🗂️ 아직 수집되어 저장된 시간별 기록이 없습니다.")
         else:
+            def format_date(d_str):
+                try:
+                    dt = datetime.strptime(d_str, "%Y-%m-%d")
+                    days = ["월", "화", "수", "목", "금", "토", "일"]
+                    return f"{d_str} ({days[dt.weekday()]})"
+                except:
+                    return d_str
+                    
             col1, col2 = st.columns(2)
             with col1:
-                selected_date = st.selectbox("📅 보관 날짜 선택 (KST 기준)", dates)
+                selected_date = st.selectbox("📅 보관 날짜 선택 (KST 기준)", dates, format_func=format_date)
             
             date_dir = os.path.join(archive_dir, selected_date)
-            # JSON 파일만 필터링 후 시간(숫자) 기준 내림차순 정렬
-            hour_files = [f for f in os.listdir(date_dir) if f.endswith('.json')]
-            hours = sorted([f.replace('.json', '') for f in hour_files], reverse=True)
+            if os.path.isdir(date_dir):
+                hour_files = [f for f in os.listdir(date_dir) if f.endswith('.json')]
+                hours = sorted([f.replace('.json', '') for f in hour_files], reverse=True)
+            else:
+                hours = []
             
             with col2:
                 if not hours:
                     st.selectbox("⏰ 시간 선택", ["기록 없음"])
+                    selected_hour = None
                 else:
                     selected_hour = st.selectbox("⏰ 수집 시간 선택", hours, format_func=lambda x: f"{x}시 스냅샷")
             
-            if hours:
+            if hours and selected_hour:
                 st.markdown("<br>", unsafe_allow_html=True)
                 file_path = os.path.join(date_dir, f"{selected_hour}.json")
                 try:
                     with open(file_path, "r", encoding="utf-8") as f:
                         archive_data = json.load(f)
-                    st.success(f"✅ {selected_date} {selected_hour}시에 저장된 역사적 글로벌 트렌드 기록입니다.")
-                    render_dashboard(archive_data, f"{selected_date} {selected_hour}시 (과거 아카이브)")
+                    st.success(f"✅ {format_date(selected_date)} {selected_hour}시에 저장된 역사적 글로벌 트렌드 기록입니다.")
+                    if archive_type == "뉴스 속보":
+                        render_dashboard(archive_data, f"{format_date(selected_date)} {selected_hour}시 (속보 아카이브)")
+                    else:
+                        render_lifestyle(archive_data[0].get("data", []) if isinstance(archive_data, list) and archive_data else [])
                 except Exception as e:
                     st.error(f"기록 파일을 읽는데 실패했습니다: {e}")
