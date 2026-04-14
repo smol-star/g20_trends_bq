@@ -1,7 +1,7 @@
 streamlit
 google-cloud-bigquery
 db-dtypes
-google-generativeai
+google-genai
 pandas
 python-dotenv
 fpdf
