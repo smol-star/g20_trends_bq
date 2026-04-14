@@ -81,3 +81,4 @@ def process_gkg():
     print("GKG 데이터 로직 완료 및 파일 저장 성공!")
 
 if __name__ == "__main__":
+    process_gkg()
