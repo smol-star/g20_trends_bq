@@ -1,10 +1,10 @@
 {
     "United States": {
         "gdp_rank": 1,
-        "spike_score": 1320.0,
+        "spike_score": 1196.5,
         "trends": [
             {
-                "record_id": "1327204036",
+                "record_id": "1327203385",
                 "url": "https://www.pilotonline.com/2026/10/09/health-ai-tech-leaders-chat-room-lobbying/",
                 "related_urls": [],
                 "title": "",
@@ -25,8 +25,8 @@
                 "tone": -7.14285714285715,
                 "score": 367.0,
                 "keyword": "펜실베이니아 총기 참사",
-                "hook": "평화롭던 마을이 순식간에 피로 물들었습니다, 현재까지 확인된 사망자만 9명입니다.",
-                "script": "펜실베이니아에서 발생한 끔찍한 총기 난사 사건. 용의자를 포함해 9명이 목숨을 잃었습니다. 경찰이 현장을 봉쇄하고 수사를 진행 중인 가운데, 지역 사회는 충격에 빠졌습니다. 추가 정보 들어오는 대로 다시 전해드립니다.",
+                "hook": "평화롭던 마을이 순식간에 피로 물들었습니다.",
+                "script": "펜실베이니아에서 발생한 총기 난사 사건으로 용의자를 포함해 9명이 사망했습니다. 경찰이 현장을 봉쇄하고 수사를 벌이고 있지만, 지역 사회는 큰 충격에 빠졌습니다. 정확한 범행 동기는 아직 밝혀지지 않았습니다.",
                 "sentiment": "warning"
             },
             {
@@ -38,18 +38,11 @@
                 "sources": 6,
                 "goldstein": 7.0,
                 "tone": -6.79436152570482,
-                "score": 303.0
-            },
-            {
-                "record_id": "1327325952",
-                "url": "https://www.wjcl.com/article/after-60-years-america-puts-a-reactor-back-in-space/74099568",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": 7.0,
-                "tone": 2.44252873563219,
-                "score": 106.5
+                "score": 199.0,
+                "keyword": "뉴욕 이민청 총격",
+                "hook": "뉴욕 도심 한복판에서 긴박한 총격전이 벌어졌습니다.",
+                "script": "ICE 요원들이 위험 인물로 지목된 남성을 향해 총격을 가했습니다. 현장은 일촉즉발의 상황이었으며, 당국은 이번 작전이 공공 안전을 위한 조치였다고 밝혔습니다. 부상자 규모와 정확한 경위는 확인 중입니다.",
+                "sentiment": "negative"
             },
             {
                 "record_id": "1327287990",
@@ -61,14 +54,29 @@
                 "goldstein": -10.0,
                 "tone": 0.704676489429859,
                 "score": 87.0
+            },
+            {
+                "record_id": "1327346199",
+                "url": "https://1190kex.iheart.com/content/2026-10-11-doj-probes-tv-networks-over-trump-pool-coverage-suspension/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 72,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -4.9645390070922,
+                "score": 87.0,
+                "keyword": "트럼프 보도 조사",
+                "hook": "미 법무부가 주요 방송사를 겨냥한 칼을 빼 들었습니다.",
+                "script": "트럼프 전 대통령의 풀 커버리지 중단 사태와 관련해 DOJ가 방송사들에 대한 본격적인 조사에 착수했습니다. 언론의 자유와 편향성 논란이 정면충돌하며 정치적 파장이 일파만파 커지고 있습니다.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-11 14:42:02 KST",
+        "last_updated": "2026-10-11 21:44:35 KST",
         "current_rank": 1
     },
     "Saudi Arabia": {
         "gdp_rank": 17,
-        "spike_score": 1100.5,
+        "spike_score": 1183.5,
         "trends": [
             {
                 "record_id": "1327325681",
@@ -80,24 +88,41 @@
                 "goldstein": -10.0,
                 "tone": -6.25068498897858,
                 "score": 518.0,
-                "keyword": "리야드 테러 대응",
-                "hook": "리야드 공항 테러 직후, 트럼프가 참전 가능성을 시사했습니다.",
-                "script": "사우디 공항을 향한 공격으로 상황이 급박하게 돌아가고 있습니다. 미국 정부가 후티 반군을 향한 군사 개입 카드를 만지작거리고 있습니다. 중동의 전운이 최고조에 달했습니다.",
+                "keyword": "공항 테러 참사",
+                "hook": "리야드 공항이 피로 물들었습니다. 트럼프가 개입을 시사했습니다.",
+                "script": "사우디아라비아 리야드 공항에서 대규모 테러가 발생했습니다. 수많은 사상자가 발생한 가운데, 트럼프 전 대통령이 후티 반군과의 전쟁 참여를 검토하고 있습니다.",
                 "sentiment": "warning"
             },
             {
                 "record_id": "1327325682",
                 "url": "https://www.dunfermlinepress.com/news/national/26625812.12-killed-attack-riyadh-airport---saudi-authorities/",
-                "related_urls": [],
+                "related_urls": [
+                    "https://www.somersetcountygazette.co.uk/news/national/26625877.12-killed-hundreds-injured-attack-riyadh-airport/"
+                ],
                 "title": "",
                 "mentions": 120,
                 "sources": 13,
                 "goldstein": -10.0,
                 "tone": -6.94865882859467,
-                "score": 287.0,
-                "keyword": "공항 테러 참사",
-                "hook": "평화롭던 공항이 순식간에 아비규환의 지옥으로 변했습니다.",
-                "script": "사우디 리야드 공항에서 발생한 테러로 12명이 사망했습니다. 출입국 인파로 붐비던 공항은 순식간에 비명과 화염에 휩싸였습니다. 테러의 배후를 찾는 긴박한 현장 소식입니다.",
+                "score": 333.0,
+                "keyword": "사망자 12명 발생",
+                "hook": "평화롭던 공항이 순식간에 아수라장이 되었습니다.",
+                "script": "리야드 공항 테러로 최소 12명이 사망했습니다. 사우디 당국은 즉각 비상사태를 선포했습니다. 현장의 긴박한 상황을 실시간으로 전합니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327368011",
+                "url": "https://www.index.hr/vijesti/clanak/masakr-na-aerodromu-u-rijadu-12-mrtvih-vise-od-300-ozlijedjenih/2844304.aspx?index_ref=homepage_comment_box_d&commentId=12218512",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -10.6796116504854,
+                "score": 130.0,
+                "keyword": "리야드 대규모 학살",
+                "hook": "300명 이상의 사상자가 발생한 리야드 공항의 참혹한 현장입니다.",
+                "script": "믿을 수 없는 비극입니다. 리야드 공항에서 발생한 테러로 12명이 숨지고 300명이 넘는 사람들이 다쳤습니다. 테러의 배후를 추적합니다.",
                 "sentiment": "negative"
             },
             {
@@ -110,9 +135,9 @@
                 "goldstein": -10.0,
                 "tone": -6.91777723619531,
                 "score": 104.5,
-                "keyword": "사우디 테러 피해",
-                "hook": "리야드 공항 테러 현장에서 수많은 사상자가 쏟아지고 있습니다.",
-                "script": "리야드 공항을 타격한 테러 공격으로 현장은 처참합니다. 당국은 긴급 구조 작업을 벌이고 있지만, 사망자 수가 계속해서 늘고 있습니다. 테러범들의 다음 표적은 어디일까요?",
+                "keyword": "공항 공격 긴급",
+                "hook": "사우디 수도 한복판, 공항이 공격받았습니다.",
+                "script": "사우디아라비아 리야드 공항이 또다시 테러의 표적이 됐습니다. 사상자가 속출하는 가운데, 현장은 공포에 질려 있습니다. 지금 무슨 일이 벌어지고 있습니까?",
                 "sentiment": "negative"
             },
             {
@@ -125,86 +150,91 @@
                 "goldstein": -10.0,
                 "tone": -5.09351614634491,
                 "score": 98.0,
-                "keyword": "공항 재차 공격",
-                "hook": "또다시 뚫린 리야드 공항, 반복되는 테러에 사우디가 떨고 있습니다.",
-                "script": "수도 리야드의 핵심 관문인 공항이 또다시 테러 공격을 받았습니다. 반복되는 보안 구멍과 끊이지 않는 위협에 사우디 안보 체계가 뿌리째 흔들리고 있습니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1327325639",
-                "url": "https://www.mirror.co.uk/news/world-news/riyadh-airport-attack-kills-12-37759102",
-                "related_urls": [],
-                "title": "",
-                "mentions": 62,
-                "sources": 6,
-                "goldstein": -10.0,
-                "tone": -6.99426704593069,
-                "score": 93.0,
-                "keyword": "테러 사망자 속출",
-                "hook": "리야드 공항 테러의 비극, 12명의 무고한 생명이 희생되었습니다.",
-                "script": "공항을 겨냥한 테러로 최소 12명이 목숨을 잃었습니다. 평범한 일상을 살아가던 사람들이 테러의 희생양이 된 이번 사건에 전 세계가 분노하고 있습니다.",
-                "sentiment": "negative"
+                "keyword": "반복되는 공항 테러",
+                "hook": "사우디 수도의 관문, 리야드 공항이 또다시 테러 위협에 노출됐습니다.",
+                "script": "리야드 공항에 대한 공격이 계속되고 있습니다. 반복되는 테러에 사우디의 보안 시스템이 뚫렸습니다. 중동 정세가 급변하고 있습니다.",
+                "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-11 14:42:02 KST",
+        "last_updated": "2026-10-11 21:44:35 KST",
         "current_rank": 2
     },
-    "Canada": {
-        "gdp_rank": 10,
-        "spike_score": 860.0,
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 941.0,
         "trends": [
             {
-                "record_id": "1327325860",
-                "url": "https://www.dunfermlinepress.com/news/national/26625812.12-killed-attack-riyadh-airport---saudi-authorities/",
-                "related_urls": [],
+                "record_id": "1327294663",
+                "url": "https://www.nwemail.co.uk/news/national/26625460.several-arrests-made-thousands-descend-london-pro-palestine-protest/",
+                "related_urls": [
+                    "https://www.redditchadvertiser.co.uk/news/national/26625460.several-arrests-made-thousands-descend-london-pro-palestine-protest/"
+                ],
                 "title": "",
-                "mentions": 128,
-                "sources": 16,
-                "goldstein": -4.0,
-                "tone": -6.80706647487733,
-                "score": 778.0,
-                "keyword": "리야드 공항 테러",
-                "hook": "평화롭던 리야드 공항이 핏빛 참극으로 변했습니다.",
-                "script": "12명이 사망했습니다. 사우디 공항을 덮친 갑작스러운 공격으로 현장은 아수라장이 됐습니다. 테러의 배후와 목적을 지금 분석합니다.",
+                "mentions": 48,
+                "sources": 6,
+                "goldstein": -9.0,
+                "tone": -7.40131578947368,
+                "score": 308.0,
+                "keyword": "런던 도심 시위",
+                "hook": "런던 중심부가 수천 명의 시위대로 마비되었습니다.",
+                "script": "팔레스타인 지지 시위가 격화되면서 런던 경찰이 대규모 체포 작전에 나섰습니다. 도심 곳곳이 통제되고 있으며, 시민들의 불안감은 극에 달하고 있습니다.",
                 "sentiment": "warning"
             },
             {
-                "record_id": "1327290632",
-                "url": "https://www.brandonsun.com/lifestyles/2026/10/10/the-airport-in-the-saudi-capital-has-been-attacked-again-officials-say",
+                "record_id": "1327325347",
+                "url": "https://www.elystandard.co.uk/news/national/26625799.tories-urge-chancellor-not-raise-tax-five-budget-tests/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 10,
+                "goldstein": -5.0,
+                "tone": -4.09556313993174,
+                "score": 215.0
+            },
+            {
+                "record_id": "1327372676",
+                "url": "https://www.times-series.co.uk/news/national/26626084.harry-meghan-set-first-joint-engagement-since-returning-uk/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 62,
+                "sources": 7,
+                "goldstein": 2.8,
+                "tone": 3.08413911661342,
+                "score": 209.0,
+                "keyword": "해리·메건 복귀",
+                "hook": "영국 왕실이 다시 한번 뜨거운 감자로 떠올랐습니다.",
+                "script": "해리 왕자와 메건 마클이 영국 복귀 후 첫 공동 공식 일정에 나섭니다. 이들의 행보 하나하나가 영국 내에서 큰 화제를 모으며 대중의 관심이 집중되고 있습니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1327349291",
+                "url": "https://www.chroniclelive.co.uk/news/property-news/fire-chief-warns-its-not-34722372",
                 "related_urls": [],
                 "title": "",
                 "mentions": 40,
                 "sources": 4,
                 "goldstein": -4.4,
-                "tone": -4.28141846423466,
-                "score": 50.0,
-                "keyword": "반복되는 공항 공격",
-                "hook": "사우디 수도 공항을 향한 두 번째 테러, 안전지대는 더 이상 없습니다.",
-                "script": "또다시 공항이 공격받았습니다. 당국이 비상 태세에 돌입했지만 불안감은 걷잡을 수 없이 커지고 있습니다. 끊이지 않는 공격의 이유를 추적합니다.",
-                "sentiment": "negative"
+                "tone": -2.72317365764871,
+                "score": 129.5
             },
             {
-                "record_id": "1327289196",
-                "url": "https://news.crossmap.com/2026/10/10/christian-pro-life-volunteer-denies-five-fresh-charges-in-abortion-buffer-zone-case/",
+                "record_id": "1327350619",
+                "url": "https://www.brentwoodlive.co.uk/news/national/uk-today/26625837.northern-lights-visible-uk-tonight/",
                 "related_urls": [],
                 "title": "",
                 "mentions": 40,
-                "sources": 1,
-                "goldstein": -2.0,
-                "tone": -7.16989930397854,
-                "score": 32.0,
-                "keyword": "낙태 반대 소송",
-                "hook": "낙태 반대 활동가가 법의 심판대에 섰습니다.",
-                "script": "버퍼 존 케이스와 관련된 새로운 5건의 혐의. 활동가는 모든 혐의를 부인하며 법적 공방을 예고했습니다. 캐나다 사회의 뜨거운 감자인 낙태 논쟁, 그 현장을 전합니다.",
-                "sentiment": "negative"
+                "sources": 4,
+                "goldstein": 2.8,
+                "tone": -1.24034197920838,
+                "score": 79.5
             }
         ],
-        "last_updated": "2026-10-11 14:42:02 KST",
+        "last_updated": "2026-10-11 21:44:35 KST",
         "current_rank": 3
     },
     "Russia": {
         "gdp_rank": 11,
-        "spike_score": 796.0,
+        "spike_score": 721.5,
         "trends": [
             {
                 "record_id": "1327222042",
@@ -215,10 +245,10 @@
                 "sources": 9,
                 "goldstein": 3.5,
                 "tone": -1.3197090983163,
-                "score": 327.5,
+                "score": 274.0,
                 "keyword": "러시아산 디젤 거부",
-                "hook": "러시아산 디젤 수입을 향해 정부가 강력한 '노'를 외쳤습니다.",
-                "script": "에너지 안보를 위한 결단입니다. 장관이 러시아산 디젤 수입을 전면 차단하겠다고 선언했습니다. 경제적 파장이 어디까지 미칠지 주목됩니다.",
+                "hook": "러시아산 디젤 수입 금지, 정부의 단호한 거절.",
+                "script": "러시아산 디젤은 절대 안 됩니다. 정부가 수입 금지라는 강수를 두며 에너지 안보 빗장을 걸어 잠갔습니다. 에너지 시장에 미칠 파장이 예고됩니다.",
                 "sentiment": "negative"
             },
             {
@@ -233,13 +263,13 @@
                 "goldstein": -5.0,
                 "tone": -2.181902154668,
                 "score": 152.5,
-                "keyword": "디젤 가격 완화",
-                "hook": "미국 중간선거를 앞두고 트럼프가 러시아와 디젤 협상 카드를 꺼냈습니다.",
-                "script": "치솟는 기름값을 잡기 위해 러시아와의 압박을 완화합니다. 정치적 계산이 깔린 이번 결정, 시장은 어떻게 반응할까요?",
-                "sentiment": "negative"
+                "keyword": "트럼프 유가 전략",
+                "hook": "중간선거 앞둔 트럼프, 러시아와 디젤 거래 추진?",
+                "script": "트럼프 전 대통령이 러시아산 디젤 수입 카드를 꺼내 들었습니다. 중간선거를 앞두고 치솟는 유가를 잡기 위한 승부수일까요, 아니면 위험한 도박일까요? 정치적 파장이 거셉니다.",
+                "sentiment": "warning"
             },
             {
-                "record_id": "1327204275",
+                "record_id": "1327204339",
                 "url": "https://newsradio710.iheart.com/content/2026-10-09-trump-announces-diesel-deal-with-russia/",
                 "related_urls": [],
                 "title": "",
@@ -249,8 +279,8 @@
                 "tone": 2.28491794708141,
                 "score": 133.0,
                 "keyword": "러시아 디젤 합의",
-                "hook": "미국과 러시아 사이의 전격적인 디젤 공급 합의가 체결됐습니다.",
-                "script": "전례 없는 에너지 협상입니다. 트럼프 전 대통령이 발표한 이번 합의가 글로벌 에너지 시장의 판도를 뒤흔들고 있습니다.",
+                "hook": "전격적인 디젤 공급 합의, 국제 에너지 시장 충격.",
+                "script": "트럼프가 러시아와 디젤 공급 합의를 발표했습니다. 국제 사회의 반발을 뒤로하고 추진되는 이번 거래가 과연 유가 안정으로 이어질지 전 세계가 주목하고 있습니다.",
                 "sentiment": "positive"
             },
             {
@@ -263,33 +293,33 @@
                 "goldstein": -8.0,
                 "tone": -7.20844853392544,
                 "score": 105.0,
-                "keyword": "러시아 정치 위기",
-                "hook": "러시아 내부에서 심상치 않은 정치적 균열이 감지되고 있습니다.",
-                "script": "정부와 지지 세력 간의 갈등이 최고조에 달했습니다. 비판적인 여론이 쏟아지며 체제 안정을 위협하고 있습니다. 러시아의 미래, 어디로 향할까요?",
-                "sentiment": "warning"
+                "keyword": "국제 사회 비판",
+                "hook": "쏟아지는 비난, 러시아와 트럼프를 향한 국제적 공분.",
+                "script": "러시아와의 거래를 두고 국제 사회가 분노하고 있습니다. 각국 전문가들의 비판이 쏟아지는 가운데, 이 거래가 가져올 정치적 대가는 무엇일까요? 지금 심층 분석합니다.",
+                "sentiment": "negative"
             },
             {
-                "record_id": "1327333857",
-                "url": "https://www.schwaebische.de/politik/nach-trump-attacke-ukrainische-regierung-stuetzt-selenskyj-4927842",
+                "record_id": "1327315303",
+                "url": "https://www.index.hr/vijesti/clanak/kako-je-trump-opet-okrenuo-ledja-ukrajini-i-udovoljio-putinu/2844290.aspx?index_tid=1184675&index_ref=naslovnica_vijesti_teme_i_komentari_d",
                 "related_urls": [],
                 "title": "",
-                "mentions": 36,
-                "sources": 5,
-                "goldstein": -10.0,
-                "tone": -2.22563521484415,
-                "score": 78.0,
-                "keyword": "젤렌스키 지지 공방",
-                "hook": "트럼프의 공격 이후 우크라이나 정부가 젤렌스키 지지를 공식화했습니다.",
-                "script": "외부의 압박에도 젤렌스키를 지키겠다는 우크라이나 정부. 내부 결속을 다지며 전면전을 예고했습니다. 전쟁의 판도가 바뀔 수 있는 결정적 순간입니다.",
-                "sentiment": "warning"
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 5.0,
+                "tone": -3.64077669902913,
+                "score": 57.0,
+                "keyword": "우크라이나 배신 논란",
+                "hook": "트럼프, 또다시 우크라이나 등 돌리고 푸틴 손잡나.",
+                "script": "트럼프의 행보가 우크라이나를 벼랑 끝으로 몰고 있습니다. 푸틴에게 유리한 결정을 내리며 국제 질서를 흔드는 트럼프. 도대체 그 속내는 무엇일까요? 지금 확인하십시오.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-11 14:42:02 KST",
+        "last_updated": "2026-10-11 21:44:35 KST",
         "current_rank": 4
     },
     "India": {
         "gdp_rank": 5,
-        "spike_score": 687.0,
+        "spike_score": 712.5,
         "trends": [
             {
                 "record_id": "1327259080",
@@ -305,15 +335,14 @@
                 "tone": -9.45454545454541,
                 "score": 450.0,
                 "keyword": "인도 대규모 시위",
-                "hook": "인도 전역이 분노로 들끓고 있습니다, 모디 정부를 향한 거센 저항입니다.",
-                "script": "청년들의 분노가 임계점을 넘었습니다. 인도 전역에서 반정부 시위가 격화되며 경찰과의 충돌이 이어지고 있습니다. 선거권 박탈 문제까지 겹치며 정국은 극도의 혼란 속으로 빠져들었습니다.",
+                "hook": "인도 전역이 분노의 함성으로 뒤덮였습니다.",
+                "script": "유권자 등록 취소 사태에 반발한 시민들이 거리로 쏟아져 나왔습니다. 모디 정부를 향한 규탄이 거세지는 가운데, 경찰이 대대적인 검거 작전을 펼치며 상황은 더욱 악화되고 있습니다.",
                 "sentiment": "warning"
             },
             {
                 "record_id": "1327222898",
                 "url": "https://indiankanoon.org/doc/166936704/",
                 "related_urls": [
-                    "https://indiankanoon.org/doc/6227666/",
                     "https://indiankanoon.org/doc/166517665/"
                 ],
                 "title": "",
@@ -321,7 +350,18 @@
                 "sources": 1,
                 "goldstein": 2.8,
                 "tone": -1.24442317397717,
-                "score": 182.5
+                "score": 145.5
+            },
+            {
+                "record_id": "1327353379",
+                "url": "https://www.westernadvocate.com.au/story/9366122/india-braces-for-second-day-of-major-protests/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 55,
+                "sources": 5,
+                "goldstein": -5.0,
+                "tone": -8.00000470156797,
+                "score": 62.5
             },
             {
                 "record_id": "1327333644",
@@ -335,74 +375,60 @@
                 "score": 54.5
             }
         ],
-        "last_updated": "2026-10-11 14:42:02 KST",
+        "last_updated": "2026-10-11 21:44:35 KST",
         "current_rank": 5
     },
-    "United Kingdom": {
-        "gdp_rank": 6,
-        "spike_score": 639.5,
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 638.0,
         "trends": [
             {
-                "record_id": "1327325347",
-                "url": "https://www.elystandard.co.uk/news/national/26625799.tories-urge-chancellor-not-raise-tax-five-budget-tests/",
+                "record_id": "1327325860",
+                "url": "https://www.dunfermlinepress.com/news/national/26625812.12-killed-attack-riyadh-airport---saudi-authorities/",
                 "related_urls": [],
                 "title": "",
-                "mentions": 100,
-                "sources": 10,
-                "goldstein": -5.0,
-                "tone": -4.09556313993174,
-                "score": 215.0
+                "mentions": 128,
+                "sources": 16,
+                "goldstein": -4.0,
+                "tone": -6.80706647487733,
+                "score": 556.0,
+                "keyword": "리야드 공항 테러",
+                "hook": "사우디 리야드 공항에서 발생한 끔찍한 유혈 사태.",
+                "script": "사우디아라비아 리야드 공항이 핏빛으로 물들었습니다. 12명이 사망한 이번 공격으로 국제 사회가 큰 충격에 빠졌습니다. 도대체 누가, 왜 이런 끔찍한 만행을 저지른 것일까요? 긴급 속보입니다.",
+                "sentiment": "warning"
             },
             {
-                "record_id": "1327294663",
-                "url": "https://www.nwemail.co.uk/news/national/26625460.several-arrests-made-thousands-descend-london-pro-palestine-protest/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 48,
-                "sources": 6,
-                "goldstein": -9.0,
-                "tone": -7.40131578947368,
-                "score": 160.5
-            },
-            {
-                "record_id": "1327284593",
-                "url": "https://www.worcesternews.co.uk/news/national/26625103.legal-challenge-bryants-decision-stop-march-heard/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 54,
-                "sources": 9,
-                "goldstein": 4.0,
-                "tone": -3.06068974281018,
-                "score": 121.0
-            },
-            {
-                "record_id": "1327347029",
-                "url": "http://www.tz.de/politik/zwoelf-tote-bei-angriff-auf-flughafen-in-riad-trump-prueft-eingreifen-zr-94534832.html",
+                "record_id": "1327290632",
+                "url": "https://www.brandonsun.com/lifestyles/2026/10/10/the-airport-in-the-saudi-capital-has-been-attacked-again-officials-say",
                 "related_urls": [],
                 "title": "",
                 "mentions": 40,
                 "sources": 4,
-                "goldstein": -10.0,
-                "tone": -9.01360544217685,
-                "score": 78.0,
-                "keyword": "리야드 공항 테러",
-                "hook": "리야드 공항에서 발생한 대규모 테러, 사망자 12명 발생으로 전 세계가 긴장하고 있습니다.",
-                "script": "리야드 공항이 핏빛으로 물들었습니다. 무장 괴한들의 습격으로 12명이 사망하는 참사가 벌어졌습니다. 트럼프 당선인이 즉각 개입을 검토하겠다고 밝히며 국제 정세가 급박하게 돌아가고 있습니다.",
+                "goldstein": -4.4,
+                "tone": -4.28141846423466,
+                "score": 50.0,
+                "keyword": "공항 재차 공격",
+                "hook": "연이은 공격, 사우디 공항이 무방비로 뚫렸다.",
+                "script": "또다시 공항이 공격받았습니다. 사우디 수도 리야드의 심장부가 반복되는 테러 위협에 노출되면서 안보 경고등이 켜졌습니다. 계속되는 공격의 배후를 추적합니다.",
                 "sentiment": "warning"
             },
             {
-                "record_id": "1327288056",
-                "url": "https://www.dunmowbroadcast.co.uk/news/national/26625471.legal-challenge-halting-drumcree-orange-parade-adjourned/",
+                "record_id": "1327289196",
+                "url": "https://news.crossmap.com/2026/10/10/christian-pro-life-volunteer-denies-five-fresh-charges-in-abortion-buffer-zone-case/",
                 "related_urls": [],
                 "title": "",
-                "mentions": 64,
-                "sources": 8,
-                "goldstein": 3.4,
-                "tone": -2.27157677831245,
-                "score": 65.0
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -7.16989930397854,
+                "score": 32.0,
+                "keyword": "낙태 금지 논란",
+                "hook": "낙태 반대 활동가, 법정에서 5가지 혐의 전면 부인.",
+                "script": "낙태 시위 현장에서 체포된 활동가가 법정에 섰습니다. 5가지 새로운 혐의를 전면 부인하며 법정 공방이 격화되고 있습니다. 과연 법은 누구의 손을 들어줄까요? 지금 주목해야 할 사건입니다.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-11 14:42:02 KST",
+        "last_updated": "2026-10-11 21:44:35 KST",
         "current_rank": 6
     },
     "Australia": {
@@ -420,8 +446,8 @@
                 "tone": -1.07430235151106,
                 "score": 156.0,
                 "keyword": "광산 보호 조치",
-                "hook": "기후 활동가들의 공격으로부터 광산을 보호하기 위한 연합의 움직임이 시작됐습니다.",
-                "script": "광산업을 지키기 위한 법적 방어막이 구축됩니다. 환경단체와의 갈등이 격화되는 가운데, 정부의 선택에 관심이 쏠립니다.",
+                "hook": "기후 활동가들의 공격, 광산을 보호하려는 정치적 움직임.",
+                "script": "기후 활동가들의 타겟이 된 광산들. 정부가 이들을 보호하기 위한 강력한 조치를 예고했습니다. 경제와 환경, 팽팽한 대립의 현장입니다.",
                 "sentiment": "negative"
             },
             {
@@ -434,9 +460,9 @@
                 "goldstein": 6.4,
                 "tone": -1.90203392663377,
                 "score": 137.0,
-                "keyword": "핸슨의 리더 지목",
-                "hook": "폴린 핸슨이 자유당 리더 후보를 직접 지목하며 정치권을 흔들었습니다.",
-                "script": "정치적 셈법이 복잡해졌습니다. 핸슨의 한마디에 자유당 내부가 술렁이고 있습니다. 차기 리더는 누가 될 것인가?",
+                "keyword": "리더 선출 갈등",
+                "hook": "핸슨 의원의 폭탄 발언, 자유당 리더 선출에 개입?",
+                "script": "자유당 리더 선출을 앞두고 폴린 핸슨이 입을 열었습니다. 그녀의 지목은 누구일까요? 정치권이 발칵 뒤집혔습니다. 지금 상황이 급변하고 있습니다.",
                 "sentiment": "negative"
             },
             {
@@ -450,8 +476,8 @@
                 "tone": 1.70689881030356,
                 "score": 102.0,
                 "keyword": "광물 로열티 공약",
-                "hook": "지역 캠페인의 핵심, 광물 로열티를 둘러싼 뜨거운 공약이 발표됐습니다.",
-                "script": "지역 경제를 살릴 확실한 카드일까? 광물 로열티를 활용한 새로운 정책이 유권자들의 마음을 흔들고 있습니다.",
+                "hook": "지역 경제 살릴 광물 로열티, 선거판 흔든다.",
+                "script": "선거 캠페인이 지역을 강타했습니다. 광물 로열티를 둘러싼 공약이 유권자들의 마음을 흔들고 있습니다. 과연 누가 이 공약으로 승기를 잡을까요?",
                 "sentiment": "positive"
             },
             {
@@ -465,8 +491,8 @@
                 "tone": -5.53270156879168,
                 "score": 96.0,
                 "keyword": "미제 사건 공포",
-                "hook": "40년이 지나도 잊히지 않는 죽음, 가족들은 여전히 공포 속에 살고 있습니다.",
-                "script": "범인은 아직 잡히지 않았습니다. 40년 전 발생한 의문의 죽음, 가족들은 매일 밤 악몽을 꿉니다. 진실을 밝히기 위한 추적은 끝나지 않았습니다.",
+                "hook": "40년 전 그날, 멈춰버린 시간과 사라지지 않는 공포.",
+                "script": "40년이 지났지만 범인은 잡히지 않았습니다. 죽음의 미스터리 속에 갇힌 가족들의 절규. 아직도 끝나지 않은 그날의 공포를 추적합니다.",
                 "sentiment": "negative"
             },
             {
@@ -479,18 +505,18 @@
                 "goldstein": -10.0,
                 "tone": -11.0764381131202,
                 "score": 92.5,
-                "keyword": "본다이 공격 기소",
-                "hook": "본다이 참사 현장에서 벌어진 충격적인 행위, 범인이 기소됐습니다.",
-                "script": "모두를 경악하게 만든 공격적인 언행. 사건 현장에서 벌어진 추악한 행동에 법이 철퇴를 내렸습니다. 정의는 실현될 수 있을까요?",
+                "keyword": "본다이 사건 가해",
+                "hook": "본다이 공격 현장에서 벌어진 충격적인 추태.",
+                "script": "비극의 현장에서 또다시 끔찍한 일이 벌어졌습니다. 본다이 공격 사건 현장에서 모욕적인 행위를 한 남성이 체포되었습니다. 분노를 금할 수 없는 현장 소식입니다.",
                 "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-11 14:42:02 KST",
+        "last_updated": "2026-10-11 21:44:35 KST",
         "current_rank": 7
     },
     "Mexico": {
         "gdp_rank": 12,
-        "spike_score": 296.0,
+        "spike_score": 328.0,
         "trends": [
             {
                 "record_id": "1327281549",
@@ -502,10 +528,10 @@
                 "goldstein": -10.0,
                 "tone": 0.49603174603174,
                 "score": 171.0,
-                "keyword": "경주마 구출 작전",
-                "hook": "죽음의 문턱에서 구조된 경주마들, 감동의 질주가 시작됩니다.",
-                "script": "호손 경주마들이 위기에서 벗어났습니다. 구조대원들의 헌신으로 새로운 삶을 찾은 말들. 인간과 동물의 끈끈한 유대를 확인하세요.",
-                "sentiment": "positive"
+                "keyword": "경주마 구조 작전",
+                "hook": "위기의 경주마들, 긴급 구조 작전이 시작됐다.",
+                "script": "갈 곳 잃은 경주마들이 생사의 갈림길에 섰습니다. 긴박한 구조 작전이 펼쳐지는 현장, 말들의 운명은 어떻게 될까요? 지금 구조 현장으로 갑니다.",
+                "sentiment": "negative"
             },
             {
                 "record_id": "1327204637",
@@ -517,10 +543,10 @@
                 "goldstein": -10.0,
                 "tone": -6.79436152570481,
                 "score": 83.0,
-                "keyword": "이민 단속 총격",
-                "hook": "뉴욕 거리에서 벌어진 충격적인 총격전, 이민단속반이 움직였습니다.",
-                "script": "위험 인물로 지목된 남성을 향해 발포했습니다. 긴박했던 당시 상황, 시민들의 안전은 보장받을 수 있을까요? 현장 상황을 단독 보도합니다.",
-                "sentiment": "warning"
+                "keyword": "용의자 총격 사건",
+                "hook": "뉴욕 거리의 총성, 경찰이 쏜 위험한 용의자.",
+                "script": "뉴욕 한복판에서 경찰이 총을 쐈습니다. 시민의 안전을 위협하던 용의자를 향한 긴박한 대응. 일촉즉발의 현장 상황을 지금 전해드립니다.",
+                "sentiment": "negative"
             },
             {
                 "record_id": "1327272305",
@@ -532,34 +558,34 @@
                 "goldstein": 3.0,
                 "tone": -0.4697592483852,
                 "score": 42.0,
-                "keyword": "에너지 주권 논란",
-                "hook": "멕시코가 에너지 주권을 지키지 못하고 있다는 날 선 비판이 쏟아집니다.",
-                "script": "빌린 에너지로 국가를 운영할 수 있을까? 멕시코의 에너지 정책에 대한 근본적인 의문이 제기됐습니다. 국가 안보의 핵심, 멕시코의 미래를 진단합니다.",
+                "keyword": "멕시코 에너지 주권",
+                "hook": "빌린 에너지로 주권을 지킬 수 있는가?",
+                "script": "멕시코의 에너지 주권이 위협받고 있습니다. 외부 의존도가 높아지며 국가 안보까지 흔들리는 상황. 과연 멕시코는 스스로 일어설 수 있을까요?",
                 "sentiment": "negative"
-            }
-        ],
-        "last_updated": "2026-10-11 14:42:02 KST",
-        "current_rank": 8
-    },
-    "Turkey": {
-        "gdp_rank": 16,
-        "spike_score": 239.5,
-        "trends": [
+            },
             {
-                "record_id": "1327308118",
-                "url": "https://www.birgun.net/haber/ankara-2-nolu-baro-baskani-ndan-itiraf-bakanlik-bize-ayricalik-tanidi-70-uyemizi-hakim-savci-yaptik-739796%20class=slide-legend-link%20target=_blank",
+                "record_id": "1327349101",
+                "url": "https://www.excelsior.com.mx/nacional/claudia-sheinbaum-inaugura-sendero-seguro-ecatepec",
                 "related_urls": [],
                 "title": "",
                 "mentions": 40,
                 "sources": 1,
-                "goldstein": 2.8,
-                "tone": -1.26582278481013,
-                "score": 121.5,
-                "keyword": "법조계 특혜 논란",
-                "hook": "공정한 법의 심판대 뒤에 숨겨진 추악한 유착 관계가 드러났습니다.",
-                "script": "앙카라 바로 회장이 충격적인 고백을 터뜨렸습니다. 정부 부처와의 밀착을 통해 70명의 회원을 판검사로 임용했다는 사실입니다. 사법 정의가 무너지는 현장을 지금 추적합니다.",
-                "sentiment": "negative"
-            },
+                "goldstein": -2.0,
+                "tone": 0.74766355140187,
+                "score": 32.0,
+                "keyword": "안전한 산책로 조성",
+                "hook": "에카테펙에 열린 안전한 산책로, 시민들의 반응은?",
+                "script": "에카테펙에 새로운 안전 산책로가 열렸습니다. 셰인바움 대통령이 직접 나선 이번 프로젝트, 범죄 없는 거리로 거듭날 수 있을까요? 현장의 목소리를 들어봅니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-11 21:44:35 KST",
+        "current_rank": 8
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 229.5,
+        "trends": [
             {
                 "record_id": "1327284175",
                 "url": "https://www.birgun.net/haber/fon-skandalinda-milyonlar-kazandi-akp-li-burokrat-hakkinda-yeni-gelisme-739771%20class=slide-link%20target=_blank",
@@ -570,10 +596,40 @@
                 "goldstein": 7.4,
                 "tone": -1.97368421052632,
                 "score": 59.0,
-                "keyword": "관료 펀드 스캔들",
-                "hook": "국민의 세금으로 배를 불린 고위 관료의 실체가 세상에 공개됩니다.",
-                "script": "펀드 스캔들 중심에 선 관료가 거액의 부당 이득을 챙긴 정황이 포착되었습니다. AKP 소속 인물들의 끊이지 않는 비리 의혹, 이번에는 얼마나 더 깊은 곳까지 썩어있는 걸까요?",
+                "keyword": "정계 펀드 스캔들",
+                "hook": "수백만 달러가 오간 거대한 펀드 스캔들의 실체가 드러났습니다.",
+                "script": "터키 정계를 뒤흔드는 충격적인 폭로가 나왔습니다. 여당 고위 관료가 연루된 거액의 펀드 사기 의혹, 그 은밀한 검은 돈의 흐름을 추적합니다.",
                 "sentiment": "negative"
+            },
+            {
+                "record_id": "1327308228",
+                "url": "https://www.birgun.net/haber/ankara-2-nolu-baro-baskani-ndan-itiraf-bakanlik-bize-ayricalik-tanidi-70-uyemizi-hakim-savci-yaptik-739796%20class=slide-legend-link%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 1.9,
+                "tone": -1.26582278481013,
+                "score": 58.5,
+                "keyword": "사법부 특혜 폭로",
+                "hook": "변호사가 법조계 인사를 직접 임명했다는 충격적인 고백이 터졌습니다.",
+                "script": "터키 법조계가 발칵 뒤집혔습니다. 바로 회장이 정부로부터 특혜를 받아 70명의 회원을 판사와 검사로 직접 심었다고 자백했습니다. 사법 시스템의 공정성이 무너지고 있습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327356675",
+                "url": "https://euronews.al/a-dini-te-drejtoni-helikopterin-erdogan-ia-beson-marta-kos-udhetimin-me-trenin-e-ri-drejt-evropes/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 5.0,
+                "tone": 0.542200540731163,
+                "score": 53.0,
+                "keyword": "에르도안 유럽행 열차",
+                "hook": "터키의 에르도안 대통령이 새로운 유럽행 열차에 탑승했습니다.",
+                "script": "터키의 새로운 외교적 행보가 시작됩니다. 에르도안 대통령이 유럽을 향한 신규 철도 노선에 직접 올라탔습니다. 이 열차가 향하는 곳은 어디일까요?",
+                "sentiment": "positive"
             },
             {
                 "record_id": "1327341036",
@@ -586,8 +642,8 @@
                 "tone": -4.73484848484849,
                 "score": 37.0,
                 "keyword": "언론 탄압 논란",
-                "hook": "진실을 보도한 기자들이 감옥으로 끌려가고 있습니다.",
-                "script": "부패한 권력은 감추고 비판적인 언론인은 탄압합니다. 정작 처벌받아야 할 범죄자들은 자유롭게 활보하는데, 진실을 밝히는 이들이 사냥감이 된 현실을 고발합니다.",
+                "hook": "범죄자는 자유롭고, 진실을 말하는 기자들만 감옥으로 향합니다.",
+                "script": "터키에서 부패한 권력을 고발하던 언론인들이 오히려 타겟이 되고 있습니다. 정의는 어디에 있습니까? 무너지는 언론 자유의 현장을 전합니다.",
                 "sentiment": "negative"
             },
             {
@@ -601,33 +657,18 @@
                 "tone": -0.944642789678497,
                 "score": 22.0,
                 "keyword": "사우디 테러 규탄",
-                "hook": "중동을 강타한 테러의 공포, 터키가 강력한 경고를 보냈습니다.",
-                "script": "사우디아라비아에서 발생한 테러 공격에 대해 터키 당국이 즉각적인 규탄 성명을 발표했습니다. 무고한 생명을 앗아가는 폭력은 그 어떤 이유로도 정당화될 수 없다는 입장을 분명히 했습니다.",
-                "sentiment": "negative"
+                "hook": "사우디아라비아를 향한 테러 행위에 터키 정부가 분노했습니다.",
+                "script": "터키 여당 대변인이 사우디아라비아에서 발생한 테러 공격을 강력히 규탄했습니다. 중동의 긴장이 최고조에 달한 가운데, 터키의 입장은 무엇일까요?",
+                "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-11 14:42:02 KST",
+        "last_updated": "2026-10-11 21:44:35 KST",
         "current_rank": 9
     },
     "Italy": {
         "gdp_rank": 8,
-        "spike_score": 206.0,
+        "spike_score": 135.0,
         "trends": [
-            {
-                "record_id": "1327245922",
-                "url": "https://www.zazoom.it/2026-10-10/crans-montana-la-svizzera-chiede-16-mln-di-euro-per-le-cure-agli-italiani-e-scontro-con-roma-che-non-paga/19781481/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 38,
-                "sources": 1,
-                "goldstein": -10.0,
-                "tone": -2.25709060295527,
-                "score": 71.0,
-                "keyword": "의료비 지급 갈등",
-                "hook": "스위스와 이탈리아, 수백억 원대 의료비 청구서를 두고 정면충돌했습니다.",
-                "script": "크란스 몬타나에서 발생한 이탈리아 국민의 치료비, 스위스가 로마에 1,600만 유로를 요구했습니다. 이탈리아 정부의 지급 거부로 외교적 마찰이 최고조에 달했습니다. 과연 누가 이 비용을 부담하게 될까요?",
-                "sentiment": "negative"
-            },
             {
                 "record_id": "1327326312",
                 "url": "https://www.wflx.com/2026/10/10/truffle-smiles-brings-taste-italy-west-palm-beach-greenmarket/",
@@ -638,9 +679,9 @@
                 "goldstein": 6.4,
                 "tone": 4.06784335355763,
                 "score": 56.0,
-                "keyword": "이탈리아 미식 전파",
-                "hook": "웨스트 팜 비치에 상륙한 정통 이탈리아의 맛, 사람들의 입맛을 사로잡았습니다.",
-                "script": "트러플 스마일즈가 선보이는 진정한 이탈리아의 풍미. 플로리다 그린마켓이 이탈리아의 향기로 가득 찼습니다. 지중해의 미식을 직접 경험해보세요.",
+                "keyword": "이탈리아 미식 열풍",
+                "hook": "웨스트 팜 비치에 상륙한 정통 이탈리아의 맛, 트러플의 유혹.",
+                "script": "이탈리아의 풍미가 미국 거리를 점령했습니다. 갓 공수한 트러플 향이 웨스트 팜 비치 그린마켓을 가득 채웠습니다. 당신의 미각을 깨울 진정한 이탈리아의 맛, 지금 바로 경험해 보십시오.",
                 "sentiment": "positive"
             },
             {
@@ -653,10 +694,10 @@
                 "goldstein": -4.0,
                 "tone": -3.10299869621903,
                 "score": 47.0,
-                "keyword": "정부 운영 난항",
-                "hook": "이탈리아 정계가 또다시 혼란에 빠지며 정부 운영에 빨간불이 켜졌습니다.",
-                "script": "정부의 정책 추진이 거센 반발에 부딪혔습니다. 내부 분열과 정책 실패 논란이 이어지며 향후 국정 운영에 막대한 차질이 예상됩니다. 이탈리아 정치권의 위기, 지금 시작됩니다.",
-                "sentiment": "negative"
+                "keyword": "이탈리아 정부 갈등",
+                "hook": "정부 내 긴장 고조, 이탈리아 정치권에 불어닥친 암운.",
+                "script": "이탈리아 정치권이 다시 한번 요동치고 있습니다. 정부 내 갈등이 수면 위로 드러나며 정책 추진에 제동이 걸렸습니다. 내부 분열의 끝은 어디일까요? 지금 이탈리아 정치 현장이 긴박하게 돌아갑니다.",
+                "sentiment": "warning"
             },
             {
                 "record_id": "1327259564",
@@ -668,36 +709,47 @@
                 "goldstein": -2.0,
                 "tone": 0.276114710626315,
                 "score": 32.0,
-                "keyword": "지역 농구 열기",
-                "hook": "작은 마을의 농구 코트에서 뜨거운 스포츠 정신이 피어오르고 있습니다.",
-                "script": "라시리티데 지역의 농구 코트, 주민들의 열정이 경기장을 뜨겁게 달굽니다. 지역사회의 화합을 이끄는 스포츠의 힘을 확인해보세요.",
+                "keyword": "스포츠 경기 결과",
+                "hook": "승부를 예측할 수 없는 코트 위 치열한 공방전.",
+                "script": "오늘 경기, 한 치의 양보도 없는 혈투가 펼쳐졌습니다. 마지막까지 결과를 알 수 없었던 짜릿한 승부의 세계. 팬들을 열광케 한 그 현장으로 지금 들어갑니다.",
                 "sentiment": "neutral"
             }
         ],
-        "last_updated": "2026-10-11 14:42:02 KST",
+        "last_updated": "2026-10-11 21:44:35 KST",
         "current_rank": 10
     },
-    "France": {
-        "gdp_rank": 7,
-        "spike_score": 109.0,
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 109.5,
         "trends": [
             {
-                "record_id": "1327283887",
-                "url": "https://www.birgun.net/haber/uluslararasi-deneyimler-konferansi-tamamlandi-kadin-dayanismasi-sinirlari-asiyor-739772%20class=slide-link%20target=_blank",
+                "record_id": "1327330273",
+                "url": "https://www.globaltimes.cn/page/202610/1371969.shtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 46,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 0.512557662737058,
+                "score": 73.5,
+                "keyword": "중국 경제 성장",
+                "hook": "중국 경제의 새로운 지표가 세계의 이목을 끌고 있습니다.",
+                "script": "글로벌 타임즈가 보도한 최신 데이터에 따르면 중국의 경제 성장이 견고한 회복세를 보이고 있습니다. 대내외적 불확실성 속에서도 탄탄한 정책적 지원이 뒷받침되고 있다는 분석입니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1327352905",
+                "url": "http://arabic.news.cn/20261011/cba2f023ba5148c78f5f80f23034b2ed/c.html",
                 "related_urls": [],
                 "title": "",
                 "mentions": 40,
                 "sources": 1,
-                "goldstein": -9.0,
-                "tone": -1.9740009629273,
-                "score": 109.0,
-                "keyword": "여성 연대 강화",
-                "hook": "국경을 넘어선 여성들의 강력한 연대가 전 세계의 주목을 받고 있습니다.",
-                "script": "국제 경험 공유 컨퍼런스가 막을 내렸습니다. 여성들의 연대가 국경이라는 장벽을 허물고 있습니다. 이제 성별과 국가를 넘어선 새로운 움직임이 시작됩니다. 이 거대한 흐름을 지금 확인하세요.",
-                "sentiment": "negative"
+                "goldstein": 2.8,
+                "tone": 3.03030303030303,
+                "score": 36.0
             }
         ],
-        "last_updated": "2026-10-11 14:42:02 KST",
+        "last_updated": "2026-10-11 21:44:35 KST",
         "current_rank": 11
     },
     "Germany": {
@@ -715,8 +767,8 @@
                 "tone": 1.21082021021773,
                 "score": 50.0,
                 "keyword": "베를린 연정 경고",
-                "hook": "독일 정치권이 분열의 소용돌이에 휘말렸습니다, 연정 붕괴의 전조일까요?",
-                "script": "문화부 장관이 SPD를 향해 강력한 경고장을 날렸습니다. 베를린 시정부를 둘러싼 적-녹-적 연정의 갈등이 최고조에 달했습니다. 독일 정치의 미래가 안갯속으로 빠져들고 있습니다.",
+                "hook": "독일 정계가 연정 구성 문제를 두고 분열 조짐을 보이고 있습니다.",
+                "script": "문화부 장관이 베를린의 적-녹-적 연정 구성 가능성에 대해 강력한 경고 메시지를 던졌습니다. 정치권 내부의 갈등이 심화되면서 향후 독일 정국의 향방에 귀추가 주목됩니다.",
                 "sentiment": "negative"
             },
             {
@@ -742,68 +794,68 @@
                 "score": 22.0
             }
         ],
-        "last_updated": "2026-10-11 14:42:02 KST",
+        "last_updated": "2026-10-11 21:44:35 KST",
         "current_rank": 12
     },
-    "Indonesia": {
-        "gdp_rank": 15,
-        "spike_score": 100.0,
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 93.0,
         "trends": [
             {
-                "record_id": "1327217279",
-                "url": "https://keuangan.kontan.co.id/news/bank-mandiri-gadai-100-saham-pengendali-jarr-dan-pgun-ini-risikonya",
-                "related_urls": [],
-                "title": "",
-                "mentions": 38,
-                "sources": 1,
-                "goldstein": 7.4,
-                "tone": 2.55697408104492,
-                "score": 58.0,
-                "keyword": "은행 지분 담보",
-                "hook": "금융권을 뒤흔든 대규모 지분 담보 사태, 당신의 자산은 안전합니까?",
-                "script": "방크 만디리가 자르와 피군 지분을 담보로 잡았습니다. 금융 시장에 불어닥친 이 거대한 리스크의 실체는 무엇일까요. 투자자들의 불안이 극에 달한 지금, 이번 사태가 인도네시아 경제에 미칠 파장을 긴급 분석합니다.",
-                "sentiment": "warning"
-            },
-            {
-                "record_id": "1327265835",
-                "url": "http://www.stardem.com/ap/world/wildfires-threaten-indonesias-orangutans-as-rescuers-find-injured-animals/article_91ad0e8d-e276-55b9-8729-2e110abf69d9.html",
+                "record_id": "1327283887",
+                "url": "https://www.birgun.net/haber/uluslararasi-deneyimler-konferansi-tamamlandi-kadin-dayanismasi-sinirlari-asiyor-739772%20class=slide-link%20target=_blank",
                 "related_urls": [],
                 "title": "",
                 "mentions": 40,
-                "sources": 4,
-                "goldstein": 2.8,
-                "tone": -2.73097264813458,
-                "score": 42.0,
-                "keyword": "오랑우탄 생존 위기",
-                "hook": "불타는 숲속에서 처절하게 신음하는 오랑우탄들이 발견되었습니다.",
-                "script": "인도네시아의 산불이 걷잡을 수 없이 번지며 멸종 위기종 오랑우탄의 서식지를 덮쳤습니다. 구조대원들이 발견한 것은 상처 입은 야생 동물들뿐입니다. 자연의 비극을 멈추기 위한 골든타임이 사라지고 있습니다.",
+                "sources": 1,
+                "goldstein": -9.0,
+                "tone": -1.9740009629273,
+                "score": 67.0,
+                "keyword": "여성 연대 강화",
+                "hook": "국경을 넘어선 여성들의 강력한 연대가 전 세계를 뒤흔들고 있습니다.",
+                "script": "여성들의 연대가 국경을 초월해 폭발하고 있습니다. 차별과 억압에 맞서는 이들의 목소리가 국제적 경험 공유를 통해 하나로 모였습니다. 이제 연대는 선택이 아닌 생존입니다. 지금 이 순간, 여성들의 거대한 파도가 시작됩니다.",
                 "sentiment": "negative"
-            }
-        ],
-        "last_updated": "2026-10-11 14:42:02 KST",
-        "current_rank": 13
-    },
-    "China": {
-        "gdp_rank": 2,
-        "spike_score": 73.5,
-        "trends": [
+            },
             {
-                "record_id": "1327330273",
-                "url": "https://www.globaltimes.cn/page/202610/1371969.shtml",
+                "record_id": "1327375460",
+                "url": "https://www.aktiencheck.de/analysen/Artikel-Trump_Energiewende_fuehrte_Deutschland_fast_zum_Untergang-20161409",
                 "related_urls": [],
                 "title": "",
-                "mentions": 46,
-                "sources": 1,
-                "goldstein": 2.8,
-                "tone": 0.512557662737058,
-                "score": 73.5,
-                "keyword": "중국 경제 동향",
-                "hook": "세계 경제의 중심지, 중국에서 심상치 않은 변화가 감지되고 있습니다.",
-                "script": "중국의 경제 지표가 새로운 국면을 맞이했습니다. 글로벌 시장의 이목이 집중된 가운데, 당국의 향후 정책 결정이 전 세계 경제에 미칠 파장에 관심이 쏠립니다. 지금 바로 분석 들어갑니다.",
-                "sentiment": "neutral"
+                "mentions": 40,
+                "sources": 3,
+                "goldstein": 0.0,
+                "tone": -2.92716549632807,
+                "score": 26.0,
+                "keyword": "독일 에너지 위기",
+                "hook": "트럼프의 폭탄 발언, 독일 에너지 정책이 국가 멸망을 불렀다?",
+                "script": "독일의 에너지 전환 정책이 국가를 멸망 직전까지 몰고 갔다는 충격적인 분석이 나왔습니다. 트럼프 전 대통령의 날 선 비판 속에 유럽 경제의 심장 독일이 흔들리고 있습니다. 과연 무엇이 잘못된 것일까요? 지금 바로 확인하십시오.",
+                "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-11 14:42:02 KST",
+        "last_updated": "2026-10-11 21:44:35 KST",
+        "current_rank": 13
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 44.5,
+        "trends": [
+            {
+                "record_id": "1327384361",
+                "url": "https://www.ohmynews.com/NWS_Web/OhmyPhoto/annual/2026_at_pg.aspx?CNTN_CD=A0003273699&SRS_CD=0000021364&CMPT_CD=M0153",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 3.5,
+                "tone": 0.712589073634205,
+                "score": 44.5,
+                "keyword": "대한민국 연례 사진",
+                "hook": "대한민국의 지난 1년이 한 장의 사진에 담겼습니다.",
+                "script": "대한민국을 관통한 2026년의 기록이 공개됐습니다. 환희와 눈물, 그리고 격동의 순간들이 고스란히 담긴 연례 사진전이 시작됩니다. 지금 바로 그 역사적인 순간들을 직접 확인해 보십시오.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-11 21:44:35 KST",
         "current_rank": 14
     },
     "Japan": {
@@ -820,36 +872,36 @@
                 "goldstein": 3.4,
                 "tone": -2.73531777956557,
                 "score": 43.0,
-                "keyword": "리마 영화제 소식",
-                "hook": "지구 반대편 페루에서 일본 영화의 감동이 전해지고 있습니다.",
-                "script": "리마 영화제에 상영된 일본 작품들이 현지 관객들의 마음을 사로잡았습니다. 한국과 일본을 넘어 남미까지 뻗어가는 아시아 영화의 힘, 지금 리마의 영화관 분위기를 확인하세요.",
-                "sentiment": "neutral"
+                "keyword": "일본 영화계 위기",
+                "hook": "일본 극장가에 비상이 걸렸습니다.",
+                "script": "리마와 페루 등지에서 영화 상영 리스트가 공개되었으나, 흥행 부진과 배급 갈등이 겹치며 난항을 겪고 있습니다. 관객들의 발길이 예전 같지 않은 가운데, 업계의 고민이 깊어지고 있습니다.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-11 14:42:02 KST",
+        "last_updated": "2026-10-11 21:44:35 KST",
         "current_rank": 15
     },
-    "South Korea": {
-        "gdp_rank": 14,
-        "spike_score": 35.0,
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 42.0,
         "trends": [
             {
-                "record_id": "1327339226",
-                "url": "https://womannews.net/detail.php?number=456905&thread=22r05r04%20style=",
+                "record_id": "1327265835",
+                "url": "http://www.stardem.com/ap/world/wildfires-threaten-indonesias-orangutans-as-rescuers-find-injured-animals/article_91ad0e8d-e276-55b9-8729-2e110abf69d9.html",
                 "related_urls": [],
                 "title": "",
-                "mentions": 36,
-                "sources": 1,
-                "goldstein": 3.0,
-                "tone": 2.45398773006134,
-                "score": 35.0,
-                "keyword": "여성 권익 강화",
-                "hook": "대한민국 여성들의 삶을 바꿀 새로운 변화가 지금 시작됩니다.",
-                "script": "사회 전반에 걸친 여성 권익 향상 움직임이 포착되었습니다. 구체적인 정책 변화와 실질적인 지원 방안이 논의되고 있습니다. 우리 사회의 평등을 향한 한 걸음, 지금 주목해야 할 핵심 이슈입니다.",
-                "sentiment": "positive"
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 2.8,
+                "tone": -2.73097264813458,
+                "score": 42.0,
+                "keyword": "오랑우탄 생존 위기",
+                "hook": "인도네시아의 상징, 오랑우탄이 화마에 휩싸여 죽어가고 있습니다.",
+                "script": "인도네시아 열대우림이 거대한 불길에 삼켜졌습니다. 멸종 위기종인 오랑우탄들이 구조대원들에게 발견되었지만, 상태는 처참합니다. 이 비극적인 현장을 지금 당장 보도합니다.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-11 14:42:02 KST",
+        "last_updated": "2026-10-11 21:44:35 KST",
         "current_rank": 16
     },
     "South Africa": {
@@ -866,13 +918,13 @@
                 "goldstein": 1.0,
                 "tone": 3.08899535385902,
                 "score": 27.0,
-                "keyword": "교육 기회 확대",
-                "hook": "남아공의 미래를 바꿀 교육의 힘, 지금 변화가 시작됩니다.",
-                "script": "파투시 주교가 교육의 중요성을 강조하며 모든 이들에게 평등한 기회를 제공해야 한다고 촉구했습니다. 더 나은 삶을 향한 교육의 열망이 남아공 사회를 어떻게 변화시킬지 주목됩니다.",
+                "keyword": "기독교 교육 강조",
+                "hook": "남아프리카공화국의 미래, 교육에서 답을 찾습니다.",
+                "script": "파투시 주교가 남아공 청년들에게 교육의 중요성을 역설했습니다. 기독교적 가치를 바탕으로 한 교육의 기회를 놓치지 말아야 한다는 그의 메시지가 울림을 주고 있습니다.",
                 "sentiment": "positive"
             }
         ],
-        "last_updated": "2026-10-11 14:42:02 KST",
+        "last_updated": "2026-10-11 21:44:35 KST",
         "current_rank": 17
     }
 }
