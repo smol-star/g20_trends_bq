@@ -1,0 +1,681 @@
+{
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 1712.5,
+        "trends": [
+            {
+                "record_id": "1327325681",
+                "url": "https://www.kvnf.org/npr-news/2026-10-10/trump-weighs-joining-the-fight-against-houthis-after-riyadh-airport-attack",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 15,
+                "goldstein": -10.0,
+                "tone": -6.25068498897858,
+                "score": 518.0
+            },
+            {
+                "record_id": "1327404018",
+                "url": "https://www.clydebankpost.co.uk/news/national/26625877.passenger-terminal-riyadh-airport-struck-day-12-killed/",
+                "related_urls": [
+                    "https://www.newsshopper.co.uk/news/national/26625877.passenger-terminal-riyadh-airport-struck-day-fatal-attack/",
+                    "https://www.eastlondonadvertiser.co.uk/news/national/26625877.passenger-terminal-riyadh-airport-struck-day-12-killed/"
+                ],
+                "title": "",
+                "mentions": 56,
+                "sources": 7,
+                "goldstein": -10.0,
+                "tone": -6.31262525050101,
+                "score": 450.0
+            },
+            {
+                "record_id": "1327325682",
+                "url": "https://www.dunfermlinepress.com/news/national/26625812.12-killed-attack-riyadh-airport---saudi-authorities/",
+                "related_urls": [
+                    "https://www.somersetcountygazette.co.uk/news/national/26625877.12-killed-hundreds-injured-attack-riyadh-airport/"
+                ],
+                "title": "",
+                "mentions": 120,
+                "sources": 13,
+                "goldstein": -10.0,
+                "tone": -6.94865882859467,
+                "score": 333.0
+            },
+            {
+                "record_id": "1327472925",
+                "url": "https://www.index.hr/vijesti/clanak/dosad-najopasnija-prijetnja-amerike-ukrajini-zovu-kijev-zovu-sve-u-europi/2844497.aspx?index_ref=homepage_comment_box_d&commentId=12223928",
+                "related_urls": [],
+                "title": "",
+                "mentions": 240,
+                "sources": 1,
+                "goldstein": 4.5,
+                "tone": -3.93374741200829,
+                "score": 281.5
+            },
+            {
+                "record_id": "1327368011",
+                "url": "https://www.index.hr/vijesti/clanak/masakr-na-aerodromu-u-rijadu-12-mrtvih-vise-od-300-ozlijedjenih/2844304.aspx?index_ref=homepage_comment_box_d&commentId=12218512",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -10.6796116504854,
+                "score": 130.0
+            }
+        ],
+        "last_updated": "2026-10-12 19:42:58 KST",
+        "current_rank": 1
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 1654.0,
+        "trends": [
+            {
+                "record_id": "1327439734",
+                "url": "https://wjactv.com/news/nation-world/former-british-paratrooper-nears-end-of-28-year-31000-mile-trek-home-on-foot",
+                "related_urls": [
+                    "https://13wham.com/news/nation-world/former-british-paratrooper-nears-end-of-28-year-31000-mile-trek-home-on-foot"
+                ],
+                "title": "",
+                "mentions": 130,
+                "sources": 5,
+                "goldstein": 3.0,
+                "tone": 0.23640661938535,
+                "score": 611.0,
+                "keyword": "영국 병사의 귀환",
+                "hook": "28년의 대장정, 한 남자의 발걸음이 기적을 만들었습니다.",
+                "script": "전직 영국 공수부대원이 3만 1천 마일을 걸어 집으로 돌아오고 있습니다. 28년이라는 긴 세월을 오직 두 발로 완주한 그의 감동적인 여정을 소개합니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1327439736",
+                "url": "https://www.southwalesargus.co.uk/news/national/26626616.meghan-enjoys-country-walk-archie-lilibet-ahead-event-harry/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 4.0,
+                "tone": 3.03030303030303,
+                "score": 364.0,
+                "keyword": "메건 마클 근황",
+                "hook": "왕실 논란 뒤, 메건 마클의 평온한 일상이 포착됐습니다.",
+                "script": "메건 마클이 해리 왕자의 행사 참석 전, 아이들과 함께 산책을 즐기는 모습이 공개되었습니다. 세간의 시선과는 다른 그녀의 여유로운 모습이 화제입니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1327478453",
+                "url": "https://www.thetottenhamindependent.co.uk/news/national/26626749.heathrow-boss-urges-pm-back-third-runway-year-end/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 140,
+                "sources": 14,
+                "goldstein": 4.0,
+                "tone": -0.511508951406649,
+                "score": 236.0,
+                "keyword": "히드로 공항 확장",
+                "hook": "영국 경제의 관문, 히드로 공항이 운명을 건 결단을 촉구합니다.",
+                "script": "히드로 공항 대표가 정부에 제3 활주로 건설 승인을 강력히 촉구했습니다. 영국 항공 산업의 미래를 결정지을 중대한 선택의 시간이 다가옵니다.",
+                "sentiment": "neutral"
+            },
+            {
+                "record_id": "1327494122",
+                "url": "https://www.irvinetimes.com/news/national/26626696.burnham-urge-mps-support-drive-closer-eu-relationship/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 17,
+                "goldstein": -7.0,
+                "tone": -1.49085810959192,
+                "score": 228.0,
+                "keyword": "EU 관계 재정립",
+                "hook": "브렉시트 이후, 영국이 다시 유럽으로 손을 뻗습니다.",
+                "script": "번햄 시장이 의원들에게 EU와의 관계를 다시 강화할 것을 주문했습니다. 무너진 경제를 살리기 위한 필사적인 움직임이 시작되었습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327325347",
+                "url": "https://www.elystandard.co.uk/news/national/26625799.tories-urge-chancellor-not-raise-tax-five-budget-tests/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 10,
+                "goldstein": -5.0,
+                "tone": -4.09556313993174,
+                "score": 215.0,
+                "keyword": "영국 세금 인상",
+                "hook": "지갑을 닫으려는 국민들, 정부의 세금 정책이 도마 위에 올랐습니다.",
+                "script": "보수당이 재무장관에게 세금 인상을 멈출 것을 강력히 경고했습니다. 다섯 가지 경제 테스트를 앞두고 영국 정부의 고민이 깊어지고 있습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-12 19:42:58 KST",
+        "current_rank": 2
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 1073.0,
+        "trends": [
+            {
+                "record_id": "1327325281",
+                "url": "https://www.thewestonmercury.co.uk/news/national/26625792.shooting-leaves-nine-dead-including-suspect-pennsylvania-police-say/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": 4.0,
+                "tone": -7.14285714285715,
+                "score": 367.0,
+                "keyword": "펜실베이니아 총기 참사",
+                "hook": "평화롭던 마을이 순식간에 핏빛으로 물들었습니다.",
+                "script": "펜실베이니아에서 발생한 끔찍한 총기 난사 사건으로 8명이 숨지고 용의자까지 사망했습니다. 도대체 무엇이 한 가정의 가장을 살인마로 돌변하게 만들었을까요? 현장은 충격 그 자체입니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1327440711",
+                "url": "https://www.stcatharinesstandard.ca/news/world/united-states/pennsylvania-shooter-who-killed-8-was-family-s-patriarch-slain-toddler-s-dad-says/article_f3eb3444-e31c-587f-9be7-160518a05907.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 76,
+                "sources": 5,
+                "goldstein": -10.0,
+                "tone": -3.38435300379797,
+                "score": 277.5,
+                "keyword": "참극의 비극적 전말",
+                "hook": "아빠의 손에 쓰러진 아이들, 그날의 진실이 드러났습니다.",
+                "script": "펜실베이니아 총기 사건의 범인이 다름 아닌 한 가정의 가장이자 학살된 유아의 아버지였음이 밝혀져 충격을 주고 있습니다. 행복했던 가정은 단 몇 분 만에 파괴되었습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327446779",
+                "url": "https://www.ksmu.org/2026-10-11/harrowing-accounts-of-violence-and-sex-abuse-in-womens-prison-told-in-new-podcast",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -9.0,
+                "tone": -4.86322188449848,
+                "score": 207.0,
+                "keyword": "교도소 내 성범죄",
+                "hook": "담장 너머에서 벌어진 끔찍한 폭력의 실체.",
+                "script": "여성 교도소 내부의 성범죄와 잔혹한 폭력이 폭로되었습니다. 고발 팟캐스트를 통해 공개된 피해자들의 증언은 우리 사회의 어두운 이면을 적나라하게 보여줍니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327471695",
+                "url": "https://www.intelligencer.ca/press-releases/globe-newswire/pulsar-helium-outlines-development-and-project-financing-strategy-for-commercial-scale-helium-co%E2%82%82-plant/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 3,
+                "goldstein": 7.0,
+                "tone": 1.30278526504941,
+                "score": 134.5,
+                "keyword": "헬륨 생산 시설",
+                "hook": "미래 산업의 핵심, 헬륨 시장이 요동칩니다.",
+                "script": "펄사 헬륨이 상업용 헬륨 플랜트 개발 및 자금 조달 전략을 발표했습니다. 차세대 자원 확보를 위한 대규모 프로젝트가 본격적인 궤도에 오릅니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1327346199",
+                "url": "https://1190kex.iheart.com/content/2026-10-11-doj-probes-tv-networks-over-trump-pool-coverage-suspension/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 72,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -4.9645390070922,
+                "score": 87.0,
+                "keyword": "언론사 조사 착수",
+                "hook": "트럼프 보도 중단 논란, 결국 법정으로 갑니다.",
+                "script": "미 법무부가 트럼프 대통령 관련 보도를 중단한 TV 네트워크들에 대해 전격 조사에 착수했습니다. 언론의 자유와 정치적 외압 사이, 긴장감이 최고조에 달했습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-12 19:42:58 KST",
+        "current_rank": 3
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 677.5,
+        "trends": [
+            {
+                "record_id": "1327439721",
+                "url": "https://www.hepburnadvocate.com.au/story/9366536/explosions-heard-after-another-night-of-arson-attacks/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -10.0,
+                "tone": -7.36219680827926,
+                "score": 188.5
+            },
+            {
+                "record_id": "1327449041",
+                "url": "https://www.greatlakesadvocate.com.au/story/9366747/lobbying-regulator-to-crack-down-on-revolving-door/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 150,
+                "sources": 5,
+                "goldstein": 5.0,
+                "tone": -1.07491855215106,
+                "score": 155.0
+            },
+            {
+                "record_id": "1327347137",
+                "url": "https://www.hardenexpress.com.au/story/9366072/no-time-for-him-hanson-gives-her-liberal-leader-pick/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 6.4,
+                "tone": -1.90203392663377,
+                "score": 137.0
+            },
+            {
+                "record_id": "1327335894",
+                "url": "https://www.nynganobserver.com.au/story/9366070/mineral-royalties-pledge-as-campaign-hits-the-regions/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 4,
+                "goldstein": 3.4,
+                "tone": 1.70689881030356,
+                "score": 102.0
+            },
+            {
+                "record_id": "1327416090",
+                "url": "https://www.gloucesteradvocate.com.au/story/9366375/australia-holds-firm-with-aid-dollars-to-southeast-asia/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 5,
+                "goldstein": 7.0,
+                "tone": 3.18795003870312,
+                "score": 95.0
+            }
+        ],
+        "last_updated": "2026-10-12 19:42:58 KST",
+        "current_rank": 4
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 645.5,
+        "trends": [
+            {
+                "record_id": "1327409729",
+                "url": "https://www.index.hr/vijesti/clanak/trump-od-ovog-trenutka-je-na-snazi-energetsko-primirje-rusije-i-ukrajine/2844406.aspx?index_ref=homepage_comment_box_d&commentId=12221635",
+                "related_urls": [
+                    "https://www.index.hr/vijesti/clanak/trump-od-ovog-trenutka-je-na-snazi-energetsko-primirje-rusije-i-ukrajine/2844406.aspx?index_tid=1185166&index_ref=naslovnica_vijesti_teme_i_komentari_d",
+                    "https://www.index.hr/vijesti/clanak/trump-od-ovog-trenutka-je-na-snazi-energetsko-primirje-rusije-i-ukrajine/2844406.aspx?index_tid=1185051&index_ref=naslovnica_vijesti_najnovije_d"
+                ],
+                "title": "",
+                "mentions": 54,
+                "sources": 1,
+                "goldstein": 7.4,
+                "tone": -7.34463276836158,
+                "score": 219.0,
+                "keyword": "러-우 에너지 휴전",
+                "hook": "트럼프의 선언, 러시아와 우크라이나의 에너지 전쟁이 멈췄습니다.",
+                "script": "러시아와 우크라이나 사이의 에너지 휴전이 전격 발효됐습니다. 끝날 것 같지 않던 에너지 공방이 변곡점을 맞이했습니다. 과연 이 휴전은 평화로 이어질까요?",
+                "sentiment": "neutral"
+            },
+            {
+                "record_id": "1327472671",
+                "url": "https://www.index.hr/vijesti/clanak/dosad-najopasnija-prijetnja-amerike-ukrajini-zovu-kijev-zovu-sve-u-europi/2844497.aspx?index_ref=homepage_comment_box_d&commentId=12223928",
+                "related_urls": [],
+                "title": "",
+                "mentions": 240,
+                "sources": 1,
+                "goldstein": -4.4,
+                "tone": -3.93374741200829,
+                "score": 144.0,
+                "keyword": "미국의 강력 경고",
+                "hook": "우크라이나를 향한 미국의 가장 위험한 경고가 터져 나왔습니다.",
+                "script": "미국이 우크라이나를 향해 전례 없는 강도의 메시지를 던졌습니다. 유럽 전역이 이 발언에 숨을 죽이고 있습니다. 국제 정세가 다시 한번 격랑 속으로 빠져들고 있습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1327494118",
+                "url": "https://www.irvinetimes.com/news/national/26626696.burnham-urge-mps-support-drive-closer-eu-relationship/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 85,
+                "sources": 17,
+                "goldstein": 7.0,
+                "tone": -1.44061102036405,
+                "score": 111.5,
+                "keyword": "EU 관계 강화",
+                "hook": "영국이 다시 유럽의 품으로 돌아가려 합니다.",
+                "script": "번햄 의원이 의회에 EU와의 관계 강화를 강력히 촉구했습니다. 고립을 택했던 영국이 다시 노선을 수정하는 걸까요? 유럽의 정치 지형이 요동치고 있습니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1327482078",
+                "url": "https://www.edenmagnet.com.au/story/9366374/uk-pm-seeks-mps-support-for-closer-eu-relationship/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 6.0,
+                "tone": -2.90741073734866,
+                "score": 106.0,
+                "keyword": "영국 EU 밀착",
+                "hook": "영국 총리가 의회를 설득하기 시작했습니다.",
+                "script": "EU와의 더 가까운 관계를 위해 영국 총리가 직접 나섰습니다. 의회의 지지를 얻어내기 위한 치열한 정치적 공방이 시작됐습니다. 유럽의 미래가 결정될 중대한 시점입니다.",
+                "sentiment": "neutral"
+            },
+            {
+                "record_id": "1327440370",
+                "url": "https://www.wdsu.com/article/bipartisan-senators-urge-trump-reverse-russia-diesel-deal/74102453",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 5,
+                "goldstein": -7.0,
+                "tone": -2.48590501576851,
+                "score": 65.0,
+                "keyword": "러시아 디젤 거래",
+                "hook": "미 상원의원들이 트럼프에게 러시아와의 거래 중단을 요구했습니다.",
+                "script": "러시아산 디젤 거래를 두고 트럼프 행정부를 향한 압박이 거세지고 있습니다. 초당적 반발에 부딪힌 거래, 과연 철회될까요? 에너지 외교의 파란이 일고 있습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-12 19:42:58 KST",
+        "current_rank": 5
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 556.0,
+        "trends": [
+            {
+                "record_id": "1327325860",
+                "url": "https://www.dunfermlinepress.com/news/national/26625812.12-killed-attack-riyadh-airport---saudi-authorities/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 128,
+                "sources": 16,
+                "goldstein": -4.0,
+                "tone": -6.80706647487733,
+                "score": 556.0,
+                "keyword": "공항 테러 참사",
+                "hook": "리야드 공항에서 12명이 사망하는 끔찍한 공격이 발생했습니다.",
+                "script": "사우디아라비아 공항이 피로 물들었습니다. 무차별적인 공격으로 12명의 무고한 생명이 희생됐습니다. 국제 사회는 즉각 규탄에 나섰지만, 현장의 공포는 가라앉지 않고 있습니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-10-12 19:42:58 KST",
+        "current_rank": 6
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 452.5,
+        "trends": [
+            {
+                "record_id": "1327498006",
+                "url": "https://www.eppingforestguardian.co.uk/news/national/26627347.indian-opposition-parties-march-top-court-amid-escalating-voter-lists-protest/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 54,
+                "sources": 9,
+                "goldstein": -9.0,
+                "tone": -10.0826012849089,
+                "score": 390.0,
+                "keyword": "인도 야당 시위",
+                "hook": "인도 전역을 뒤흔드는 대규모 거리 행진이 시작되었습니다.",
+                "script": "선거인 명부 조작 의혹에 반발한 인도 야당이 대법원까지 행진하며 격렬하게 저항하고 있습니다. 민주주의의 심장부가 거대한 항의의 물결로 뒤덮였습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327353379",
+                "url": "https://www.westernadvocate.com.au/story/9366122/india-braces-for-second-day-of-major-protests/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 55,
+                "sources": 5,
+                "goldstein": -5.0,
+                "tone": -8.00000470156797,
+                "score": 62.5,
+                "keyword": "인도 전역 마비",
+                "hook": "분노한 군중이 거리로 쏟아져 나왔습니다.",
+                "script": "인도 전역에서 이틀째 대규모 시위가 이어지고 있습니다. 도시 기능이 마비된 가운데, 정부와 시위대 간의 갈등은 극한으로 치닫고 있습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-12 19:42:58 KST",
+        "current_rank": 7
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 182.0,
+        "trends": [
+            {
+                "record_id": "1327495631",
+                "url": "https://www.pz-news.de/politik_artikel,-Bas-gibt-Aemter-ab-Schweitzer-folgt-als-Minister-_arid,2372542.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 5.0,
+                "tone": -3.4922550793818,
+                "score": 120.0,
+                "keyword": "독일 내각 개편",
+                "hook": "독일 정치권이 거대한 변화의 소용돌이에 휩싸였습니다.",
+                "script": "바스 장관이 직무를 내려놓고 슈바이처가 그 자리를 이어받습니다. 독일 내각의 갑작스러운 인사 변화가 향후 정국에 어떤 파장을 몰고 올지 주목됩니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327504095",
+                "url": "http://www.fnp.de/politik/dobrindt-schattenkrieg-soll-deutschland-destabilisieren-zr-94536499.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 4.0,
+                "tone": -2.14718435133083,
+                "score": 62.0,
+                "keyword": "독일 안보 위협",
+                "hook": "독일을 흔드는 보이지 않는 손, 그림자 전쟁의 실체.",
+                "script": "도브린트 의원이 독일을 불안정하게 만들려는 '그림자 전쟁'의 존재를 경고했습니다. 국가 안보를 위협하는 정체불명의 세력과 그 배후를 추적합니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-10-12 19:42:58 KST",
+        "current_rank": 8
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 141.0,
+        "trends": [
+            {
+                "record_id": "1327505641",
+                "url": "https://www.zazoom.it/2026-10-12/francia-preside-e-insegnante-feriti-da-colpi-di-fucile-fermato-uno-studente-14enne/19789469/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 2,
+                "goldstein": -10.0,
+                "tone": -6.2377664053122,
+                "score": 89.0,
+                "keyword": "프랑스 학교 총격",
+                "hook": "평화롭던 교실이 순식간에 비명으로 가득 찼습니다.",
+                "script": "프랑스의 한 학교에서 14세 학생이 쏜 총탄에 교장과 교사가 쓰러졌습니다. 현장은 아수라장이 됐고, 범인은 즉시 체포됐습니다. 대체 왜 이런 비극이 벌어진 걸까요? 지금 이 시각, 프랑스 전역이 충격에 빠졌습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1327475436",
+                "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1499594",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -2.46045716413118,
+                "score": 52.0,
+                "keyword": "프랑스 긴급 상황",
+                "hook": "지금 프랑스에서 벌어지고 있는 긴박한 뉴스입니다.",
+                "script": "프랑스 내부에서 심상치 않은 사건들이 잇따르고 있습니다. 시민들의 불안감이 최고조에 달한 가운데, 당국은 추가 피해를 막기 위해 비상 대응에 나섰습니다. 현장 상황이 들어오는 대로 즉시 전해드리겠습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-12 19:42:58 KST",
+        "current_rank": 9
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 89.0,
+        "trends": [
+            {
+                "record_id": "1327384361",
+                "url": "https://www.ohmynews.com/NWS_Web/OhmyPhoto/annual/2026_at_pg.aspx?CNTN_CD=A0003273699&SRS_CD=0000021364&CMPT_CD=M0153",
+                "related_urls": [
+                    "https://www.ohmynews.com/NWS_Web/OhmyPhoto/annual/2026_at_pg.aspx?CNTN_CD=A0003273699&CMPT_CD=M0153"
+                ],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 3.5,
+                "tone": 0.712589073634205,
+                "score": 89.0
+            }
+        ],
+        "last_updated": "2026-10-12 19:42:58 KST",
+        "current_rank": 10
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 79.5,
+        "trends": [
+            {
+                "record_id": "1327386783",
+                "url": "https://www.ualrpublicradio.org/npr-news/2026-10-11/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+                "related_urls": [
+                    "https://www.wcsufm.org/latest-from-npr/2026-10-11/pope-leo-xiv-to-undergo-lung-surgery-this-week"
+                ],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 2.8,
+                "tone": -1.07816711590296,
+                "score": 79.5
+            }
+        ],
+        "last_updated": "2026-10-12 19:42:58 KST",
+        "current_rank": 11
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 77.5,
+        "trends": [
+            {
+                "record_id": "1327499627",
+                "url": "https://www.correio24horas.com.br/minha-bahia/um-dos-executores-3-acusado-de-matar-mae-bernadete--vai-a-juri-popular-nesta-terca-feira-1026",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": -7.57850241545894,
+                "score": 77.5,
+                "keyword": "베르나데트 살인 재판",
+                "hook": "마침내 악마의 얼굴이 법의 심판대 앞에 섰습니다.",
+                "script": "베르나데트 어머니를 잔혹하게 살해한 혐의를 받는 범인 중 한 명이 오늘 대중 재판에 회부됩니다. 정의는 살아있을까요? 브라질 전 국민의 눈이 오늘 법정으로 쏠리고 있습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-12 19:42:58 KST",
+        "current_rank": 12
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 73.5,
+        "trends": [
+            {
+                "record_id": "1327330273",
+                "url": "https://www.globaltimes.cn/page/202610/1371969.shtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 46,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 0.512557662737058,
+                "score": 73.5,
+                "keyword": "중국 외교 현안",
+                "hook": "글로벌 무대에서 중국의 다음 행보가 주목됩니다.",
+                "script": "중국 관영 매체가 전하는 최신 국제 이슈 분석입니다. 급변하는 국제 정세 속에서 중국이 취하고 있는 전략적 스탠스를 지금 바로 확인하세요.",
+                "sentiment": "neutral"
+            }
+        ],
+        "last_updated": "2026-10-12 19:42:58 KST",
+        "current_rank": 13
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 72.0,
+        "trends": [
+            {
+                "record_id": "1327500143",
+                "url": "https://720thevoice.iheart.com/content/2026-10-12-starbucks-sidesteps-chipotle-takeover-report/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": 1.79265030146818,
+                "score": 72.0,
+                "keyword": "스타벅스 인수설 부인",
+                "hook": "치폴레를 인수한다는 루머, 스타벅스가 직접 입을 열었습니다.",
+                "script": "스타벅스의 치폴레 인수설이 시장을 뒤흔들었지만, 결국 사실이 아닌 것으로 밝혀졌습니다. 헛소문이 만들어낸 거대한 시장 파동, 그 내막을 정리해 드립니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-12 19:42:58 KST",
+        "current_rank": 14
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 62.0,
+        "trends": [
+            {
+                "record_id": "1327446403",
+                "url": "http://inews24.com/view/2013293",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": 1.22699386503068,
+                "score": 62.0,
+                "keyword": "일본 경제 도약",
+                "hook": "침체기를 끝낼 일본 경제의 새로운 엔진이 켜졌습니다.",
+                "script": "일본 경제가 다시금 활기를 띠고 있습니다. 시장의 긍정적인 신호들이 잇따라 포착되면서 글로벌 투자자들의 시선이 일본으로 집중되고 있습니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-12 19:42:58 KST",
+        "current_rank": 15
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 37.0,
+        "trends": [
+            {
+                "record_id": "1327486889",
+                "url": "https://www.zazoom.it/2026-10-12/chiude-a-torino-wave-by-vento-leuropa-alla-ricerca-dei-suoi-giganti-tech/19788807/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": 0.884955752212391,
+                "score": 37.0,
+                "keyword": "이탈리아 기술 혁신",
+                "hook": "유럽의 미래를 바꿀 거대 기술 기업들이 토리노에 모였습니다.",
+                "script": "이탈리아 토리노에서 열린 '웨이브 바이 벤토' 컨퍼런스가 막을 내렸습니다. 유럽이 다시 한번 기술 패권의 중심지로 도약할 수 있을까요? 글로벌 테크 거인들의 움직임을 지금 바로 확인하세요.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-12 19:42:58 KST",
+        "current_rank": 16
+    }
+}
