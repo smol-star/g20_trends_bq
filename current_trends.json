@@ -1,7 +1,7 @@
 {
     "United States": {
         "gdp_rank": 1,
-        "spike_score": 2409.0,
+        "spike_score": 2890.0,
         "trends": [
             {
                 "record_id": "1327801268",
@@ -15,10 +15,25 @@
                 "goldstein": -10.0,
                 "tone": -10.2871383170961,
                 "score": 1353.0,
-                "keyword": "투팍 살인범 종신형",
-                "hook": "전설적인 래퍼 투팍의 목숨을 앗아간 비극, 30년 만에 마침내 법의 심판이 내려졌습니다.",
-                "script": "투팍 샤커 살인 사건의 범인이 40년 형을 선고받았습니다. 1996년 라스베이거스 총격 사건 이후 수십 년간 이어진 미제 사건의 종지부입니다. 피해자 가족과 팬들에게는 뒤늦은 정의가 실현된 순간입니다. 자세한 내용은 지금 바로 확인하세요.",
+                "keyword": "투팍 살인범 징역형",
+                "hook": "전설적인 래퍼 투팍의 죽음, 드디어 살인범에게 40년 형이 선고되었습니다.",
+                "script": "투팍 샤커를 살해한 혐의로 기소된 범인이 결국 40년에서 종신형을 선고받았습니다. 수십 년간 이어진 미제 사건의 마침표가 찍혔습니다. 정의는 구현될까요? 지금 확인하세요.",
                 "sentiment": "negative"
+            },
+            {
+                "record_id": "1327808842",
+                "url": "https://www.sandiegouniontribune.com/2026/10/13/qa-meet-jon-moffat-candidate-for-vista-unified-school-district-trustee-in-area-3/",
+                "related_urls": [
+                    "https://www.sandiegouniontribune.com/2026/10/13/qa-meet-pete-mergens-candidate-for-grossmont-union-high-school-district-trustee-in-area-3/",
+                    "https://www.sandiegouniontribune.com/2026/10/13/qa-meet-raquel-riojas-alvarez-candidate-for-oceanside-unified-school-district-trustee-in-area-4/",
+                    "https://www.sandiegouniontribune.com/2026/10/13/qa-meet-jennifer-dahlquist-ramirez-candidate-for-oway-unified-school-district-trustee-in-area-d/"
+                ],
+                "title": "",
+                "mentions": 576,
+                "sources": 1,
+                "goldstein": 7.4,
+                "tone": 2.16556176284065,
+                "score": 695.0
             },
             {
                 "record_id": "1327801169",
@@ -29,7 +44,11 @@
                 "sources": 3,
                 "goldstein": 2.8,
                 "tone": -8.08384765037831,
-                "score": 357.0
+                "score": 357.0,
+                "keyword": "대서양 연쇄 지진",
+                "hook": "지구의 거대한 균열, 대서양 중앙 해령에서 연쇄 지진이 발생했습니다.",
+                "script": "대서양 심해에서 강력한 지진이 연달아 터졌습니다. 전문가들은 추가 대형 재난 가능성을 강력히 경고하고 있습니다. 지금 전 세계가 긴장하고 있습니다.",
+                "sentiment": "warning"
             },
             {
                 "record_id": "1327801463",
@@ -45,7 +64,7 @@
                 "score": 265.0
             },
             {
-                "record_id": "1327615073",
+                "record_id": "1327614588",
                 "url": "https://katu.com/news/nation-world/doctors-urge-flu-shots-as-activity-rises-early-in-parts-of-the-us",
                 "related_urls": [],
                 "title": "",
@@ -53,26 +72,19 @@
                 "sources": 5,
                 "goldstein": -10.0,
                 "tone": -3.86996904024767,
-                "score": 220.0
-            },
-            {
-                "record_id": "1327615611",
-                "url": "https://www.newspim.com/news/view/20261013000044",
-                "related_urls": [],
-                "title": "",
-                "mentions": 350,
-                "sources": 1,
-                "goldstein": 7.4,
-                "tone": 0.544626389275833,
-                "score": 214.0
+                "score": 220.0,
+                "keyword": "독감 확산 경고",
+                "hook": "미국 전역에 독감 비상령이 내려졌습니다, 지금 즉시 백신을 맞으십시오.",
+                "script": "올해 독감 시즌이 예년보다 훨씬 빠르게 시작되었습니다. 병원마다 환자가 급증하며 보건 당국이 백신 접종을 긴급 권고했습니다. 절대 방심하지 마세요.",
+                "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-14 09:16:32 KST",
+        "last_updated": "2026-10-14 13:56:22 KST",
         "current_rank": 1
     },
     "Australia": {
         "gdp_rank": 13,
-        "spike_score": 1072.5,
+        "spike_score": 1248.0,
         "trends": [
             {
                 "record_id": "1327642099",
@@ -85,24 +97,39 @@
                 "tone": -7.0719962575776,
                 "score": 377.5,
                 "keyword": "수감자 투표권 박탈",
-                "hook": "자유를 잃은 수감자들, 이제는 투표권마저 사라졌습니다.",
-                "script": "호주 내 수감자들의 투표권 박탈 논란이 거세지고 있습니다. 인권 보호인가, 범죄자에 대한 당연한 처벌인가. 법적 공방이 가열되고 있습니다.",
-                "sentiment": "warning"
+                "hook": "자유를 잃은 수감자들, 이제 투표할 권리마저 사라졌다.",
+                "script": "호주 수감자들의 투표권 박탈 논란이 뜨겁습니다. 사법부의 결정으로 기본권마저 제한되는 상황, 인권 침해인가 정당한 처벌인가.",
+                "sentiment": "negative"
             },
             {
-                "record_id": "1327662317",
-                "url": "https://www.armidaleexpress.com.au/story/9367545/feral-flesh-pedophile-screamed-at-before-extradition/",
+                "record_id": "1327817233",
+                "url": "https://www.theleader.com.au/story/9368462/court-overturns-heritage-order-stalling-1b-gold-mine/",
                 "related_urls": [],
                 "title": "",
-                "mentions": 60,
-                "sources": 6,
-                "goldstein": 3.4,
-                "tone": -8.29573561699793,
-                "score": 196.5,
-                "keyword": "소아성애범 인도 전 분노",
-                "hook": "인도 직전, 분노한 군중이 소아성애범에게 쏟아낸 처절한 외침.",
-                "script": "해외로 인도되기 전, 죄질이 나쁜 소아성애범을 향한 시민들의 분노가 폭발했습니다. 극도의 긴장감 속에서 법 집행 과정이 진행되었습니다.",
+                "mentions": 110,
+                "sources": 5,
+                "goldstein": -5.0,
+                "tone": -1.70536623109199,
+                "score": 312.0,
+                "keyword": "1조 금광 중단",
+                "hook": "1조 원 규모의 금광 개발, 법원이 제동을 걸었다.",
+                "script": "법원이 헤리티지 명령을 뒤집으며 1조 원대 금광 사업이 멈췄습니다. 경제적 이익과 문화유산 보호 사이의 치열한 공방이 이어지고 있습니다.",
                 "sentiment": "negative"
+            },
+            {
+                "record_id": "1327818657",
+                "url": "https://www.dailyliberal.com.au/story/9368263/prisoners-landmark-egg-freezing-win-in-high-court/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 6,
+                "goldstein": -5.0,
+                "tone": -4.11359274691289,
+                "score": 206.0,
+                "keyword": "수감자 난자 냉동",
+                "hook": "수감자의 난자 냉동 승소, 호주 사법 역사상 최초의 판결.",
+                "script": "호주 고등법원이 수감자의 난자 냉동 권리를 인정했습니다. 수감자 인권에 대한 획기적인 판결로, 앞으로의 교정 정책에 큰 변화가 예상됩니다.",
+                "sentiment": "neutral"
             },
             {
                 "record_id": "1327746725",
@@ -114,9 +141,9 @@
                 "goldstein": 3.2,
                 "tone": -3.84639667520425,
                 "score": 183.0,
-                "keyword": "가스 로비 정책 변경",
-                "hook": "가스 업계의 승리인가, 국민의 패배인가. 노동당의 정책 변경이 도마 위에 올랐습니다.",
-                "script": "가스 로비의 요구가 받아들여졌습니다. 노동당이 가스 보유 계획을 변경하며 기업들의 요구를 수용했습니다. 환경 단체와 시민들의 반발이 거셉니다.",
+                "keyword": "가스 업계 로비",
+                "hook": "정부의 가스 정책 변경, 업계 로비가 통했다는 의혹.",
+                "script": "노동당의 가스 보유 계획 변경에 업계 로비가 작용했다는 비판이 쏟아집니다. 정책의 투명성을 둘러싼 논란이 호주 정가를 강타하고 있습니다.",
                 "sentiment": "negative"
             },
             {
@@ -129,33 +156,18 @@
                 "goldstein": 2.8,
                 "tone": -0.931821978734822,
                 "score": 169.5,
-                "keyword": "신탁 세금 조사 착수",
-                "hook": "기업들이 묻습니다. 대체 이 세금은 어디로 가는가?",
-                "script": "신탁 세금에 대한 전면 조사가 시작되었습니다. 비용 부담을 호소하는 기업들의 반발이 거세지면서 정부의 조세 정책이 시험대에 올랐습니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1327800790",
-                "url": "https://www.hardenexpress.com.au/story/9368186/small-businesses-to-be-taxed-twice-but-inquiry-looms/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 56,
-                "sources": 7,
-                "goldstein": -2.0,
-                "tone": -0.498860695597338,
-                "score": 146.0,
-                "keyword": "중소기업 이중과세 논란",
-                "hook": "중소기업을 두 번 울리는 이중과세, 과연 탈출구는 있는가?",
-                "script": "중소기업들이 이중과세의 늪에 빠졌습니다. 정부의 무리한 세금 정책에 대한 비판이 쏟아지며, 의회 차원의 조사까지 예고되었습니다.",
+                "keyword": "신탁세 조사 착수",
+                "hook": "기업들의 분노가 폭발했다, 불투명한 신탁세 조사가 시작된다.",
+                "script": "신탁세 비용 문제로 기업들이 강력히 반발하며 정부가 조사에 착수했습니다. 과연 세금 부담은 합리적인가, 기업들의 생존권이 걸린 싸움입니다.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-14 09:16:32 KST",
+        "last_updated": "2026-10-14 13:56:22 KST",
         "current_rank": 2
     },
     "United Kingdom": {
         "gdp_rank": 6,
-        "spike_score": 949.0,
+        "spike_score": 928.5,
         "trends": [
             {
                 "record_id": "1327795091",
@@ -171,7 +183,7 @@
                 "score": 294.0
             },
             {
-                "record_id": "1327612471",
+                "record_id": "1327611627",
                 "url": "https://www.kentonline.co.uk/news/national/burnham-accused-of-unpicking-brexit-deal-as-date-set-for-uk-eu-summit-172862/",
                 "related_urls": [],
                 "title": "",
@@ -206,24 +218,22 @@
                 "score": 134.0
             },
             {
-                "record_id": "1327787505",
-                "url": "https://www.lancashiretelegraph.co.uk/news/national/26632327.iran-linked-incident-raf-fairford-not-unique-spy-chief-says/",
-                "related_urls": [
-                    "https://www.wimbledonguardian.co.uk/news/national/26632327.iran-linked-incident-raf-fairford-not-unique-spy-chief-says/"
-                ],
+                "record_id": "1327702688",
+                "url": "https://www.timesandstar.co.uk/news/national/26632282.ai-give-terrorists-access-bioweapons-guardrails-fail---mi5-chief/",
+                "related_urls": [],
                 "title": "",
-                "mentions": 48,
-                "sources": 8,
-                "goldstein": -5.0,
-                "tone": -5.94594594594594,
-                "score": 113.5,
-                "keyword": "이란 연루 스파이",
-                "hook": "영국 공군 기지에서 발생한 의문의 사건, 배후에 이란이 있다는 첩보가 포착되었습니다.",
-                "script": "RAF 페어포드 기지를 겨냥한 이번 사건은 단순 사고가 아닌 정보전의 일환으로 보입니다. 영국 정보당국은 이란과 연계된 스파이 활동이 심상치 않다고 경고했습니다. 국가 안보를 위협하는 그림자 전쟁의 실체를 파헤칩니다.",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 6.0,
+                "tone": -4.89749430523919,
+                "score": 93.0,
+                "keyword": "AI 테러 경고",
+                "hook": "AI가 테러리스트의 손에 들어가는 순간, 생화학 무기의 공포가 현실이 됩니다.",
+                "script": "MI5 국장이 경고했습니다. AI 보안 장벽이 무너지면 테러리스트들이 생화학 무기를 제조할 수 있습니다. 인류의 생존을 위협하는 AI의 어두운 그림자를 파헤칩니다.",
                 "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-14 09:16:32 KST",
+        "last_updated": "2026-10-14 13:56:22 KST",
         "current_rank": 3
     },
     "Russia": {
@@ -240,9 +250,9 @@
                 "goldstein": -7.0,
                 "tone": -4.15419246248861,
                 "score": 231.5,
-                "keyword": "트럼프 우크라이나 압박",
-                "hook": "트럼프의 돌발 발언에 우크라이나가 흔들립니다. 지금 국제 정세가 요동치고 있습니다.",
-                "script": "밀리밴드 장관이 트럼프의 발언을 강하게 비판하며 우크라이나 지원을 촉구했습니다. 젤렌스키를 향한 트럼프의 공세가 전쟁의 향방을 어디로 이끌지 주목됩니다.",
+                "keyword": "우크라이나 지원 갈등",
+                "hook": "트럼프의 돌발 발언, 우크라이나 운명을 뒤흔드는 외교적 파장.",
+                "script": "트럼프의 젤렌스키 비판이 국제 사회에 큰 논란을 낳고 있습니다. 밀리밴드 장관은 우크라이나 지지를 재차 강조하며 서방 동맹의 균열을 막기 위해 안간힘을 쓰고 있습니다.",
                 "sentiment": "negative"
             },
             {
@@ -255,10 +265,10 @@
                 "goldstein": -4.0,
                 "tone": -0.99255583126551,
                 "score": 188.0,
-                "keyword": "러시아 디젤 거래 중단",
-                "hook": "미국 상원 의원들이 트럼프에게 최후통첩을 날렸습니다. 러시아와의 거래를 즉각 파기하라.",
-                "script": "초당적 의원 그룹이 러시아 디젤 거래의 위험성을 경고하며 트럼프 대통령에게 즉각적인 파기를 요구했습니다. 국제적 제재망이 다시금 요동치고 있습니다.",
-                "sentiment": "negative"
+                "keyword": "러시아 디젤 거래",
+                "hook": "미 의회가 트럼프를 향해 러시아와의 디젤 거래를 즉각 중단하라고 외쳤다.",
+                "script": "초당적 상원의원 그룹이 트럼프 행정부에 러시아 디젤 거래 파기를 촉구했습니다. 안보와 경제 사이에서 갈등하는 미-러 관계, 과연 거래는 철회될 것인가.",
+                "sentiment": "warning"
             },
             {
                 "record_id": "1327703450",
@@ -270,9 +280,9 @@
                 "goldstein": 7.0,
                 "tone": -4.54995054401583,
                 "score": 115.0,
-                "keyword": "서방 우크라이나 관계 악화",
-                "hook": "균열이 시작되었습니다. 서방 동맹국들과 우크라이나 사이의 차가운 기류.",
-                "script": "밀리밴드 장관이 우크라이나 동맹국들 사이의 어려운 관계를 공식 인정했습니다. 전쟁 지속을 위한 연대가 흔들리는 것 아니냐는 우려가 쏟아지고 있습니다.",
+                "keyword": "미-러 관계 악화",
+                "hook": "복잡하게 얽힌 우크라이나 동맹, 외교적 한계에 봉착했다.",
+                "script": "밀리밴드가 미-러 관계의 심각한 경색 국면을 인정했습니다. 우크라이나를 둘러싼 서방의 전략적 고민이 깊어지는 가운데, 긴장감은 최고조에 달하고 있습니다.",
                 "sentiment": "negative"
             },
             {
@@ -285,9 +295,9 @@
                 "goldstein": 1.0,
                 "tone": -3.67524787692855,
                 "score": 107.0,
-                "keyword": "흑해 드론 함선 격침",
-                "hook": "흑해에서 벌어진 참극, 드론 공격으로 함선이 침몰했습니다.",
-                "script": "흑해를 항해하던 함선이 드론 공격을 받고 침몰했습니다. 긴급 구조 작업이 시작됐지만, 전운은 더욱 짙어지고 있습니다.",
+                "keyword": "흑해 드론 공습",
+                "hook": "흑해를 뒤덮은 드론 공격, 침몰한 선박과 긴급 구조 작전.",
+                "script": "흑해에서 드론 공습으로 선박 한 척이 침몰했습니다. 긴박한 구조 작업이 이어지는 가운데, 이번 공격이 전쟁의 판도를 어떻게 바꿀지 주목됩니다.",
                 "sentiment": "negative"
             },
             {
@@ -300,13 +310,13 @@
                 "goldstein": -10.0,
                 "tone": -5.71762272234801,
                 "score": 98.0,
-                "keyword": "우크라이나 미사일 피격",
-                "hook": "경고 없는 폭격, 젤렌스키가 서방 파트너들을 향해 분노를 터뜨렸습니다.",
-                "script": "사전 예고 없는 미사일 공습이 우크라이나를 강타했습니다. 동맹국들의 정보 공유 부재를 탓하며 젤렌스키 대통령이 날 선 비판을 쏟아냈습니다.",
-                "sentiment": "negative"
+                "keyword": "키이우 미사일 기습",
+                "hook": "사전 경고는 없었다, 키이우를 타격한 의문의 미사일.",
+                "script": "젤렌스키 대통령이 파트너 국가들의 사전 경고 없이 발생한 미사일 타격에 분노했습니다. 방어망이 뚫린 키이우의 긴박한 상황을 지금 전해드립니다.",
+                "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-14 09:16:32 KST",
+        "last_updated": "2026-10-14 13:56:22 KST",
         "current_rank": 4
     },
     "Germany": {
@@ -333,7 +343,11 @@
                 "sources": 5,
                 "goldstein": 7.0,
                 "tone": -7.81686208821888,
-                "score": 125.0
+                "score": 125.0,
+                "keyword": "사형 집행 실패",
+                "hook": "실패한 사형 집행, 긴박했던 당시의 911 녹취록이 공개되었습니다.",
+                "script": "크리스타 파이크의 사형 집행 과정에서 벌어진 끔찍한 혼란이 911 녹취록을 통해 드러났습니다. 사형 현장의 공포와 실상을 지금 바로 확인하시기 바랍니다.",
+                "sentiment": "negative"
             },
             {
                 "record_id": "1327738768",
@@ -356,9 +370,9 @@
                 "goldstein": -2.0,
                 "tone": -1.10024449877751,
                 "score": 62.0,
-                "keyword": "알프스 붕괴 위험",
-                "hook": "알프스 산맥에서 올림픽 규격 수영장 160개 분량의 거대한 암석이 붕괴할 조짐을 보이고 있습니다.",
-                "script": "40만 세제곱미터의 암석이 산 정상에서 언제든 쏟아져 내릴 수 있다는 경고입니다. 산악 마을 주민들과 관광객들의 안전에 비상이 걸렸습니다. 전문가들은 지각 변동을 면밀히 감시 중입니다. 산사태의 공포, 당장 대비해야 합니다.",
+                "keyword": "알프스 산사태 경고",
+                "hook": "알프스 산맥이 무너진다, 수십만 톤의 바위가 쏟아질 위험에 처했습니다.",
+                "script": "알프스 산맥의 거대한 암벽이 붕괴 직전입니다. 수영장 160개 분량의 바위가 마을을 덮칠 수 있다는 경고가 나왔습니다. 인근 주민들의 대피가 시급합니다.",
                 "sentiment": "warning"
             },
             {
@@ -373,24 +387,84 @@
                 "score": 57.0
             }
         ],
-        "last_updated": "2026-10-14 09:16:32 KST",
+        "last_updated": "2026-10-14 13:56:22 KST",
         "current_rank": 5
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 408.5,
+        "trends": [
+            {
+                "record_id": "1327806445",
+                "url": "https://file770.com/tag/shell-bryson/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 1.6275503905403,
+                "score": 122.0
+            },
+            {
+                "record_id": "1327802072",
+                "url": "https://english.news.cn/europe/20261014/2190276c886e4196bf7c8d6a53ee6942/c.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 88,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 4.0929203539823,
+                "score": 116.5
+            },
+            {
+                "record_id": "1327803085",
+                "url": "http://www.hngnews.com/nation_world/a-wyoming-grad-student-who-allegedly-poisoned-a-colleague-has-been-arrested-fleeing-to-china/article_2aa984e6-46ab-573d-9d7e-baa3cb461aa4.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 65,
+                "sources": 7,
+                "goldstein": 5.0,
+                "tone": -11.6062379687093,
+                "score": 71.5,
+                "keyword": "독극물 사건 피의자",
+                "hook": "동료에게 독극물을 먹인 대학원생, 중국으로 도주하다 결국 덜미를 잡혔습니다.",
+                "script": "와이오밍의 한 대학원생이 동료를 독살하려 한 혐의로 체포되었습니다. 사건 직후 중국으로 도주하려던 그의 소름 돋는 행각이 공개되었습니다. 자세한 범행 전말을 전합니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327833129",
+                "url": "https://english.news.cn/20261014/f0c862c53cc6429ca514d83febaebf21/c.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 84,
+                "sources": 1,
+                "goldstein": 1.9,
+                "tone": 1.81579261736949,
+                "score": 53.5
+            },
+            {
+                "record_id": "1327814821",
+                "url": "https://www.schwaebische.de/wirtschaft/wanze-in-openai-konferenzraum-mitarbeiter-festgenommen-4935441",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -2.0,
+                "tone": -4.50862768833894,
+                "score": 45.0,
+                "keyword": "OpenAI 도청 파문",
+                "hook": "OpenAI 회의실에 숨겨진 도청 장치, 내부 직원이 체포되었습니다.",
+                "script": "AI 업계가 충격에 빠졌습니다. OpenAI 회의실에서 발견된 정체불명의 도청 장치, 범인은 다름 아닌 내부 직원이었습니다. 기술 유출 여부에 전 세계의 이목이 쏠립니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-14 13:56:22 KST",
+        "current_rank": 6
     },
     "France": {
         "gdp_rank": 7,
-        "spike_score": 458.5,
+        "spike_score": 344.5,
         "trends": [
-            {
-                "record_id": "1327754086",
-                "url": "https://www.gazetteandherald.co.uk/news/national/26633975.greta-thunberg-backs-french-protests-run-down-schools/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 108,
-                "sources": 6,
-                "goldstein": -6.5,
-                "tone": -7.82122905027935,
-                "score": 212.5
-            },
             {
                 "record_id": "1327760664",
                 "url": "https://magic989fm.iheart.com/content/2026-10-13-cyberattack-disrupts-refrigeration-at-700-supermarkets/",
@@ -402,9 +476,24 @@
                 "tone": -6.68911381016641,
                 "score": 196.0,
                 "keyword": "슈퍼마켓 사이버 테러",
-                "hook": "프랑스 전역의 슈퍼마켓 700곳이 사이버 공격을 받아 냉장 시스템이 마비되는 사태가 벌어졌습니다.",
-                "script": "식료품 보관 냉장고가 모두 꺼졌습니다. 수천 톤의 식재료가 부패할 위기에 처했고 시민들은 혼란에 빠졌습니다. 해커들의 정교한 공격으로 발생한 이번 테러, 프랑스 유통망이 완전히 멈춰 섰습니다. 실시간 피해 상황을 정리합니다.",
-                "sentiment": "warning"
+                "hook": "프랑스 전역의 슈퍼마켓 냉동고가 멈췄습니다, 대규모 사이버 공격의 실체입니다.",
+                "script": "700여 개 슈퍼마켓의 냉동 시스템이 해커들의 공격으로 마비되었습니다. 식료품 대란이 우려되는 가운데, 배후를 향한 수사가 급박하게 진행 중입니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327754086",
+                "url": "https://www.gazetteandherald.co.uk/news/national/26633975.greta-thunberg-backs-french-protests-run-down-schools/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 108,
+                "sources": 6,
+                "goldstein": -6.5,
+                "tone": -7.82122905027935,
+                "score": 98.5,
+                "keyword": "그레타 툰베리 지지",
+                "hook": "학교 붕괴에 맞서는 프랑스 학생들, 그레타 툰베리가 직접 나섰습니다.",
+                "script": "열악한 학교 환경에 항의하는 프랑스 학생들의 시위가 거세지고 있습니다. 환경 운동가 그레타 툰베리까지 지지를 선언하며 사태는 전국적인 규모로 확산 중입니다.",
+                "sentiment": "negative"
             },
             {
                 "record_id": "1327721321",
@@ -418,110 +507,46 @@
                 "score": 50.0
             }
         ],
-        "last_updated": "2026-10-14 09:16:32 KST",
-        "current_rank": 6
+        "last_updated": "2026-10-14 13:56:22 KST",
+        "current_rank": 7
     },
-    "China": {
-        "gdp_rank": 2,
-        "spike_score": 265.5,
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 204.0,
         "trends": [
             {
-                "record_id": "1327802072",
-                "url": "https://english.news.cn/europe/20261014/2190276c886e4196bf7c8d6a53ee6942/c.html",
+                "record_id": "1327805369",
+                "url": "https://indiankanoon.org/doc/96269946/",
                 "related_urls": [],
                 "title": "",
                 "mentions": 88,
                 "sources": 1,
-                "goldstein": 2.8,
-                "tone": 4.0929203539823,
-                "score": 116.5
-            },
-            {
-                "record_id": "1327634459",
-                "url": "http://en.people.cn/n3/2026/1013/c90000-20507637.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 1,
-                "goldstein": 2.8,
-                "tone": -2.12765957446809,
-                "score": 77.5
-            },
-            {
-                "record_id": "1327803085",
-                "url": "http://www.hngnews.com/nation_world/a-wyoming-grad-student-who-allegedly-poisoned-a-colleague-has-been-arrested-fleeing-to-china/article_2aa984e6-46ab-573d-9d7e-baa3cb461aa4.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 65,
-                "sources": 7,
                 "goldstein": 5.0,
-                "tone": -11.6062379687093,
-                "score": 71.5,
-                "keyword": "독살범 중국 도주",
-                "hook": "동료를 독살한 혐의를 받는 대학원생이 국경을 넘어 중국으로 도주하는 전대미문의 사건이 발생했습니다.",
-                "script": "와이오밍 대학원생이 동료를 독살하려 한 혐의로 긴급 수배되었습니다. 범인은 범행 직후 중국으로 도피한 것으로 드러나 국제적인 공조 수사가 시작되었습니다. 과연 그가 숨은 곳은 어디일까요? 추적 상황을 계속 지켜봐야 합니다.",
-                "sentiment": "warning"
-            }
-        ],
-        "last_updated": "2026-10-14 09:16:32 KST",
-        "current_rank": 7
-    },
-    "Italy": {
-        "gdp_rank": 8,
-        "spike_score": 241.0,
-        "trends": [
-            {
-                "record_id": "1327761472",
-                "url": "https://www.yorkpress.co.uk/news/national/26634011.popes-lung-nodule-surgery-completed-successfully-vatican-says/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 91,
-                "sources": 13,
-                "goldstein": 2.8,
-                "tone": -1.84977228772849,
-                "score": 147.0,
-                "keyword": "교황 폐 결절 수술",
-                "hook": "바티칸이 긴급 발표한 교황의 건강 상태, 지금 전 세계가 숨죽이고 있습니다.",
-                "script": "교황이 폐 결절 제거 수술을 성공적으로 마쳤습니다. 건강에 대한 우려가 컸지만, 현재 회복 중이라는 소식입니다. 가톨릭계의 안도와 향후 일정에 관심이 쏠립니다.",
-                "sentiment": "neutral"
+                "tone": -4.46154729338133,
+                "score": 137.0
             },
             {
-                "record_id": "1327678466",
-                "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/annullata-la-condanna-a-ilaria-salis-nella-causa-con-gli-ex-collaboratori_a5030e0d-a3c7-40af-9410-312d000ca1e0.html",
+                "record_id": "1327636885",
+                "url": "https://www.legallyindia.com/convos/topic/499014-op-ed-says-gen-z-professionals-in-india-are-leading-empty-zombie-lives",
                 "related_urls": [],
                 "title": "",
-                "mentions": 50,
-                "sources": 4,
-                "goldstein": 4.0,
-                "tone": -5.51596104877488,
-                "score": 53.0,
-                "keyword": "살리스 유죄 판결 파기",
-                "hook": "충격적인 반전, 이탈리아 법원이 일라리아 살리스의 유죄 판결을 뒤집었습니다.",
-                "script": "논란의 중심에 섰던 일라리아 살리스 사건, 결국 판결이 파기되었습니다. 전직 협력자들과의 법적 다툼에서 새로운 국면을 맞이한 상황, 사법부의 최종 결정에 이목이 집중됩니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1327697751",
-                "url": "https://www.zazoom.it/2026-10-13/papa-leone-xiv-e-arrivato-al-gemelli-sara-operato-nel-pomeriggio/19794654/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
+                "mentions": 80,
                 "sources": 1,
-                "goldstein": 2.8,
-                "tone": -2.7317462454141,
-                "score": 41.0,
-                "keyword": "교황 제멜리 병원 이송",
-                "hook": "교황이 급히 제멜리 병원으로 이송되었습니다. 긴박한 상황이 이어지고 있습니다.",
-                "script": "교황 레오 14세가 오늘 오후 예정된 수술을 위해 제멜리 병원에 도착했습니다. 바티칸의 긴급한 움직임 속에서 수술 결과에 전 세계의 이목이 쏠리고 있습니다.",
-                "sentiment": "negative"
+                "goldstein": -5.0,
+                "tone": 2.55319825861357,
+                "score": 67.0,
+                "keyword": "인도 Z세대 좀비",
+                "hook": "영혼 없는 좀비 같은 삶, 인도 Z세대 직장인들의 충격적인 현실입니다.",
+                "script": "인도의 젊은 직장인들이 목적 없는 '좀비 같은 삶'을 살고 있다는 분석이 나왔습니다. 무엇이 그들을 이렇게 만들었을까요? 현대 사회의 씁쓸한 단면을 조명합니다.",
+                "sentiment": "neutral"
             }
         ],
-        "last_updated": "2026-10-14 09:16:32 KST",
+        "last_updated": "2026-10-14 13:56:22 KST",
         "current_rank": 8
     },
     "Brazil": {
         "gdp_rank": 9,
-        "spike_score": 238.0,
+        "spike_score": 201.0,
         "trends": [
             {
                 "record_id": "1327678125",
@@ -533,9 +558,9 @@
                 "goldstein": 5.0,
                 "tone": -6.43203883495147,
                 "score": 159.0,
-                "keyword": "베르나데트 살인범 재판",
-                "hook": "마침내 법의 심판대에 섰습니다. 베르나데트 어머니를 살해한 3명의 잔혹한 범죄자들.",
-                "script": "오늘 브라질 법정에서 베르나데트 살인 사건의 주범들에 대한 재판이 열립니다. 정의를 갈망하는 유가족들과 분노한 시민들의 시선이 이곳 법정에 꽂혔습니다.",
+                "keyword": "베르나데트 살인범",
+                "hook": "어머니 베르나데트를 잔혹하게 살해한 범인, 드디어 심판대에 섰다.",
+                "script": "활동가 베르나데트 살해 혐의를 받는 3인조에 대한 재판이 오늘 시작됩니다. 브라질 사회를 분노케 했던 이번 사건의 결과에 온 국민의 시선이 집중되고 있습니다. 정의는 구현될 것인가.",
                 "sentiment": "negative"
             },
             {
@@ -548,29 +573,52 @@
                 "goldstein": -2.0,
                 "tone": -2.98507462686567,
                 "score": 42.0,
-                "keyword": "안다라이 모기 창궐",
-                "hook": "방치된 공사장의 물웅덩이, 이제는 모기떼의 공포로 변했습니다.",
-                "script": "안다라이 주민들이 고통받고 있습니다. 공사장에 방치된 고인 물 때문에 모기가 급증했습니다. 주민들은 당국의 즉각적인 조치를 요구하며 분통을 터뜨리고 있습니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1327701981",
-                "url": "https://racismoambiental.net.br/2026/10/13/mesmo-tamanho-mais-intransigente-bancada-anti-indigena-no-congresso-nacional-se-fortalece-apos-eleicoes/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 1,
-                "goldstein": -2.0,
-                "tone": 0.20746887966805,
-                "score": 37.0,
-                "keyword": "반원주민 세력 강화",
-                "hook": "선거 이후 브라질 의회가 더 위험해졌습니다. 반원주민 세력이 노골적인 야욕을 드러냅니다.",
-                "script": "총선 결과 브라질 의회 내 반원주민 의원들의 입지가 더욱 단단해졌습니다. 원주민들의 생존권과 환경 보호가 그 어느 때보다 큰 위기에 직면했습니다.",
+                "keyword": "모기떼 창궐 위기",
+                "hook": "방치된 공사장의 고인 물, 주민들이 모기떼 공포에 떨고 있다.",
+                "script": "안다라이 지역 주민들이 공사장 고인 물로 인한 모기 피해를 호소합니다. 질병 확산 우려에도 당국은 묵묵부답입니다. 주민들의 안전이 지금 위협받고 있습니다.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-14 09:16:32 KST",
+        "last_updated": "2026-10-14 13:56:22 KST",
         "current_rank": 9
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 200.0,
+        "trends": [
+            {
+                "record_id": "1327761472",
+                "url": "https://www.yorkpress.co.uk/news/national/26634011.popes-lung-nodule-surgery-completed-successfully-vatican-says/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 91,
+                "sources": 13,
+                "goldstein": 2.8,
+                "tone": -1.84977228772849,
+                "score": 147.0,
+                "keyword": "교황 폐 수술",
+                "hook": "바티칸이 긴급 발표한 교황의 건강 이상설, 수술은 성공했을까?",
+                "script": "교황이 폐 결절 제거 수술을 무사히 마쳤습니다. 바티칸은 이번 수술이 성공적이었다고 공식 발표하며 우려를 불식시켰습니다. 전 세계가 주목한 교황의 건강, 이제 회복 단계에 접어들었습니다.",
+                "sentiment": "neutral"
+            },
+            {
+                "record_id": "1327678466",
+                "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/13/annullata-la-condanna-a-ilaria-salis-nella-causa-con-gli-ex-collaboratori_a5030e0d-a3c7-40af-9410-312d000ca1e0.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 4,
+                "goldstein": 4.0,
+                "tone": -5.51596104877488,
+                "score": 53.0,
+                "keyword": "살리스 유죄 취소",
+                "hook": "이탈리아를 뒤흔든 일라리아 살리스 재판, 판결이 완전히 뒤집혔다.",
+                "script": "일라리아 살리스에 대한 유죄 판결이 전격 취소됐습니다. 전 동료들과의 법적 공방 끝에 내려진 이번 결정은 이탈리아 사법 체계에 큰 파장을 일으키고 있습니다. 사건의 진실은 무엇일까요?",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-14 13:56:22 KST",
+        "current_rank": 10
     },
     "South Africa": {
         "gdp_rank": 19,
@@ -588,14 +636,52 @@
                 "goldstein": 2.8,
                 "tone": 0.30120481927711,
                 "score": 166.0,
-                "keyword": "죽은 새끼 코끼리",
-                "hook": "올해의 사진이 공개되자 전 세계가 눈물바다가 되었습니다.",
-                "script": "죽은 새끼를 곁에 두고 떠나지 못하는 어미 코끼리의 처절한 모습입니다. 야생 사진전에서 대상을 차지한 이 사진 한 장이 인간들에게 환경과 생명의 가치에 대한 뼈아픈 질문을 던지고 있습니다.",
-                "sentiment": "neutral"
+                "keyword": "죽은 새끼 지키는 코끼리",
+                "hook": "죽은 새끼 곁을 떠나지 못하는 어미 코끼리의 절규가 전 세계를 울렸습니다.",
+                "script": "죽은 새끼를 코로 감싸 안은 채 망연자실 서 있는 어미 코끼리. 이 처절한 사진 한 장이 올해의 야생동물 사진전 대상을 거머쥐었습니다. 상실의 슬픔을 고스란히 담아낸 이 장면은 인간의 감정을 넘어선 동물의 모성애를 적나라하게 보여줍니다. 찰나의 순간이 포착한 이 가슴 먹먹한 진실, 여러분은 어떤 생각이 드시나요?",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-14 09:16:32 KST",
-        "current_rank": 10
+        "last_updated": "2026-10-14 13:56:22 KST",
+        "current_rank": 11
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 162.0,
+        "trends": [
+            {
+                "record_id": "1327830479",
+                "url": "https://www.birgun.net/haber/halk-tv-ye-polis-baskini-kayyum-atandi-yayin-durduruldu-740286%20class=slide-link%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -1.55945419103314,
+                "score": 92.0,
+                "keyword": "방송사 경찰 급습",
+                "hook": "언론의 자유는 끝났다? 방송국을 덮친 경찰과 강제 정지.",
+                "script": "할크 TV에 경찰이 들이닥쳐 방송이 중단됐습니다. 관리인 임명과 함께 언론 탄압 논란이 터져 나오며 터키 민주주의가 시험대에 올랐습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327738421",
+                "url": "https://www.star.com.tr/guncel/fon-kurulu-toplantisi-sona-erdi-43-bin-yatirimciya-odeme-yapildi-haber-2046374/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 4,
+                "goldstein": 7.4,
+                "tone": -1.03699686182439,
+                "score": 70.0,
+                "keyword": "펀드 자금 지급",
+                "hook": "4만 3천 명의 투자자, 그들이 기다리던 자금이 풀렸다.",
+                "script": "펀드 위원회가 회의를 마치고 투자자들에게 자금을 지급했습니다. 4만 3천 명의 피해자가 한숨 돌렸지만, 시장의 불신은 여전합니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-14 13:56:22 KST",
+        "current_rank": 12
     },
     "Saudi Arabia": {
         "gdp_rank": 17,
@@ -611,9 +697,9 @@
                 "goldstein": -10.0,
                 "tone": -11.1538461538461,
                 "score": 82.0,
-                "keyword": "공항 미사일 폭격",
-                "hook": "평화롭던 사우디 공항이 순식간에 아수라장으로 변했습니다.",
-                "script": "공항 터미널로 미사일이 날아들었습니다. 승객들은 비명을 지르며 필사적으로 탈출했고 현장은 순식간에 검은 연기와 파편으로 뒤덮였습니다. 공격 직후 긴박했던 현장 영상을 지금 확인하세요.",
+                "keyword": "공항 미사일 테러",
+                "hook": "평화롭던 공항이 아수라장으로, 미사일 공격에 승객들은 도망쳤다.",
+                "script": "사우디아라비아 공항에 미사일 테러가 발생했습니다. 아비규환이 된 현장, 승객들의 긴박한 탈출 영상이 공개되며 중동의 긴장감이 최고조에 달했습니다.",
                 "sentiment": "warning"
             },
             {
@@ -627,119 +713,12 @@
                 "tone": -2.83058026077814,
                 "score": 74.0,
                 "keyword": "AI 엔지니어 체포",
-                "hook": "세계 최고의 AI 엔지니어가 수갑을 차고 끌려나왔습니다.",
-                "script": "첨단 기술을 개발하던 핵심 인재가 범죄 혐의로 체포되었습니다. 업계가 충격에 빠진 가운데 그가 저지른 은밀한 행각이 서서히 드러나고 있습니다. 도대체 무엇이 그를 범죄자로 만들었을까요?",
+                "hook": "천재 AI 엔지니어의 몰락, 그가 저지른 충격적인 범죄는?",
+                "script": "유명 AI 엔지니어가 체포되었습니다. 기술력 뒤에 감춰진 범죄 혐의가 드러나며 업계가 발칵 뒤집혔습니다. 과연 어떤 사건일까요?",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-14 09:16:32 KST",
-        "current_rank": 11
-    },
-    "Turkey": {
-        "gdp_rank": 16,
-        "spike_score": 134.0,
-        "trends": [
-            {
-                "record_id": "1327738421",
-                "url": "https://www.star.com.tr/guncel/fon-kurulu-toplantisi-sona-erdi-43-bin-yatirimciya-odeme-yapildi-haber-2046374/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 4,
-                "goldstein": 7.4,
-                "tone": -1.03699686182439,
-                "score": 70.0,
-                "keyword": "투자금 지급 완료",
-                "hook": "기다림은 끝났다. 4만 3천 명의 투자자가 드디어 돈을 돌려받았습니다.",
-                "script": "펀드 위원회 회의가 종료되었습니다. 사기 논란의 중심이었던 4만 3천 명의 투자자에게 자금 지급이 시작되었습니다. 피해 회복의 첫걸음입니다.",
-                "sentiment": "neutral"
-            },
-            {
-                "record_id": "1327711187",
-                "url": "https://www.birgun.net/haber/bassavcilik-vurgunculari-tespit-etti-fon-sorusturmasinda-yeni-gelisme-740200",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 1,
-                "goldstein": 7.4,
-                "tone": -9.23076923076923,
-                "score": 64.0,
-                "keyword": "펀드 사기범 검거",
-                "hook": "검찰이 칼을 뽑았습니다. 펀드 사기 사건의 주범들이 모두 덜미를 잡혔습니다.",
-                "script": "검찰총장실이 펀드 사기 사건의 주범들을 모두 특정하고 검거에 나섰습니다. 거대한 경제 범죄의 전모가 드러나고 있습니다.",
-                "sentiment": "negative"
-            }
-        ],
-        "last_updated": "2026-10-14 09:16:32 KST",
-        "current_rank": 12
-    },
-    "India": {
-        "gdp_rank": 5,
-        "spike_score": 67.0,
-        "trends": [
-            {
-                "record_id": "1327636885",
-                "url": "https://www.legallyindia.com/convos/topic/499014-op-ed-says-gen-z-professionals-in-india-are-leading-empty-zombie-lives",
-                "related_urls": [],
-                "title": "",
-                "mentions": 80,
-                "sources": 1,
-                "goldstein": -5.0,
-                "tone": 2.55319825861357,
-                "score": 67.0,
-                "keyword": "좀비 직장인 증가",
-                "hook": "인도의 젊은 직장인들이 감정 없이 기계처럼 살아가는 '좀비 라이프'에 빠져들고 있습니다.",
-                "script": "성공만을 쫓는 치열한 경쟁 속에서 인도의 Gen Z 세대가 정신적 공허함을 호소합니다. 영혼 없는 업무와 반복되는 일상, 이른바 '좀비 직장인' 현상이 사회적 이슈로 떠올랐습니다. 당신의 일상은 안녕하십니까?",
-                "sentiment": "negative"
-            }
-        ],
-        "last_updated": "2026-10-14 09:16:32 KST",
+        "last_updated": "2026-10-14 13:56:22 KST",
         "current_rank": 13
-    },
-    "Mexico": {
-        "gdp_rank": 12,
-        "spike_score": 41.0,
-        "trends": [
-            {
-                "record_id": "1327636172",
-                "url": "http://www.tiempodesanjuan.com/personajes-sanjuaninos/de-san-juan-a-yale-y-oxford-la-abogada-que-recorrio-el-mundo-y-suena-con-volver-y-trabajar-para-la-provincia_1791576152",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 1,
-                "goldstein": 2.8,
-                "tone": 2.1505376344086,
-                "score": 41.0,
-                "keyword": "변호사의 고향 귀환",
-                "hook": "예일과 옥스퍼드를 거친 엘리트 변호사, 그녀가 고향으로 돌아오려는 진짜 이유는?",
-                "script": "산후안 출신의 한 변호사가 세계 최고 대학을 거쳐 다시 고향을 위해 일하겠다는 꿈을 밝혔습니다. 그녀의 행보가 멕시코 지역 사회에 새로운 희망을 주고 있습니다.",
-                "sentiment": "positive"
-            }
-        ],
-        "last_updated": "2026-10-14 09:16:32 KST",
-        "current_rank": 14
-    },
-    "Argentina": {
-        "gdp_rank": 18,
-        "spike_score": 36.5,
-        "trends": [
-            {
-                "record_id": "1327636435",
-                "url": "http://www.tiempodesanjuan.com/personajes-sanjuaninos/de-san-juan-a-yale-y-oxford-la-abogada-que-recorrio-el-mundo-y-suena-con-volver-y-trabajar-para-la-provincia_1791576152",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 1,
-                "goldstein": 1.9,
-                "tone": 2.1505376344086,
-                "score": 36.5,
-                "keyword": "아르헨티나 인재 귀환",
-                "hook": "예일과 옥스퍼드를 거친 천재 변호사가 고향으로 돌아옵니다.",
-                "script": "세계 최고의 명문대를 정복한 아르헨티나의 인재가 자신의 뿌리인 산후안으로 향합니다. 화려한 커리어를 뒤로하고 고국을 위해 헌신하겠다는 그녀의 결단이 아르헨티나 전역에 큰 울림을 주고 있습니다.",
-                "sentiment": "positive"
-            }
-        ],
-        "last_updated": "2026-10-14 09:16:32 KST",
-        "current_rank": 15
     }
 }
