@@ -1,0 +1,765 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 2813.0,
+        "trends": [
+            {
+                "record_id": "1327801268",
+                "url": "https://hot983.iheart.com/content/2026-10-13-man-convicted-of-tupacs-murder-gets-40-years-to-life-in-prison/",
+                "related_urls": [
+                    "https://v103.iheart.com/content/2026-10-13-man-convicted-of-tupacs-murder-gets-40-years-to-life-in-prison/"
+                ],
+                "title": "",
+                "mentions": 132,
+                "sources": 4,
+                "goldstein": -10.0,
+                "tone": -10.2871383170961,
+                "score": 1353.0,
+                "keyword": "투팍 살인범 중형",
+                "hook": "전설적인 래퍼 투팍 샤커를 살해한 범인이 드디어 40년 형을 선고받았습니다.",
+                "script": "투팍 샤커 살인 사건의 종지부가 찍혔습니다. 범인은 40년에서 종신형을 선고받으며 법의 심판을 받게 됐습니다. 정의는 실현될까요? 지금 즉시 확인하세요.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327808842",
+                "url": "https://www.sandiegouniontribune.com/2026/10/13/qa-meet-jon-moffat-candidate-for-vista-unified-school-district-trustee-in-area-3/",
+                "related_urls": [
+                    "https://www.sandiegouniontribune.com/2026/10/13/qa-meet-raquel-riojas-alvarez-candidate-for-oceanside-unified-school-district-trustee-in-area-4/",
+                    "https://www.sandiegouniontribune.com/2026/10/13/qa-meet-jennifer-dahlquist-ramirez-candidate-for-oway-unified-school-district-trustee-in-area-d/"
+                ],
+                "title": "",
+                "mentions": 576,
+                "sources": 1,
+                "goldstein": 7.4,
+                "tone": 2.16556176284065,
+                "score": 650.0
+            },
+            {
+                "record_id": "1327863818",
+                "url": "https://www.cambstimes.co.uk/news/national/26634303.pope-leo-spent-tranquil-night-hospital-cancer-surgery-vatican-says/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 102,
+                "sources": 17,
+                "goldstein": 3.4,
+                "tone": -1.620029455081,
+                "score": 346.5
+            },
+            {
+                "record_id": "1327801169",
+                "url": "https://991wqik.iheart.com/content/2026-10-13-back-to-back-earthquakes-rattle-mid-atlantic-ridge-experts-warn-of-risks/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 160,
+                "sources": 3,
+                "goldstein": 2.8,
+                "tone": -8.08384765037831,
+                "score": 249.5,
+                "keyword": "대서양 연쇄 지진",
+                "hook": "대서양 중앙 해령에서 발생한 연쇄 지진으로 전문가들이 강력 경고하고 나섰습니다.",
+                "script": "지구가 흔들리고 있습니다. 대서양 중앙 해령에서 연쇄 지진이 관측되며 대형 재난 가능성이 제기되었습니다. 전문가들의 긴박한 경고, 지금 바로 확인하십시오.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1327615611",
+                "url": "https://www.newspim.com/news/view/20261013000044",
+                "related_urls": [],
+                "title": "",
+                "mentions": 350,
+                "sources": 1,
+                "goldstein": 7.4,
+                "tone": 0.544626389275833,
+                "score": 214.0
+            }
+        ],
+        "last_updated": "2026-10-15 06:38:17 KST",
+        "current_rank": 1
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 1294.0,
+        "trends": [
+            {
+                "record_id": "1327642099",
+                "url": "https://www.narrominenewsonline.com.au/story/9367771/prisoners-lose-their-liberty-and-their-right-to-vote/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 6,
+                "goldstein": -9.5,
+                "tone": -7.0719962575776,
+                "score": 377.5,
+                "keyword": "수감자 투표권 박탈",
+                "hook": "죄를 지으면 권리도 사라진다, 호주 법원의 충격적 결정.",
+                "script": "수감자들의 투표권이 완전히 박탈되었습니다. 호주 사법부가 내린 강력한 판결은 사회적 논란의 중심에 섰습니다. 자유를 잃은 이들에게 시민권은 어디까지 허용되어야 할까요?",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327845218",
+                "url": "https://www.perthnow.com.au/news/crime/child-safety-took-risk-in-sending-girl-back-to-cult-c-23019205",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 7.0,
+                "tone": 0.350224370136524,
+                "score": 352.5,
+                "keyword": "사이비 종교 방치",
+                "hook": "어린 소녀를 사이비 종교로 돌려보낸 정부, 위험한 도박이 드러났습니다.",
+                "script": "호주 아동 보호 당국이 소녀를 다시 사이비 종교 집단으로 돌려보냈다는 사실이 밝혀졌습니다. 아이의 안전을 최우선해야 할 국가가 오히려 위험 속으로 밀어 넣은 셈입니다. 분노를 자아내는 정부의 실책, 그 전말을 파헤칩니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327818657",
+                "url": "https://www.dailyliberal.com.au/story/9368263/prisoners-landmark-egg-freezing-win-in-high-court/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 6,
+                "goldstein": -5.0,
+                "tone": -4.11359274691289,
+                "score": 206.0
+            },
+            {
+                "record_id": "1327746725",
+                "url": "https://www.irrigator.com.au/story/9368068/gas-lobby-gets-its-wish-as-labor-changes-reserve-scheme/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 160,
+                "sources": 8,
+                "goldstein": 3.2,
+                "tone": -3.84639667520425,
+                "score": 183.0
+            },
+            {
+                "record_id": "1327817233",
+                "url": "https://www.theleader.com.au/story/9368462/court-overturns-heritage-order-stalling-1b-gold-mine/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 5,
+                "goldstein": -5.0,
+                "tone": -1.70536623109199,
+                "score": 175.0
+            }
+        ],
+        "last_updated": "2026-10-15 06:38:17 KST",
+        "current_rank": 2
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 936.5,
+        "trends": [
+            {
+                "record_id": "1327795091",
+                "url": "https://www.readingchronicle.co.uk/news/national/26634176.gut-punch-image-elephant-dead-calf-wins-wildlife-photographer-contest/",
+                "related_urls": [
+                    "https://www.london-now.co.uk/news/national/26634176.gut-punch-image-elephant-dead-calf-wins-wildlife-photographer-contest/"
+                ],
+                "title": "",
+                "mentions": 160,
+                "sources": 16,
+                "goldstein": 1.9,
+                "tone": 0.30120481927711,
+                "score": 294.0
+            },
+            {
+                "record_id": "1327611627",
+                "url": "https://www.kentonline.co.uk/news/national/burnham-accused-of-unpicking-brexit-deal-as-date-set-for-uk-eu-summit-172862/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 11,
+                "goldstein": 8.0,
+                "tone": 0.799066041349443,
+                "score": 234.0,
+                "keyword": "브렉시트 재협상 논란",
+                "hook": "버넘이 브렉시트 합의를 뒤흔들며 영국-EU 정상회담을 앞두고 거센 비판에 직면했습니다.",
+                "script": "영국이 다시 브렉시트 소용돌이에 휘말렸습니다. 버넘의 행보가 합의를 무너뜨린다는 비난이 쏟아지는 가운데, 다가오는 EU 정상회담의 운명은?",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327612264",
+                "url": "https://www.kentonline.co.uk/news/national/harry-and-meghan-to-visit-youth-group-in-first-joint-engagement-since-uk-return-172863/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 11,
+                "goldstein": 2.8,
+                "tone": 2.83961154298631,
+                "score": 173.5
+            },
+            {
+                "record_id": "1327800911",
+                "url": "https://www.london-now.co.uk/news/national/26634139.burnham-meet-zelensky-wake-trumps-diesel-deal-moscow/",
+                "related_urls": [
+                    "https://www.wiltshiretimes.co.uk/news/national/26634139.burnham-meet-zelensky-wake-trumps-diesel-deal-moscow/"
+                ],
+                "title": "",
+                "mentions": 120,
+                "sources": 8,
+                "goldstein": 1.0,
+                "tone": -0.263205885543988,
+                "score": 134.0
+            },
+            {
+                "record_id": "1327850615",
+                "url": "https://www.watfordobserver.co.uk/news/national/26634282.black-music-events-cancelled-shut-more-white-led-events/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 130,
+                "sources": 13,
+                "goldstein": -2.0,
+                "tone": -2.37623762376237,
+                "score": 101.0
+            }
+        ],
+        "last_updated": "2026-10-15 06:38:17 KST",
+        "current_rank": 3
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 868.0,
+        "trends": [
+            {
+                "record_id": "1327614869",
+                "url": "https://www.wiltsglosstandard.co.uk/news/national/26630314.miliband-urges-need-stand-ukraine-trump-fresh-dig-zelensky/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 73,
+                "sources": 15,
+                "goldstein": -7.0,
+                "tone": -4.15419246248861,
+                "score": 231.5
+            },
+            {
+                "record_id": "1327891131",
+                "url": "https://www.burytimes.co.uk/news/national/26635778.zelensky-says-russian-strikes-hit-ukraines-energy-sites-despite-ceasefire-push/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 78,
+                "sources": 13,
+                "goldstein": -10.0,
+                "tone": -4.98188405797102,
+                "score": 226.5,
+                "keyword": "에너지 시설 타격",
+                "hook": "정전 합의는 없었다, 우크라이나 에너지망이 또다시 무너졌습니다.",
+                "script": "러시아의 강력한 공습이 우크라이나 전역을 강타했습니다. 평화를 위한 협상은 무색해졌고, 에너지 시설은 처참하게 파괴되었습니다. 혹독한 겨울을 앞두고 우크라이나의 생존이 위협받고 있습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1327800762",
+                "url": "https://www.wmuk.org/npr-news/2026-10-13/bipartisan-group-of-senators-call-on-trump-to-rescind-russian-diesel-deal",
+                "related_urls": [],
+                "title": "",
+                "mentions": 84,
+                "sources": 6,
+                "goldstein": -4.0,
+                "tone": -0.99255583126551,
+                "score": 188.0
+            },
+            {
+                "record_id": "1327703450",
+                "url": "https://www.oxfordmail.co.uk/news/national/26631177.miliband-acknowledges-difficult-relations-us-ukraines-allies/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 96,
+                "sources": 16,
+                "goldstein": 7.0,
+                "tone": -4.54995054401583,
+                "score": 115.0
+            },
+            {
+                "record_id": "1327693756",
+                "url": "https://www.harwichandmanningtreestandard.co.uk/news/national/26631471.drones-hit-ships-black-sea-sinking-one-prompting-rescue-operations/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 136,
+                "sources": 17,
+                "goldstein": 1.0,
+                "tone": -3.67524787692855,
+                "score": 107.0,
+                "keyword": "흑해 함선 침몰",
+                "hook": "흑해에서 벌어진 드론 공격, 함선이 바닷속으로 사라졌습니다.",
+                "script": "흑해의 긴장이 최고조에 달했습니다. 드론 공격으로 인해 함선이 침몰하며 대규모 구조 작업이 진행 중입니다. 전쟁의 양상이 기술적 타격으로 급변하는 현장을 지금 보도합니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-15 06:38:17 KST",
+        "current_rank": 4
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 681.0,
+        "trends": [
+            {
+                "record_id": "1327945022",
+                "url": "http://www.soester-anzeiger.de/politik/union-gegen-spd-zahlreiche-streitpunkte-spalten-die-merz-koalition-zr-94541459.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 5,
+                "goldstein": 7.0,
+                "tone": -4.27435387673956,
+                "score": 340.0,
+                "keyword": "메르츠 연정 분열",
+                "hook": "독일 정국이 메르츠 연정 내 끊임없는 갈등으로 벼랑 끝에 몰렸습니다.",
+                "script": "독일 연합정부가 분열 위기에 처했습니다. SPD와의 팽팽한 대립 속에 메르츠 내각은 과연 살아남을 수 있을까요? 독일 정계의 긴박한 현장을 전합니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327750751",
+                "url": "https://www.hna.de/welt/gescheiterte-hinrichtung-von-christa-pike-notrufaufnahmen-belegen-chaos-zr-94539618.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 5,
+                "goldstein": 7.0,
+                "tone": -7.81686208821888,
+                "score": 125.0,
+                "keyword": "처형 실패의 비극",
+                "hook": "처형이 실패로 돌아간 긴박한 순간, 당시의 끔찍한 녹취록이 공개되었습니다.",
+                "script": "크리스타 파이크의 처형 과정에서 발생한 처참한 혼란이 녹취록을 통해 드러났습니다. 시스템의 실패인가, 인간의 비극인가. 지금 확인하십시오.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1327738768",
+                "url": "http://www.hna.de/wissen/aerzte-erklaeren-gesundheitliche-beschwerden-frauen-haeufiger-reine-kopfsache-studie-zr-94538551.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 160,
+                "sources": 6,
+                "goldstein": 0.0,
+                "tone": -8.57747452948265,
+                "score": 92.0
+            },
+            {
+                "record_id": "1327763767",
+                "url": "http://www.merkur.de/deutschland/wie-160-schwimmbecken-400-000-kubikmeter-fels-in-den-alpen-koennten-abbrechen-zr-94539058.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 6,
+                "goldstein": -2.0,
+                "tone": -1.10024449877751,
+                "score": 62.0
+            },
+            {
+                "record_id": "1327953074",
+                "url": "http://www.schwaebische-post.de/welt/politik/tabaksteuer-hoeher-als-gedacht-so-viel-sollen-zigaretten-bald-kosten-zr-94541487.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -4.0,
+                "tone": 0.463410011015268,
+                "score": 62.0
+            }
+        ],
+        "last_updated": "2026-10-15 06:38:17 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 477.5,
+        "trends": [
+            {
+                "record_id": "1327760664",
+                "url": "https://magic989fm.iheart.com/content/2026-10-13-cyberattack-disrupts-refrigeration-at-700-supermarkets/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 216,
+                "sources": 2,
+                "goldstein": 0.0,
+                "tone": -6.68911381016641,
+                "score": 196.0,
+                "keyword": "슈퍼마켓 사이버 테러",
+                "hook": "프랑스 전역의 슈퍼마켓 700곳이 사이버 공격으로 냉동 시스템이 마비되었습니다.",
+                "script": "식료품 대란이 시작됐습니다. 해커들의 사이버 공격으로 냉장 시스템이 멈추며 프랑스 전역이 비상입니다. 보이지 않는 전쟁의 실체, 지금 확인하세요.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1327896060",
+                "url": "http://www.merkur.de/politik/selenskyj-attackiert-verbuendete-nach-raketenangriff-auf-kiew-zr-94540669.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 5.0,
+                "tone": -7.21651536868927,
+                "score": 133.0
+            },
+            {
+                "record_id": "1327754086",
+                "url": "https://www.gazetteandherald.co.uk/news/national/26633975.greta-thunberg-backs-french-protests-run-down-schools/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 108,
+                "sources": 6,
+                "goldstein": -6.5,
+                "tone": -7.82122905027935,
+                "score": 98.5,
+                "keyword": "프랑스 학교 시위",
+                "hook": "그레타 툰베리가 프랑스 학교 환경 개선을 요구하는 대규모 시위에 힘을 실었습니다.",
+                "script": "프랑스 학교가 흔들리고 있습니다. 열악한 환경에 항의하는 학생들의 시위, 그레타 툰베리까지 가세하며 사태는 일파만파 커지고 있습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327721321",
+                "url": "http://www.fnp.de/welt/cyberangriff-frankreich-hacker-legen-supermarkt-kuehlanlagen-lahm-zr-94538953.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 5,
+                "goldstein": -2.0,
+                "tone": -6.11814345991561,
+                "score": 50.0
+            }
+        ],
+        "last_updated": "2026-10-15 06:38:17 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 406.5,
+        "trends": [
+            {
+                "record_id": "1327865711",
+                "url": "https://www.newsshopper.co.uk/news/national/26634644.prayers-urged-pope-leo-lung-cancer-diagnosis/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 12,
+                "goldstein": 3.0,
+                "tone": 2.44994164977582,
+                "score": 99.0,
+                "keyword": "교황 폐암 진단",
+                "hook": "세계가 충격에 빠졌습니다, 교황의 건강에 심각한 이상이 발견되었습니다.",
+                "script": "교황 프란치스코가 폐암 진단을 받았다는 소식이 전해지며 전 세계가 기도에 나섰습니다. 바티칸은 즉각적인 대응에 나섰지만, 교황의 고령을 감안할 때 그 파장은 걷잡을 수 없이 커지고 있습니다. 가톨릭계의 긴박한 상황, 지금 바로 전해드립니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1327971823",
+                "url": "https://ilikepuglia.it/13/10/2026/bcc-san-marzano-feduf/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": 2.26303706133158,
+                "score": 94.0
+            },
+            {
+                "record_id": "1327761472",
+                "url": "https://www.yorkpress.co.uk/news/national/26634011.popes-lung-nodule-surgery-completed-successfully-vatican-says/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 91,
+                "sources": 13,
+                "goldstein": 2.8,
+                "tone": -1.84977228772849,
+                "score": 85.5
+            },
+            {
+                "record_id": "1327917508",
+                "url": "http://www.come-on.de/deutschland-welt/leif-erikson-amerikas-erster-entdecker-im-schatten-des-columbus-zr-94540189.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": -4.0,
+                "tone": -0.833478210477511,
+                "score": 76.0
+            },
+            {
+                "record_id": "1327896327",
+                "url": "https://www.hna.de/welt/italien-planierraupe-fahrer-toetete-lehrerin-jetzt-wieder-frei-zr-94540692.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -2.0,
+                "tone": -7.07734157938178,
+                "score": 52.0,
+                "keyword": "교사 살해범 석방",
+                "hook": "무고한 교사를 불도저로 살해한 범인이 다시 거리를 활보하고 있습니다.",
+                "script": "이탈리아 전역이 분노로 들끓고 있습니다. 교사를 잔혹하게 살해했던 불도저 운전자가 석방되면서 사법 정의에 대한 의문이 제기됩니다. 유족들의 피맺힌 절규에도 불구하고 법의 판결은 무엇을 말하고 있는 걸까요?",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-15 06:38:17 KST",
+        "current_rank": 7
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 345.5,
+        "trends": [
+            {
+                "record_id": "1327802072",
+                "url": "https://english.news.cn/europe/20261014/2190276c886e4196bf7c8d6a53ee6942/c.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 88,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 4.0929203539823,
+                "score": 116.5
+            },
+            {
+                "record_id": "1327853957",
+                "url": "https://www.b92.net/zivot/aktuelno/275396/endru-garfild-se-zaglavio-sa-obozavateljkom-u-liftu-veoma-veoma-simpaticna-anegdota/vest",
+                "related_urls": [],
+                "title": "",
+                "mentions": 200,
+                "sources": 1,
+                "goldstein": -0.4,
+                "tone": 0.433969760934284,
+                "score": 104.0
+            },
+            {
+                "record_id": "1327803085",
+                "url": "http://www.hngnews.com/nation_world/a-wyoming-grad-student-who-allegedly-poisoned-a-colleague-has-been-arrested-fleeing-to-china/article_2aa984e6-46ab-573d-9d7e-baa3cb461aa4.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 65,
+                "sources": 7,
+                "goldstein": 5.0,
+                "tone": -11.6062379687093,
+                "score": 71.5,
+                "keyword": "독살범 중국 도주",
+                "hook": "동료를 독살한 혐의를 받는 와이오밍 대학원생이 중국으로 도주하다 체포되었습니다.",
+                "script": "충격적인 독살 사건의 범인이 국경을 넘어 도주를 시도했습니다. 와이오밍 대학원생의 치밀한 범행과 긴박했던 검거 과정, 지금 공개합니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327833129",
+                "url": "https://english.news.cn/20261014/f0c862c53cc6429ca514d83febaebf21/c.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 84,
+                "sources": 1,
+                "goldstein": 1.9,
+                "tone": 1.81579261736949,
+                "score": 53.5
+            }
+        ],
+        "last_updated": "2026-10-15 06:38:17 KST",
+        "current_rank": 8
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 302.5,
+        "trends": [
+            {
+                "record_id": "1327678125",
+                "url": "https://www.correio24horas.com.br/minha-bahia/no-banco-dos-reus-3-acusado-de-matar-mae-bernadete-e-julgado-nesta-terca-feira-1026",
+                "related_urls": [],
+                "title": "",
+                "mentions": 264,
+                "sources": 1,
+                "goldstein": 5.0,
+                "tone": -6.43203883495147,
+                "score": 159.0,
+                "keyword": "베르나데트 살인 재판",
+                "hook": "어머니를 잃은 비극, 드디어 살인범들의 법적 심판이 시작됩니다.",
+                "script": "베르나데트 살해 사건의 주범 3명이 법정에 섰습니다. 브라질 사회를 충격에 빠뜨렸던 그날의 진실이 오늘 재판을 통해 드러납니다. 정의는 과연 실현될 수 있을까요? 현장의 긴박한 분위기를 지금 확인하세요.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327963832",
+                "url": "https://correiodoestado.com.br/cidades/motorista-fica-preso-as-ferragens-e-morre-apos-tombamento-de-caminhao/474717/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": 4.0,
+                "tone": -2.85082318746994,
+                "score": 57.0,
+                "keyword": "트럭 전복 사망",
+                "hook": "도로 위에서 벌어진 끔찍한 사고, 운전자가 차량에 갇혀 끝내 숨졌습니다.",
+                "script": "트럭이 전복되는 순간, 운전자는 철골 구조물에 갇혀 탈출하지 못했습니다. 구조대의 사투에도 불구하고 비극은 막을 수 없었습니다. 도로 안전에 대한 경고음이 다시 한번 울리고 있습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327848365",
+                "url": "https://www.riotimesonline.com/brazil-runoff-debate-schedule-2026/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 75,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": -3.42465753424657,
+                "score": 44.5
+            },
+            {
+                "record_id": "1327699766",
+                "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/10/13/moradores-do-andarai-reclamam-de-agua-parada-em-obra-e-aumento-de-mosquitos.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -2.98507462686567,
+                "score": 42.0
+            }
+        ],
+        "last_updated": "2026-10-15 06:38:17 KST",
+        "current_rank": 9
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 212.0,
+        "trends": [
+            {
+                "record_id": "1327917963",
+                "url": "http://www.come-on.de/deutschland-welt/leif-erikson-amerikas-erster-entdecker-im-schatten-des-columbus-zr-94540189.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": -10.0,
+                "tone": -0.833478210477511,
+                "score": 212.0,
+                "keyword": "바이킹 역사 재조명",
+                "hook": "콜럼버스는 사실 첫 번째가 아니었습니다, 역사의 뒤편에 가려진 진실.",
+                "script": "우리가 알던 역사가 뒤바뀝니다. 아메리카 대륙을 처음 발견한 인물은 콜럼버스가 아닌 바이킹 레이프 에이릭손이라는 사실이 다시 주목받고 있습니다. 역사 교과서를 다시 써야 할지도 모르는 놀라운 발견, 그 뒷이야기를 공개합니다.",
+                "sentiment": "neutral"
+            }
+        ],
+        "last_updated": "2026-10-15 06:38:17 KST",
+        "current_rank": 10
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 204.0,
+        "trends": [
+            {
+                "record_id": "1327805369",
+                "url": "https://indiankanoon.org/doc/96269946/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 88,
+                "sources": 1,
+                "goldstein": 5.0,
+                "tone": -4.46154729338133,
+                "score": 137.0
+            },
+            {
+                "record_id": "1327636885",
+                "url": "https://www.legallyindia.com/convos/topic/499014-op-ed-says-gen-z-professionals-in-india-are-leading-empty-zombie-lives",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.55319825861357,
+                "score": 67.0,
+                "keyword": "인도 청년 좀비화",
+                "hook": "인도의 Z세대 전문직들이 영혼 없는 '좀비' 같은 삶을 살고 있다는 충격적인 분석이 나왔습니다.",
+                "script": "인도 경제를 이끄는 Z세대, 하지만 그 내면은 비어있습니다. 성공 뒤에 가려진 공허한 좀비 라이프의 실체, 지금 바로 분석합니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-15 06:38:17 KST",
+        "current_rank": 11
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 149.0,
+        "trends": [
+            {
+                "record_id": "1327830479",
+                "url": "https://www.birgun.net/haber/halk-tv-ye-polis-baskini-kayyum-atandi-yayin-durduruldu-740286%20class=slide-link%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -1.55945419103314,
+                "score": 92.0,
+                "keyword": "방송국 경찰 급습",
+                "hook": "언론의 자유가 사라졌다, 방송국이 강제로 폐쇄되었습니다.",
+                "script": "터키의 주요 방송국 Halk TV에 경찰이 들이닥쳤습니다. 방송은 즉각 중단되었고, 강제 관리인이 임명되었습니다. 언론 탄압 논란이 거세지는 가운데, 터키의 민주주의가 시험대에 올랐습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1327889972",
+                "url": "https://www.tgrthaber.com/gundem/15-yas-altina-sosyal-medya-yasagi-geliyor-instagram-tiktok-ve-youtube-icin-yeni-donem-3365175",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -0.79449152542373,
+                "score": 57.0,
+                "keyword": "SNS 사용 금지",
+                "hook": "15세 미만은 인스타 금지, 터키의 강력한 디지털 통제가 시작됩니다.",
+                "script": "터키 정부가 15세 미만 청소년의 SNS 사용을 전면 금지하는 법안을 추진합니다. 인스타그램, 틱톡, 유튜브까지 대상입니다. 디지털 세상에서 아이들을 차단하려는 정부의 속내는 무엇일까요?",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-15 06:38:17 KST",
+        "current_rank": 12
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 122.0,
+        "trends": [
+            {
+                "record_id": "1327801346",
+                "url": "https://www.timesherald.com/2026/10/13/ai-engineer-arrested/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -5.0,
+                "tone": -2.83058026077814,
+                "score": 74.0,
+                "keyword": "AI 엔지니어 체포",
+                "hook": "사우디의 최첨단 AI 프로젝트를 뒤흔든 충격적인 체포 사건이 발생했습니다.",
+                "script": "사우디아라비아의 핵심 AI 프로젝트를 담당하던 수석 엔지니어가 전격 체포됐습니다. 국가 기밀 유출 혐의인지, 아니면 기술적 배신인지 의혹이 증폭되고 있습니다. 사우디 기술 주권에 비상이 걸렸습니다. 과연 그는 무엇을 감추려 했던 걸까요?",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1327887716",
+                "url": "https://www.onlinekhabar.com/2026/10/2039128/has-the-proposed-ambassador-to-saudi-arabia-made-a-peace-agreement-with-the-police",
+                "related_urls": [],
+                "title": "",
+                "mentions": 62,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": -0.232764037700685,
+                "score": 48.0,
+                "keyword": "대사 후보 경찰협약",
+                "hook": "사우디 주재 대사 후보자가 경찰과 비밀 협약을 맺었다는 의혹이 제기됐습니다.",
+                "script": "외교관이 경찰과 거래를 했다? 사우디 주재 대사로 지명된 후보가 현지 경찰과 이례적인 평화 협약을 맺은 사실이 드러나며 외교가에 파문이 일고 있습니다. 단순한 협력일까요, 아니면 범죄 은폐일까요? 정가에서는 즉각적인 진상 규명을 요구하고 있습니다.",
+                "sentiment": "neutral"
+            }
+        ],
+        "last_updated": "2026-10-15 06:38:17 KST",
+        "current_rank": 13
+    },
+    "South Africa": {
+        "gdp_rank": 19,
+        "spike_score": 110.0,
+        "trends": [
+            {
+                "record_id": "1327794716",
+                "url": "https://www.readingchronicle.co.uk/news/national/26634176.gut-punch-image-elephant-dead-calf-wins-wildlife-photographer-contest/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 128,
+                "sources": 16,
+                "goldstein": 2.8,
+                "tone": 0.30120481927711,
+                "score": 110.0,
+                "keyword": "코끼리 비극 사진",
+                "hook": "죽은 새끼 곁을 떠나지 못하는 어미 코끼리의 모습이 전 세계를 울렸습니다.",
+                "script": "남아공 야생의 참혹한 현실이 카메라에 담겼습니다. 올해의 야생 사진전 대상을 차지한 작품 속에는 죽은 새끼 코끼리를 지키는 어미의 비통함이 고스란히 녹아 있습니다. 인간의 무분별한 환경 파괴가 낳은 비극, 이제 우리가 대답할 차례입니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-10-15 06:38:17 KST",
+        "current_rank": 14
+    }
+}
