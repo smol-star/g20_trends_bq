@@ -1,0 +1,675 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 2813.0,
+        "trends": [
+            {
+                "record_id": "1327801268",
+                "url": "https://hot983.iheart.com/content/2026-10-13-man-convicted-of-tupacs-murder-gets-40-years-to-life-in-prison/",
+                "related_urls": [
+                    "https://v103.iheart.com/content/2026-10-13-man-convicted-of-tupacs-murder-gets-40-years-to-life-in-prison/"
+                ],
+                "title": "",
+                "mentions": 132,
+                "sources": 4,
+                "goldstein": -10.0,
+                "tone": -10.2871383170961,
+                "score": 1353.0
+            },
+            {
+                "record_id": "1327808842",
+                "url": "https://www.sandiegouniontribune.com/2026/10/13/qa-meet-jon-moffat-candidate-for-vista-unified-school-district-trustee-in-area-3/",
+                "related_urls": [
+                    "https://www.sandiegouniontribune.com/2026/10/13/qa-meet-raquel-riojas-alvarez-candidate-for-oceanside-unified-school-district-trustee-in-area-4/",
+                    "https://www.sandiegouniontribune.com/2026/10/13/qa-meet-jennifer-dahlquist-ramirez-candidate-for-oway-unified-school-district-trustee-in-area-d/"
+                ],
+                "title": "",
+                "mentions": 576,
+                "sources": 1,
+                "goldstein": 7.4,
+                "tone": 2.16556176284065,
+                "score": 650.0
+            },
+            {
+                "record_id": "1327863818",
+                "url": "https://www.cambstimes.co.uk/news/national/26634303.pope-leo-spent-tranquil-night-hospital-cancer-surgery-vatican-says/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 102,
+                "sources": 17,
+                "goldstein": 3.4,
+                "tone": -1.620029455081,
+                "score": 346.5
+            },
+            {
+                "record_id": "1327801169",
+                "url": "https://991wqik.iheart.com/content/2026-10-13-back-to-back-earthquakes-rattle-mid-atlantic-ridge-experts-warn-of-risks/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 160,
+                "sources": 3,
+                "goldstein": 2.8,
+                "tone": -8.08384765037831,
+                "score": 249.5
+            },
+            {
+                "record_id": "1327615611",
+                "url": "https://www.newspim.com/news/view/20261013000044",
+                "related_urls": [],
+                "title": "",
+                "mentions": 350,
+                "sources": 1,
+                "goldstein": 7.4,
+                "tone": 0.544626389275833,
+                "score": 214.0
+            }
+        ],
+        "last_updated": "2026-10-15 02:06:51 KST",
+        "current_rank": 1
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 1294.0,
+        "trends": [
+            {
+                "record_id": "1327642099",
+                "url": "https://www.narrominenewsonline.com.au/story/9367771/prisoners-lose-their-liberty-and-their-right-to-vote/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 6,
+                "goldstein": -9.5,
+                "tone": -7.0719962575776,
+                "score": 377.5
+            },
+            {
+                "record_id": "1327845218",
+                "url": "https://www.perthnow.com.au/news/crime/child-safety-took-risk-in-sending-girl-back-to-cult-c-23019205",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 7.0,
+                "tone": 0.350224370136524,
+                "score": 352.5
+            },
+            {
+                "record_id": "1327818657",
+                "url": "https://www.dailyliberal.com.au/story/9368263/prisoners-landmark-egg-freezing-win-in-high-court/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 6,
+                "goldstein": -5.0,
+                "tone": -4.11359274691289,
+                "score": 206.0
+            },
+            {
+                "record_id": "1327746725",
+                "url": "https://www.irrigator.com.au/story/9368068/gas-lobby-gets-its-wish-as-labor-changes-reserve-scheme/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 160,
+                "sources": 8,
+                "goldstein": 3.2,
+                "tone": -3.84639667520425,
+                "score": 183.0
+            },
+            {
+                "record_id": "1327817233",
+                "url": "https://www.theleader.com.au/story/9368462/court-overturns-heritage-order-stalling-1b-gold-mine/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 5,
+                "goldstein": -5.0,
+                "tone": -1.70536623109199,
+                "score": 175.0
+            }
+        ],
+        "last_updated": "2026-10-15 02:06:52 KST",
+        "current_rank": 2
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 936.5,
+        "trends": [
+            {
+                "record_id": "1327795091",
+                "url": "https://www.readingchronicle.co.uk/news/national/26634176.gut-punch-image-elephant-dead-calf-wins-wildlife-photographer-contest/",
+                "related_urls": [
+                    "https://www.london-now.co.uk/news/national/26634176.gut-punch-image-elephant-dead-calf-wins-wildlife-photographer-contest/"
+                ],
+                "title": "",
+                "mentions": 160,
+                "sources": 16,
+                "goldstein": 1.9,
+                "tone": 0.30120481927711,
+                "score": 294.0
+            },
+            {
+                "record_id": "1327612471",
+                "url": "https://www.kentonline.co.uk/news/national/burnham-accused-of-unpicking-brexit-deal-as-date-set-for-uk-eu-summit-172862/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 11,
+                "goldstein": 8.0,
+                "tone": 0.799066041349443,
+                "score": 234.0
+            },
+            {
+                "record_id": "1327612264",
+                "url": "https://www.kentonline.co.uk/news/national/harry-and-meghan-to-visit-youth-group-in-first-joint-engagement-since-uk-return-172863/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 11,
+                "goldstein": 2.8,
+                "tone": 2.83961154298631,
+                "score": 173.5
+            },
+            {
+                "record_id": "1327800911",
+                "url": "https://www.london-now.co.uk/news/national/26634139.burnham-meet-zelensky-wake-trumps-diesel-deal-moscow/",
+                "related_urls": [
+                    "https://www.wiltshiretimes.co.uk/news/national/26634139.burnham-meet-zelensky-wake-trumps-diesel-deal-moscow/"
+                ],
+                "title": "",
+                "mentions": 120,
+                "sources": 8,
+                "goldstein": 1.0,
+                "tone": -0.263205885543988,
+                "score": 134.0
+            },
+            {
+                "record_id": "1327850615",
+                "url": "https://www.watfordobserver.co.uk/news/national/26634282.black-music-events-cancelled-shut-more-white-led-events/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 130,
+                "sources": 13,
+                "goldstein": -2.0,
+                "tone": -2.37623762376237,
+                "score": 101.0
+            }
+        ],
+        "last_updated": "2026-10-15 02:06:52 KST",
+        "current_rank": 3
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 868.0,
+        "trends": [
+            {
+                "record_id": "1327614869",
+                "url": "https://www.wiltsglosstandard.co.uk/news/national/26630314.miliband-urges-need-stand-ukraine-trump-fresh-dig-zelensky/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 73,
+                "sources": 15,
+                "goldstein": -7.0,
+                "tone": -4.15419246248861,
+                "score": 231.5
+            },
+            {
+                "record_id": "1327891131",
+                "url": "https://www.burytimes.co.uk/news/national/26635778.zelensky-says-russian-strikes-hit-ukraines-energy-sites-despite-ceasefire-push/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 78,
+                "sources": 13,
+                "goldstein": -10.0,
+                "tone": -4.98188405797102,
+                "score": 226.5
+            },
+            {
+                "record_id": "1327800762",
+                "url": "https://www.wmuk.org/npr-news/2026-10-13/bipartisan-group-of-senators-call-on-trump-to-rescind-russian-diesel-deal",
+                "related_urls": [],
+                "title": "",
+                "mentions": 84,
+                "sources": 6,
+                "goldstein": -4.0,
+                "tone": -0.99255583126551,
+                "score": 188.0
+            },
+            {
+                "record_id": "1327703450",
+                "url": "https://www.oxfordmail.co.uk/news/national/26631177.miliband-acknowledges-difficult-relations-us-ukraines-allies/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 96,
+                "sources": 16,
+                "goldstein": 7.0,
+                "tone": -4.54995054401583,
+                "score": 115.0
+            },
+            {
+                "record_id": "1327693756",
+                "url": "https://www.harwichandmanningtreestandard.co.uk/news/national/26631471.drones-hit-ships-black-sea-sinking-one-prompting-rescue-operations/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 136,
+                "sources": 17,
+                "goldstein": 1.0,
+                "tone": -3.67524787692855,
+                "score": 107.0
+            }
+        ],
+        "last_updated": "2026-10-15 02:06:52 KST",
+        "current_rank": 4
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 676.0,
+        "trends": [
+            {
+                "record_id": "1327945424",
+                "url": "http://www.soester-anzeiger.de/politik/union-gegen-spd-zahlreiche-streitpunkte-spalten-die-merz-koalition-zr-94541459.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 5,
+                "goldstein": 7.0,
+                "tone": -4.27435387673956,
+                "score": 340.0
+            },
+            {
+                "record_id": "1327750751",
+                "url": "https://www.hna.de/welt/gescheiterte-hinrichtung-von-christa-pike-notrufaufnahmen-belegen-chaos-zr-94539618.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 5,
+                "goldstein": 7.0,
+                "tone": -7.81686208821888,
+                "score": 125.0
+            },
+            {
+                "record_id": "1327738768",
+                "url": "http://www.hna.de/wissen/aerzte-erklaeren-gesundheitliche-beschwerden-frauen-haeufiger-reine-kopfsache-studie-zr-94538551.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 160,
+                "sources": 6,
+                "goldstein": 0.0,
+                "tone": -8.57747452948265,
+                "score": 92.0
+            },
+            {
+                "record_id": "1327763767",
+                "url": "http://www.merkur.de/deutschland/wie-160-schwimmbecken-400-000-kubikmeter-fels-in-den-alpen-koennten-abbrechen-zr-94539058.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 6,
+                "goldstein": -2.0,
+                "tone": -1.10024449877751,
+                "score": 62.0
+            },
+            {
+                "record_id": "1327715395",
+                "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6ace28e68776d79fbd9cb84d/ministerium-bringt-gasreserve-auf-den-weg-umlage-geplant.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 7,
+                "goldstein": 3.0,
+                "tone": -1.39389122794417,
+                "score": 57.0
+            }
+        ],
+        "last_updated": "2026-10-15 02:06:51 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 477.5,
+        "trends": [
+            {
+                "record_id": "1327760664",
+                "url": "https://magic989fm.iheart.com/content/2026-10-13-cyberattack-disrupts-refrigeration-at-700-supermarkets/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 216,
+                "sources": 2,
+                "goldstein": 0.0,
+                "tone": -6.68911381016641,
+                "score": 196.0
+            },
+            {
+                "record_id": "1327896060",
+                "url": "http://www.merkur.de/politik/selenskyj-attackiert-verbuendete-nach-raketenangriff-auf-kiew-zr-94540669.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 5.0,
+                "tone": -7.21651536868927,
+                "score": 133.0
+            },
+            {
+                "record_id": "1327754086",
+                "url": "https://www.gazetteandherald.co.uk/news/national/26633975.greta-thunberg-backs-french-protests-run-down-schools/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 108,
+                "sources": 6,
+                "goldstein": -6.5,
+                "tone": -7.82122905027935,
+                "score": 98.5
+            },
+            {
+                "record_id": "1327721321",
+                "url": "http://www.fnp.de/welt/cyberangriff-frankreich-hacker-legen-supermarkt-kuehlanlagen-lahm-zr-94538953.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 5,
+                "goldstein": -2.0,
+                "tone": -6.11814345991561,
+                "score": 50.0
+            }
+        ],
+        "last_updated": "2026-10-15 02:06:52 KST",
+        "current_rank": 6
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 345.5,
+        "trends": [
+            {
+                "record_id": "1327802072",
+                "url": "https://english.news.cn/europe/20261014/2190276c886e4196bf7c8d6a53ee6942/c.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 88,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 4.0929203539823,
+                "score": 116.5
+            },
+            {
+                "record_id": "1327853957",
+                "url": "https://www.b92.net/zivot/aktuelno/275396/endru-garfild-se-zaglavio-sa-obozavateljkom-u-liftu-veoma-veoma-simpaticna-anegdota/vest",
+                "related_urls": [],
+                "title": "",
+                "mentions": 200,
+                "sources": 1,
+                "goldstein": -0.4,
+                "tone": 0.433969760934284,
+                "score": 104.0
+            },
+            {
+                "record_id": "1327803085",
+                "url": "http://www.hngnews.com/nation_world/a-wyoming-grad-student-who-allegedly-poisoned-a-colleague-has-been-arrested-fleeing-to-china/article_2aa984e6-46ab-573d-9d7e-baa3cb461aa4.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 65,
+                "sources": 7,
+                "goldstein": 5.0,
+                "tone": -11.6062379687093,
+                "score": 71.5
+            },
+            {
+                "record_id": "1327833129",
+                "url": "https://english.news.cn/20261014/f0c862c53cc6429ca514d83febaebf21/c.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 84,
+                "sources": 1,
+                "goldstein": 1.9,
+                "tone": 1.81579261736949,
+                "score": 53.5
+            }
+        ],
+        "last_updated": "2026-10-15 02:06:51 KST",
+        "current_rank": 7
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 312.5,
+        "trends": [
+            {
+                "record_id": "1327865711",
+                "url": "https://www.newsshopper.co.uk/news/national/26634644.prayers-urged-pope-leo-lung-cancer-diagnosis/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 12,
+                "goldstein": 3.0,
+                "tone": 2.44994164977582,
+                "score": 99.0
+            },
+            {
+                "record_id": "1327761472",
+                "url": "https://www.yorkpress.co.uk/news/national/26634011.popes-lung-nodule-surgery-completed-successfully-vatican-says/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 91,
+                "sources": 13,
+                "goldstein": 2.8,
+                "tone": -1.84977228772849,
+                "score": 85.5
+            },
+            {
+                "record_id": "1327917508",
+                "url": "http://www.come-on.de/deutschland-welt/leif-erikson-amerikas-erster-entdecker-im-schatten-des-columbus-zr-94540189.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": -4.0,
+                "tone": -0.833478210477511,
+                "score": 76.0
+            },
+            {
+                "record_id": "1327896327",
+                "url": "https://www.hna.de/welt/italien-planierraupe-fahrer-toetete-lehrerin-jetzt-wieder-frei-zr-94540692.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -2.0,
+                "tone": -7.07734157938178,
+                "score": 52.0
+            }
+        ],
+        "last_updated": "2026-10-15 02:06:52 KST",
+        "current_rank": 8
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 245.5,
+        "trends": [
+            {
+                "record_id": "1327678125",
+                "url": "https://www.correio24horas.com.br/minha-bahia/no-banco-dos-reus-3-acusado-de-matar-mae-bernadete-e-julgado-nesta-terca-feira-1026",
+                "related_urls": [],
+                "title": "",
+                "mentions": 264,
+                "sources": 1,
+                "goldstein": 5.0,
+                "tone": -6.43203883495147,
+                "score": 159.0
+            },
+            {
+                "record_id": "1327848365",
+                "url": "https://www.riotimesonline.com/brazil-runoff-debate-schedule-2026/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 75,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": -3.42465753424657,
+                "score": 44.5
+            },
+            {
+                "record_id": "1327699766",
+                "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/10/13/moradores-do-andarai-reclamam-de-agua-parada-em-obra-e-aumento-de-mosquitos.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -2.98507462686567,
+                "score": 42.0
+            }
+        ],
+        "last_updated": "2026-10-15 02:06:52 KST",
+        "current_rank": 9
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 216.0,
+        "trends": [
+            {
+                "record_id": "1327830479",
+                "url": "https://www.birgun.net/haber/halk-tv-ye-polis-baskini-kayyum-atandi-yayin-durduruldu-740286%20class=slide-link%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -1.55945419103314,
+                "score": 92.0
+            },
+            {
+                "record_id": "1327846113",
+                "url": "https://www.birgun.net/haber/halk-tv-ye-kayyum-atanmasina-basin-meslek-orgutlerinden-tepki-740293%20class=nav-link%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -0.78226857887875,
+                "score": 67.0
+            },
+            {
+                "record_id": "1327889972",
+                "url": "https://www.tgrthaber.com/gundem/15-yas-altina-sosyal-medya-yasagi-geliyor-instagram-tiktok-ve-youtube-icin-yeni-donem-3365175",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -0.79449152542373,
+                "score": 57.0
+            }
+        ],
+        "last_updated": "2026-10-15 02:06:52 KST",
+        "current_rank": 10
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 212.0,
+        "trends": [
+            {
+                "record_id": "1327917963",
+                "url": "http://www.come-on.de/deutschland-welt/leif-erikson-amerikas-erster-entdecker-im-schatten-des-columbus-zr-94540189.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": -10.0,
+                "tone": -0.833478210477511,
+                "score": 212.0
+            }
+        ],
+        "last_updated": "2026-10-15 02:06:52 KST",
+        "current_rank": 11
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 204.0,
+        "trends": [
+            {
+                "record_id": "1327805369",
+                "url": "https://indiankanoon.org/doc/96269946/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 88,
+                "sources": 1,
+                "goldstein": 5.0,
+                "tone": -4.46154729338133,
+                "score": 137.0
+            },
+            {
+                "record_id": "1327636885",
+                "url": "https://www.legallyindia.com/convos/topic/499014-op-ed-says-gen-z-professionals-in-india-are-leading-empty-zombie-lives",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.55319825861357,
+                "score": 67.0
+            }
+        ],
+        "last_updated": "2026-10-15 02:06:51 KST",
+        "current_rank": 12
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 204.0,
+        "trends": [
+            {
+                "record_id": "1327688252",
+                "url": "https://www.ahaber.com.tr/galeri/dunya/suudi-arabistanda-havalimanina-fuze-saldirisi-ve-yolcularin-kacis-anlari",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -11.1538461538461,
+                "score": 82.0
+            },
+            {
+                "record_id": "1327801346",
+                "url": "https://www.timesherald.com/2026/10/13/ai-engineer-arrested/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -5.0,
+                "tone": -2.83058026077814,
+                "score": 74.0
+            },
+            {
+                "record_id": "1327887716",
+                "url": "https://www.onlinekhabar.com/2026/10/2039128/has-the-proposed-ambassador-to-saudi-arabia-made-a-peace-agreement-with-the-police",
+                "related_urls": [],
+                "title": "",
+                "mentions": 62,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": -0.232764037700685,
+                "score": 48.0
+            }
+        ],
+        "last_updated": "2026-10-15 02:06:52 KST",
+        "current_rank": 13
+    },
+    "South Africa": {
+        "gdp_rank": 19,
+        "spike_score": 166.0,
+        "trends": [
+            {
+                "record_id": "1327794716",
+                "url": "https://www.readingchronicle.co.uk/news/national/26634176.gut-punch-image-elephant-dead-calf-wins-wildlife-photographer-contest/",
+                "related_urls": [
+                    "https://www.london-now.co.uk/news/national/26634176.gut-punch-image-elephant-dead-calf-wins-wildlife-photographer-contest/"
+                ],
+                "title": "",
+                "mentions": 128,
+                "sources": 16,
+                "goldstein": 2.8,
+                "tone": 0.30120481927711,
+                "score": 166.0
+            }
+        ],
+        "last_updated": "2026-10-15 02:06:52 KST",
+        "current_rank": 14
+    }
+}
