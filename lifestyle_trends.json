@@ -3,124 +3,124 @@
     "status": "success",
     "data": [
       {
-        "id": "20261005234500-230",
-        "url": "https://english.news.cn/20261005/fe2bb924fb164cc9a2631ac501727a72/c.html",
+        "id": "20261011234500-T96",
+        "url": "https://www.163.com/dy/article/L914VQF70530QRMB.html",
         "country": "United States",
-        "keyword": "중국 문화 트렌드",
-        "hook": "오늘날 중국의 문화적 흐름을 단번에 파악하는 핵심 가이드를 확인하세요.",
-        "script": "최신 중국 문화 트렌드가 궁금하신가요? 지금 가장 주목받는 라이프스타일과 변화하는 사회적 흐름을 30초 안에 정리해 드립니다. 놓치지 마세요."
+        "keyword": "여행 산업 재편",
+        "hook": "글로벌 관광 지형이 급격히 바뀌고 있습니다.",
+        "script": "여행객들의 이동 방식이 달라졌습니다. 항공과 교통 시스템의 변화가 새로운 관광 트렌드를 이끕니다. 지금 바로 당신의 다음 여행지를 확인하세요."
       },
       {
-        "id": "20261005234500-269",
-        "url": "https://english.news.cn/20261006/532034d10125453da5fc8ab6f1ef8cf4/c.html",
+        "id": "20261011234500-T141",
+        "url": "https://mil.news.sina.com.cn/zonghe/2026-10-12/doc-iniuxfms0457342.shtml",
         "country": "China",
-        "keyword": "숨겨진 여행지 발견",
-        "hook": "관광객의 발길이 닿지 않은 진정한 자연의 경이로움을 소개합니다.",
-        "script": "북적이는 관광지 대신, 대자연의 숨결이 살아있는 오지 여행지가 뜨고 있습니다. 현지 문화를 온몸으로 느끼고 싶다면 지금 바로 이 여행 코스를 저장하세요."
+        "keyword": "관광 산업 고용",
+        "hook": "관광 산업이 경제의 핵심 엔진으로 떠오르고 있습니다.",
+        "script": "일자리 창출의 중심, 관광 산업에 주목하세요. 산업 정책과 맞물린 관광업의 성장이 새로운 기회를 만들고 있습니다. 지금 여행업의 흐름을 확인하세요."
       },
       {
-        "id": "20261005234500-494",
-        "url": "https://www.ivpressonline.com/opinion/opinion-california-banned-pay-toilets-to-address-inequality-some-would-revive-it-on-the-same/article_cedfce27-48ef-4ff7-8a86-183048545bf4.html",
+        "id": "20261011234500-T152",
+        "url": "http://news.china.com.cn/2026-10/12/content_118729469.shtml",
+        "country": "China",
+        "keyword": "자원과 사회 복지",
+        "hook": "지속 가능한 관광과 지역 사회의 조화가 중요해졌습니다.",
+        "script": "관광객이 늘어날수록 지역 사회의 보호도 필수입니다. 자연 자원 관리와 함께 복지 정책이 어떻게 결합하는지 지금 확인하세요."
+      },
+      {
+        "id": "20261011234500-T161",
+        "url": "https://www.163.com/dy/article/L917LPSG0514R9L4.html",
+        "country": "China",
+        "keyword": "여행 위기 대응",
+        "hook": "예기치 못한 여행지 위기, 어떻게 대처할까?",
+        "script": "전 세계 어디서든 발생할 수 있는 여행지의 불확실성. 안전한 여행을 위해 반드시 알아야 할 리스크 관리법을 지금 공개합니다."
+      },
+      {
+        "id": "20261011234500-T162",
+        "url": "https://www.163.com/dy/article/L9158PMU0514R9M0.html",
         "country": "United States",
-        "keyword": "공중화장실 논란",
-        "hook": "과거의 유물이 된 '유료 화장실'이 다시 부활하려 합니다.",
-        "script": "공중화장실, 무료여야 할까요, 유료여야 할까요? 불평등을 해결하기 위해 사라졌던 유료 화장실이 다시 논란의 중심에 섰습니다. 여러분의 생각은 어떠신가요?"
+        "keyword": "디지털 관광 인프라",
+        "hook": "디지털 기술이 여행의 미래를 바꿉니다.",
+        "script": "스마트한 인프라가 만드는 편리한 여행. 디지털 정부 시스템과 연결된 차세대 관광 서비스를 지금 바로 확인하세요."
       },
       {
-        "id": "20261005234500-12",
-        "url": "https://www.lebanondemocrat.com/news/national/aerial-photos-reveal-abandoned-theme-park-reclaimed-by-nature/article_2878a61d-0b47-52a5-ae55-ccfcf0fe5f9b.html",
-        "country": "Indonesia",
-        "keyword": "폐허의 재발견",
-        "hook": "자연에 점령당한 버려진 테마파크가 몽환적인 예술 공간으로 변신했습니다.",
-        "script": "사람이 떠난 테마파크, 그곳엔 무엇이 남았을까요? 녹슨 놀이기구와 울창한 숲이 어우러진 기묘한 풍경이 여행객들의 새로운 발길을 사로잡고 있습니다."
+        "id": "20261011234500-T190",
+        "url": "https://www.163.com/dy/article/L9158N7P0514R9OJ.html",
+        "country": "China",
+        "keyword": "스마트 도시 관광",
+        "hook": "도시가 여행객을 위해 똑똑해지고 있습니다.",
+        "script": "디지털 혁신으로 변화하는 도시 관광의 모습. 새로운 일자리와 공공 서비스가 어떻게 여행 경험을 극대화하는지 지금 확인하세요."
       },
       {
-        "id": "20261005234500-754",
-        "url": "https://dailyhive.com/canada/canadians-react-florida-property-tax-plan",
+        "id": "20261011234500-T549",
+        "url": "https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-hackeri-se-zamerili-na-skoly-celi-tisicum-utoku-tydne-40600953",
+        "country": "Germany",
+        "keyword": "디지털 보안 위협",
+        "hook": "교육 기관을 노리는 사이버 범죄가 급증하고 있습니다.",
+        "script": "당신의 여행 정보는 안전한가요? 학교를 겨냥한 보안 공격이 여행 산업에도 경고를 던집니다. 지금 즉시 보안 점검을 시작하세요."
+      },
+      {
+        "id": "20261011234500-T227",
+        "url": "https://www.routard.com/forums/t/compte-rendu-de-mon-voyage-de-deux-mois-en-coree-du-sud/500781",
+        "country": "Japan",
+        "keyword": "한국 여행 기록",
+        "hook": "한국을 찾은 여행객들의 솔직한 기록.",
+        "script": "두 달간의 한국 일주, 그 생생한 후기가 궁금하다면? 일본 여행객들이 느낀 한국의 매력과 여행 팁을 지금 바로 확인하세요."
+      },
+      {
+        "id": "20261011234500-T325",
+        "url": "https://biz.heraldcorp.com/article/10898874",
         "country": "United States",
-        "keyword": "캐나다 부동산 이슈",
-        "hook": "플로리다의 파격적인 세금 정책에 캐나다인들이 술렁이고 있습니다.",
-        "script": "해외 부동산 투자, 정말 괜찮을까요? 플로리다의 새로운 부동산 세금 정책이 캐나다 투자자들에게 큰 파장을 일으키고 있습니다. 지금 확인해야 할 핵심 변수들입니다."
+        "keyword": "관광 산업 경쟁력",
+        "hook": "글로벌 관광 시장의 치열한 생존 전략.",
+        "script": "대한민국 관광이 다시 뜁니다. 서비스 질 향상과 인프라 혁신으로 재무장하는 관광 산업의 미래, 지금 바로 확인하세요."
       },
       {
-        "id": "20261005234500-129",
-        "url": "https://townhall.com/news/mattvespa/2026/10/05/abdul-el-sayed-let-something-slip-and-its-a-point-his-campaign-has-tried-to-deny-n2684151",
-        "country": "United States",
-        "keyword": "정치 캠페인 실수",
-        "hook": "한순간의 말실수가 캠페인 전체를 뒤흔드는 결정적 장면을 포착했습니다.",
-        "script": "정치인의 말 한마디가 불러온 파장! 이번 캠페인에서 터져 나온 치명적인 실수와 그로 인한 논란의 전말을 지금 바로 확인하세요."
+        "id": "20261011234500-T609",
+        "url": "https://www.cronica.com.ar/mundo/un-argentino-murio-en-un-impactante-accidente-de-transito-en-punta-cana/",
+        "country": "Argentina",
+        "keyword": "여행 안전 경고",
+        "hook": "즐거운 여행이 비극으로 끝나지 않으려면.",
+        "script": "해외 여행 중 발생하는 안타까운 사고들. 안전 수칙 준수가 무엇보다 중요합니다. 당신의 안전한 여행을 위해 꼭 기억하세요."
       },
       {
-        "id": "20261005234500-768",
-        "url": "https://www.mamamia.com.au/travel-witchcliffe-margaret-river-wa/",
-        "country": "Australia",
-        "keyword": "마을 여행 매력",
-        "hook": "마녀의 전설이 살아있는 마을, 마거릿 리버로 떠나는 특별한 여행.",
-        "script": "평범한 여행은 그만! 신비로운 전설이 깃든 위치클리프의 골목길을 걸어보세요. 현지 장인들의 공예품과 잊지 못할 풍경이 여러분을 기다립니다."
+        "id": "20261011234500-T680",
+        "url": "https://mimorelia.com/michoacan/no-somos-un-zoologico-pueblos-originarios-michoacan-piden-respeto-al-tomar-fotos-noche-muertos-n5594410",
+        "country": "Mexico",
+        "keyword": "문화 존중 관광",
+        "hook": "사진보다 중요한 것은 문화적 예의입니다.",
+        "script": "원주민들의 삶을 존중하는 여행이 진짜 여행입니다. 죽은 자의 날, 관광객들에게 전하는 메시지를 지금 바로 확인하세요."
       },
       {
-        "id": "20261005234500-487",
-        "url": "https://www.hardenexpress.com.au/story/9359034/great-ocean-road-travel-guide-best-dining-stays-and-spots/",
-        "country": "Australia",
-        "keyword": "그레이트 오션로드",
-        "hook": "호주 여행의 로망, 그레이트 오션로드 완벽 공략 가이드.",
-        "script": "호주 여행 필수 코스, 그레이트 오션로드! 최고의 다이닝과 숨겨진 숙소 정보를 공개합니다. 인생 사진 남기고 싶다면 이 영상을 끝까지 보세요."
+        "id": "20261011234500-T241",
+        "url": "https://www.routard.com/forums/t/gran-canaria-2-semaines-en-avril-ou-mai/499741",
+        "country": "Germany",
+        "keyword": "스페인 여행 계획",
+        "hook": "봄에 떠나는 그란 카나리아 여행.",
+        "script": "4월과 5월, 스페인 여행을 고민 중인가요? 완벽한 여행 계획을 세우는 핵심 팁을 지금 확인하세요."
       },
       {
-        "id": "20261005234500-527",
-        "url": "https://www.hardenexpress.com.au/story/9362831/how-to-spot-a-truly-sustainable-hotel/",
-        "country": "Australia",
-        "keyword": "지속가능한 호텔",
-        "hook": "진짜 친환경 호텔을 고르는 결정적인 기준을 알려드립니다.",
-        "script": "친환경이라는 이름 뒤에 숨겨진 진실! '그린워싱'에 속지 않고 진짜 지속가능한 호텔을 찾아내는 3가지 체크리스트를 지금 바로 알려드립니다."
+        "id": "20261011234500-T698",
+        "url": "https://www.cronica.com.ar/politica/nardini-visito-suipacha-y-comenzo-a-recorrer-la-provincia-luego-de-anunciar-su-candidatura/",
+        "country": "Argentina",
+        "keyword": "지역 관광 활성화",
+        "hook": "지방 도시들이 관광객 유치에 사활을 걸었습니다.",
+        "script": "지자체장의 행보가 바꾸는 지역 관광의 모습. 디지털 인프라 구축으로 관광객의 발길을 사로잡는 법을 지금 확인하세요."
       },
       {
-        "id": "20261005234500-49",
-        "url": "https://www.newcastleherald.com.au/story/9362831/how-to-spot-a-truly-sustainable-hotel/",
-        "country": "Australia",
-        "keyword": "호텔 환경 경영",
-        "hook": "친환경 여행이 대세, 호텔 운영의 새로운 표준을 제안합니다.",
-        "script": "이제 여행은 환경을 보호하는 것부터 시작됩니다. 지속가능한 호텔 운영을 위한 최신 가이드라인, 여행자가 먼저 알아야 할 기준들을 정리했습니다."
+        "id": "20261011234500-T558",
+        "url": "https://www.nrc.nl/nieuws/2026/10/11/het-massatoerisme-in-amsterdam-heeft-zijn-grens-allang-bereikt-a4938620",
+        "country": "Italy",
+        "keyword": "오버투어리즘의 한계",
+        "hook": "암스테르담이 관광객에게 멈춤을 선언했습니다.",
+        "script": "더 이상은 안 된다. 과도한 관광객으로 몸살을 앓는 도시들의 반란. 우리가 여행을 대하는 태도가 바뀌어야 할 때입니다."
       },
       {
-        "id": "20261005234500-1093",
-        "url": "https://www.yasstribune.com.au/story/9362831/how-to-spot-a-truly-sustainable-hotel/",
-        "country": "Australia",
-        "keyword": "호텔 친환경 실천",
-        "hook": "호텔의 진정한 친환경 가치를 판별하는 전문가의 안목.",
-        "script": "지속가능한 호텔, 어떻게 구분할까요? 단순한 홍보 문구가 아닌 실제 환경 보호를 실천하는 숙소를 고르는 안목을 길러드립니다."
-      },
-      {
-        "id": "20261005234500-289",
-        "url": "https://www.tribdem.com/news/local_news/go-laurel-highlands-rebrands-as-laurel-highlands-tourism/article_4cfa2d3b-c34b-4749-acac-17dd6854bcaf.html",
-        "country": "United States",
-        "keyword": "브랜드 리브랜딩",
-        "hook": "관광지의 새로운 이름, 로럴 하이랜즈의 대담한 변화.",
-        "script": "이름 하나 바꿨을 뿐인데? 로럴 하이랜즈가 관광 브랜드 리브랜딩을 통해 새로운 도약을 준비합니다. 지역 관광의 새로운 모델을 주목하세요."
-      },
-      {
-        "id": "20261005234500-1014",
-        "url": "https://dailyhive.com/vancouver/female-vancouver-tourist-pushed-crime",
-        "country": "Canada",
-        "keyword": "관광객 안전 주의",
-        "hook": "밴쿠버를 여행하는 관광객들이라면 반드시 기억해야 할 안전 수칙.",
-        "script": "즐거운 여행길, 갑작스러운 사고를 예방하는 법! 최근 발생한 관광객 사고를 통해 배우는 안전한 여행지 선택과 주의사항을 지금 체크하세요."
-      },
-      {
-        "id": "20261005234500-553",
-        "url": "https://skift.com/2026/10/05/caroline-beteta-brand-usa-interim-ceo/",
-        "country": "United States",
-        "keyword": "미국 관광 수장",
-        "hook": "미국 관광 산업의 새로운 리더, 그가 그리는 미래 전략.",
-        "script": "브랜드 USA의 새로운 CEO, 캐롤라인 베테타가 이끄는 미국 관광의 미래는 어떤 모습일까요? 변화하는 관광 산업의 판도를 지금 분석합니다."
-      },
-      {
-        "id": "20261005234500-835",
-        "url": "https://www.thehindu.com/archives/from-the-hindu-archives-october-6-1976-ajanta-ellora-complex-to-be-put-on-tourism-map/article71548318.ece",
-        "country": "India",
-        "keyword": "역사 유적 관광",
-        "hook": "50년 전 오늘, 아잔타 엘로라가 세계 관광 지도로 편입된 순간.",
-        "script": "시간이 흘러도 변치 않는 가치! 1976년 오늘, 세계적인 유적지 아잔타 엘로라가 관광 지도의 중심이 되었습니다. 그 역사적인 현장을 돌아봅니다."
+        "id": "20261010234500-T164",
+        "url": "https://culture.gmw.cn/2026-10/11/content_39032530.htm",
+        "country": "China",
+        "keyword": "자연 친화 여행",
+        "hook": "자연과 함께하는 진정한 힐링 여행.",
+        "script": "관광객의 발길이 닿는 곳, 자연은 어떻게 보호될까? 지속 가능한 산악 관광의 미래를 지금 바로 확인하세요."
       }
     ]
   }
