@@ -1,0 +1,728 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 1486.5,
+        "trends": [
+            {
+                "record_id": "1328195906",
+                "url": "https://www.warringtonguardian.co.uk/news/national/26641733.streeting-reassured-hegseth-ukraines-access-starlink-restored/",
+                "related_urls": [
+                    "https://www.eveshamjournal.co.uk/news/national/26641733.streeting-reassured-hegseth-ukraines-access-starlink-restored/"
+                ],
+                "title": "",
+                "mentions": 84,
+                "sources": 14,
+                "goldstein": 10.0,
+                "tone": -0.836218476266158,
+                "score": 751.0
+            },
+            {
+                "record_id": "1328194234",
+                "url": "https://www.standard-journal.com/ap/national/5-people-believed-dead-following-shooting-at-oregon-elementary-school-2-officials-tell-ap/article_906bfb69-7c22-5747-8e63-9973c5ef073d.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 11,
+                "goldstein": -5.0,
+                "tone": -5.15240733681787,
+                "score": 266.0,
+                "keyword": "오리건 학교 총격",
+                "hook": "평화로운 초등학교가 순식간에 피비린내 나는 현장으로 변했습니다.",
+                "script": "오리건주 초등학교에서 발생한 끔찍한 총격 사건으로 5명이 목숨을 잃었습니다. 범인은 학교를 졸업한 10대 학생으로 밝혀져 충격을 더하고 있습니다. 미국 사회의 총기 규제 논란이 다시금 최고조에 달하고 있습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1328375125",
+                "url": "https://www.london-now.co.uk/news/national/26645634.teenage-gunman-killed-four-oregon-school-former-student-police-say/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 16,
+                "goldstein": -10.0,
+                "tone": -2.65060240963856,
+                "score": 188.0
+            },
+            {
+                "record_id": "1328195298",
+                "url": "https://www.dailycamera.com/2026/10/15/pennsylvania-shooting-family-controlled/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -10.0,
+                "tone": -4.07671272166723,
+                "score": 162.5
+            },
+            {
+                "record_id": "1328259122",
+                "url": "https://www.kedm.org/npr-news/2026-10-16/do-americans-own-the-presidents-papers-appeals-court-to-weigh-in",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -4.0,
+                "tone": -1.70157068062827,
+                "score": 119.0
+            }
+        ],
+        "last_updated": "2026-10-17 08:33:43 KST",
+        "current_rank": 1
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 1435.0,
+        "trends": [
+            {
+                "record_id": "1328169523",
+                "url": "https://www.worcesternews.co.uk/news/national/26641702.police-feared-andrew-block-searches-demanding-kings-permission/",
+                "related_urls": [
+                    "https://www.hackneygazette.co.uk/news/national/26641702.police-feared-andrew-block-searches-demanding-kings-permission/"
+                ],
+                "title": "",
+                "mentions": 54,
+                "sources": 9,
+                "goldstein": -10.0,
+                "tone": -5.12613312613313,
+                "score": 337.0,
+                "keyword": "왕실 압수수색 논란",
+                "hook": "영국 왕실이 수사 기관의 압수수색을 막으려 했다는 의혹이 터졌습니다.",
+                "script": "앤드류 왕자에 대한 수사 과정에서 경찰이 왕실의 허가를 기다려야 했다는 사실이 드러났습니다. 법 앞에 평등해야 할 수사가 권력 앞에 멈춰 섰다는 비판이 쏟아지고 있습니다. 영국 사회의 거센 후폭풍이 예상됩니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1328288570",
+                "url": "https://www.thecomet.net/news/national/26643715.ministers-cannot-agree-budget-without-increased-funding-odowd-warns/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 6.0,
+                "tone": -1.02249488752556,
+                "score": 296.0
+            },
+            {
+                "record_id": "1328335583",
+                "url": "https://www.bournemouthecho.co.uk/news/national/26645406.burnham-acting-like-the-first-prime-minister-england-says-gilruth/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": -9.5,
+                "tone": 0.78125,
+                "score": 281.0
+            },
+            {
+                "record_id": "1328133164",
+                "url": "https://www.thisisoxfordshire.co.uk/news/national/26641299.no-evidence-ruc-investigated-terror-links-omagh-call-inquiry-told/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 12,
+                "goldstein": -10.0,
+                "tone": -1.74081237911025,
+                "score": 268.0
+            },
+            {
+                "record_id": "1328254641",
+                "url": "https://www.newarkadvertiser.co.uk/national/government-being-cautious-about-public-announcements-on-jackdaw-and-rosebank-173071/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 154,
+                "sources": 20,
+                "goldstein": 4.0,
+                "tone": -1.39634442573765,
+                "score": 253.0
+            }
+        ],
+        "last_updated": "2026-10-17 08:33:43 KST",
+        "current_rank": 2
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 762.5,
+        "trends": [
+            {
+                "record_id": "1328200018",
+                "url": "https://www.areanews.com.au/story/9369729/consequences-to-external-military-harassment-probe/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 132,
+                "sources": 6,
+                "goldstein": 2.8,
+                "tone": -2.91884259864912,
+                "score": 179.5
+            },
+            {
+                "record_id": "1328226379",
+                "url": "https://www.westernadvocate.com.au/story/9369556/details-of-drone-deal-could-tip-off-drug-dealers/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -10.0,
+                "tone": -3.19994643720426,
+                "score": 169.0,
+                "keyword": "드론 거래 유출",
+                "hook": "국가 기밀인 드론 거래 정보가 범죄 조직의 손에 들어갔습니다.",
+                "script": "호주의 드론 도입 계획이 마약 조직에 노출될 위험에 처했습니다. 기밀 유출로 인해 수사망이 뚫릴 것이라는 우려가 쏟아지고 있습니다. 안보 공백을 초래한 이번 사태, 책임론이 거세게 일고 있습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1327997426",
+                "url": "https://www.theadvocate.com.au/story/9368909/call-for-independent-probe-after-horrific-navy-find/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 3.0,
+                "tone": -0.874975523317621,
+                "score": 161.0
+            },
+            {
+                "record_id": "1327997172",
+                "url": "https://www.theadvocate.com.au/story/9368821/mp-backs-tweaking-social-media-protections-to-pass-law/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 5,
+                "goldstein": -5.0,
+                "tone": -2.0612284908824,
+                "score": 145.0
+            },
+            {
+                "record_id": "1328162862",
+                "url": "https://www.bordermail.com.au/story/9369569/call-for-representative-body-for-cold-case-families/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -2.0,
+                "tone": -6.13198167125176,
+                "score": 108.0,
+                "keyword": "미제 사건 유족",
+                "hook": "수십 년간 멈춰버린 미제 사건, 유족들이 거리로 나왔습니다.",
+                "script": "호주의 미제 사건 유족들이 진상 규명을 위한 독립 기구 설치를 촉구했습니다. 고통 속에 방치된 가족들의 절규가 이어지고 있습니다. 국가의 외면 속에 묻혀버린 진실을 찾을 수 있을까요?",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-17 08:33:43 KST",
+        "current_rank": 3
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 587.0,
+        "trends": [
+            {
+                "record_id": "1328011749",
+                "url": "https://indiankanoon.org/doc/67288537/",
+                "related_urls": [
+                    "https://indiankanoon.org/doc/10361364/",
+                    "https://indiankanoon.org/doc/48053546/",
+                    "https://indiankanoon.org/doc/59026434/"
+                ],
+                "title": "",
+                "mentions": 136,
+                "sources": 1,
+                "goldstein": -4.0,
+                "tone": 0.724889991735174,
+                "score": 473.0
+            },
+            {
+                "record_id": "1328009447",
+                "url": "https://www.legallyindia.com/convos/topic/499238-trilegal-mumbai-bombay-hiring",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.51248189812217,
+                "score": 72.0
+            },
+            {
+                "record_id": "1328028488",
+                "url": "http://www.bignewsnetwork.com/news/279375124/odisha-cm-majhi-bids-farewell-to-outgoing-governor-hari-babu-kambhampati",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 0.0,
+                "tone": 5.36912751677852,
+                "score": 42.0,
+                "keyword": "주지사 퇴임식",
+                "hook": "오디샤주의 새로운 정치적 변화가 시작됩니다.",
+                "script": "오디샤주 마지 주총리가 하리 바부 캄팜파티 주지사의 퇴임을 공식 배웅했습니다. 주 정부의 새로운 리더십 교체와 함께 지역 정계의 기대감이 고조되고 있습니다. 정권의 새로운 전환점이 될지 주목됩니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-17 08:33:43 KST",
+        "current_rank": 4
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 483.0,
+        "trends": [
+            {
+                "record_id": "1328332494",
+                "url": "https://www.t-online.de/nachrichten/ausland/id_101485254/papst-fordert-putin-zu-waffenstillstand-in-frontstadt-auf.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 72,
+                "sources": 7,
+                "goldstein": -9.5,
+                "tone": -1.19577529724165,
+                "score": 159.5
+            },
+            {
+                "record_id": "1327997560",
+                "url": "https://www.eveshamjournal.co.uk/news/national/26635778.zelensky-says-russian-strikes-hit-ukraines-energy-sites-despite-ceasefire-push/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -10.0,
+                "tone": -4.67544817595558,
+                "score": 99.0,
+                "keyword": "에너지 시설 타격",
+                "hook": "휴전 논의 중에도 러시아의 미사일은 멈추지 않았습니다.",
+                "script": "휴전 가능성이 거론되는 가운데 우크라이나의 에너지 시설이 또다시 공격받았습니다. 젤렌스키 대통령은 강력히 규탄하며 긴급 대응에 나섰습니다. 전쟁의 불길은 좀처럼 꺼질 기미가 보이지 않습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1328195226",
+                "url": "https://www.warringtonguardian.co.uk/news/national/26641733.streeting-reassured-hegseth-ukraines-access-starlink-restored/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 84,
+                "sources": 14,
+                "goldstein": -4.4,
+                "tone": -0.836218476266158,
+                "score": 92.0
+            },
+            {
+                "record_id": "1328351913",
+                "url": "https://www.theadvocate.com.au/story/9370191/putin-agrees-to-popes-plea-for-aid-for-ukraine-town/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 5.2,
+                "tone": -1.75954404605502,
+                "score": 68.0,
+                "keyword": "푸틴 지원 수용",
+                "hook": "교황의 간절한 호소가 푸틴의 마음을 돌렸을까요?",
+                "script": "교황의 중재로 푸틴이 우크라이나 마을에 대한 인도적 지원을 전격 수용했습니다. 전쟁의 참혹함 속에서 피어난 작은 변화지만, 이것이 평화의 시작일지 전 세계가 주목하고 있습니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1327996478",
+                "url": "https://www.bracknellnews.co.uk/news/national/26638005.russia-war-nato-today-says-former-top-military-commander/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 66,
+                "sources": 11,
+                "goldstein": 1.9,
+                "tone": -2.32587113049063,
+                "score": 64.5
+            }
+        ],
+        "last_updated": "2026-10-17 08:33:43 KST",
+        "current_rank": 5
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 459.5,
+        "trends": [
+            {
+                "record_id": "1328307256",
+                "url": "https://english.news.cn/20261016/f8616f9e9ef34fecb14bdb4cc2f3772c/c.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 1,
+                "goldstein": 5.0,
+                "tone": 4.5045045045045,
+                "score": 221.0,
+                "keyword": "중국 기술 혁신",
+                "hook": "세계의 공장을 넘어 기술 강국으로 도약하는 중국의 속도입니다.",
+                "script": "중국이 최첨단 기술 분야에서 눈부신 성과를 거두며 글로벌 시장을 압도하고 있습니다. 끊임없는 연구 개발과 국가적 지원이 만들어낸 결과입니다. 과연 중국의 기술 굴기는 어디까지 이어질까요?",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1328006723",
+                "url": "https://english.news.cn/asiapacific/20261015/22057b2e715646dabadc13cd72c013c3/c.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": 4.53400503778336,
+                "score": 156.0
+            },
+            {
+                "record_id": "1328227746",
+                "url": "https://en.gmw.cn/2026-10/16/content_39049583.htm",
+                "related_urls": [],
+                "title": "",
+                "mentions": 111,
+                "sources": 1,
+                "goldstein": 5.0,
+                "tone": 0.0796178343948998,
+                "score": 82.5
+            }
+        ],
+        "last_updated": "2026-10-17 08:33:43 KST",
+        "current_rank": 6
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 275.0,
+        "trends": [
+            {
+                "record_id": "1328183860",
+                "url": "https://g1.globo.com/am/amazonas/especial-publicitario/aguas-de-manaus/aguas-de-manaus/noticia/2026/10/15/caminhoes-pipa-da-aguas-de-manaus-reforcam-combate-a-incendios-no-amazonas.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 170,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -5.51181102362205,
+                "score": 137.0,
+                "keyword": "아마존 화재 확산",
+                "hook": "지구의 허파 아마존이 지금 이 순간에도 불타고 있습니다.",
+                "script": "아마존 열대우림에 비상사태가 선포되었습니다. 걷잡을 수 없이 번지는 화마를 잡기 위해 급수차까지 동원됐지만 역부족입니다. 생태계 파괴가 현실화된 지금, 긴급 진화 작업이 사활을 걸고 진행 중입니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1328014731",
+                "url": "https://g1.globo.com/mundo/noticia/2026/10/14/fim-da-escala-6x1-como-e-a-jornada-de-trabalho-em-outros-paises.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": 0.501912045889101,
+                "score": 89.0
+            },
+            {
+                "record_id": "1328109049",
+                "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/15/filho-de-gerente-de-banco-e-sequestrado-e-obrigado-a-transferir-quase-r-20-mil-via-pix-no-maranhao.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": -4.90196078431372,
+                "score": 49.0,
+                "keyword": "은행원 자녀 납치",
+                "hook": "당신의 자녀가 순식간에 납치당한다면 어떻게 하시겠습니까?",
+                "script": "브라질에서 은행 관리자의 아들이 납치되는 충격적인 사건이 발생했습니다. 범인들은 몸값으로 2만 헤알을 픽스로 송금할 것을 요구했습니다. 디지털 금융을 악용한 대담한 범죄, 시민들의 공포가 극에 달했습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-17 08:33:43 KST",
+        "current_rank": 7
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 271.0,
+        "trends": [
+            {
+                "record_id": "1328258238",
+                "url": "https://www.zeri.info/kultura/641566/sacrifice-komedia-e-zeze-qe-perplas-krizen-klimatike-me-eliten-e-pushtetit/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 7,
+                "goldstein": 1.0,
+                "tone": -4.09328305023439,
+                "score": 59.0
+            },
+            {
+                "record_id": "1328331974",
+                "url": "http://www.kreiszeitung.de/politik/linke-fraktionsspitze-geht-auf-distanz-zu-vanessa-emde-die-bekraeftigt-israel-aussagen-zr-94545510.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 6,
+                "goldstein": -2.0,
+                "tone": -3.04466779396956,
+                "score": 57.0
+            },
+            {
+                "record_id": "1328124260",
+                "url": "https://www.az-online.de/welt/neue-therapie-gegen-toedliche-krebsform-was-bringt-sie-zr-94543055.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 3.0,
+                "tone": -4.16826449725651,
+                "score": 57.0
+            },
+            {
+                "record_id": "1328257666",
+                "url": "http://www.wa.de/politik/afd-fordert-abrechnung-der-migrationskosten-gruenen-warnen-vor-ganz-dunklen-zeiten-zr-94544032.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 74,
+                "sources": 7,
+                "goldstein": 1.0,
+                "tone": -4.30285026865973,
+                "score": 56.0
+            },
+            {
+                "record_id": "1328247804",
+                "url": "https://www.merkur.de/lokales/muenchen/altstadt-lehel-ort43327/muenchen-messerangriff-polizei-fahndet-mit-foto-nach-verdaechtigem-verletzt-94543775.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -3.19767441860465,
+                "score": 42.0,
+                "keyword": "뮌헨 흉기 난동",
+                "hook": "대낮의 뮌헨 도심, 시민들이 흉기 공포에 떨고 있습니다.",
+                "script": "독일 뮌헨 시내에서 발생한 충격적인 흉기 공격 사건입니다. 경찰은 현재 용의자를 추적하며 시민들의 제보를 간절히 기다리고 있습니다. 도심 치안이 위협받고 있는 가운데 독일 사회의 불안감이 커지고 있습니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-10-17 08:33:43 KST",
+        "current_rank": 8
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 181.0,
+        "trends": [
+            {
+                "record_id": "1328130463",
+                "url": "https://www.harrowtimes.co.uk/news/national/26641168.employees-not-sacked-revenge-union-says-rockstar-chief/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 14,
+                "goldstein": -2.0,
+                "tone": -4.70297029702971,
+                "score": 122.0,
+                "keyword": "직원 해고 논란",
+                "hook": "락스타 게임즈의 대규모 해고 사태, 그 배후는 무엇인가.",
+                "script": "락스타 게임즈의 직원 해고를 둘러싼 노사 갈등이 폭발했습니다. 보복성 해고라는 주장이 제기되며 파장이 커지고 있습니다. 사측은 부인하고 있지만, 업계의 시선은 싸늘하기만 합니다. 과연 진실은 어디에 있을까요?",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1328366138",
+                "url": "https://www.miragenews.com/federal-provincial-and-territorial-health-1762077/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 72,
+                "sources": 3,
+                "goldstein": 3.4,
+                "tone": 9.20254442681442,
+                "score": 59.0
+            }
+        ],
+        "last_updated": "2026-10-17 08:33:43 KST",
+        "current_rank": 9
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 179.0,
+        "trends": [
+            {
+                "record_id": "1328194815",
+                "url": "https://www.countytimes.co.uk/news/national/26638320.three-people-die-heavy-rain-causes-flooding-istanbul/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": -4.0,
+                "tone": -6.46067415730336,
+                "score": 147.0,
+                "keyword": "이스탄불 대홍수",
+                "hook": "이스탄불이 거대한 물바다로 변했습니다.",
+                "script": "기습적인 폭우로 도심이 마비되고 사망자까지 발생했습니다. 자연의 무서운 경고, 현장 상황을 통해 기후 재난의 위험성을 실시간으로 전해드립니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1328043721",
+                "url": "https://www.odatv.com/guncel/ali-turksenden-denizlerde-hortum-uyarisi-120166517",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": -5.50774526678142,
+                "score": 32.0,
+                "keyword": "해상 돌풍 경고",
+                "hook": "바다 위 거대한 회오리바람이 덮칩니다.",
+                "script": "전문가들이 경고한 해상 돌풍이 터키 연안을 위협하고 있습니다. 어업 종사자와 해안 거주민들은 지금 즉시 안전 대책을 세워야 합니다. 지금 상황을 주의 깊게 보십시오.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-10-17 08:33:43 KST",
+        "current_rank": 10
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 129.5,
+        "trends": [
+            {
+                "record_id": "1328282498",
+                "url": "https://www.zazoom.it/2026-10-16/studenti-in-piazza-in-tutta-italia-per-il-no-meloni-day-cortei-e-tensioni-in-diverse-citta/19808043/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 1,
+                "goldstein": -7.5,
+                "tone": -5.42484295188344,
+                "score": 67.5,
+                "keyword": "이탈리아 전국 시위",
+                "hook": "멜로니 정부를 향한 분노가 이탈리아 전역을 뒤덮었습니다.",
+                "script": "이탈리아 전역이 반 멜로니 시위로 마비되었습니다. 수천 명의 학생이 거리로 쏟아져 나오며 정부 정책을 규탄하고 있습니다. 곳곳에서 격렬한 충돌이 발생하며 긴장감이 최고조에 달했습니다. 향후 정국은 어떻게 될까요?",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1328264899",
+                "url": "https://www.finanzen.net/nachricht/aktien/klingbeil-sieht-konstruktive-gespraeche-zur-commerzbank-15989117",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 4.0,
+                "tone": 0.0239417126745783,
+                "score": 62.0
+            }
+        ],
+        "last_updated": "2026-10-17 08:33:43 KST",
+        "current_rank": 11
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 114.0,
+        "trends": [
+            {
+                "record_id": "1328087624",
+                "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1500224",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": 4.0,
+                "tone": -2.84471452360958,
+                "score": 114.0,
+                "keyword": "사우디 긴박 상황",
+                "hook": "사우디아라비아에서 긴박한 사태가 포착되었습니다.",
+                "script": "중동의 중심, 사우디에서 전해진 소식이 세계 경제를 흔들고 있습니다. 지금 무엇이 일어나고 있는지, 그리고 이것이 우리에게 어떤 영향을 미칠지 바로 확인하세요.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-17 08:33:43 KST",
+        "current_rank": 12
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 107.0,
+        "trends": [
+            {
+                "record_id": "1328150843",
+                "url": "https://www.omnia.com.mx/noticia/445721/investiga-rgano-interno-de-control-denuncia-por-presunto-abuso-policial-contra-r",
+                "related_urls": [],
+                "title": "",
+                "mentions": 190,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -3.26776406167665,
+                "score": 107.0,
+                "keyword": "경찰 폭력 조사",
+                "hook": "시민을 지켜야 할 경찰이 오히려 시민을 공격했습니다.",
+                "script": "멕시코에서 경찰의 가혹 행위 의혹이 제기되어 내부 감찰이 시작됐습니다. 시민을 향한 폭력 영상이 공개되며 분노 여론이 들끓고 있습니다. 부패한 공권력에 대한 국민의 심판이 시작될까요?",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-17 08:33:43 KST",
+        "current_rank": 13
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 100.0,
+        "trends": [
+            {
+                "record_id": "1328195926",
+                "url": "https://knrs.iheart.com/content/2026-10-15-pope-leo-recovering-well-after-lung-cancer-surgery-in-rome/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 66,
+                "sources": 1,
+                "goldstein": 6.0,
+                "tone": 0.389803389440018,
+                "score": 100.0,
+                "keyword": "교황 건강 회복",
+                "hook": "교황 레오, 폐암 수술 후 기적적 회복 중입니다.",
+                "script": "전 세계가 주목했던 교황의 건강, 수술은 성공적이었고 빠르게 안정을 되찾고 있습니다. 종교계와 세계가 안도하는 소식, 그 자세한 경과를 전합니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-17 08:33:43 KST",
+        "current_rank": 14
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 99.0,
+        "trends": [
+            {
+                "record_id": "1328103259",
+                "url": "https://www.segye.com:443/newsView/20261014519971",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": 2.21518987341772,
+                "score": 57.0,
+                "keyword": "국내 경제 위기",
+                "hook": "대한민국 경제가 벼랑 끝에 몰렸습니다.",
+                "script": "물가는 치솟고 기업들은 줄도산 위기입니다. 지금 당장 당신의 지갑을 지킬 전략이 필요합니다. 더 이상 방관할 수 없는 경제 상황, 무엇이 문제인지 지금 바로 분석합니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1328216535",
+                "url": "http://inews24.com/view/2015686",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": 2.62818222079687,
+                "score": 42.0,
+                "keyword": "산업 현장 변화",
+                "hook": "대한민국 산업 지형도가 완전히 바뀌고 있습니다.",
+                "script": "기술의 발전이 우리 일자리를 위협하고 있습니다. 변화의 파도 속에서 살아남기 위해선 무엇을 준비해야 할까요? 지금 바로 변화의 핵심을 파헤쳐 보겠습니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-17 08:33:43 KST",
+        "current_rank": 15
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 84.0,
+        "trends": [
+            {
+                "record_id": "1328194035",
+                "url": "https://www.messengernewspapers.co.uk/news/national/26641718.nineteen-people-injured-eurotunnel-accident-near-calais/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 10,
+                "goldstein": 2.8,
+                "tone": -4.71014492753624,
+                "score": 84.0,
+                "keyword": "유로터널 사고",
+                "hook": "유럽을 잇는 해저 터널에서 대형 사고가 발생했습니다.",
+                "script": "칼레 인근 유로터널에서 발생한 사고로 19명이 부상을 입었습니다. 현재 구조 작업이 긴박하게 진행 중이며 터널 운영에 차질이 빚어지고 있습니다. 통행객들은 즉시 우회 경로를 확인하시기 바랍니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-10-17 08:33:43 KST",
+        "current_rank": 16
+    }
+}
