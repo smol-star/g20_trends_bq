@@ -1,81 +1,14 @@
 {
-    "United Kingdom": {
-        "gdp_rank": 6,
-        "spike_score": 1685.5,
-        "trends": [
-            {
-                "record_id": "1328288570",
-                "url": "https://www.thecomet.net/news/national/26643715.ministers-cannot-agree-budget-without-increased-funding-odowd-warns/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 90,
-                "sources": 9,
-                "goldstein": 6.0,
-                "tone": -1.02249488752556,
-                "score": 414.0
-            },
-            {
-                "record_id": "1328269182",
-                "url": "https://www.stourbridgenews.co.uk/news/national/26642980.police-sergeant-raped-two-women-jailed-12-years/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 80,
-                "sources": 8,
-                "goldstein": -9.0,
-                "tone": -8.13836742318114,
-                "score": 384.0,
-                "keyword": "경찰 성범죄 징역",
-                "hook": "시민을 지켜야 할 경찰관이 최악의 범죄자로 돌변했습니다.",
-                "script": "두 명의 여성을 성폭행한 혐의로 기소된 현직 경찰관에게 징역 12년형이 선고되었습니다. 공권력의 신뢰가 바닥으로 떨어졌습니다. 영국 사회는 충격에 빠졌고, 사법 시스템 전반에 대한 비판의 목소리가 커지고 있습니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1328254641",
-                "url": "https://www.newarkadvertiser.co.uk/national/government-being-cautious-about-public-announcements-on-jackdaw-and-rosebank-173071/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 154,
-                "sources": 20,
-                "goldstein": 4.0,
-                "tone": -1.39634442573765,
-                "score": 333.0
-            },
-            {
-                "record_id": "1328335583",
-                "url": "https://www.bournemouthecho.co.uk/news/national/26645406.burnham-acting-like-the-first-prime-minister-england-says-gilruth/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 60,
-                "sources": 10,
-                "goldstein": -9.5,
-                "tone": 0.78125,
-                "score": 281.0
-            },
-            {
-                "record_id": "1328389309",
-                "url": "https://www.times-series.co.uk/news/national/26645664.glamour-gran-71-falls-just-short-miss-great-britain-beauty-pageant/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 100,
-                "sources": 10,
-                "goldstein": 2.8,
-                "tone": 4.49826989619378,
-                "score": 273.5
-            }
-        ],
-        "last_updated": "2026-10-17 13:20:56 KST",
-        "current_rank": 1
-    },
     "United States": {
         "gdp_rank": 1,
-        "spike_score": 1672.5,
+        "spike_score": 1698.5,
         "trends": [
             {
                 "record_id": "1328375125",
                 "url": "https://www.london-now.co.uk/news/national/26645634.teenage-gunman-killed-four-oregon-school-former-student-police-say/",
                 "related_urls": [
-                    "https://www.sthelensstar.co.uk/news/national/26645634.teenage-gunman-killed-four-oregon-school-former-student-police-say/",
-                    "https://www.wandsworthguardian.co.uk/news/national/26645634.teenage-gunman-killed-four-oregon-school-former-student-police-say/"
+                    "https://www.wandsworthguardian.co.uk/news/national/26645634.teenage-gunman-killed-four-oregon-school-former-student-police-say/",
+                    "https://www.sthelensstar.co.uk/news/national/26645634.teenage-gunman-killed-four-oregon-school-former-student-police-say/"
                 ],
                 "title": "",
                 "mentions": 64,
@@ -83,9 +16,9 @@
                 "goldstein": -10.0,
                 "tone": -2.65060240963856,
                 "score": 600.5,
-                "keyword": "오리건 학교 총격",
-                "hook": "평화롭던 교실이 순식간에 피바다로 변했습니다.",
-                "script": "오리건주의 한 학교에서 비극적인 총기 난사 사건이 발생했습니다. 범인은 전직 학생으로 밝혀졌으며, 이번 공격으로 4명이 사망했습니다. 학교는 지금 공포와 충격에 휩싸였습니다. 추가 피해 상황을 예의주시해야 합니다.",
+                "keyword": "오리건 학교 총기난사",
+                "hook": "평화로운 교실을 덮친 비극, 오리건주 초등학교에서 발생한 끔찍한 총기 사건이 미국을 충격에 빠뜨렸습니다.",
+                "script": "오리건주의 한 초등학교가 순식간에 아수라장이 됐습니다. 전교생이던 십 대 총격범의 무차별 사격으로 무고한 학생과 교직원 등 4명이 목숨을 잃었습니다. 현장은 그야말로 생지옥이었습니다. 자세한 경위와 범행 동기는 현재 경찰 조사 중입니다. 추가 소식 들어오는 대로 즉시 전해드리겠습니다.",
                 "sentiment": "warning"
             },
             {
@@ -122,23 +55,90 @@
                 "score": 162.5
             },
             {
-                "record_id": "1328259122",
-                "url": "https://www.kedm.org/npr-news/2026-10-16/do-americans-own-the-presidents-papers-appeals-court-to-weigh-in",
+                "record_id": "1328423004",
+                "url": "https://www.cambstimes.co.uk/news/national/26645737.lawyers-us-politician-omar-demand-return-property-home-searched/",
                 "related_urls": [],
                 "title": "",
                 "mentions": 60,
-                "sources": 6,
-                "goldstein": -4.0,
-                "tone": -1.70157068062827,
-                "score": 119.0
+                "sources": 10,
+                "goldstein": 7.0,
+                "tone": -5.18638573743922,
+                "score": 145.0
             }
         ],
-        "last_updated": "2026-10-17 13:20:56 KST",
+        "last_updated": "2026-10-17 19:38:26 KST",
+        "current_rank": 1
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 1445.5,
+        "trends": [
+            {
+                "record_id": "1328288570",
+                "url": "https://www.thecomet.net/news/national/26643715.ministers-cannot-agree-budget-without-increased-funding-odowd-warns/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 6.0,
+                "tone": -1.02249488752556,
+                "score": 414.0
+            },
+            {
+                "record_id": "1328335583",
+                "url": "https://www.bournemouthecho.co.uk/news/national/26645406.burnham-acting-like-the-first-prime-minister-england-says-gilruth/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": -9.5,
+                "tone": 0.78125,
+                "score": 281.0
+            },
+            {
+                "record_id": "1328389309",
+                "url": "https://www.times-series.co.uk/news/national/26645664.glamour-gran-71-falls-just-short-miss-great-britain-beauty-pageant/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 10,
+                "goldstein": 2.8,
+                "tone": 4.49826989619378,
+                "score": 273.5
+            },
+            {
+                "record_id": "1328254641",
+                "url": "https://www.newarkadvertiser.co.uk/national/government-being-cautious-about-public-announcements-on-jackdaw-and-rosebank-173071/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 154,
+                "sources": 20,
+                "goldstein": 4.0,
+                "tone": -1.39634442573765,
+                "score": 253.0
+            },
+            {
+                "record_id": "1328269182",
+                "url": "https://www.stourbridgenews.co.uk/news/national/26642980.police-sergeant-raped-two-women-jailed-12-years/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": -9.0,
+                "tone": -8.13836742318114,
+                "score": 224.0,
+                "keyword": "경찰 성범죄 충격",
+                "hook": "시민을 보호해야 할 경찰관이 두 명의 여성을 잔혹하게 성폭행한 사실이 드러나 영국 사회가 분노하고 있습니다.",
+                "script": "영국의 한 경찰관이 12년 형을 선고받았습니다. 범죄의 내용은 충격 그 자체입니다. 무고한 여성 두 명을 대상으로 한 성범죄가 발각된 것인데요. 공권력에 대한 신뢰가 바닥으로 떨어졌습니다. 영국 경찰 당국은 이번 사태에 대해 엄중한 책임을 묻겠다고 밝혔습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-17 19:38:26 KST",
         "current_rank": 2
     },
     "Australia": {
         "gdp_rank": 13,
-        "spike_score": 1066.0,
+        "spike_score": 1081.5,
         "trends": [
             {
                 "record_id": "1328226379",
@@ -150,10 +150,10 @@
                 "goldstein": -10.0,
                 "tone": -3.19994643720426,
                 "score": 625.0,
-                "keyword": "드론 거래 유출",
-                "hook": "호주 정부의 기밀 드론 거래 정보가 범죄 조직으로 흘러 들어갔을 가능성이 제기됐습니다.",
-                "script": "국가 안보가 뚫렸습니다. 드론 관련 핵심 기밀이 마약 조직의 손에 넘어갈 위기에 처했습니다. 정부의 보안 체계가 무너진 지금, 호주 사회는 큰 충격에 빠졌습니다. 누가 이 기밀을 유출했는지, 수사당국에 비상이 걸렸습니다.",
-                "sentiment": "negative"
+                "keyword": "드론 거래 정보",
+                "hook": "드론 거래 정보가 유출되면서 범죄 조직의 손에 넘어갈 위험에 처했습니다.",
+                "script": "정부의 기밀 드론 거래 상세 정보가 노출됐습니다. 이 정보가 마약 범죄 조직의 눈을 뜨게 할 수 있다는 경고가 잇따릅니다. 보안은 완전히 뚫렸습니다. 지금 호주 당국에 비상이 걸렸습니다.",
+                "sentiment": "warning"
             },
             {
                 "record_id": "1328200018",
@@ -164,7 +164,11 @@
                 "sources": 6,
                 "goldstein": 2.8,
                 "tone": -2.91884259864912,
-                "score": 179.5
+                "score": 179.5,
+                "keyword": "군사 괴롭힘 조사",
+                "hook": "군 내부의 추악한 괴롭힘 의혹, 그 진실을 밝히기 위한 조사가 시작됐습니다.",
+                "script": "군 내부의 조직적인 괴롭힘, 그 대가는 무엇일까요? 외부 감사를 통해 군 기강 문란의 실체가 드러나고 있습니다. 정의를 찾기 위한 호주군의 고통스러운 자정 작용이 시작됐습니다.",
+                "sentiment": "negative"
             },
             {
                 "record_id": "1328213161",
@@ -175,7 +179,26 @@
                 "sources": 5,
                 "goldstein": 2.8,
                 "tone": -8.06153880246421,
-                "score": 103.5
+                "score": 103.5,
+                "keyword": "폭행 혐의 법정",
+                "hook": "미디어 재벌 안토니 카탈라노가 폭행 혐의로 법정에 섰습니다.",
+                "script": "호주 언론계의 거물, 카탈라노가 법원 복도에 모습을 드러냈습니다. 그를 향한 폭행 혐의와 쏟아지는 의혹들. 법의 심판대 앞에 선 그의 운명은 어떻게 될까요?",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1328437542",
+                "url": "https://www.bunburymail.com.au/story/9370326/pope-to-leave-hospital-after-lung-cancer-surgery/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 2.8,
+                "tone": -3.33404294727365,
+                "score": 93.5,
+                "keyword": "교황 퇴원 임박",
+                "hook": "폐암 수술을 받은 교황, 병원 문을 나설 준비를 마쳤습니다.",
+                "script": "교황이 폐암 수술 후 성공적인 회복을 마치고 퇴원을 앞두고 있습니다. 전 세계 신도들이 안도의 한숨을 내쉬고 있습니다. 교황의 건강한 복귀가 임박했다는 소식입니다.",
+                "sentiment": "positive"
             },
             {
                 "record_id": "1328382208",
@@ -186,31 +209,35 @@
                 "sources": 5,
                 "goldstein": -9.0,
                 "tone": -6.67826030847741,
-                "score": 80.0
-            },
-            {
-                "record_id": "1328401947",
-                "url": "https://www.brisbanetimes.com.au/world/north-america/mexican-men-sentenced-to-158-years-in-prison-for-murder-of-australian-brothers-20261017-p616dl.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 48,
-                "sources": 2,
-                "goldstein": -10.0,
-                "tone": -6.79611650485437,
-                "score": 78.0,
-                "keyword": "형제 살해범 중형",
-                "hook": "멕시코에서 호주인 형제를 잔혹하게 살해한 범인들에게 158년형이 선고됐습니다.",
-                "script": "비극적인 사건의 끝은 무려 158년의 징역형이었습니다. 멕시코에서 목숨을 잃은 호주 형제 사건, 범인들은 법의 엄중한 심판을 받았습니다. 가족들의 피눈물 나는 기다림 끝에 내려진 판결, 정의는 실현되었을까요?",
+                "score": 80.0,
+                "keyword": "화재와 세금난",
+                "hook": "카페 주인의 꿈이 화재로 타버린 뒤 세금 문제까지 겹쳐 절규하고 있습니다.",
+                "script": "화재로 모든 것을 잃은 부부가 세금 감면을 눈물로 호소합니다. 꿈은 잿더미가 됐고, 현실은 가혹합니다. 벼랑 끝에 몰린 소상공인의 절박한 목소리를 지금 들어보세요.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-17 13:20:56 KST",
+        "last_updated": "2026-10-17 19:38:26 KST",
         "current_rank": 3
     },
     "Russia": {
         "gdp_rank": 11,
-        "spike_score": 473.5,
+        "spike_score": 610.5,
         "trends": [
+            {
+                "record_id": "1328419430",
+                "url": "https://www.index.hr/vijesti/clanak/trump-ukinuo-sankcije-i-carine-protiv-rusije/2846536.aspx?index_ref=homepage_comment_box_d&commentId=12266262",
+                "related_urls": [],
+                "title": "",
+                "mentions": 310,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -4.26666666666666,
+                "score": 207.0,
+                "keyword": "러시아 제재 철회",
+                "hook": "트럼프가 러시아에 대한 모든 제재와 관세를 전격 폐지했습니다.",
+                "script": "국제 정세가 요동치고 있습니다. 트럼프의 갑작스러운 러시아 제재 해제 결정에 세계가 충격에 빠졌습니다. 우크라이나 전쟁 구도에 어떤 파장을 몰고 올지 지금 전 세계가 지켜보고 있습니다.",
+                "sentiment": "warning"
+            },
             {
                 "record_id": "1328332494",
                 "url": "https://www.t-online.de/nachrichten/ausland/id_101485254/papst-fordert-putin-zu-waffenstillstand-in-frontstadt-auf.html",
@@ -221,10 +248,10 @@
                 "goldstein": -9.5,
                 "tone": -1.19577529724165,
                 "score": 159.5,
-                "keyword": "교황의 휴전 촉구",
-                "hook": "교황이 푸틴 대통령을 향해 전쟁을 멈추라는 강도 높은 메시지를 던졌습니다.",
-                "script": "전선은 더욱 차갑게 얼어붙고 있습니다. 교황은 즉각적인 휴전을 호소했지만, 러시아의 반응은 냉담합니다. 계속되는 포격과 희생 속에 평화의 목소리는 과연 러시아의 견고한 벽을 뚫을 수 있을까요?",
-                "sentiment": "warning"
+                "keyword": "교황 휴전 촉구",
+                "hook": "교황이 푸틴에게 전하는 마지막 경고, 전쟁을 멈추라는 호소입니다.",
+                "script": "최전방의 비극을 목격한 교황이 푸틴을 향해 즉각적인 휴전을 촉구했습니다. 멈추지 않는 포격 속에 생명이 스러지고 있습니다. 평화를 향한 교황의 메시지가 과연 전장에 닿을 수 있을까요?",
+                "sentiment": "negative"
             },
             {
                 "record_id": "1328195226",
@@ -235,7 +262,11 @@
                 "sources": 14,
                 "goldstein": -4.4,
                 "tone": -0.836218476266158,
-                "score": 92.0
+                "score": 92.0,
+                "keyword": "스타링크 접속 복구",
+                "hook": "차단되었던 우크라이나의 스타링크 접속이 극적으로 복구되었습니다.",
+                "script": "스트리밍 장관이 스타링크 복구 사실을 공식 확인했습니다. 전쟁의 핵심 통신망이 다시 가동되면서 우크라이나의 반격에 변화가 예상됩니다. 기술이 전쟁의 판도를 바꿀 수 있을까요?",
+                "sentiment": "neutral"
             },
             {
                 "record_id": "1328271796",
@@ -247,9 +278,9 @@
                 "goldstein": -7.0,
                 "tone": -5.99250936329588,
                 "score": 79.0,
-                "keyword": "러시아 전면 공습",
-                "hook": "러시아가 우크라이나 9개 지역을 동시에 타격하며 전쟁의 공포가 극에 달했습니다.",
-                "script": "하늘에서 쏟아지는 미사일, 우크라이나 전역이 공포에 떨고 있습니다. 러시아의 무차별 공습으로 긴장은 최고조에 달했고, 젤렌스키와 트럼프 사이의 갈등까지 겹치며 우크라이나의 운명은 벼랑 끝에 섰습니다.",
+                "keyword": "러시아 전역 타격",
+                "hook": "러시아가 우크라이나 9개 지역을 동시에 타격하며 전선이 붕괴 직전입니다.",
+                "script": "하늘에서 쏟아지는 미사일, 우크라이나 전역이 공포에 떨고 있습니다. 젤렌스키와 트럼프 사이의 갈등까지 겹쳐 외교적 고립은 더욱 깊어집니다. 벼랑 끝에 몰린 우크라이나, 지금 실시간 상황입니다.",
                 "sentiment": "negative"
             },
             {
@@ -261,25 +292,14 @@
                 "sources": 1,
                 "goldstein": 9.0,
                 "tone": -3.50210566802356,
-                "score": 73.0
-            },
-            {
-                "record_id": "1328272316",
-                "url": "http://www.wa.de/politik/wir-sorgen-dafuer-dass-putin-diesen-krieg-niemals-gewinnt-warnung-vor-angriffen-auf-europa-zr-94544049.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 5,
-                "goldstein": -7.0,
-                "tone": -5.95468178506579,
-                "score": 70.0,
-                "keyword": "러시아 전쟁 경고",
-                "hook": "유럽이 러시아의 공격 가능성에 대비해 전시 체제에 준하는 경고를 발령했습니다.",
-                "script": "러시아가 이 전쟁에서 결코 승리하지 못하게 하겠다. 유럽의 결연한 의지입니다. 푸틴의 야욕이 유럽 전역으로 번질 것이라는 공포가 현실이 되고 있습니다. 과연 유럽은 이 거대한 안보 위협을 막아낼 수 있을까요?",
-                "sentiment": "warning"
+                "score": 73.0,
+                "keyword": "유럽의 결속 위기",
+                "hook": "유럽이 젤렌스키를 감싸 안았지만, 트럼프와의 갈등이 동맹을 갈라놓고 있습니다.",
+                "script": "우크라이나 지원을 두고 유럽과 미국의 균열이 선명해지고 있습니다. 젤렌스키를 지키려는 유럽의 결단, 하지만 트럼프의 압박은 더욱 거세집니다. 분열되는 서방의 미래는 어디로 향할까요?",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-17 13:20:56 KST",
+        "last_updated": "2026-10-17 19:38:26 KST",
         "current_rank": 4
     },
     "Germany": {
@@ -296,13 +316,13 @@
                 "goldstein": -7.0,
                 "tone": -5.95468178506579,
                 "score": 130.0,
-                "keyword": "푸틴 전쟁 경고",
-                "hook": "유럽을 향한 전쟁의 그림자가 더욱 짙어지고 있습니다.",
-                "script": "독일 정부가 푸틴의 전쟁 도발에 대해 강력한 경고를 보냈습니다. 유럽을 겨냥한 위협이 현실화되고 있다는 긴박한 진단이 나옵니다. 평화는 이제 당연한 것이 아닙니다. 유럽 안보의 최전선에서 벌어지는 긴장 상황을 지금 확인하세요.",
+                "keyword": "유럽 안보 경고",
+                "hook": "푸틴의 전쟁이 유럽 전역으로 번질 수 있다는 공포가 독일 정치권을 강타했습니다.",
+                "script": "독일 정부가 푸틴의 전쟁 승리를 결코 용납하지 않겠다며 강경한 입장을 밝혔습니다. 유럽을 향한 직접적인 공격 가능성이 제기되면서 독일 내 안보 불안이 최고조에 달했습니다. 지금 유럽은 제2차 세계대전 이후 최대의 위기를 맞이하고 있습니다. 더 자세한 분석은 지금 확인하세요.",
                 "sentiment": "warning"
             },
             {
-                "record_id": "1328319907",
+                "record_id": "1328319729",
                 "url": "https://www.abendzeitung-muenchen.de/mehr/geld/galeria-startet-investorensuche-art-1166295",
                 "related_urls": [],
                 "title": "",
@@ -346,8 +366,76 @@
                 "score": 56.0
             }
         ],
-        "last_updated": "2026-10-17 13:20:56 KST",
+        "last_updated": "2026-10-17 19:38:26 KST",
         "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 305.5,
+        "trends": [
+            {
+                "record_id": "1328264587",
+                "url": "https://www.finanzen.net/nachricht/aktien/klingbeil-sieht-konstruktive-gespraeche-zur-commerzbank-15989117",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 6.4,
+                "tone": 0.317191593671034,
+                "score": 129.0,
+                "keyword": "코메르츠방크 인수 논의",
+                "hook": "독일 정계가 코메르츠방크 인수 협상을 두고 긴박한 움직임을 보이고 있습니다.",
+                "script": "코메르츠방크를 둘러싼 논의가 급물살을 타고 있습니다. 클링바일 의원은 이번 대화가 매우 건설적이라 평가했지만, 시장의 긴장감은 최고조입니다. 금융권의 지각변동, 과연 어떤 결과로 이어질까요?",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1328282498",
+                "url": "https://www.zazoom.it/2026-10-16/studenti-in-piazza-in-tutta-italia-per-il-no-meloni-day-cortei-e-tensioni-in-diverse-citta/19808043/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 1,
+                "goldstein": -7.5,
+                "tone": -5.42484295188344,
+                "score": 67.5,
+                "keyword": "이탈리아 반정부 시위",
+                "hook": "이탈리아 전역이 멜로니 총리 퇴진을 외치는 시위대의 함성으로 뒤덮였습니다.",
+                "script": "전국 주요 도시에서 '노 멜로니 데이' 시위가 동시다발적으로 발생했습니다. 거리마다 충돌이 격화되며 긴장감이 최고조에 달했습니다. 정부의 대응과 시민들의 분노, 지금 이탈리아가 흔들리고 있습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1328408596",
+                "url": "http://www.kreisbote.de/welt/mutter-spendet-ihrer-an-mukoviszidose-tochter-eine-niere-sie-sagtenkeine-hoffnung-mehr-zr-94545696.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 3.4,
+                "tone": -0.272975715239293,
+                "score": 59.0,
+                "keyword": "모녀의 기적적 이식",
+                "hook": "절망뿐이라던 의사의 진단 뒤, 엄마는 자신의 신장을 딸에게 내놓았습니다.",
+                "script": "희망이 없다는 말에도 엄마는 포기하지 않았습니다. 난치병을 앓던 딸을 위해 자신의 신장을 기꺼이 바친 어머니의 숭고한 결단. 기적 같은 생명 나눔의 현장을 전합니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1328296764",
+                "url": "https://www.halesowennews.co.uk/news/national/26642742.popes-doctors-say-tests-confirm-continued-improvement-cancer-surgery/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 8,
+                "goldstein": -2.0,
+                "tone": -0.59226442536191,
+                "score": 50.0,
+                "keyword": "교황 건강 회복세",
+                "hook": "암 수술을 받은 교황의 상태가 놀라운 회복세를 보이고 있습니다.",
+                "script": "의료진이 교황의 수술 경과를 공식 발표했습니다. 암 수술 이후 지속적인 건강 호전이 확인됐다는 소식입니다. 전 세계가 주목하는 교황의 회복, 과연 언제 복귀할 수 있을까요?",
+                "sentiment": "neutral"
+            }
+        ],
+        "last_updated": "2026-10-17 19:38:26 KST",
+        "current_rank": 6
     },
     "China": {
         "gdp_rank": 2,
@@ -364,8 +452,8 @@
                 "tone": 4.5045045045045,
                 "score": 221.0,
                 "keyword": "중국 경제 성장",
-                "hook": "글로벌 시장이 중국의 새로운 경제 지표에 주목하고 있습니다.",
-                "script": "중국이 발표한 최근 경제 데이터가 시장의 예상을 뛰어넘는 성장세를 기록했습니다. 글로벌 경기 둔화 우려 속에서 중국의 선전이 세계 경제에 어떤 변수로 작용할지 관심이 쏠립니다. 경제 전문가들은 이번 결과가 향후 정책 방향에 큰 영향을 줄 것으로 보고 있습니다.",
+                "hook": "글로벌 경제 위기 속에서 중국이 다시 한번 놀라운 성장 지표를 발표하며 세계의 이목을 집중시키고 있습니다.",
+                "script": "중국 경제가 예상치를 뛰어넘는 성장세를 보이고 있습니다. 주요 경제 지표들이 긍정적인 신호를 보내면서 글로벌 시장에도 활력을 불어넣는 모습입니다. 전문가들은 이번 성장이 내수 활성화와 기술 혁신 덕분이라고 분석하는데요. 과연 이 상승세가 세계 경제에 어떤 변화를 가져올지 주목됩니다.",
                 "sentiment": "positive"
             },
             {
@@ -380,8 +468,8 @@
                 "score": 82.5
             }
         ],
-        "last_updated": "2026-10-17 13:20:56 KST",
-        "current_rank": 6
+        "last_updated": "2026-10-17 19:38:26 KST",
+        "current_rank": 7
     },
     "Saudi Arabia": {
         "gdp_rank": 17,
@@ -397,71 +485,18 @@
                 "goldstein": 2.8,
                 "tone": -4.62248087679237,
                 "score": 265.5,
-                "keyword": "공항 테러 비상",
-                "hook": "사우디 핵심 공항을 겨냥한 치명적인 공격이 발생하며 전 세계 여행객들에게 비상이 걸렸습니다.",
-                "script": "사우디아라비아의 주요 공항이 무장 공격의 표적이 됐습니다. 이번 사태로 인명 피해가 발생하면서 현지 보안 등급이 최고 수준으로 격상됐습니다. 공항을 이용하려던 수많은 여행객의 발이 묶였고, 각국 정부는 사우디 전역에 긴급 여행 주의보를 발령했습니다. 테러의 배후와 추가 공격 가능성을 두고 정보 당국이 긴박하게 움직이고 있습니다.",
-                "sentiment": "negative"
+                "keyword": "공항 테러 경보",
+                "hook": "사우디아라비아 주요 공항이 치명적인 공격을 받으며 여행객들에게 긴급 경보가 발령됐습니다.",
+                "script": "사우디 공항을 겨냥한 테러 공격으로 현장이 아수라장이 됐습니다. 인명 피해가 확인된 가운데, 각국 정부는 해당 지역에 대한 여행 주의보를 최고 수준으로 격상했습니다. 보안이 뚫린 공항 상황은 매우 긴박합니다. 여행객들은 즉시 이동 경로를 재점검하십시오.",
+                "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-17 13:20:56 KST",
-        "current_rank": 7
-    },
-    "Italy": {
-        "gdp_rank": 8,
-        "spike_score": 246.5,
-        "trends": [
-            {
-                "record_id": "1328264587",
-                "url": "https://www.finanzen.net/nachricht/aktien/klingbeil-sieht-konstruktive-gespraeche-zur-commerzbank-15989117",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 5,
-                "goldstein": 6.4,
-                "tone": 0.317191593671034,
-                "score": 129.0,
-                "keyword": "코메르츠방크 합병 논의",
-                "hook": "독일 정계가 코메르츠방크 인수와 관련해 긴박한 물밑 협상을 시작했습니다.",
-                "script": "코메르츠방크를 둘러싼 독일의 행보가 빨라지고 있습니다. 클링바일 의원은 이번 협상이 매우 건설적이라고 평가했는데요. 유럽 금융 지형을 뒤흔들 이번 인수전, 과연 어떤 결과로 이어질까요? 지금 유럽 경제가 주목하고 있습니다.",
-                "sentiment": "positive"
-            },
-            {
-                "record_id": "1328282498",
-                "url": "https://www.zazoom.it/2026-10-16/studenti-in-piazza-in-tutta-italia-per-il-no-meloni-day-cortei-e-tensioni-in-diverse-citta/19808043/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 56,
-                "sources": 1,
-                "goldstein": -7.5,
-                "tone": -5.42484295188344,
-                "score": 67.5,
-                "keyword": "멜로니 반대 시위",
-                "hook": "이탈리아 전역이 멜로니 총리 퇴진을 외치는 시위대의 함성으로 마비되었습니다.",
-                "script": "이탈리아 도시 곳곳이 붉게 물들었습니다. '노 멜로니 데이'를 맞아 거리로 쏟아져 나온 학생들의 분노가 폭발하고 있습니다. 경찰과의 물리적 충돌까지 발생하며 정국은 한 치 앞을 알 수 없는 혼돈 속으로 빠져들고 있습니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1328296764",
-                "url": "https://www.halesowennews.co.uk/news/national/26642742.popes-doctors-say-tests-confirm-continued-improvement-cancer-surgery/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 48,
-                "sources": 8,
-                "goldstein": -2.0,
-                "tone": -0.59226442536191,
-                "score": 50.0,
-                "keyword": "교황 건강 호전",
-                "hook": "암 수술을 받은 교황의 건강 상태에 전 세계의 이목이 쏠리고 있습니다.",
-                "script": "교황청이 교황의 상태에 대해 공식 입장을 밝혔습니다. 암 수술 이후 정밀 검사 결과, 회복세가 뚜렷하다는 소식입니다. 전 세계 가톨릭 신자들의 간절한 기도가 닿은 걸까요? 교황의 쾌유 소식에 안도의 한숨이 이어지고 있습니다.",
-                "sentiment": "positive"
-            }
-        ],
-        "last_updated": "2026-10-17 13:20:56 KST",
+        "last_updated": "2026-10-17 19:38:26 KST",
         "current_rank": 8
     },
     "Turkey": {
         "gdp_rank": 16,
-        "spike_score": 147.0,
+        "spike_score": 186.0,
         "trends": [
             {
                 "record_id": "1328194815",
@@ -474,17 +509,32 @@
                 "tone": -6.46067415730336,
                 "score": 147.0,
                 "keyword": "이스탄불 기록적 폭우",
-                "hook": "쏟아지는 폭우 속, 이스탄불 도심이 거대한 물바다로 변하며 사망자가 속출하고 있습니다.",
-                "script": "이스탄불 도심이 순식간에 침수되었습니다. 기록적인 폭우로 도로와 지하철역이 마비됐고, 미처 대피하지 못한 시민 3명이 끝내 숨진 채 발견됐습니다. 구조대가 투입됐지만 진흙탕으로 변한 도심 곳곳에서 고립 신고가 잇따르고 있습니다. 추가 피해가 우려되는 상황, 당국은 즉시 이동을 멈추고 안전한 곳으로 대피할 것을 경고했습니다.",
-                "sentiment": "warning"
+                "hook": "터키 이스탄불 도심이 거대한 강으로 돌변하며 사망자가 속출하고 있습니다.",
+                "script": "이스탄불에 쏟아진 기록적인 폭우로 도시 전체가 마비됐습니다. 불어난 급류에 휩쓸린 시민 3명이 끝내 숨진 채 발견됐습니다. 도로와 지하철역은 침수되었고 구조대원들이 필사적인 구조 작업을 벌이고 있습니다. 추가 피해가 우려되는 상황, 지금 즉시 현장 상황을 확인하십시오.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1328418299",
+                "url": "https://www.haberler.com/ekonomi/tpao-nun-batman-ve-siirt-teki-petrol-arama-ruhsati-20338469-haberi/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 2,
+                "goldstein": -2.0,
+                "tone": -0.55,
+                "score": 39.0,
+                "keyword": "배트맨 시르트 석유개발",
+                "hook": "터키 남동부 배트맨과 시르트 지역에서 대규모 석유 탐사 프로젝트가 착수되었습니다.",
+                "script": "터키 국영 석유공사 TPAO가 배트맨과 시르트 지역에 대한 새로운 석유 탐사 라이선스를 확보했습니다. 에너지 자립을 향한 정부의 강한 의지가 담긴 조치입니다. 이 지역의 지하 자원이 터키 경제에 어떤 변곡점이 될지 주목됩니다. 에너지 시장의 새로운 지각변동이 시작됐습니다.",
+                "sentiment": "neutral"
             }
         ],
-        "last_updated": "2026-10-17 13:20:56 KST",
+        "last_updated": "2026-10-17 19:38:26 KST",
         "current_rank": 9
     },
     "Brazil": {
         "gdp_rank": 9,
-        "spike_score": 136.5,
+        "spike_score": 163.5,
         "trends": [
             {
                 "record_id": "1328360457",
@@ -496,33 +546,67 @@
                 "goldstein": -9.5,
                 "tone": -4.94037478705281,
                 "score": 95.5,
-                "keyword": "아마존 파괴 급감",
-                "hook": "지구의 허파 아마존에서 40년 만에 가장 충격적인 긍정적 변화가 포착됐습니다.",
-                "script": "브라질 정부가 아마존 열대우림 파괴 면적이 1988년 이후 최저치를 기록했다고 발표했습니다. 환경 파괴의 주범으로 꼽히던 브라질에 무슨 일이 있었던 걸까요? 기후 위기 시대, 전 세계가 이 경이로운 기록에 주목하고 있습니다.",
+                "keyword": "아마존 벌목 최저치",
+                "hook": "지구의 허파 아마존이 36년 만에 가장 낮은 벌목률을 기록했습니다.",
+                "script": "브라질 정부가 아마존 파괴가 1988년 이후 최저 수준으로 떨어졌다고 발표했습니다. 멈추지 않던 환경 파괴가 드디어 제동이 걸린 걸까요? 환경 보호의 큰 이정표가 될지 주목됩니다.",
                 "sentiment": "positive"
             },
             {
-                "record_id": "1328205474",
-                "url": "https://revistaquem.globo.com/noticias/noticia/2026/10/bianca-andrade-comemora-32-anos-e-mostra-detalhes-da-casa-nova.ghtml",
+                "record_id": "1328410594",
+                "url": "https://revistaquem.globo.com/casa-dos-famosos/noticia/2026/10/casa-nova-de-bianca-andrade-e-descrita-como-brutalista-com-muita-personalidade-e-vale-r-9-milhoes-fotos.ghtml",
                 "related_urls": [],
                 "title": "",
-                "mentions": 44,
+                "mentions": 132,
                 "sources": 1,
-                "goldstein": 3.4,
-                "tone": 6.42201834862385,
-                "score": 41.0,
-                "keyword": "비앙카 안드라데 생일",
-                "hook": "브라질의 톱스타 비앙카 안드라데가 32번째 생일을 맞아 초호화 저택을 공개했습니다.",
-                "script": "비앙카 안드라데가 자신의 32번째 생일을 화려하게 자축했습니다. 그녀의 새 보금자리는 마치 영화 속 한 장면 같습니다. 팬들의 뜨거운 축하와 함께 그녀의 럭셔리한 일상이 온라인을 뜨겁게 달구고 있습니다.",
+                "goldstein": 0.0,
+                "tone": 0.573394495412843,
+                "score": 68.0,
+                "keyword": "초호화 브루탈리즘 저택",
+                "hook": "90억 원대 브루탈리즘 저택, 그 화려한 실체가 공개되었습니다.",
+                "script": "비앙카 안드라데가 새로 공개한 저택이 화제입니다. 투박한 듯 세련된 브루탈리즘 건축 양식과 압도적인 규모. 상위 0.1%의 럭셔리 라이프스타일을 지금 바로 확인하세요.",
                 "sentiment": "positive"
             }
         ],
-        "last_updated": "2026-10-17 13:20:56 KST",
+        "last_updated": "2026-10-17 19:38:26 KST",
         "current_rank": 10
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 156.0,
+        "trends": [
+            {
+                "record_id": "1328194035",
+                "url": "https://www.messengernewspapers.co.uk/news/national/26641718.nineteen-people-injured-eurotunnel-accident-near-calais/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 10,
+                "goldstein": 2.8,
+                "tone": -4.71014492753624,
+                "score": 84.0,
+                "keyword": "유로터널 사고 발생",
+                "hook": "프랑스 칼레 인근 유로터널에서 발생한 대형 사고로 수십 명이 부상을 입었습니다.",
+                "script": "프랑스와 영국을 잇는 유로터널에서 끔찍한 사고가 발생했습니다. 열차와 관련한 사고로 현재까지 19명이 부상을 입고 병원으로 긴급 이송됐습니다. 터널 내부는 아비규환이었습니다. 현재 당국은 사고 수습에 총력을 다하고 있으며, 운행은 일시 중단된 상태입니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1328414232",
+                "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1500675",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -9.0,
+                "tone": -4.01761261066775,
+                "score": 72.0
+            }
+        ],
+        "last_updated": "2026-10-17 19:38:26 KST",
+        "current_rank": 11
     },
     "Canada": {
         "gdp_rank": 10,
-        "spike_score": 106.0,
+        "spike_score": 145.0,
         "trends": [
             {
                 "record_id": "1328366138",
@@ -534,14 +618,29 @@
                 "goldstein": 3.4,
                 "tone": 9.20254442681442,
                 "score": 106.0,
-                "keyword": "보건 의료 협력",
-                "hook": "캐나다 전역의 의료 시스템을 뒤바꿀 역사적인 연방-주 정부 합의가 타결됐습니다.",
-                "script": "연방 정부와 주 정부가 손을 맞잡았습니다. 의료 서비스의 질을 높이고 접근성을 강화하기 위한 대규모 협력안이 발표된 건데요. 만성적인 의료 인력 부족에 시달리던 캐나다 보건 체계에 숨통이 트일 수 있을까요?",
+                "keyword": "보건 체계 개편",
+                "hook": "캐나다 연방과 주 정부가 보건 시스템의 전면적인 개편을 선언했습니다.",
+                "script": "국민 건강을 위한 대대적인 변화가 시작됩니다. 연방과 주, 그리고 지역 사회가 협력하여 보건 체계의 효율성을 높이겠다는 목표입니다. 이번 개편이 캐나다 의료 공백을 메울 수 있을까요?",
                 "sentiment": "positive"
+            },
+            {
+                "record_id": "1328416492",
+                "url": "https://www.ledevoir.com/actualites/environnement/821467/faut-il-accroitre-puissance-energetique-quebec",
+                "related_urls": [],
+                "title": "",
+                "mentions": 44,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": 0.00735998133958315,
+                "score": 39.0,
+                "keyword": "퀘벡 에너지 확장",
+                "hook": "퀘벡주의 에너지 증산 논란, 생존을 위한 선택인가 파괴인가.",
+                "script": "퀘벡이 에너지 생산량을 대폭 늘릴지 기로에 섰습니다. 환경 보호와 경제적 수요 사이의 치열한 논쟁. 캐나다 전력망의 미래를 결정할 핵심 이슈가 지금 뜨겁습니다.",
+                "sentiment": "neutral"
             }
         ],
-        "last_updated": "2026-10-17 13:20:56 KST",
-        "current_rank": 11
+        "last_updated": "2026-10-17 19:38:26 KST",
+        "current_rank": 12
     },
     "Argentina": {
         "gdp_rank": 18,
@@ -558,13 +657,13 @@
                 "tone": 0.389803389440018,
                 "score": 100.0,
                 "keyword": "교황 폐암 수술",
-                "hook": "폐암 수술을 받은 교황 레오가 수술 후 빠르게 건강을 회복하고 있다는 소식이 전해졌습니다.",
-                "script": "폐암 진단으로 전 세계를 놀라게 했던 교황 레오가 로마에서 성공적으로 수술을 마쳤습니다. 고령의 나이임에도 불구하고 수술 경과가 매우 좋아 현재 안정적인 회복세를 보이고 있습니다. 아르헨티나를 비롯한 전 세계 가톨릭 신자들은 교황의 쾌유를 비는 기도를 이어가고 있으며, 바티칸은 조만간 교황의 업무 복귀가 가능할 것으로 전망했습니다.",
+                "hook": "교황 레오가 폐암 수술을 성공적으로 마치고 회복세에 접어들었습니다.",
+                "script": "전 세계가 숨죽였던 교황 레오의 수술 결과가 나왔습니다. 로마에서 진행된 폐암 제거 수술은 성공적이었으며 현재 안정적인 회복을 이어가고 있습니다. 바티칸은 교황의 건강 상태가 빠르게 호전되고 있다고 공식 발표했습니다. 많은 이들의 기도가 응답받은 순간입니다.",
                 "sentiment": "positive"
             }
         ],
-        "last_updated": "2026-10-17 13:20:56 KST",
-        "current_rank": 12
+        "last_updated": "2026-10-17 19:38:26 KST",
+        "current_rank": 13
     },
     "India": {
         "gdp_rank": 5,
@@ -580,36 +679,13 @@
                 "goldstein": 3.0,
                 "tone": -4.80178671133444,
                 "score": 99.0,
-                "keyword": "수배자 명단 공개",
-                "hook": "경찰이 추적 중인 위험 인물들의 얼굴이 세상에 드러났습니다.",
-                "script": "인도 경찰이 전국에서 가장 위험한 수배자들의 신상을 공개했습니다. 이들은 강력 범죄를 저지르고 현재 도주 중인 인물들입니다. 시민들의 제보가 그 어느 때보다 절실한 상황입니다. 주변을 살피고 즉시 신고하십시오.",
+                "keyword": "지명수배자 명단",
+                "hook": "경찰이 공개한 최악의 범죄자들, 당신의 이웃이 그들 중 한 명일지도 모릅니다.",
+                "script": "인도 경찰이 전국을 공포에 떨게 한 지명수배자들의 얼굴을 전격 공개했습니다. 잔혹 범죄를 저지르고 도주 중인 이들은 사회의 안전을 위협하는 시한폭탄과 같습니다. 경찰은 시민들의 적극적인 제보를 요청했습니다. 이들을 발견한다면 즉시 신고하시기 바랍니다.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-17 13:20:56 KST",
-        "current_rank": 13
-    },
-    "France": {
-        "gdp_rank": 7,
-        "spike_score": 84.0,
-        "trends": [
-            {
-                "record_id": "1328194035",
-                "url": "https://www.messengernewspapers.co.uk/news/national/26641718.nineteen-people-injured-eurotunnel-accident-near-calais/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 100,
-                "sources": 10,
-                "goldstein": 2.8,
-                "tone": -4.71014492753624,
-                "score": 84.0,
-                "keyword": "유로터널 사고 발생",
-                "hook": "해저 터널 안에서 끔찍한 사고가 벌어졌습니다.",
-                "script": "프랑스 칼레 인근 유로터널에서 대형 사고가 발생해 19명이 부상을 입었습니다. 터널 내부는 순식간에 아수라장이 되었고 구조 작업이 긴박하게 진행되었습니다. 여행객들의 안전에 빨간불이 켜졌습니다. 후속 보도를 확인하세요.",
-                "sentiment": "negative"
-            }
-        ],
-        "last_updated": "2026-10-17 13:20:56 KST",
+        "last_updated": "2026-10-17 19:38:26 KST",
         "current_rank": 14
     },
     "South Korea": {
@@ -626,13 +702,13 @@
                 "goldstein": -2.0,
                 "tone": 2.62818222079687,
                 "score": 42.0,
-                "keyword": "국내 경제 동향",
-                "hook": "대한민국 경제를 둘러싼 지표들이 엇갈리며 불확실성이 커지고 있습니다.",
-                "script": "국내 경제 지표가 요동치고 있습니다. 긍정적인 신호와 부정적인 전망이 뒤섞이며 투자자들의 혼란도 가중되는데요. 한국 경제의 앞날을 좌우할 핵심 변수들은 무엇인지, 지금 시장의 움직임을 면밀히 살펴야 합니다.",
-                "sentiment": "neutral"
+                "keyword": "기술 산업 투자",
+                "hook": "한국 기업들이 차세대 기술을 향한 대규모 투자 계획을 발표했습니다.",
+                "script": "대한민국 기술 산업이 다시 한번 도약합니다. 글로벌 시장을 겨냥한 공격적인 투자와 연구 개발 소식. 위기를 기회로 바꾸려는 한국 기업들의 치열한 행보가 시작됐습니다.",
+                "sentiment": "positive"
             }
         ],
-        "last_updated": "2026-10-17 13:20:56 KST",
+        "last_updated": "2026-10-17 19:38:26 KST",
         "current_rank": 15
     }
 }
