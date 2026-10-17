@@ -1,0 +1,675 @@
+{
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 1659.0,
+        "trends": [
+            {
+                "record_id": "1328467028",
+                "url": "https://www.northwichguardian.co.uk/news/national/26645831.somerville-refuses-commit-devolving-new-powers-scottish-councils/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 160,
+                "sources": 8,
+                "goldstein": 1.0,
+                "tone": -1.09289617486339,
+                "score": 555.5
+            },
+            {
+                "record_id": "1328288570",
+                "url": "https://www.thecomet.net/news/national/26643715.ministers-cannot-agree-budget-without-increased-funding-odowd-warns/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 6.0,
+                "tone": -1.02249488752556,
+                "score": 296.0
+            },
+            {
+                "record_id": "1328335583",
+                "url": "https://www.bournemouthecho.co.uk/news/national/26645406.burnham-acting-like-the-first-prime-minister-england-says-gilruth/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": -9.5,
+                "tone": 0.78125,
+                "score": 281.0
+            },
+            {
+                "record_id": "1328389309",
+                "url": "https://www.times-series.co.uk/news/national/26645664.glamour-gran-71-falls-just-short-miss-great-britain-beauty-pageant/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 10,
+                "goldstein": 2.8,
+                "tone": 4.49826989619378,
+                "score": 273.5
+            },
+            {
+                "record_id": "1328254641",
+                "url": "https://www.newarkadvertiser.co.uk/national/government-being-cautious-about-public-announcements-on-jackdaw-and-rosebank-173071/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 154,
+                "sources": 20,
+                "goldstein": 4.0,
+                "tone": -1.39634442573765,
+                "score": 253.0
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 1
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 1616.0,
+        "trends": [
+            {
+                "record_id": "1328195906",
+                "url": "https://www.warringtonguardian.co.uk/news/national/26641733.streeting-reassured-hegseth-ukraines-access-starlink-restored/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 84,
+                "sources": 14,
+                "goldstein": 10.0,
+                "tone": -0.836218476266158,
+                "score": 524.5
+            },
+            {
+                "record_id": "1328375125",
+                "url": "https://www.london-now.co.uk/news/national/26645634.teenage-gunman-killed-four-oregon-school-former-student-police-say/",
+                "related_urls": [
+                    "https://www.wandsworthguardian.co.uk/news/national/26645634.teenage-gunman-killed-four-oregon-school-former-student-police-say/"
+                ],
+                "title": "",
+                "mentions": 64,
+                "sources": 16,
+                "goldstein": -10.0,
+                "tone": -2.65060240963856,
+                "score": 518.0
+            },
+            {
+                "record_id": "1328194234",
+                "url": "https://www.standard-journal.com/ap/national/5-people-believed-dead-following-shooting-at-oregon-elementary-school-2-officials-tell-ap/article_906bfb69-7c22-5747-8e63-9973c5ef073d.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 11,
+                "goldstein": -5.0,
+                "tone": -5.15240733681787,
+                "score": 266.0
+            },
+            {
+                "record_id": "1328195298",
+                "url": "https://www.dailycamera.com/2026/10/15/pennsylvania-shooting-family-controlled/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -10.0,
+                "tone": -4.07671272166723,
+                "score": 162.5
+            },
+            {
+                "record_id": "1328423004",
+                "url": "https://www.cambstimes.co.uk/news/national/26645737.lawyers-us-politician-omar-demand-return-property-home-searched/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": 7.0,
+                "tone": -5.18638573743922,
+                "score": 145.0
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 2
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 856.0,
+        "trends": [
+            {
+                "record_id": "1328500551",
+                "url": "https://www.edenmagnet.com.au/story/9370345/widespread-concern-coalition-deny-split-on-eu-deal/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": 8.0,
+                "tone": 0.16584475276401,
+                "score": 307.0
+            },
+            {
+                "record_id": "1328200018",
+                "url": "https://www.areanews.com.au/story/9369729/consequences-to-external-military-harassment-probe/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 132,
+                "sources": 6,
+                "goldstein": 2.8,
+                "tone": -2.91884259864912,
+                "score": 179.5
+            },
+            {
+                "record_id": "1328226379",
+                "url": "https://www.westernadvocate.com.au/story/9369556/details-of-drone-deal-could-tip-off-drug-dealers/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -10.0,
+                "tone": -3.19994643720426,
+                "score": 169.0
+            },
+            {
+                "record_id": "1328213161",
+                "url": "https://www.theleader.com.au/story/9369179/antony-catalano-faces-melbourne-court-over-violence-charges/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 5,
+                "goldstein": 2.8,
+                "tone": -8.06153880246421,
+                "score": 103.5
+            },
+            {
+                "record_id": "1328482451",
+                "url": "https://www.batemansbaypost.com.au/story/9370352/rival-policies-set-motorists-up-for-road-toll-cap-win/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 126,
+                "sources": 7,
+                "goldstein": -4.0,
+                "tone": -2.37566945683651,
+                "score": 97.0
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 3
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 743.5,
+        "trends": [
+            {
+                "record_id": "1328451939",
+                "url": "https://www.newsandstar.co.uk/news/national/26646131.tear-gas-used-paris-protesters-rally-across-france/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 138,
+                "sources": 14,
+                "goldstein": -7.2,
+                "tone": -7.14346615014015,
+                "score": 591.0
+            },
+            {
+                "record_id": "1328194035",
+                "url": "https://www.messengernewspapers.co.uk/news/national/26641718.nineteen-people-injured-eurotunnel-accident-near-calais/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 10,
+                "goldstein": 2.8,
+                "tone": -4.71014492753624,
+                "score": 84.0
+            },
+            {
+                "record_id": "1328479532",
+                "url": "https://www.dumbartonreporter.co.uk/news/national/26646131.clashes-fires-break-protesters-rally-across-france/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 65,
+                "sources": 13,
+                "goldstein": -2.0,
+                "tone": -9.69305331179317,
+                "score": 68.5
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 4
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 665.0,
+        "trends": [
+            {
+                "record_id": "1328498855",
+                "url": "https://www.omnia.com.mx/noticia/446045/la-tatis",
+                "related_urls": [],
+                "title": "",
+                "mentions": 150,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -3.61044037145308,
+                "score": 665.0
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 617.0,
+        "trends": [
+            {
+                "record_id": "1328462900",
+                "url": "https://www.thisiswiltshire.co.uk/news/national/26646208.pope-leo-returns-vatican-four-days-lung-cancer-surgery/",
+                "related_urls": [
+                    "https://www.borehamwoodtimes.co.uk/news/national/26646208.pope-leaves-hospital-rome-four-days-lung-cancer-surgery/"
+                ],
+                "title": "",
+                "mentions": 160,
+                "sources": 16,
+                "goldstein": 0.0,
+                "tone": -1.65289256198347,
+                "score": 248.0
+            },
+            {
+                "record_id": "1328448729",
+                "url": "https://www.chardandilminsternews.co.uk/news/national/26645904.pope-released-hospital-lung-cancer-surgery/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 0.0,
+                "tone": -1.24610591900311,
+                "score": 180.5
+            },
+            {
+                "record_id": "1328282498",
+                "url": "https://www.zazoom.it/2026-10-16/studenti-in-piazza-in-tutta-italia-per-il-no-meloni-day-cortei-e-tensioni-in-diverse-citta/19808043/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 1,
+                "goldstein": -7.5,
+                "tone": -5.42484295188344,
+                "score": 67.5
+            },
+            {
+                "record_id": "1328264899",
+                "url": "https://www.finanzen.net/nachricht/aktien/klingbeil-sieht-konstruktive-gespraeche-zur-commerzbank-15989117",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 4.0,
+                "tone": 0.0239417126745783,
+                "score": 62.0
+            },
+            {
+                "record_id": "1328408596",
+                "url": "http://www.kreisbote.de/welt/mutter-spendet-ihrer-an-mukoviszidose-tochter-eine-niere-sie-sagtenkeine-hoffnung-mehr-zr-94545696.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 3.4,
+                "tone": -0.272975715239293,
+                "score": 59.0
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 6
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 599.5,
+        "trends": [
+            {
+                "record_id": "1328419430",
+                "url": "https://www.index.hr/vijesti/clanak/trump-ukinuo-sankcije-i-carine-protiv-rusije/2846536.aspx?index_ref=homepage_comment_box_d&commentId=12266262",
+                "related_urls": [],
+                "title": "",
+                "mentions": 310,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -4.26666666666666,
+                "score": 207.0
+            },
+            {
+                "record_id": "1328332494",
+                "url": "https://www.t-online.de/nachrichten/ausland/id_101485254/papst-fordert-putin-zu-waffenstillstand-in-frontstadt-auf.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 72,
+                "sources": 7,
+                "goldstein": -9.5,
+                "tone": -1.19577529724165,
+                "score": 159.5
+            },
+            {
+                "record_id": "1328195226",
+                "url": "https://www.warringtonguardian.co.uk/news/national/26641733.streeting-reassured-hegseth-ukraines-access-starlink-restored/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 84,
+                "sources": 14,
+                "goldstein": -4.4,
+                "tone": -0.836218476266158,
+                "score": 92.0
+            },
+            {
+                "record_id": "1328393737",
+                "url": "https://spravy.pozri.sk/clanok/europa-sa-zomkla-za-zelenskym-spor-s-trumpom-prehlbuje-obavy-o-podporu-kyjeva/1614970",
+                "related_urls": [],
+                "title": "",
+                "mentions": 52,
+                "sources": 1,
+                "goldstein": 9.0,
+                "tone": -3.50210566802356,
+                "score": 73.0
+            },
+            {
+                "record_id": "1328351913",
+                "url": "https://www.theadvocate.com.au/story/9370191/putin-agrees-to-popes-plea-for-aid-for-ukraine-town/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 5.2,
+                "tone": -1.75954404605502,
+                "score": 68.0
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 7
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 576.5,
+        "trends": [
+            {
+                "record_id": "1328485929",
+                "url": "https://www.capitalgazette.com/2026/10/17/captain-avery-museum-oyster-festival-photos/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 180,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 1.28571428571428,
+                "score": 273.0
+            },
+            {
+                "record_id": "1328307256",
+                "url": "https://english.news.cn/20261016/f8616f9e9ef34fecb14bdb4cc2f3772c/c.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 1,
+                "goldstein": 5.0,
+                "tone": 4.5045045045045,
+                "score": 221.0
+            },
+            {
+                "record_id": "1328227746",
+                "url": "https://en.gmw.cn/2026-10/16/content_39049583.htm",
+                "related_urls": [],
+                "title": "",
+                "mentions": 111,
+                "sources": 1,
+                "goldstein": 5.0,
+                "tone": 0.0796178343948998,
+                "score": 82.5
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 8
+    },
+    "South Africa": {
+        "gdp_rank": 19,
+        "spike_score": 486.0,
+        "trends": [
+            {
+                "record_id": "1328442424",
+                "url": "https://www.delawarepublic.org/npr-headlines/2026-10-17/decades-after-apartheid-south-africans-seek-justice-for-crimes-of-the-past",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -10.0,
+                "tone": -4.2512077294686,
+                "score": 486.0
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 9
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 214.0,
+        "trends": [
+            {
+                "record_id": "1328258238",
+                "url": "https://www.zeri.info/kultura/641566/sacrifice-komedia-e-zeze-qe-perplas-krizen-klimatike-me-eliten-e-pushtetit/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 7,
+                "goldstein": 1.0,
+                "tone": -4.09328305023439,
+                "score": 59.0
+            },
+            {
+                "record_id": "1328331974",
+                "url": "http://www.kreiszeitung.de/politik/linke-fraktionsspitze-geht-auf-distanz-zu-vanessa-emde-die-bekraeftigt-israel-aussagen-zr-94545510.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 6,
+                "goldstein": -2.0,
+                "tone": -3.04466779396956,
+                "score": 57.0
+            },
+            {
+                "record_id": "1328257666",
+                "url": "http://www.wa.de/politik/afd-fordert-abrechnung-der-migrationskosten-gruenen-warnen-vor-ganz-dunklen-zeiten-zr-94544032.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 74,
+                "sources": 7,
+                "goldstein": 1.0,
+                "tone": -4.30285026865973,
+                "score": 56.0
+            },
+            {
+                "record_id": "1328247804",
+                "url": "https://www.merkur.de/lokales/muenchen/altstadt-lehel-ort43327/muenchen-messerangriff-polizei-fahndet-mit-foto-nach-verdaechtigem-verletzt-94543775.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -3.19767441860465,
+                "score": 42.0
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 10
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 179.5,
+        "trends": [
+            {
+                "record_id": "1328405183",
+                "url": "https://www.bunburymail.com.au/story/9370264/dire-travel-warning-after-deadly-attacks-on-key-airport/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 132,
+                "sources": 6,
+                "goldstein": 2.8,
+                "tone": -4.62248087679237,
+                "score": 179.5
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 11
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 147.0,
+        "trends": [
+            {
+                "record_id": "1328194815",
+                "url": "https://www.countytimes.co.uk/news/national/26638320.three-people-die-heavy-rain-causes-flooding-istanbul/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": -4.0,
+                "tone": -6.46067415730336,
+                "score": 147.0
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 12
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 146.0,
+        "trends": [
+            {
+                "record_id": "1328402752",
+                "url": "https://www.walesonline.co.uk/news/wales-news/faces-people-most-wanted-police-34773208",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": -4.80178671133444,
+                "score": 99.0
+            },
+            {
+                "record_id": "1328474017",
+                "url": "https://news.crossmap.com/2026/10/17/petition-against-ban-on-church-s-street-preaching-delivered-to-colchester-city-council/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": -0.508702194711473,
+                "score": 47.0
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 13
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 100.0,
+        "trends": [
+            {
+                "record_id": "1328195926",
+                "url": "https://knrs.iheart.com/content/2026-10-15-pope-leo-recovering-well-after-lung-cancer-surgery-in-rome/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 66,
+                "sources": 1,
+                "goldstein": 6.0,
+                "tone": 0.389803389440018,
+                "score": 100.0
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 14
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 72.0,
+        "trends": [
+            {
+                "record_id": "1328500588",
+                "url": "http://www.calcuttanews.net/news/279379718/indonesia-battles-rising-wildfires-amid-dry-season",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 7,
+                "goldstein": 6.0,
+                "tone": -7.79220779220779,
+                "score": 72.0
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 15
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 68.0,
+        "trends": [
+            {
+                "record_id": "1328410594",
+                "url": "https://revistaquem.globo.com/casa-dos-famosos/noticia/2026/10/casa-nova-de-bianca-andrade-e-descrita-como-brutalista-com-muita-personalidade-e-vale-r-9-milhoes-fotos.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 132,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": 0.573394495412843,
+                "score": 68.0
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 16
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 59.0,
+        "trends": [
+            {
+                "record_id": "1328366138",
+                "url": "https://www.miragenews.com/federal-provincial-and-territorial-health-1762077/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 72,
+                "sources": 3,
+                "goldstein": 3.4,
+                "tone": 9.20254442681442,
+                "score": 59.0
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 17
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 59.0,
+        "trends": [
+            {
+                "record_id": "1328500523",
+                "url": "http://www.calcuttanews.net/news/279379718/indonesia-battles-rising-wildfires-amid-dry-season",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -2.0,
+                "tone": -7.79220779220779,
+                "score": 59.0
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 18
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 42.0,
+        "trends": [
+            {
+                "record_id": "1328216535",
+                "url": "http://inews24.com/view/2015686",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": 2.62818222079687,
+                "score": 42.0
+            }
+        ],
+        "last_updated": "2026-10-18 08:06:26 KST",
+        "current_rank": 19
+    }
+}
