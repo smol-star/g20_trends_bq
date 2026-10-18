@@ -1,0 +1,699 @@
+{
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 1924.5,
+        "trends": [
+            {
+                "record_id": "1328451939",
+                "url": "https://www.newsandstar.co.uk/news/national/26646131.tear-gas-used-paris-protesters-rally-across-france/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 138,
+                "sources": 14,
+                "goldstein": -7.2,
+                "tone": -7.14346615014015,
+                "score": 836.0
+            },
+            {
+                "record_id": "1328554673",
+                "url": "https://www.newsshopper.co.uk/news/national/26647165.french-police-arrest-1-800-violent-clashes-looting-mar-protests/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 140,
+                "sources": 14,
+                "goldstein": -5.0,
+                "tone": -9.04062454083955,
+                "score": 424.0
+            },
+            {
+                "record_id": "1328494756",
+                "url": "https://www.index.hr/vijesti/clanak/francuski-gradovi-u-plamenu-spaljena-povijesna-gradjevina-reagirao-macron/2846739.aspx?index_ref=homepage_comment_box_d&commentId=12272175",
+                "related_urls": [
+                    "https://www.index.hr/vijesti/clanak/francuski-gradovi-u-plamenu-spaljena-povijesna-gradjevina-reagirao-macron/2846739.aspx?index_ref=homepage_comment_box_d&commentId=12272376"
+                ],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -9.2,
+                "tone": -10.9821428571428,
+                "score": 405.0,
+                "keyword": "프랑스 도시 화염",
+                "hook": "프랑스 전역이 격렬한 시위와 화염으로 마비되었습니다.",
+                "script": "프랑스 주요 도시들이 시위대의 방화로 불타고 있습니다. 역사적인 건축물까지 훼손되자 마크롱 대통령이 즉각 대응에 나섰습니다. 도심은 지금 전쟁터를 방불케 하는 혼란에 빠져 있습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1328484615",
+                "url": "https://www.dailygazette.com/the_recorder/ap/national/violent-protests-in-france-as-police-battle-demonstrators-in-photos/article_140affe4-5c35-556a-bd2c-1f19b20c789c.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -9.0,
+                "tone": -14.2857142857143,
+                "score": 132.0
+            },
+            {
+                "record_id": "1328479532",
+                "url": "https://www.dumbartonreporter.co.uk/news/national/26646131.clashes-fires-break-protesters-rally-across-france/",
+                "related_urls": [
+                    "https://www.eldoradonews.com/news/2026/oct/17/clashes-and-fires-break-out-as-protesters-rally/"
+                ],
+                "title": "",
+                "mentions": 65,
+                "sources": 13,
+                "goldstein": -2.0,
+                "tone": -9.69305331179317,
+                "score": 127.5
+            }
+        ],
+        "last_updated": "2026-10-19 00:49:04 KST",
+        "current_rank": 1
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 1430.0,
+        "trends": [
+            {
+                "record_id": "1328466846",
+                "url": "https://www.northwichguardian.co.uk/news/national/26645831.somerville-refuses-commit-devolving-new-powers-scottish-councils/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 160,
+                "sources": 8,
+                "goldstein": 1.0,
+                "tone": -1.09289617486339,
+                "score": 620.5
+            },
+            {
+                "record_id": "1328389309",
+                "url": "https://www.times-series.co.uk/news/national/26645664.glamour-gran-71-falls-just-short-miss-great-britain-beauty-pageant/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 10,
+                "goldstein": 2.8,
+                "tone": 4.49826989619378,
+                "score": 273.5
+            },
+            {
+                "record_id": "1328486963",
+                "url": "https://www.basingstokegazette.co.uk/news/national/26646469.buses-brought-public-control-2031-says-john-swinney/",
+                "related_urls": [
+                    "https://www.gazetteandherald.co.uk/news/national/26646469.buses-brought-public-control-2031-says-john-swinney/"
+                ],
+                "title": "",
+                "mentions": 72,
+                "sources": 9,
+                "goldstein": 0.4,
+                "tone": 1.36363636363637,
+                "score": 243.0
+            },
+            {
+                "record_id": "1328425349",
+                "url": "https://www.wirralglobe.co.uk/news/national/26645755.tv-remotes-lego-among-foreign-objects-hospitals-removed-bottoms/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 16,
+                "goldstein": 2.8,
+                "tone": 0.340132562125232,
+                "score": 163.0,
+                "keyword": "병원 이물질 제거",
+                "hook": "도저히 믿을 수 없는 물건들이 병원에서 발견되었습니다.",
+                "script": "영국 병원들이 환자 몸속에서 발견된 황당한 물건들을 공개했습니다. TV 리모컨부터 레고 블록까지, 의료진을 경악하게 만든 이물질들이 줄줄이 제거되었습니다. 안전 불감증이 부른 해프닝입니다.",
+                "sentiment": "neutral"
+            },
+            {
+                "record_id": "1328480712",
+                "url": "https://www.rhyljournal.co.uk/news/national/26646170.zionism-racism-debate-unhelpful-says-scottish-green-co-leader/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 10,
+                "goldstein": 4.0,
+                "tone": -3.25443786982249,
+                "score": 130.0
+            }
+        ],
+        "last_updated": "2026-10-19 00:49:04 KST",
+        "current_rank": 2
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 1411.0,
+        "trends": [
+            {
+                "record_id": "1328513677",
+                "url": "https://www.omnia.com.mx/noticia/446058/impugna-pan-exceso-de-facultades-del-iee-reafirma-compromiso-con-la-paridad",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -3.71840185946679,
+                "score": 719.0
+            },
+            {
+                "record_id": "1328498855",
+                "url": "https://www.omnia.com.mx/noticia/446045/la-tatis",
+                "related_urls": [],
+                "title": "",
+                "mentions": 150,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -3.61044037145308,
+                "score": 665.0
+            },
+            {
+                "record_id": "1328531771",
+                "url": "http://spanish.xinhuanet.com/20261018/c919f4c0ba274205828c10638bf937f0/c.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": 0.0,
+                "score": 27.0
+            }
+        ],
+        "last_updated": "2026-10-19 00:49:04 KST",
+        "current_rank": 3
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 1014.5,
+        "trends": [
+            {
+                "record_id": "1328500429",
+                "url": "https://www.edenmagnet.com.au/story/9370345/widespread-concern-coalition-deny-split-on-eu-deal/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": 8.0,
+                "tone": 0.16584475276401,
+                "score": 404.0
+            },
+            {
+                "record_id": "1328504153",
+                "url": "https://www.yasstribune.com.au/story/9370397/ato-gave-months-long-warning-on-credit-card-payment-ban/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 5,
+                "goldstein": 5.0,
+                "tone": -2.91963967250654,
+                "score": 285.0
+            },
+            {
+                "record_id": "1328482451",
+                "url": "https://www.batemansbaypost.com.au/story/9370352/rival-policies-set-motorists-up-for-road-toll-cap-win/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 126,
+                "sources": 7,
+                "goldstein": -4.0,
+                "tone": -2.37566945683651,
+                "score": 152.0
+            },
+            {
+                "record_id": "1328437542",
+                "url": "https://www.bunburymail.com.au/story/9370326/pope-to-leave-hospital-after-lung-cancer-surgery/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 2.8,
+                "tone": -3.33404294727365,
+                "score": 93.5
+            },
+            {
+                "record_id": "1328382208",
+                "url": "https://www.hardenexpress.com.au/story/9370200/couples-tax-fix-plea-as-tobacco-fire-guts-cafe-dream/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -9.0,
+                "tone": -6.67826030847741,
+                "score": 80.0
+            }
+        ],
+        "last_updated": "2026-10-19 00:49:04 KST",
+        "current_rank": 4
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 799.0,
+        "trends": [
+            {
+                "record_id": "1328382533",
+                "url": "https://www.wandsworthguardian.co.uk/news/national/26645634.teenage-gunman-killed-four-oregon-school-former-student-police-say/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": -9.5,
+                "tone": -2.65060240963856,
+                "score": 330.0,
+                "keyword": "오리건 학교 총기난사",
+                "hook": "평온하던 오리건의 학교가 순식간에 피로 물들었습니다.",
+                "script": "오리건주 학교에서 전직 학생이 총기를 난사해 4명이 사망했습니다. 경찰은 범인을 즉각 검거했으나, 학교 현장은 아수라장이 되었습니다. 학생들의 안전이 다시 한번 시험대에 올랐습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1328423004",
+                "url": "https://www.cambstimes.co.uk/news/national/26645737.lawyers-us-politician-omar-demand-return-property-home-searched/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": 7.0,
+                "tone": -5.18638573743922,
+                "score": 145.0
+            },
+            {
+                "record_id": "1328541516",
+                "url": "https://www.irishexaminer.com/world/arid-41925500.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 162,
+                "sources": 20,
+                "goldstein": 3.4,
+                "tone": -9.93803224851428,
+                "score": 138.0
+            },
+            {
+                "record_id": "1328545323",
+                "url": "https://www.whtimes.co.uk/news/national/26647080.faithful-welcome-pope-leo-back-sunday-blessing-cancer-surgery/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 2.8,
+                "tone": 2.4,
+                "score": 109.0
+            },
+            {
+                "record_id": "1328440632",
+                "url": "https://vecer.com/kronika/policija-oregon-napad-sola-ucenec-10430644",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -9.0,
+                "tone": -5.61224489795918,
+                "score": 77.0
+            }
+        ],
+        "last_updated": "2026-10-19 00:49:04 KST",
+        "current_rank": 5
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 647.5,
+        "trends": [
+            {
+                "record_id": "1328462900",
+                "url": "https://www.thisiswiltshire.co.uk/news/national/26646208.pope-leo-returns-vatican-four-days-lung-cancer-surgery/",
+                "related_urls": [
+                    "https://www.borehamwoodtimes.co.uk/news/national/26646208.pope-leaves-hospital-rome-four-days-lung-cancer-surgery/"
+                ],
+                "title": "",
+                "mentions": 160,
+                "sources": 16,
+                "goldstein": 0.0,
+                "tone": -1.65289256198347,
+                "score": 248.0
+            },
+            {
+                "record_id": "1328448729",
+                "url": "https://www.chardandilminsternews.co.uk/news/national/26645904.pope-released-hospital-lung-cancer-surgery/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 0.0,
+                "tone": -1.24610591900311,
+                "score": 180.5
+            },
+            {
+                "record_id": "1328530753",
+                "url": "https://www.index.hr/vijesti/clanak/francuska-u-plamenu-na-ulicama-rat-spaljen-povijesni-simbol-objavljeni-novi-podaci/2846753.aspx?index_ref=homepage_comment_box_d&commentId=12273120",
+                "related_urls": [],
+                "title": "",
+                "mentions": 112,
+                "sources": 1,
+                "goldstein": -9.0,
+                "tone": -11.0287303058387,
+                "score": 103.0
+            },
+            {
+                "record_id": "1328408596",
+                "url": "http://www.kreisbote.de/welt/mutter-spendet-ihrer-an-mukoviszidose-tochter-eine-niere-sie-sagtenkeine-hoffnung-mehr-zr-94545696.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 3.4,
+                "tone": -0.272975715239293,
+                "score": 59.0
+            },
+            {
+                "record_id": "1328573393",
+                "url": "https://www.zazoom.it/2026-10-18/la-rabbia-della-meloni-non-firmo-il-decreto-per-dare-un-miliardo-ai-magistrati-litalia-ha-altre-priorita/19816461/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -5.09164969450103,
+                "score": 57.0
+            }
+        ],
+        "last_updated": "2026-10-19 00:49:04 KST",
+        "current_rank": 6
+    },
+    "South Africa": {
+        "gdp_rank": 19,
+        "spike_score": 486.0,
+        "trends": [
+            {
+                "record_id": "1328442424",
+                "url": "https://www.delawarepublic.org/npr-headlines/2026-10-17/decades-after-apartheid-south-africans-seek-justice-for-crimes-of-the-past",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -10.0,
+                "tone": -4.2512077294686,
+                "score": 486.0,
+                "keyword": "남아공 과거 청산",
+                "hook": "아파르트헤이트 종식 수십 년이 지난 지금, 남아공은 여전히 묻혔던 과거의 범죄와 마주하고 있습니다.",
+                "script": "인종차별 정책 아파르트헤이트가 끝난 지 수십 년이 흘렀지만 남아프리카공화국은 여전히 과거의 참혹한 범죄에 대한 정의를 갈구하고 있습니다. 피해자 가족들이 진실 규명을 요구하며 법정 투쟁을 이어가고 있는 가운데, 국가적 상처를 치유하려는 노력이 새로운 국면을 맞이했습니다. 진정한 화해는 가능한 것일까요.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-19 00:49:04 KST",
+        "current_rank": 7
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 483.5,
+        "trends": [
+            {
+                "record_id": "1328419430",
+                "url": "https://www.index.hr/vijesti/clanak/trump-ukinuo-sankcije-i-carine-protiv-rusije/2846536.aspx?index_ref=homepage_comment_box_d&commentId=12266262",
+                "related_urls": [],
+                "title": "",
+                "mentions": 310,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -4.26666666666666,
+                "score": 207.0
+            },
+            {
+                "record_id": "1328539750",
+                "url": "https://war.obozrevatel.com/section-war/news-armiya-rosiyi-vluchyla-u-zhytlovyy-budynok-u-zaporizhzhi-zahynula-27-richna-zhinka-foto-18-10-2026.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -11.6591928251121,
+                "score": 84.0
+            },
+            {
+                "record_id": "1328505463",
+                "url": "https://english.news.cn/20261018/1b4844977cca4a53b55dbfe951490630/c.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 7.01754385964912,
+                "score": 77.5
+            },
+            {
+                "record_id": "1328393737",
+                "url": "https://spravy.pozri.sk/clanok/europa-sa-zomkla-za-zelenskym-spor-s-trumpom-prehlbuje-obavy-o-podporu-kyjeva/1614970",
+                "related_urls": [],
+                "title": "",
+                "mentions": 52,
+                "sources": 1,
+                "goldstein": 9.0,
+                "tone": -3.50210566802356,
+                "score": 73.0
+            },
+            {
+                "record_id": "1328456245",
+                "url": "https://www.borehamwoodtimes.co.uk/news/national/26646208.pope-leaves-hospital-rome-four-days-lung-cancer-surgery/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 7,
+                "goldstein": 0.0,
+                "tone": 0.23310023310023,
+                "score": 42.0
+            }
+        ],
+        "last_updated": "2026-10-19 00:49:04 KST",
+        "current_rank": 8
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 273.0,
+        "trends": [
+            {
+                "record_id": "1328485929",
+                "url": "https://www.capitalgazette.com/2026/10/17/captain-avery-museum-oyster-festival-photos/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 180,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 1.28571428571428,
+                "score": 273.0,
+                "keyword": "박물관 굴 축제",
+                "hook": "역사와 미식이 만나는 특별한 축제가 열렸습니다.",
+                "script": "캡틴 에이버리 박물관에서 연례 굴 축제가 성황리에 개최되었습니다. 지역 주민들이 모여 신선한 굴을 맛보며 박물관의 역사를 기념했습니다. 활기찬 현장 분위기를 지금 확인하세요.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-19 00:49:04 KST",
+        "current_rank": 9
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 272.5,
+        "trends": [
+            {
+                "record_id": "1328572518",
+                "url": "https://www.royston-crow.co.uk/news/national/26646884.major-fire-breaks-alberta-deadly-incident-military-base/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 2.8,
+                "tone": -3.59712230215827,
+                "score": 107.5
+            },
+            {
+                "record_id": "1328516737",
+                "url": "https://medicinehatnews.com/news/national-news/2026/10/17/explosion-and-fire-at-albertas-cfb-wainwright-mp-reporting-significant-casualties/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 2,
+                "goldstein": -10.0,
+                "tone": -2.65486725663717,
+                "score": 79.0
+            },
+            {
+                "record_id": "1328528854",
+                "url": "https://www.b92.net/info/svet/277344/zena-automobilom-pokosila-12-osoba-u-teksasu/vest",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -4.0,
+                "tone": -12.8568015536519,
+                "score": 47.0
+            },
+            {
+                "record_id": "1328416492",
+                "url": "https://www.ledevoir.com/actualites/environnement/821467/faut-il-accroitre-puissance-energetique-quebec",
+                "related_urls": [],
+                "title": "",
+                "mentions": 44,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": 0.00735998133958315,
+                "score": 39.0
+            }
+        ],
+        "last_updated": "2026-10-19 00:49:04 KST",
+        "current_rank": 10
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 265.5,
+        "trends": [
+            {
+                "record_id": "1328405183",
+                "url": "https://www.bunburymail.com.au/story/9370264/dire-travel-warning-after-deadly-attacks-on-key-airport/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 132,
+                "sources": 6,
+                "goldstein": 2.8,
+                "tone": -4.62248087679237,
+                "score": 265.5,
+                "keyword": "사우디 공항 피습",
+                "hook": "사우디 주요 공항을 겨냥한 치명적인 공격으로 인해 여행객들에게 초비상이 걸렸습니다.",
+                "script": "사우디아라비아의 핵심 공항이 무장 공격을 받아 사상자가 발생하는 충격적인 사건이 일어났습니다. 당국은 즉각 최고 수준의 경계 태세를 발령하고 여행객들에게 이동 자제를 권고했습니다. 중동 지역의 긴장이 극도로 고조된 가운데, 공항 이용객들의 안전이 심각한 위협에 처했습니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-10-19 00:49:04 KST",
+        "current_rank": 11
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 239.0,
+        "trends": [
+            {
+                "record_id": "1328402752",
+                "url": "https://www.walesonline.co.uk/news/wales-news/faces-people-most-wanted-police-34773208",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": -4.80178671133444,
+                "score": 99.0
+            },
+            {
+                "record_id": "1328474017",
+                "url": "https://news.crossmap.com/2026/10/17/petition-against-ban-on-church-s-street-preaching-delivered-to-colchester-city-council/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": -0.508702194711473,
+                "score": 88.0
+            },
+            {
+                "record_id": "1328487237",
+                "url": "http://www.soester-anzeiger.de/deutschland-welt/berichte-17-tote-bei-massenpanik-in-indien-zr-94546143.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 3.4,
+                "tone": -6.12085722429212,
+                "score": 52.0,
+                "keyword": "인도 대규모 압사",
+                "hook": "축제의 현장이 비극적인 죽음의 현장으로 변했습니다.",
+                "script": "인도에서 발생한 대규모 압사 사고로 17명이 목숨을 잃었습니다. 인파가 몰린 현장에서 발생한 사고로, 당국은 정확한 원인을 조사 중입니다. 수많은 사상자가 발생하며 충격을 주고 있습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-19 00:49:04 KST",
+        "current_rank": 12
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 156.0,
+        "trends": [
+            {
+                "record_id": "1328503187",
+                "url": "http://www.thailandnews.net/news/279379718/indonesia-battles-rising-wildfires-amid-dry-season",
+                "related_urls": [
+                    "http://www.calcuttanews.net/news/279379718/indonesia-battles-rising-wildfires-amid-dry-season"
+                ],
+                "title": "",
+                "mentions": 72,
+                "sources": 9,
+                "goldstein": 6.0,
+                "tone": -7.71349862258953,
+                "score": 156.0,
+                "keyword": "인도네시아 산불 급증",
+                "hook": "건조한 날씨 속 인도네시아가 거대한 화마와 싸우고 있습니다.",
+                "script": "인도네시아 전역에서 산불이 잇따라 발생하며 비상이 걸렸습니다. 건조한 기후가 이어지면서 진화 작업에 난항을 겪고 있습니다. 환경 파괴와 대기 오염에 대한 우려가 커지고 있습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-19 00:49:04 KST",
+        "current_rank": 13
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 132.0,
+        "trends": [
+            {
+                "record_id": "1328503022",
+                "url": "http://www.thailandnews.net/news/279379718/indonesia-battles-rising-wildfires-amid-dry-season",
+                "related_urls": [
+                    "http://www.calcuttanews.net/news/279379718/indonesia-battles-rising-wildfires-amid-dry-season"
+                ],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": -2.0,
+                "tone": -7.71349862258953,
+                "score": 132.0,
+                "keyword": "인도네시아 산불 확산",
+                "hook": "건기 속 인도네시아 전역이 거대한 화염에 휩싸이며 생태계 재앙이 현실화되고 있습니다.",
+                "script": "인도네시아 건기가 길어지며 걷잡을 수 없는 산불이 숲을 집어삼키고 있습니다. 매캐한 연기가 하늘을 뒤덮고 주민들은 긴급 대피 중입니다. 진화 작업은 난항을 겪고 있고 피해 규모는 매시간 기하급수적으로 늘어나는 상황입니다. 상황이 악화되면 인근 국가까지 대기 오염 영향권에 들 것으로 보입니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-10-19 00:49:04 KST",
+        "current_rank": 14
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 68.0,
+        "trends": [
+            {
+                "record_id": "1328410594",
+                "url": "https://revistaquem.globo.com/casa-dos-famosos/noticia/2026/10/casa-nova-de-bianca-andrade-e-descrita-como-brutalista-com-muita-personalidade-e-vale-r-9-milhoes-fotos.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 132,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": 0.573394495412843,
+                "score": 68.0
+            }
+        ],
+        "last_updated": "2026-10-19 00:49:04 KST",
+        "current_rank": 15
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 39.0,
+        "trends": [
+            {
+                "record_id": "1328418299",
+                "url": "https://www.haberler.com/ekonomi/tpao-nun-batman-ve-siirt-teki-petrol-arama-ruhsati-20338469-haberi/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 2,
+                "goldstein": -2.0,
+                "tone": -0.55,
+                "score": 39.0,
+                "keyword": "터키 석유 탐사",
+                "hook": "터키 에너지 자립을 향한 행보가 배트만과 시이르트 지역의 대규모 석유 탐사 허가로 가속화됩니다.",
+                "script": "터키 국영 석유공사가 배트만과 시이르트 지역에 대한 새로운 석유 탐사 면허를 획득했습니다. 이번 조치는 에너지 수입 의존도를 낮추기 위한 터키 정부의 강력한 전략적 의지가 담겨 있습니다. 과연 이 지역에서 대규모 유전이 발견될 수 있을지, 터키의 에너지 지도가 어떻게 바뀔지 주목됩니다.",
+                "sentiment": "neutral"
+            }
+        ],
+        "last_updated": "2026-10-19 00:49:04 KST",
+        "current_rank": 16
+    }
+}
