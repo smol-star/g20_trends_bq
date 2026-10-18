@@ -1,73 +1,4 @@
 {
-    "United Kingdom": {
-        "gdp_rank": 6,
-        "spike_score": 1684.0,
-        "trends": [
-            {
-                "record_id": "1328467028",
-                "url": "https://www.northwichguardian.co.uk/news/national/26645831.somerville-refuses-commit-devolving-new-powers-scottish-councils/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 160,
-                "sources": 8,
-                "goldstein": 1.0,
-                "tone": -1.09289617486339,
-                "score": 702.5
-            },
-            {
-                "record_id": "1328389309",
-                "url": "https://www.times-series.co.uk/news/national/26645664.glamour-gran-71-falls-just-short-miss-great-britain-beauty-pageant/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 100,
-                "sources": 10,
-                "goldstein": 2.8,
-                "tone": 4.49826989619378,
-                "score": 445.5
-            },
-            {
-                "record_id": "1328486963",
-                "url": "https://www.basingstokegazette.co.uk/news/national/26646469.buses-brought-public-control-2031-says-john-swinney/",
-                "related_urls": [
-                    "https://www.gazetteandherald.co.uk/news/national/26646469.buses-brought-public-control-2031-says-john-swinney/"
-                ],
-                "title": "",
-                "mentions": 72,
-                "sources": 9,
-                "goldstein": 0.4,
-                "tone": 1.36363636363637,
-                "score": 243.0
-            },
-            {
-                "record_id": "1328425349",
-                "url": "https://www.wirralglobe.co.uk/news/national/26645755.tv-remotes-lego-among-foreign-objects-hospitals-removed-bottoms/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 80,
-                "sources": 16,
-                "goldstein": 2.8,
-                "tone": 0.340132562125232,
-                "score": 163.0,
-                "keyword": "병원 이물질 제거",
-                "hook": "엑스레이 사진을 본 의료진은 자신의 눈을 의심할 수밖에 없었습니다.",
-                "script": "병원 응급실로 이송된 환자의 몸속에서 TV 리모컨과 레고 조각이 발견되었습니다. 상상을 초월하는 이물질들이 어떻게 몸속으로 들어갔는지 의문이 증폭되고 있습니다. 의료진을 경악하게 만든 기이한 사건, 자세한 내막을 확인하세요.",
-                "sentiment": "neutral"
-            },
-            {
-                "record_id": "1328480712",
-                "url": "https://www.rhyljournal.co.uk/news/national/26646170.zionism-racism-debate-unhelpful-says-scottish-green-co-leader/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 10,
-                "goldstein": 4.0,
-                "tone": -3.25443786982249,
-                "score": 130.0
-            }
-        ],
-        "last_updated": "2026-10-18 13:27:06 KST",
-        "current_rank": 1
-    },
     "France": {
         "gdp_rank": 7,
         "spike_score": 1572.5,
@@ -84,10 +15,10 @@
                 "score": 836.0
             },
             {
-                "record_id": "1328494756",
-                "url": "https://www.index.hr/vijesti/clanak/francuski-gradovi-u-plamenu-spaljena-povijesna-gradjevina-reagirao-macron/2846739.aspx?index_ref=homepage_comment_box_d&commentId=12272175",
+                "record_id": "1328508976",
+                "url": "https://www.index.hr/vijesti/clanak/francuski-gradovi-u-plamenu-spaljena-povijesna-gradjevina-reagirao-macron/2846739.aspx?index_ref=homepage_comment_box_d&commentId=12272376",
                 "related_urls": [
-                    "https://www.index.hr/vijesti/clanak/francuski-gradovi-u-plamenu-spaljena-povijesna-gradjevina-reagirao-macron/2846739.aspx?index_ref=homepage_comment_box_d&commentId=12272376"
+                    "https://www.index.hr/vijesti/clanak/francuski-gradovi-u-plamenu-spaljena-povijesna-gradjevina-reagirao-macron/2846739.aspx?index_ref=homepage_comment_box_d&commentId=12272175"
                 ],
                 "title": "",
                 "mentions": 50,
@@ -95,9 +26,9 @@
                 "goldstein": -9.2,
                 "tone": -10.9821428571428,
                 "score": 405.0,
-                "keyword": "프랑스 도시 전소",
-                "hook": "프랑스 전역이 분노의 불길에 휩싸여 역사적인 건축물까지 잿더미가 되었습니다.",
-                "script": "프랑스 도시 곳곳이 방화와 폭동으로 불타고 있습니다. 역사적 가치를 지닌 건축물이 불길에 무너져 내렸고, 마크롱 대통령까지 긴급 대응에 나섰습니다. 도시 전체가 통제 불능 상태에 빠진 충격적인 현장 상황을 보도합니다.",
+                "keyword": "프랑스 도시 화염",
+                "hook": "프랑스 전역이 분노의 화염에 휩싸였고, 역사적인 건축물마저 잿더미가 되었습니다.",
+                "script": "프랑스 도시들이 지금 불타고 있습니다. 격렬한 시위대와 경찰의 충돌이 최고조에 달하며 도심은 전쟁터를 방불케 합니다. 유서 깊은 건축물까지 불길에 휩싸이자 마크롱 대통령까지 긴급 대응에 나섰습니다. 지금 프랑스에서 벌어지고 있는 비극적인 상황입니다.",
                 "sentiment": "warning"
             },
             {
@@ -136,12 +67,81 @@
                 "score": 72.0
             }
         ],
-        "last_updated": "2026-10-18 13:27:06 KST",
+        "last_updated": "2026-10-18 19:59:39 KST",
+        "current_rank": 1
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 1515.0,
+        "trends": [
+            {
+                "record_id": "1328466846",
+                "url": "https://www.northwichguardian.co.uk/news/national/26645831.somerville-refuses-commit-devolving-new-powers-scottish-councils/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 160,
+                "sources": 8,
+                "goldstein": 1.0,
+                "tone": -1.09289617486339,
+                "score": 620.5
+            },
+            {
+                "record_id": "1328389309",
+                "url": "https://www.times-series.co.uk/news/national/26645664.glamour-gran-71-falls-just-short-miss-great-britain-beauty-pageant/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 10,
+                "goldstein": 2.8,
+                "tone": 4.49826989619378,
+                "score": 358.5
+            },
+            {
+                "record_id": "1328486963",
+                "url": "https://www.basingstokegazette.co.uk/news/national/26646469.buses-brought-public-control-2031-says-john-swinney/",
+                "related_urls": [
+                    "https://www.gazetteandherald.co.uk/news/national/26646469.buses-brought-public-control-2031-says-john-swinney/"
+                ],
+                "title": "",
+                "mentions": 72,
+                "sources": 9,
+                "goldstein": 0.4,
+                "tone": 1.36363636363637,
+                "score": 243.0
+            },
+            {
+                "record_id": "1328425349",
+                "url": "https://www.wirralglobe.co.uk/news/national/26645755.tv-remotes-lego-among-foreign-objects-hospitals-removed-bottoms/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 16,
+                "goldstein": 2.8,
+                "tone": 0.340132562125232,
+                "score": 163.0,
+                "keyword": "병원 이색 응급사례",
+                "hook": "영국 병원 응급실에 레고부터 리모컨까지, 상상도 못 할 물건들이 환자 몸속에서 발견됐습니다.",
+                "script": "도대체 왜 이런 물건들이 몸속에 들어간 걸까요? 영국 병원들이 매년 처리하는 황당한 응급 사례들이 공개됐습니다. 레고 조각부터 TV 리모컨까지, 의료진마저 경악하게 만든 물건들입니다. 여러분의 상식을 뛰어넘는 충격적인 응급실 실태를 지금 공개합니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1328480422",
+                "url": "https://www.rhyljournal.co.uk/news/national/26646170.zionism-racism-debate-unhelpful-says-scottish-green-co-leader/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 10,
+                "goldstein": 4.0,
+                "tone": -3.25443786982249,
+                "score": 130.0
+            }
+        ],
+        "last_updated": "2026-10-18 19:59:39 KST",
         "current_rank": 2
     },
     "Mexico": {
         "gdp_rank": 12,
-        "spike_score": 1384.0,
+        "spike_score": 1411.0,
         "trends": [
             {
                 "record_id": "1328513677",
@@ -153,9 +153,9 @@
                 "goldstein": -5.0,
                 "tone": -3.71840185946679,
                 "score": 719.0,
-                "keyword": "멕시코 선거 권한",
-                "hook": "멕시코 선거 관리 기구의 권한 남용 논란이 거셉니다.",
-                "script": "PAN당이 선거 관리 기구의 과도한 행정권 행사에 정면으로 반기를 들었습니다. 공정성을 둘러싼 치열한 공방이 멕시코 정국을 흔들고 있습니다. 과연 이번 권한 논란이 선거 결과에 어떤 영향을 미칠까요?",
+                "keyword": "선거 기구 권한 논란",
+                "hook": "멕시코 정계가 뒤집혔습니다. 선거 기구의 권한 남용을 둘러싼 치열한 법적 공방이 시작되었습니다.",
+                "script": "PAN당이 선거 기구의 과도한 권한 행사를 문제 삼으며 정면 대응에 나섰습니다. 정치적 중립성과 성평등 의무를 둘러싼 팽팽한 대립이 멕시코 정국을 강타했습니다. 향후 선거 판도에 미칠 파장에 귀추가 주목됩니다.",
                 "sentiment": "negative"
             },
             {
@@ -168,14 +168,25 @@
                 "goldstein": -5.0,
                 "tone": -3.61044037145308,
                 "score": 665.0
+            },
+            {
+                "record_id": "1328531771",
+                "url": "http://spanish.xinhuanet.com/20261018/c919f4c0ba274205828c10638bf937f0/c.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": 0.0,
+                "score": 27.0
             }
         ],
-        "last_updated": "2026-10-18 13:27:06 KST",
+        "last_updated": "2026-10-18 19:59:39 KST",
         "current_rank": 3
     },
     "Australia": {
         "gdp_rank": 13,
-        "spike_score": 1212.5,
+        "spike_score": 1069.5,
         "trends": [
             {
                 "record_id": "1328500429",
@@ -186,7 +197,7 @@
                 "sources": 8,
                 "goldstein": 8.0,
                 "tone": 0.16584475276401,
-                "score": 440.0
+                "score": 404.0
             },
             {
                 "record_id": "1328504153",
@@ -211,21 +222,6 @@
                 "score": 207.0
             },
             {
-                "record_id": "1328382208",
-                "url": "https://www.hardenexpress.com.au/story/9370200/couples-tax-fix-plea-as-tobacco-fire-guts-cafe-dream/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 5,
-                "goldstein": -9.0,
-                "tone": -6.67826030847741,
-                "score": 187.0,
-                "keyword": "카페 화재 참사",
-                "hook": "꿈의 카페가 순식간에 잿더미로 변했습니다.",
-                "script": "한 부부의 인생이 담긴 카페가 담배로 인한 화재로 완전히 전소되었습니다. 세금 문제 해결을 간절히 호소하던 부부에게 닥친 비극적인 소식에 지역 사회가 큰 충격에 빠졌습니다. 지금 그 현장의 안타까운 소식을 전합니다.",
-                "sentiment": "negative"
-            },
-            {
                 "record_id": "1328437542",
                 "url": "https://www.bunburymail.com.au/story/9370326/pope-to-leave-hospital-after-lung-cancer-surgery/",
                 "related_urls": [],
@@ -235,14 +231,29 @@
                 "goldstein": 2.8,
                 "tone": -3.33404294727365,
                 "score": 93.5
+            },
+            {
+                "record_id": "1328382208",
+                "url": "https://www.hardenexpress.com.au/story/9370200/couples-tax-fix-plea-as-tobacco-fire-guts-cafe-dream/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -9.0,
+                "tone": -6.67826030847741,
+                "score": 80.0,
+                "keyword": "카페 화재 참사",
+                "hook": "한순간에 재가 되어버린 꿈, 호주에서 발생한 담배 가게 화재가 지역 사회를 충격에 빠뜨렸습니다.",
+                "script": "호주의 한 카페가 담배 가게 화재로 인해 전소되었습니다. 평생의 꿈을 담아 운영하던 가게가 한순간에 잿더미로 변하며 주인은 망연자실했습니다. 피해 규모가 눈덩이처럼 불어나는 가운데 당국이 원인 조사에 착수했습니다.",
+                "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-18 13:27:06 KST",
+        "last_updated": "2026-10-18 19:59:39 KST",
         "current_rank": 4
     },
     "United States": {
         "gdp_rank": 1,
-        "spike_score": 718.5,
+        "spike_score": 815.5,
         "trends": [
             {
                 "record_id": "1328382533",
@@ -254,9 +265,9 @@
                 "goldstein": -9.5,
                 "tone": -2.65060240963856,
                 "score": 330.0,
-                "keyword": "오리건 학교 총격",
-                "hook": "평화롭던 학교가 순식간에 피비린내 나는 참극의 현장으로 변했습니다.",
-                "script": "오리건의 한 학교에서 전직 학생이 총기를 난사해 4명이 사망했습니다. 평온했던 교정은 비명과 총성으로 가득 찼고, 경찰은 즉각 현장을 봉쇄했습니다. 도대체 무엇이 그를 살인자로 만들었을까요? 추가 소식 들어오는 대로 전해드리겠습니다.",
+                "keyword": "오리건 학교 총기참사",
+                "hook": "미국 오리건주의 한 학교에서 졸업생이 총기를 난사해 4명이 사망하는 비극이 발생했습니다.",
+                "script": "오리건주 학교에서 충격적인 총기 난사 사건이 터졌습니다. 전교생이 공포에 떨던 학교는 순식간에 아수라장으로 변했습니다. 경찰은 범인이 이 학교 졸업생 출신이라고 밝혔습니다. 대체 왜 이런 끔찍한 일을 저질렀는지, 현장은 지금도 충격에 휩싸여 있습니다.",
                 "sentiment": "warning"
             },
             {
@@ -271,6 +282,28 @@
                 "score": 145.0
             },
             {
+                "record_id": "1328541516",
+                "url": "https://www.irishexaminer.com/world/arid-41925500.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 162,
+                "sources": 20,
+                "goldstein": 3.4,
+                "tone": -9.93803224851428,
+                "score": 138.0
+            },
+            {
+                "record_id": "1328545323",
+                "url": "https://www.whtimes.co.uk/news/national/26647080.faithful-welcome-pope-leo-back-sunday-blessing-cancer-surgery/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 2.8,
+                "tone": 2.4,
+                "score": 109.0
+            },
+            {
                 "record_id": "1328404303",
                 "url": "https://www.worcesternews.co.uk/news/national/26645686.british-troops-take-part-major-ukraine-facing-wargame-next-month/",
                 "related_urls": [],
@@ -280,40 +313,14 @@
                 "goldstein": 2.8,
                 "tone": -3.21167883211678,
                 "score": 93.5
-            },
-            {
-                "record_id": "1328440632",
-                "url": "https://vecer.com/kronika/policija-oregon-napad-sola-ucenec-10430644",
-                "related_urls": [],
-                "title": "",
-                "mentions": 60,
-                "sources": 1,
-                "goldstein": -9.0,
-                "tone": -5.61224489795918,
-                "score": 77.0
-            },
-            {
-                "record_id": "1328471347",
-                "url": "https://www.nydailynews.com/2026/10/17/man-hospitalized-following-bloody-early-morning-shooting-on-queens-street-nypd/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 42,
-                "sources": 1,
-                "goldstein": -10.0,
-                "tone": -4.82954545454545,
-                "score": 73.0,
-                "keyword": "퀸즈 거리 총격",
-                "hook": "이른 아침, 뉴욕 퀸즈의 한 거리가 총성과 비명으로 뒤덮였습니다.",
-                "script": "뉴욕 퀸즈 거리에서 발생한 유혈 총격 사건으로 남성 한 명이 병원으로 긴급 이송되었습니다. 평화롭던 출근길은 순식간에 범죄 현장이 되었고, 경찰은 용의자를 추적 중입니다. 도심 한복판에서 벌어진 잔혹한 총격 사건, 불안감이 커지고 있습니다.",
-                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-18 13:27:06 KST",
+        "last_updated": "2026-10-18 19:59:39 KST",
         "current_rank": 5
     },
     "Italy": {
         "gdp_rank": 8,
-        "spike_score": 573.0,
+        "spike_score": 640.0,
         "trends": [
             {
                 "record_id": "1328462900",
@@ -326,7 +333,11 @@
                 "sources": 16,
                 "goldstein": 0.0,
                 "tone": -1.65289256198347,
-                "score": 248.0
+                "score": 248.0,
+                "keyword": "교황 폐암 수술",
+                "hook": "바티칸이 긴급 발표한 교황의 건강 상태, 폐암 수술 후 복귀 소식이 전 세계를 놀라게 했습니다.",
+                "script": "교황이 폐암 수술을 마치고 바티칸으로 돌아왔습니다. 4일간의 긴박했던 수술과 회복 과정이 공개되며 전 세계 가톨릭계가 안도하고 있습니다. 건강 악화설을 뒤로하고 업무에 복귀한 교황의 행보에 세계의 이목이 집중됩니다.",
+                "sentiment": "negative"
             },
             {
                 "record_id": "1328448728",
@@ -338,6 +349,17 @@
                 "goldstein": 0.0,
                 "tone": -1.24610591900311,
                 "score": 180.5
+            },
+            {
+                "record_id": "1328530753",
+                "url": "https://www.index.hr/vijesti/clanak/francuska-u-plamenu-na-ulicama-rat-spaljen-povijesni-simbol-objavljeni-novi-podaci/2846753.aspx?index_ref=homepage_comment_box_d&commentId=12273120",
+                "related_urls": [],
+                "title": "",
+                "mentions": 112,
+                "sources": 1,
+                "goldstein": -9.0,
+                "tone": -11.0287303058387,
+                "score": 103.0
             },
             {
                 "record_id": "1328408596",
@@ -360,52 +382,14 @@
                 "goldstein": 3.5,
                 "tone": 6.06060606060606,
                 "score": 49.5
-            },
-            {
-                "record_id": "1328486400",
-                "url": "https://www.zazoom.it/2026-10-17/meloni-le-opposizioni-condannino-senza-ambiguita-le-violenze-ai-cortei-di-milano-e-bologna/19813666/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 44,
-                "sources": 2,
-                "goldstein": -2.0,
-                "tone": -12.935917481372,
-                "score": 36.0,
-                "keyword": "밀라노 폭력 시위",
-                "hook": "이탈리아 도심이 분노의 폭력 사태로 뒤덮였습니다.",
-                "script": "밀라노와 볼로냐 거리에서 발생한 격렬한 시위가 이탈리아 정계를 강타했습니다. 멜로니 총리는 즉각적인 폭력 규탄을 촉구하며 사태 진압에 나섰지만, 갈등은 최고조에 달했습니다. 지금 이탈리아 도심에서 벌어지고 있는 혼란, 영상으로 확인하시죠.",
-                "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-18 13:27:06 KST",
+        "last_updated": "2026-10-18 19:59:39 KST",
         "current_rank": 6
-    },
-    "South Africa": {
-        "gdp_rank": 19,
-        "spike_score": 486.0,
-        "trends": [
-            {
-                "record_id": "1328442424",
-                "url": "https://www.delawarepublic.org/npr-headlines/2026-10-17/decades-after-apartheid-south-africans-seek-justice-for-crimes-of-the-past",
-                "related_urls": [],
-                "title": "",
-                "mentions": 70,
-                "sources": 7,
-                "goldstein": -10.0,
-                "tone": -4.2512077294686,
-                "score": 486.0,
-                "keyword": "아파르트헤이트 과거 청산",
-                "hook": "아파르트헤이트 종식 수십 년 후, 남아공 국민들이 묻혔던 과거의 잔혹한 범죄에 대한 심판을 요구합니다.",
-                "script": "인종차별의 어두운 유산, 아파르트헤이트가 끝난 지 수십 년이 지났지만 남아프리카공화국은 여전히 과거의 상처를 치유하지 못했습니다. 피해자 가족들은 은폐된 진실을 밝히고 범죄자들을 법의 심판대에 세우기 위해 다시 거리로 나섰습니다. 정의를 향한 이들의 처절한 외침이 남아공 사회를 뒤흔들고 있습니다.",
-                "sentiment": "negative"
-            }
-        ],
-        "last_updated": "2026-10-18 13:27:06 KST",
-        "current_rank": 7
     },
     "Russia": {
         "gdp_rank": 11,
-        "spike_score": 454.5,
+        "spike_score": 496.5,
         "trends": [
             {
                 "record_id": "1328419430",
@@ -416,10 +400,21 @@
                 "sources": 1,
                 "goldstein": -10.0,
                 "tone": -4.26666666666666,
-                "score": 207.0,
-                "keyword": "트럼프 러시아 제재",
-                "hook": "트럼프의 파격적인 대러시아 제재 해제가 세계를 뒤흔들고 있습니다.",
-                "script": "러시아를 향한 경제 제재와 관세가 전격 폐지되었습니다. 국제 정세의 판도를 바꿀 이 결정에 전 세계가 경악하고 있습니다. 우크라이나 전쟁과 글로벌 경제에 미칠 엄청난 파장을 지금 분석합니다.",
+                "score": 207.0
+            },
+            {
+                "record_id": "1328539750",
+                "url": "https://war.obozrevatel.com/section-war/news-armiya-rosiyi-vluchyla-u-zhytlovyy-budynok-u-zaporizhzhi-zahynula-27-richna-zhinka-foto-18-10-2026.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -11.6591928251121,
+                "score": 84.0,
+                "keyword": "러시아 주거지 폭격",
+                "hook": "자포리자 주거지를 강타한 러시아군의 미사일, 27세 여성 사망이라는 비극적인 참사가 발생했습니다.",
+                "script": "러시아군의 공격이 또다시 민간인을 덮쳤습니다. 자포리자의 한 주거 건물이 폭격을 받아 27세 여성이 목숨을 잃었습니다. 전쟁의 참혹함이 일상 속으로 깊숙이 파고들면서 현장 주민들의 공포와 분노가 극에 달하고 있습니다.",
                 "sentiment": "warning"
             },
             {
@@ -454,20 +449,32 @@
                 "goldstein": 4.0,
                 "tone": -5.14820592823713,
                 "score": 55.0
-            },
-            {
-                "record_id": "1328456245",
-                "url": "https://www.borehamwoodtimes.co.uk/news/national/26646208.pope-leaves-hospital-rome-four-days-lung-cancer-surgery/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 56,
-                "sources": 7,
-                "goldstein": 0.0,
-                "tone": 0.23310023310023,
-                "score": 42.0
             }
         ],
-        "last_updated": "2026-10-18 13:27:06 KST",
+        "last_updated": "2026-10-18 19:59:39 KST",
+        "current_rank": 7
+    },
+    "South Africa": {
+        "gdp_rank": 19,
+        "spike_score": 486.0,
+        "trends": [
+            {
+                "record_id": "1328442424",
+                "url": "https://www.delawarepublic.org/npr-headlines/2026-10-17/decades-after-apartheid-south-africans-seek-justice-for-crimes-of-the-past",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -10.0,
+                "tone": -4.2512077294686,
+                "score": 486.0,
+                "keyword": "남아공 과거사 청산",
+                "hook": "아파르트헤이트 종식 수십 년 후, 남아공에서 잊힌 범죄의 진실이 다시 타오릅니다.",
+                "script": "인종차별 정책인 아파르트헤이트가 끝난 지 수십 년이 흘렀지만, 남아프리카공화국은 여전히 과거의 상처를 치유하지 못했습니다. 피해자 가족들이 가해자들의 처벌과 진실 규명을 요구하며 다시 거리로 나섰습니다. 정의를 향한 이들의 처절한 외침이 국가적 화해를 이끌어낼 수 있을지 전 세계가 주목하고 있습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-18 19:59:39 KST",
         "current_rank": 8
     },
     "China": {
@@ -484,13 +491,13 @@
                 "goldstein": 2.8,
                 "tone": 1.28571428571428,
                 "score": 273.0,
-                "keyword": "오이스터 축제 개최",
-                "hook": "신선한 굴의 향연, 축제 현장의 생생한 모습을 공개합니다.",
-                "script": "캡틴 에이버리 박물관에서 열린 오이스터 축제에 인파가 몰렸습니다. 제철을 맞은 신선한 굴을 맛보기 위해 모인 사람들로 축제장은 활기가 넘쳤습니다. 웃음소리 가득한 현장의 사진들을 지금 바로 확인해보세요.",
+                "keyword": "굴 축제 풍경",
+                "hook": "가을의 정취가 가득한 굴 축제 현장에서 포착된 활기찬 시민들의 모습을 공개합니다.",
+                "script": "오이스터 페스티벌이 열린 현장입니다. 신선한 굴을 즐기며 축제를 만끽하는 사람들의 웃음소리가 끊이지 않습니다. 캡틴 에이버리 박물관에서 펼쳐진 이번 축제는 가을의 풍요로움을 그대로 담아냈습니다. 지금 바로 현장의 생생한 사진들을 확인해 보세요.",
                 "sentiment": "positive"
             }
         ],
-        "last_updated": "2026-10-18 13:27:06 KST",
+        "last_updated": "2026-10-18 19:59:39 KST",
         "current_rank": 9
     },
     "Saudi Arabia": {
@@ -507,13 +514,13 @@
                 "goldstein": 2.8,
                 "tone": -4.62248087679237,
                 "score": 265.5,
-                "keyword": "사우디 공항 공격",
-                "hook": "핵심 공항을 겨냥한 치명적인 공격이 발생하며 사우디아라비아에 긴급 여행 경보가 발령되었습니다.",
-                "script": "사우디아라비아의 주요 공항에서 발생한 테러 공격으로 현지 상황이 급격히 얼어붙었습니다. 이번 사태로 인명 피해가 확인되면서 국제 사회의 우려가 커지고 있으며, 각국 정부는 사우디를 여행하는 자국민들에게 즉각적인 주의와 대피를 권고했습니다. 공항 보안이 뚫린 전례 없는 상황, 사우디 전역에 긴장감이 최고조에 달했습니다.",
-                "sentiment": "warning"
+                "keyword": "사우디 공항 테러",
+                "hook": "주요 공항을 겨냥한 치명적인 공격으로 사우디 여행 경보가 최고 수준으로 격상되었습니다.",
+                "script": "사우디아라비아의 핵심 공항에서 발생한 유혈 테러 사건으로 보안에 비상이 걸렸습니다. 무고한 인명 피해가 발생한 가운데, 각국 정부는 자국민에게 해당 지역 여행을 즉각 중단하라는 긴급 경보를 발령했습니다. 테러의 배후와 목적이 명확히 밝혀지지 않은 상황이라 긴장감은 최고조에 달해 있습니다.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-18 13:27:06 KST",
+        "last_updated": "2026-10-18 19:59:39 KST",
         "current_rank": 10
     },
     "India": {
@@ -552,14 +559,59 @@
                 "goldstein": 3.4,
                 "tone": -6.12085722429212,
                 "score": 52.0,
-                "keyword": "인도 압사 참사",
-                "hook": "축제 현장이 순식간에 아수라장으로 변하며 17명의 목숨을 앗아갔습니다.",
-                "script": "인도에서 발생한 대규모 압사 사고로 17명이 사망하는 참극이 벌어졌습니다. 인파가 몰린 현장에서 통제 불능 상태가 되며 비극적인 상황이 연출되었습니다. 당국은 긴급 구조 작업을 벌이고 있지만 피해 규모는 더 늘어날 전망입니다.",
+                "keyword": "인도 압사 사고",
+                "hook": "인도의 한 축제 현장에서 발생한 대규모 압사 사고로 17명이 목숨을 잃었습니다.",
+                "script": "축제의 즐거움이 순식간에 비극으로 바뀌었습니다. 인도 현지에서 대규모 인파가 몰리며 발생한 압사 사고로 최소 17명이 사망하고 다수가 부상당했습니다. 통제 불능 상태였던 현장의 처참한 모습이 공개되면서 안타까움을 더하고 있습니다.",
                 "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-18 13:27:06 KST",
+        "last_updated": "2026-10-18 19:59:39 KST",
         "current_rank": 11
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 165.0,
+        "trends": [
+            {
+                "record_id": "1328516737",
+                "url": "https://medicinehatnews.com/news/national-news/2026/10/17/explosion-and-fire-at-albertas-cfb-wainwright-mp-reporting-significant-casualties/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 2,
+                "goldstein": -10.0,
+                "tone": -2.65486725663717,
+                "score": 79.0,
+                "keyword": "군부대 폭발 사고",
+                "hook": "캐나다 군사 기지에서 발생한 대규모 폭발과 화재, 현재 사상자가 속출하고 있다는 충격적인 소식입니다.",
+                "script": "알버타주 웨인라이트 군사 기지에서 대형 폭발 사고가 발생했습니다. 현장에는 화염이 치솟고 있으며, 다수의 사상자가 보고되어 군 당국이 긴급 대응 중입니다. 정확한 사고 원인과 피해 규모가 파악되는 대로 다시 전해드립니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1328528854",
+                "url": "https://www.b92.net/info/svet/277344/zena-automobilom-pokosila-12-osoba-u-teksasu/vest",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -4.0,
+                "tone": -12.8568015536519,
+                "score": 47.0
+            },
+            {
+                "record_id": "1328416492",
+                "url": "https://www.ledevoir.com/actualites/environnement/821467/faut-il-accroitre-puissance-energetique-quebec",
+                "related_urls": [],
+                "title": "",
+                "mentions": 44,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": 0.00735998133958315,
+                "score": 39.0
+            }
+        ],
+        "last_updated": "2026-10-18 19:59:39 KST",
+        "current_rank": 12
     },
     "Japan": {
         "gdp_rank": 4,
@@ -578,13 +630,13 @@
                 "tone": -7.71349862258953,
                 "score": 156.0,
                 "keyword": "인도네시아 산불 확산",
-                "hook": "건기 속에서 멈추지 않는 불길이 인도네시아를 집어삼키고 있습니다.",
-                "script": "인도네시아 전역에서 걷잡을 수 없이 번지는 산불로 비상사태가 선포되었습니다. 건조한 날씨와 강풍이 불길을 키우며 생태계와 마을을 위협하고 있습니다. 진압을 위한 사투가 계속되고 있지만 상황은 악화일로입니다.",
+                "hook": "건기 속 인도네시아 전역이 걷잡을 수 없는 산불로 검은 연기에 뒤덮였습니다.",
+                "script": "인도네시아가 지금 거대한 화마와 사투를 벌이고 있습니다. 건조한 날씨 탓에 산불은 멈출 기미가 보이지 않고, 주변 국가들까지 연기 피해를 입고 있습니다. 생태계 파괴는 물론 주민들의 생명까지 위협받는 상황. 긴박한 현장 상황을 지금 전해드립니다.",
                 "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-18 13:27:06 KST",
-        "current_rank": 12
+        "last_updated": "2026-10-18 19:59:39 KST",
+        "current_rank": 13
     },
     "Indonesia": {
         "gdp_rank": 15,
@@ -603,46 +655,12 @@
                 "tone": -7.71349862258953,
                 "score": 132.0,
                 "keyword": "인도네시아 산불 확산",
-                "hook": "건기 속 불길이 인도네시아 전역을 집어삼키며 생태계가 잿더미로 변하고 있습니다.",
-                "script": "인도네시아가 극심한 건기 속 걷잡을 수 없는 산불과 사투를 벌이고 있습니다. 불길은 숲을 넘어 주거지까지 위협하고 있으며, 뿌연 연기가 하늘을 뒤덮어 대기 질은 최악으로 치닫는 중입니다. 당국은 진화 작업에 총력을 다하고 있지만, 건조한 날씨 탓에 불길은 더욱 거세지고 있습니다. 지금 이 순간에도 소중한 산림이 사라지고 있습니다.",
+                "hook": "건기 속 인도네시아 전역이 걷잡을 수 없는 화마에 휩싸였습니다.",
+                "script": "인도네시아가 기록적인 건기로 인해 대규모 산불과 사투를 벌이고 있습니다. 건조한 날씨 탓에 불길은 걷잡을 수 없이 번지며 생태계와 주거지를 위협하는 상황입니다. 당국은 진화 작업에 총력을 다하고 있지만, 연기가 인근 지역까지 퍼지며 대기 질 또한 최악으로 치닫고 있습니다. 추가 피해를 막기 위한 비상 대응이 시급합니다.",
                 "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-18 13:27:06 KST",
-        "current_rank": 13
-    },
-    "Canada": {
-        "gdp_rank": 10,
-        "spike_score": 118.0,
-        "trends": [
-            {
-                "record_id": "1328516737",
-                "url": "https://medicinehatnews.com/news/national-news/2026/10/17/explosion-and-fire-at-albertas-cfb-wainwright-mp-reporting-significant-casualties/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 2,
-                "goldstein": -10.0,
-                "tone": -2.65486725663717,
-                "score": 79.0,
-                "keyword": "알버타 군기지 폭발",
-                "hook": "알버타주 군사 기지에서 대형 폭발 사고가 발생했습니다.",
-                "script": "CFB 웨인라이트 기지에서 발생한 갑작스러운 폭발과 화재로 다수의 사상자가 보고됐습니다. 현장은 아수라장이 되었고 구조 작업이 긴박하게 진행 중입니다. 정확한 사고 원인을 두고 긴장감이 고조되고 있습니다.",
-                "sentiment": "warning"
-            },
-            {
-                "record_id": "1328416492",
-                "url": "https://www.ledevoir.com/actualites/environnement/821467/faut-il-accroitre-puissance-energetique-quebec",
-                "related_urls": [],
-                "title": "",
-                "mentions": 44,
-                "sources": 1,
-                "goldstein": 3.0,
-                "tone": 0.00735998133958315,
-                "score": 39.0
-            }
-        ],
-        "last_updated": "2026-10-18 13:27:06 KST",
+        "last_updated": "2026-10-18 19:59:39 KST",
         "current_rank": 14
     },
     "Brazil": {
@@ -659,13 +677,13 @@
                 "goldstein": 0.0,
                 "tone": 0.573394495412843,
                 "score": 68.0,
-                "keyword": "브루탈리즘 저택 공개",
-                "hook": "90억 원대 브루탈리즘 저택이 세상에 드러났습니다.",
-                "script": "비앙카 안드라데의 새로운 보금자리가 화제입니다. 거칠고 대담한 브루탈리즘 건축 양식에 90억 원의 가치를 담아낸 압도적인 비주얼. 그녀의 독특한 취향이 묻어난 공간은 과연 어떤 모습일까요? 지금 바로 공개합니다.",
-                "sentiment": "positive"
+                "keyword": "비앙카 초호화 저택",
+                "hook": "90억 원대 브루탈리즘 저택, 비앙카 안드라데의 새로운 보금자리가 공개되자마자 화제입니다.",
+                "script": "인플루언서 비앙카 안드라데가 90억 원 규모의 초호화 저택을 공개했습니다. 노출 콘크리트를 강조한 강렬한 브루탈리즘 건축 양식이 눈길을 끕니다. 그녀만의 개성이 듬뿍 담긴 새로운 저택의 내부를 지금 확인해 보세요.",
+                "sentiment": "neutral"
             }
         ],
-        "last_updated": "2026-10-18 13:27:06 KST",
+        "last_updated": "2026-10-18 19:59:39 KST",
         "current_rank": 15
     },
     "Turkey": {
@@ -682,13 +700,13 @@
                 "goldstein": -2.0,
                 "tone": -0.55,
                 "score": 39.0,
-                "keyword": "터키 석유 탐사",
-                "hook": "터키가 바트만과 시이르트 지역의 석유 탐사권을 승인하며 에너지 자원 확보전에 돌입했습니다.",
-                "script": "터키 국영 석유공사가 바트만과 시이르트 지역의 신규 석유 탐사 면허를 공식 확보했습니다. 에너지 자립을 향한 터키 정부의 강력한 의지가 반영된 이번 결정으로 해당 지역의 대규모 시추 작업이 본격화될 전망입니다. 자원 확보를 통한 경제적 도약을 노리는 터키의 행보가 중동 에너지 시장에 어떤 파장을 일으킬지 주목됩니다.",
+                "keyword": "튀르키예 석유 탐사",
+                "hook": "튀르키예가 자국 에너지 자원 확보를 위해 배타적 권한을 강화했습니다.",
+                "script": "튀르키예 석유공사가 바트만과 시이르트 지역의 석유 탐사 면허를 공식 승인받았습니다. 이번 조치는 에너지 자립도를 높이려는 튀르키예 정부의 공격적인 행보로 풀이됩니다. 국내외의 이목이 쏠린 가운데, 이번 탐사가 실제 경제적 성과로 이어질지 에너지 업계의 관심이 집중되고 있습니다.",
                 "sentiment": "neutral"
             }
         ],
-        "last_updated": "2026-10-18 13:27:06 KST",
+        "last_updated": "2026-10-18 19:59:39 KST",
         "current_rank": 16
     }
 }
