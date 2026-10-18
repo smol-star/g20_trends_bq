@@ -1,7 +1,7 @@
 {
     "France": {
         "gdp_rank": 7,
-        "spike_score": 1924.5,
+        "spike_score": 2155.0,
         "trends": [
             {
                 "record_id": "1328451939",
@@ -26,10 +26,10 @@
                 "score": 424.0
             },
             {
-                "record_id": "1328494756",
-                "url": "https://www.index.hr/vijesti/clanak/francuski-gradovi-u-plamenu-spaljena-povijesna-gradjevina-reagirao-macron/2846739.aspx?index_ref=homepage_comment_box_d&commentId=12272175",
+                "record_id": "1328508976",
+                "url": "https://www.index.hr/vijesti/clanak/francuski-gradovi-u-plamenu-spaljena-povijesna-gradjevina-reagirao-macron/2846739.aspx?index_ref=homepage_comment_box_d&commentId=12272376",
                 "related_urls": [
-                    "https://www.index.hr/vijesti/clanak/francuski-gradovi-u-plamenu-spaljena-povijesna-gradjevina-reagirao-macron/2846739.aspx?index_ref=homepage_comment_box_d&commentId=12272376"
+                    "https://www.index.hr/vijesti/clanak/francuski-gradovi-u-plamenu-spaljena-povijesna-gradjevina-reagirao-macron/2846739.aspx?index_ref=homepage_comment_box_d&commentId=12272175"
                 ],
                 "title": "",
                 "mentions": 50,
@@ -38,9 +38,20 @@
                 "tone": -10.9821428571428,
                 "score": 405.0,
                 "keyword": "프랑스 도시 화염",
-                "hook": "프랑스 전역이 격렬한 시위와 화염으로 마비되었습니다.",
-                "script": "프랑스 주요 도시들이 시위대의 방화로 불타고 있습니다. 역사적인 건축물까지 훼손되자 마크롱 대통령이 즉각 대응에 나섰습니다. 도심은 지금 전쟁터를 방불케 하는 혼란에 빠져 있습니다.",
+                "hook": "프랑스 전역이 격렬한 시위와 방화로 불타고 있습니다.",
+                "script": "프랑스 주요 도시들이 시위대의 방화로 역사적인 건물이 불타는 등 최악의 상황을 맞이했습니다. 마크롱 대통령이 즉각 대응에 나섰지만, 1,800명 이상의 체포자가 발생할 정도로 사태는 걷잡을 수 없이 번지고 있습니다. 거리 곳곳은 파괴와 약탈로 얼룩졌습니다.",
                 "sentiment": "warning"
+            },
+            {
+                "record_id": "1328590318",
+                "url": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26647165.macron-address-nation-riots-looting-lead-1-800-arrests/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 52,
+                "sources": 13,
+                "goldstein": -9.2,
+                "tone": -8.75656742556919,
+                "score": 358.0
             },
             {
                 "record_id": "1328484615",
@@ -52,27 +63,14 @@
                 "goldstein": -9.0,
                 "tone": -14.2857142857143,
                 "score": 132.0
-            },
-            {
-                "record_id": "1328479532",
-                "url": "https://www.dumbartonreporter.co.uk/news/national/26646131.clashes-fires-break-protesters-rally-across-france/",
-                "related_urls": [
-                    "https://www.eldoradonews.com/news/2026/oct/17/clashes-and-fires-break-out-as-protesters-rally/"
-                ],
-                "title": "",
-                "mentions": 65,
-                "sources": 13,
-                "goldstein": -2.0,
-                "tone": -9.69305331179317,
-                "score": 127.5
             }
         ],
-        "last_updated": "2026-10-19 00:49:04 KST",
+        "last_updated": "2026-10-19 05:37:58 KST",
         "current_rank": 1
     },
     "United Kingdom": {
         "gdp_rank": 6,
-        "spike_score": 1430.0,
+        "spike_score": 1450.0,
         "trends": [
             {
                 "record_id": "1328466846",
@@ -118,42 +116,33 @@
                 "sources": 16,
                 "goldstein": 2.8,
                 "tone": 0.340132562125232,
-                "score": 163.0,
-                "keyword": "병원 이물질 제거",
-                "hook": "도저히 믿을 수 없는 물건들이 병원에서 발견되었습니다.",
-                "script": "영국 병원들이 환자 몸속에서 발견된 황당한 물건들을 공개했습니다. TV 리모컨부터 레고 블록까지, 의료진을 경악하게 만든 이물질들이 줄줄이 제거되었습니다. 안전 불감증이 부른 해프닝입니다.",
-                "sentiment": "neutral"
+                "score": 163.0
             },
             {
-                "record_id": "1328480712",
-                "url": "https://www.rhyljournal.co.uk/news/national/26646170.zionism-racism-debate-unhelpful-says-scottish-green-co-leader/",
-                "related_urls": [],
+                "record_id": "1328581861",
+                "url": "https://www.impartialreporter.com/news/national/26647578.homes-defence-industry-figures-vandalised-pro-palestinian-group/",
+                "related_urls": [
+                    "https://www.lynnnews.co.uk/national/homes-of-defence-industry-figures-vandalised-by-pro-palestinian-group-173141/"
+                ],
                 "title": "",
-                "mentions": 50,
-                "sources": 10,
-                "goldstein": 4.0,
-                "tone": -3.25443786982249,
-                "score": 130.0
+                "mentions": 62,
+                "sources": 7,
+                "goldstein": -9.2,
+                "tone": -3.71907090506192,
+                "score": 150.0,
+                "keyword": "방위산업체 주택 테러",
+                "hook": "친팔레스타인 단체가 방위산업 관계자들의 자택을 정밀 타격했습니다.",
+                "script": "영국 내 방위산업 주요 인사들의 자택이 친팔레스타인 시위대의 표적이 되어 훼손되었습니다. 이들은 산업 현장을 넘어 개인의 사생활 공간까지 공격하며 공포를 확산시키고 있습니다. 경찰은 치안 유지와 추가 범행 차단을 위해 보안을 대폭 강화했습니다.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-19 00:49:04 KST",
+        "last_updated": "2026-10-19 05:37:58 KST",
         "current_rank": 2
     },
     "Mexico": {
         "gdp_rank": 12,
-        "spike_score": 1411.0,
+        "spike_score": 1268.0,
         "trends": [
-            {
-                "record_id": "1328513677",
-                "url": "https://www.omnia.com.mx/noticia/446058/impugna-pan-exceso-de-facultades-del-iee-reafirma-compromiso-con-la-paridad",
-                "related_urls": [],
-                "title": "",
-                "mentions": 120,
-                "sources": 1,
-                "goldstein": -5.0,
-                "tone": -3.71840185946679,
-                "score": 719.0
-            },
             {
                 "record_id": "1328498855",
                 "url": "https://www.omnia.com.mx/noticia/446045/la-tatis",
@@ -164,6 +153,21 @@
                 "goldstein": -5.0,
                 "tone": -3.61044037145308,
                 "score": 665.0
+            },
+            {
+                "record_id": "1328513677",
+                "url": "https://www.omnia.com.mx/noticia/446058/impugna-pan-exceso-de-facultades-del-iee-reafirma-compromiso-con-la-paridad",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -3.71840185946679,
+                "score": 576.0,
+                "keyword": "정치권 권한 분쟁",
+                "hook": "멕시코 정치권이 선거 관리 기구의 권한 남용을 두고 격렬한 법적 공방을 시작했습니다.",
+                "script": "PAN당이 선거 기구인 IEE의 권한 남용에 제동을 걸었습니다. 성 평등 정책을 둘러싼 치열한 정치적 갈등이 멕시코 법정을 뜨겁게 달구고 있습니다.",
+                "sentiment": "negative"
             },
             {
                 "record_id": "1328531771",
@@ -177,12 +181,12 @@
                 "score": 27.0
             }
         ],
-        "last_updated": "2026-10-19 00:49:04 KST",
+        "last_updated": "2026-10-19 05:37:58 KST",
         "current_rank": 3
     },
     "Australia": {
         "gdp_rank": 13,
-        "spike_score": 1014.5,
+        "spike_score": 959.5,
         "trends": [
             {
                 "record_id": "1328500429",
@@ -215,7 +219,7 @@
                 "sources": 7,
                 "goldstein": -4.0,
                 "tone": -2.37566945683651,
-                "score": 152.0
+                "score": 97.0
             },
             {
                 "record_id": "1328437542",
@@ -237,10 +241,14 @@
                 "sources": 5,
                 "goldstein": -9.0,
                 "tone": -6.67826030847741,
-                "score": 80.0
+                "score": 80.0,
+                "keyword": "카페 전소 화재",
+                "hook": "평생의 꿈이었던 카페가 화염 속에 한 줌 재로 변했습니다. 호주에서 발생한 비극적인 화재 현장입니다.",
+                "script": "담배로 인한 화재가 한 부부의 꿈을 앗아갔습니다. 순식간에 카페 전체를 집어삼킨 화마, 피해 규모는 눈덩이처럼 불어나고 있습니다. 부부의 절규가 이어지고 있습니다.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-19 00:49:04 KST",
+        "last_updated": "2026-10-19 05:37:58 KST",
         "current_rank": 4
     },
     "United States": {
@@ -257,9 +265,9 @@
                 "goldstein": -9.5,
                 "tone": -2.65060240963856,
                 "score": 330.0,
-                "keyword": "오리건 학교 총기난사",
-                "hook": "평온하던 오리건의 학교가 순식간에 피로 물들었습니다.",
-                "script": "오리건주 학교에서 전직 학생이 총기를 난사해 4명이 사망했습니다. 경찰은 범인을 즉각 검거했으나, 학교 현장은 아수라장이 되었습니다. 학생들의 안전이 다시 한번 시험대에 올랐습니다.",
+                "keyword": "오리건 총기 참사",
+                "hook": "평화롭던 오리건의 학교가 순식간에 비명과 총성으로 뒤덮였습니다.",
+                "script": "오리건주의 한 학교에서 전직 학생이 총기를 난사해 4명이 사망했습니다. 현장은 아수라장이 되었고 경찰이 긴급 투입됐습니다. 충격에 빠진 유가족들과 학교 측은 비통함을 감추지 못하고 있습니다. 정확한 범행 동기는 현재 조사 중입니다.",
                 "sentiment": "warning"
             },
             {
@@ -307,7 +315,7 @@
                 "score": 77.0
             }
         ],
-        "last_updated": "2026-10-19 00:49:04 KST",
+        "last_updated": "2026-10-19 05:37:58 KST",
         "current_rank": 5
     },
     "Italy": {
@@ -369,10 +377,14 @@
                 "sources": 1,
                 "goldstein": -5.0,
                 "tone": -5.09164969450103,
-                "score": 57.0
+                "score": 57.0,
+                "keyword": "멜로니 예산 갈등",
+                "hook": "이탈리아 정부가 사법부 예산 지원을 거부하며 정국이 급격히 얼어붙고 있습니다.",
+                "script": "멜로니 총리가 사법부 10억 유로 지원안 서명을 거부했습니다. 이탈리아의 우선순위는 다르다는 강경한 입장입니다. 사법계의 반발과 국가적 갈등이 최고조에 달하고 있습니다.",
+                "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-19 00:49:04 KST",
+        "last_updated": "2026-10-19 05:37:58 KST",
         "current_rank": 6
     },
     "South Africa": {
@@ -390,12 +402,12 @@
                 "tone": -4.2512077294686,
                 "score": 486.0,
                 "keyword": "남아공 과거 청산",
-                "hook": "아파르트헤이트 종식 수십 년이 지난 지금, 남아공은 여전히 묻혔던 과거의 범죄와 마주하고 있습니다.",
-                "script": "인종차별 정책 아파르트헤이트가 끝난 지 수십 년이 흘렀지만 남아프리카공화국은 여전히 과거의 참혹한 범죄에 대한 정의를 갈구하고 있습니다. 피해자 가족들이 진실 규명을 요구하며 법정 투쟁을 이어가고 있는 가운데, 국가적 상처를 치유하려는 노력이 새로운 국면을 맞이했습니다. 진정한 화해는 가능한 것일까요.",
+                "hook": "아파르트헤이트 종식 수십 년, 남아공 국민들이 묻혔던 과거의 참혹한 진실을 향해 다시 칼을 빼 들었습니다.",
+                "script": "과거 아파르트헤이트 시절 자행된 잔혹한 범죄들이 다시 수면 위로 떠올랐습니다. 피해자들은 정의 실현을 위해 수십 년 만에 법적 투쟁에 나섰습니다. 상처는 아직 아물지 않았고, 역사의 심판을 요구하는 목소리가 남아공 전역을 뒤흔들고 있습니다.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-19 00:49:04 KST",
+        "last_updated": "2026-10-19 05:37:58 KST",
         "current_rank": 7
     },
     "Russia": {
@@ -422,7 +434,11 @@
                 "sources": 1,
                 "goldstein": -10.0,
                 "tone": -11.6591928251121,
-                "score": 84.0
+                "score": 84.0,
+                "keyword": "러시아 미사일 폭격",
+                "hook": "자포리자 주거지를 강타한 러시아의 미사일 공격으로 20대 여성이 현장에서 사망했습니다.",
+                "script": "평온하던 주거지가 순식간에 폐허로 변했습니다. 러시아군이 발사한 미사일이 자포리자의 아파트에 직접 떨어졌습니다. 27세 여성의 안타까운 희생이 전해지며 비극이 확산되고 있습니다.",
+                "sentiment": "negative"
             },
             {
                 "record_id": "1328505463",
@@ -458,7 +474,7 @@
                 "score": 42.0
             }
         ],
-        "last_updated": "2026-10-19 00:49:04 KST",
+        "last_updated": "2026-10-19 05:37:58 KST",
         "current_rank": 8
     },
     "China": {
@@ -476,65 +492,13 @@
                 "tone": 1.28571428571428,
                 "score": 273.0,
                 "keyword": "박물관 굴 축제",
-                "hook": "역사와 미식이 만나는 특별한 축제가 열렸습니다.",
-                "script": "캡틴 에이버리 박물관에서 연례 굴 축제가 성황리에 개최되었습니다. 지역 주민들이 모여 신선한 굴을 맛보며 박물관의 역사를 기념했습니다. 활기찬 현장 분위기를 지금 확인하세요.",
+                "hook": "문화와 전통이 어우러진 특별한 축제의 현장을 공개합니다.",
+                "script": "에이버리 캡틴 박물관에서 성대한 굴 축제가 열렸습니다. 지역 주민들과 관광객들이 한데 모여 제철 굴 요리를 즐기며 활기찬 분위기를 자아냈습니다. 박물관의 역사와 함께 어우러진 이번 행사는 지역 사회의 단합을 보여주는 뜻깊은 시간이었습니다.",
                 "sentiment": "positive"
             }
         ],
-        "last_updated": "2026-10-19 00:49:04 KST",
+        "last_updated": "2026-10-19 05:37:58 KST",
         "current_rank": 9
-    },
-    "Canada": {
-        "gdp_rank": 10,
-        "spike_score": 272.5,
-        "trends": [
-            {
-                "record_id": "1328572518",
-                "url": "https://www.royston-crow.co.uk/news/national/26646884.major-fire-breaks-alberta-deadly-incident-military-base/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 60,
-                "sources": 6,
-                "goldstein": 2.8,
-                "tone": -3.59712230215827,
-                "score": 107.5
-            },
-            {
-                "record_id": "1328516737",
-                "url": "https://medicinehatnews.com/news/national-news/2026/10/17/explosion-and-fire-at-albertas-cfb-wainwright-mp-reporting-significant-casualties/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 2,
-                "goldstein": -10.0,
-                "tone": -2.65486725663717,
-                "score": 79.0
-            },
-            {
-                "record_id": "1328528854",
-                "url": "https://www.b92.net/info/svet/277344/zena-automobilom-pokosila-12-osoba-u-teksasu/vest",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 1,
-                "goldstein": -4.0,
-                "tone": -12.8568015536519,
-                "score": 47.0
-            },
-            {
-                "record_id": "1328416492",
-                "url": "https://www.ledevoir.com/actualites/environnement/821467/faut-il-accroitre-puissance-energetique-quebec",
-                "related_urls": [],
-                "title": "",
-                "mentions": 44,
-                "sources": 1,
-                "goldstein": 3.0,
-                "tone": 0.00735998133958315,
-                "score": 39.0
-            }
-        ],
-        "last_updated": "2026-10-19 00:49:04 KST",
-        "current_rank": 10
     },
     "Saudi Arabia": {
         "gdp_rank": 17,
@@ -550,14 +514,14 @@
                 "goldstein": 2.8,
                 "tone": -4.62248087679237,
                 "score": 265.5,
-                "keyword": "사우디 공항 피습",
-                "hook": "사우디 주요 공항을 겨냥한 치명적인 공격으로 인해 여행객들에게 초비상이 걸렸습니다.",
-                "script": "사우디아라비아의 핵심 공항이 무장 공격을 받아 사상자가 발생하는 충격적인 사건이 일어났습니다. 당국은 즉각 최고 수준의 경계 태세를 발령하고 여행객들에게 이동 자제를 권고했습니다. 중동 지역의 긴장이 극도로 고조된 가운데, 공항 이용객들의 안전이 심각한 위협에 처했습니다.",
-                "sentiment": "warning"
+                "keyword": "사우디 공항 테러",
+                "hook": "중동의 심장부, 사우디 주요 공항에서 발생한 치명적인 공격으로 여행객들에게 초비상이 걸렸습니다.",
+                "script": "사우디아라비아 핵심 공항이 테러 공격을 당하며 국제 사회가 충격에 빠졌습니다. 정부는 즉각 여행 경보를 발령하고 보안 태세를 최고 수준으로 격상했습니다. 이동 중인 여행객들은 각별한 주의가 필요하며, 현지 상황은 극도로 긴박하게 돌아가고 있습니다.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-19 00:49:04 KST",
-        "current_rank": 11
+        "last_updated": "2026-10-19 05:37:58 KST",
+        "current_rank": 10
     },
     "India": {
         "gdp_rank": 5,
@@ -595,13 +559,58 @@
                 "goldstein": 3.4,
                 "tone": -6.12085722429212,
                 "score": 52.0,
-                "keyword": "인도 대규모 압사",
-                "hook": "축제의 현장이 비극적인 죽음의 현장으로 변했습니다.",
-                "script": "인도에서 발생한 대규모 압사 사고로 17명이 목숨을 잃었습니다. 인파가 몰린 현장에서 발생한 사고로, 당국은 정확한 원인을 조사 중입니다. 수많은 사상자가 발생하며 충격을 주고 있습니다.",
-                "sentiment": "negative"
+                "keyword": "인도 압사 참사",
+                "hook": "축제의 현장이 순식간에 끔찍한 비극의 현장으로 변했습니다.",
+                "script": "인도에서 발생한 대규모 압사 사고로 17명이 목숨을 잃었습니다. 인파가 몰린 현장에서 통제 불능의 상황이 벌어지며 참극이 일어났습니다. 당국은 현장 관리에 미흡함이 없었는지 조사에 착수했으며, 유가족들은 깊은 슬픔에 잠겼습니다.",
+                "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-19 00:49:04 KST",
+        "last_updated": "2026-10-19 05:37:58 KST",
+        "current_rank": 11
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 233.5,
+        "trends": [
+            {
+                "record_id": "1328572518",
+                "url": "https://www.royston-crow.co.uk/news/national/26646884.major-fire-breaks-alberta-deadly-incident-military-base/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 2.8,
+                "tone": -3.59712230215827,
+                "score": 107.5
+            },
+            {
+                "record_id": "1328516737",
+                "url": "https://medicinehatnews.com/news/national-news/2026/10/17/explosion-and-fire-at-albertas-cfb-wainwright-mp-reporting-significant-casualties/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 2,
+                "goldstein": -10.0,
+                "tone": -2.65486725663717,
+                "score": 79.0,
+                "keyword": "군사기지 폭발 참사",
+                "hook": "캐나다 알버타 군사기지에서 발생한 대형 폭발과 화재로 다수의 사상자가 보고되었습니다.",
+                "script": "CFB 웨인라이트 기지가 긴박합니다. 거대한 폭발음과 함께 치솟은 불길 속에서 사상자가 속출하고 있습니다. 현장은 현재 구조 작업과 진화 작업으로 아수라장입니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1328528854",
+                "url": "https://www.b92.net/info/svet/277344/zena-automobilom-pokosila-12-osoba-u-teksasu/vest",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -4.0,
+                "tone": -12.8568015536519,
+                "score": 47.0
+            }
+        ],
+        "last_updated": "2026-10-19 05:37:58 KST",
         "current_rank": 12
     },
     "Japan": {
@@ -620,13 +629,13 @@
                 "goldstein": 6.0,
                 "tone": -7.71349862258953,
                 "score": 156.0,
-                "keyword": "인도네시아 산불 급증",
-                "hook": "건조한 날씨 속 인도네시아가 거대한 화마와 싸우고 있습니다.",
-                "script": "인도네시아 전역에서 산불이 잇따라 발생하며 비상이 걸렸습니다. 건조한 기후가 이어지면서 진화 작업에 난항을 겪고 있습니다. 환경 파괴와 대기 오염에 대한 우려가 커지고 있습니다.",
-                "sentiment": "negative"
+                "keyword": "인도네시아 산불 확산",
+                "hook": "건조한 날씨 속에서 인도네시아의 숲이 걷잡을 수 없이 타오르고 있습니다.",
+                "script": "인도네시아 전역에서 건조한 계절을 틈타 대규모 산불이 연이어 발생하고 있습니다. 당국은 확산을 막기 위해 총력을 다하고 있지만, 거센 불길은 좀처럼 잡히지 않고 있습니다. 환경 파괴는 물론 주민들의 건강까지 위협하는 비상 상황이 지속되고 있습니다.",
+                "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-19 00:49:04 KST",
+        "last_updated": "2026-10-19 05:37:58 KST",
         "current_rank": 13
     },
     "Indonesia": {
@@ -646,12 +655,12 @@
                 "tone": -7.71349862258953,
                 "score": 132.0,
                 "keyword": "인도네시아 산불 확산",
-                "hook": "건기 속 인도네시아 전역이 거대한 화염에 휩싸이며 생태계 재앙이 현실화되고 있습니다.",
-                "script": "인도네시아 건기가 길어지며 걷잡을 수 없는 산불이 숲을 집어삼키고 있습니다. 매캐한 연기가 하늘을 뒤덮고 주민들은 긴급 대피 중입니다. 진화 작업은 난항을 겪고 있고 피해 규모는 매시간 기하급수적으로 늘어나는 상황입니다. 상황이 악화되면 인근 국가까지 대기 오염 영향권에 들 것으로 보입니다.",
+                "hook": "건기 속 인도네시아 전역이 거대한 화마에 휩싸이며 생태계가 파괴되고 있습니다.",
+                "script": "인도네시아 전역에서 걷잡을 수 없는 산불이 발생했습니다. 건기가 길어지면서 마른 숲은 순식간에 불덩어리로 변했고, 진화 작업은 난항을 겪고 있습니다. 대기 질은 최악으로 치닫고 주민들의 대피가 시급한 상황입니다. 지금 이 순간에도 불길은 멈추지 않고 영토를 집어삼키고 있습니다.",
                 "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-19 00:49:04 KST",
+        "last_updated": "2026-10-19 05:37:58 KST",
         "current_rank": 14
     },
     "Brazil": {
@@ -667,10 +676,14 @@
                 "sources": 1,
                 "goldstein": 0.0,
                 "tone": 0.573394495412843,
-                "score": 68.0
+                "score": 68.0,
+                "keyword": "초호화 저택 공개",
+                "hook": "900만 헤알, 브라질 유명 인플루언서의 파격적인 브루탈리즘 저택이 베일을 벗었습니다.",
+                "script": "비앙카 안드라데의 새 보금자리가 화제입니다. 차가운 콘크리트의 미학, 브루탈리즘 건축의 정수를 보여주는 900만 헤알짜리 저택 내부를 지금 바로 확인하세요.",
+                "sentiment": "positive"
             }
         ],
-        "last_updated": "2026-10-19 00:49:04 KST",
+        "last_updated": "2026-10-19 05:37:58 KST",
         "current_rank": 15
     },
     "Turkey": {
@@ -688,12 +701,12 @@
                 "tone": -0.55,
                 "score": 39.0,
                 "keyword": "터키 석유 탐사",
-                "hook": "터키 에너지 자립을 향한 행보가 배트만과 시이르트 지역의 대규모 석유 탐사 허가로 가속화됩니다.",
-                "script": "터키 국영 석유공사가 배트만과 시이르트 지역에 대한 새로운 석유 탐사 면허를 획득했습니다. 이번 조치는 에너지 수입 의존도를 낮추기 위한 터키 정부의 강력한 전략적 의지가 담겨 있습니다. 과연 이 지역에서 대규모 유전이 발견될 수 있을지, 터키의 에너지 지도가 어떻게 바뀔지 주목됩니다.",
+                "hook": "터키의 에너지 자립을 위한 대규모 석유 탐사 프로젝트가 새로운 국면을 맞이했습니다.",
+                "script": "터키 국영 석유공사가 배트만과 시이르트 지역에 대한 석유 탐사권을 확보했습니다. 에너지 수입 의존도를 낮추기 위한 정부의 야심 찬 전략입니다. 이번 탐사로 막대한 자원 매장이 확인될지, 터키 경제의 미래가 걸린 결정적 순간이 다가오고 있습니다.",
                 "sentiment": "neutral"
             }
         ],
-        "last_updated": "2026-10-19 00:49:04 KST",
+        "last_updated": "2026-10-19 05:37:58 KST",
         "current_rank": 16
     }
 }
