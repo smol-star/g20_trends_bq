@@ -1,151 +1,7 @@
 {
-    "Australia": {
-        "gdp_rank": 13,
-        "spike_score": 1679.5,
-        "trends": [
-            {
-                "record_id": "1328610093",
-                "url": "https://www.southcoastregister.com.au/story/9370788/support-frays-over-bumper-trade-deal-with-europe/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 160,
-                "sources": 8,
-                "goldstein": 0.0,
-                "tone": 0.329482687898713,
-                "score": 654.5
-            },
-            {
-                "record_id": "1328504153",
-                "url": "https://www.yasstribune.com.au/story/9370397/ato-gave-months-long-warning-on-credit-card-payment-ban/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 100,
-                "sources": 5,
-                "goldstein": 5.0,
-                "tone": -2.91963967250654,
-                "score": 390.0
-            },
-            {
-                "record_id": "1328605955",
-                "url": "https://www.dailyadvertiser.com.au/story/9370713/senator-blames-factionalism-for-misconduct-claims/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 112,
-                "sources": 7,
-                "goldstein": 3.4,
-                "tone": -5.37985575528772,
-                "score": 338.0
-            },
-            {
-                "record_id": "1328666042",
-                "url": "https://www.westernadvocate.com.au/story/9371464/indi-mp-helen-haines-reportedly-struck-by-car-in-wangaratta/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 60,
-                "sources": 6,
-                "goldstein": -4.0,
-                "tone": -0.497363532012381,
-                "score": 167.0,
-                "keyword": "호주 의원 사고",
-                "hook": "호주의 헬렌 헤인스 하원의원이 차량에 치이는 충격적인 사고가 발생했습니다.",
-                "script": "헬렌 헤인스 의원이 왕가라타에서 차량에 치이는 사고를 당했습니다. 현재 현장은 충격에 빠졌으며 의원의 건강 상태에 관심이 집중되고 있습니다. 경찰이 즉각 수사에 착수했습니다.",
-                "sentiment": "warning"
-            },
-            {
-                "record_id": "1328630574",
-                "url": "https://www.nynganobserver.com.au/story/9371171/high-profile-killer-speaks-after-gag-order-lifted/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 48,
-                "sources": 4,
-                "goldstein": -10.0,
-                "tone": -6.11048148776059,
-                "score": 130.0,
-                "keyword": "살인범 침묵 해제",
-                "hook": "입막음 명령이 해제되자 고위급 살인범이 드디어 입을 열었습니다.",
-                "script": "오랫동안 침묵했던 고위급 살인범이 마침내 입을 열었습니다. 법원의 가구 명령이 해제되면서 사건의 진실이 드러날지 전 국민의 시선이 쏠리고 있습니다.",
-                "sentiment": "negative"
-            }
-        ],
-        "last_updated": "2026-10-19 22:06:09 KST",
-        "current_rank": 1
-    },
-    "Canada": {
-        "gdp_rank": 10,
-        "spike_score": 1350.0,
-        "trends": [
-            {
-                "record_id": "1328606841",
-                "url": "https://www.readingchronicle.co.uk/news/national/26646884.39-people-hospital-fire-canadian-military-base-says-alberta-premier/",
-                "related_urls": [
-                    "https://www.bournemouthecho.co.uk/news/national/26646884.39-people-hospital-fire-canadian-military-base-says-alberta-premier/"
-                ],
-                "title": "",
-                "mentions": 60,
-                "sources": 10,
-                "goldstein": -10.0,
-                "tone": -2.61437908496732,
-                "score": 882.5,
-                "keyword": "캐나다 군부대 화재",
-                "hook": "캐나다 군부대에서 발생한 대형 화재로 39명이 긴급 병원으로 이송되었습니다.",
-                "script": "캐나다 군사 기지에서 발생한 화재가 걷잡을 수 없이 커졌습니다. 무려 39명이 병원으로 실려 나갔습니다. 현장은 아수라장이며 당국은 정확한 화재 원인을 조사 중입니다.",
-                "sentiment": "warning"
-            },
-            {
-                "record_id": "1328612209",
-                "url": "https://www.spokesman.com/stories/2026/oct/18/four-killed-after-high-winds-turn-grass-fire-deadl/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 5,
-                "goldstein": -10.0,
-                "tone": -3.1185252478983,
-                "score": 170.0,
-                "keyword": "강풍 속 들불 참사",
-                "hook": "갑작스러운 강풍이 들불을 덮치며 4명의 생명을 앗아갔습니다.",
-                "script": "순식간에 들이닥친 강풍이 들불을 죽음의 화마로 바꿨습니다. 캐나다 군사 기지 인근에서 화재로 4명이 사망했습니다. 불길은 통제 불능 상태로 번지고 있습니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1328572518",
-                "url": "https://www.royston-crow.co.uk/news/national/26646884.major-fire-breaks-alberta-deadly-incident-military-base/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 60,
-                "sources": 6,
-                "goldstein": 2.8,
-                "tone": -3.59712230215827,
-                "score": 107.5
-            },
-            {
-                "record_id": "1328610024",
-                "url": "https://www.bordermail.com.au/story/9370681/winds-turn-grass-fire-deadly-at-canadian-military-base/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 48,
-                "sources": 3,
-                "goldstein": 4.0,
-                "tone": -3.43007915567282,
-                "score": 97.0
-            },
-            {
-                "record_id": "1328688527",
-                "url": "https://www.thewhig.com/press-releases/pr-newswire/curaleaf-challenges-auroras-unilateral-rejection-of-its-enhanced-proposal/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": 7.4,
-                "tone": -0.64102564102564,
-                "score": 93.0
-            }
-        ],
-        "last_updated": "2026-10-19 22:06:09 KST",
-        "current_rank": 2
-    },
     "France": {
         "gdp_rank": 7,
-        "spike_score": 1335.0,
+        "spike_score": 1569.5,
         "trends": [
             {
                 "record_id": "1328554673",
@@ -170,6 +26,17 @@
                 "score": 358.0
             },
             {
+                "record_id": "1328733953",
+                "url": "https://www.bracknellnews.co.uk/news/national/26649130.police-feared-dissident-gun-attack-drumcree-parade-went-ahead-court-told/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 8.3,
+                "tone": -2.59541984732824,
+                "score": 293.5
+            },
+            {
                 "record_id": "1328600781",
                 "url": "https://www.glasgowtimes.co.uk/news/national/26647165.macron-vows-hold-accountable-sought-bring-republic/",
                 "related_urls": [],
@@ -189,134 +56,167 @@
                 "sources": 1,
                 "goldstein": -9.2,
                 "tone": -10.9821428571428,
-                "score": 226.0,
-                "keyword": "프랑스 국가 폭동",
-                "hook": "프랑스 전역이 화염에 휩싸이며 역사적 유산까지 잿더미가 되고 있습니다.",
-                "script": "프랑스 도시 곳곳이 폭동으로 마비되었습니다. 수천 명의 체포자가 발생한 가운데 역사적인 건축물까지 불타는 참사가 벌어졌습니다. 마크롱 대통령이 강력한 대응을 예고했지만 사태는 걷잡을 수 없이 번지고 있습니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1328503266",
-                "url": "https://www.eldoradonews.com/news/2026/oct/17/clashes-and-fires-break-out-as-protesters-rally/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 70,
-                "sources": 7,
-                "goldstein": -2.0,
-                "tone": -9.92013618437823,
-                "score": 59.0
+                "score": 226.0
             }
         ],
-        "last_updated": "2026-10-19 22:06:09 KST",
-        "current_rank": 3
+        "last_updated": "2026-10-20 05:34:12 KST",
+        "current_rank": 1
     },
-    "United Kingdom": {
-        "gdp_rank": 6,
-        "spike_score": 752.5,
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 1395.0,
         "trends": [
             {
-                "record_id": "1328695304",
-                "url": "https://www.aol.co.uk/articles/tommy-robinson-used-bully-boy-120048000.html",
+                "record_id": "1328610093",
+                "url": "https://www.southcoastregister.com.au/story/9370788/support-frays-over-bumper-trade-deal-with-europe/",
                 "related_urls": [],
                 "title": "",
-                "mentions": 55,
-                "sources": 11,
-                "goldstein": -10.0,
-                "tone": -4.93327180762804,
-                "score": 211.0
+                "mentions": 160,
+                "sources": 8,
+                "goldstein": 0.0,
+                "tone": 0.329482687898713,
+                "score": 523.0
             },
             {
-                "record_id": "1328502720",
-                "url": "https://www.gazetteandherald.co.uk/news/national/26646469.buses-brought-public-control-2031-says-john-swinney/",
+                "record_id": "1328605955",
+                "url": "https://www.dailyadvertiser.com.au/story/9370713/senator-blames-factionalism-for-misconduct-claims/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 112,
+                "sources": 7,
+                "goldstein": 3.4,
+                "tone": -5.37985575528772,
+                "score": 338.0
+            },
+            {
+                "record_id": "1328504153",
+                "url": "https://www.yasstribune.com.au/story/9370397/ato-gave-months-long-warning-on-credit-card-payment-ban/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 5,
+                "goldstein": 5.0,
+                "tone": -2.91963967250654,
+                "score": 285.0
+            },
+            {
+                "record_id": "1328666042",
+                "url": "https://www.westernadvocate.com.au/story/9371464/indi-mp-helen-haines-reportedly-struck-by-car-in-wangaratta/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -4.0,
+                "tone": -0.497363532012381,
+                "score": 167.0,
+                "keyword": "의원 교통사고",
+                "hook": "헬렌 헤인즈 의원이 차량에 치이는 충격적인 사고가 발생했다.",
+                "script": "호주의 헬렌 헤인즈 연방 하원의원이 왕가라타에서 차량에 치이는 사고를 당했습니다. 현재 사고 경위와 의원의 상태에 관심이 집중되고 있습니다. 정치권은 즉각 충격에 빠졌습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1328630574",
+                "url": "https://www.nynganobserver.com.au/story/9371171/high-profile-killer-speaks-after-gag-order-lifted/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 4,
+                "goldstein": -10.0,
+                "tone": -6.11048148776059,
+                "score": 82.0,
+                "keyword": "살인범 입 열다",
+                "hook": "침묵의 벽이 깨졌다. 악명 높은 살인범이 드디어 입을 열었다.",
+                "script": "보도 금지 명령이 해제되자마자 살인범이 자신의 입장을 밝혔습니다. 세상을 떠들썩하게 했던 사건의 전말이 다시 드러나고 있습니다. 과연 그가 남긴 말은 무엇일까요?",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-20 05:34:12 KST",
+        "current_rank": 2
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 1246.0,
+        "trends": [
+            {
+                "record_id": "1328606841",
+                "url": "https://www.readingchronicle.co.uk/news/national/26646884.39-people-hospital-fire-canadian-military-base-says-alberta-premier/",
+                "related_urls": [
+                    "https://www.bournemouthecho.co.uk/news/national/26646884.39-people-hospital-fire-canadian-military-base-says-alberta-premier/"
+                ],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": -10.0,
+                "tone": -2.61437908496732,
+                "score": 792.5
+            },
+            {
+                "record_id": "1328612209",
+                "url": "https://www.spokesman.com/stories/2026/oct/18/four-killed-after-high-winds-turn-grass-fire-deadl/",
                 "related_urls": [],
                 "title": "",
                 "mentions": 50,
                 "sources": 5,
-                "goldstein": 4.0,
-                "tone": 1.36363636363637,
-                "score": 172.0
-            },
-            {
-                "record_id": "1328581861",
-                "url": "https://www.impartialreporter.com/news/national/26647578.homes-defence-industry-figures-vandalised-pro-palestinian-group/",
-                "related_urls": [
-                    "https://www.lynnnews.co.uk/national/homes-of-defence-industry-figures-vandalised-by-pro-palestinian-group-173141/"
-                ],
-                "title": "",
-                "mentions": 62,
-                "sources": 7,
-                "goldstein": -9.2,
-                "tone": -3.71907090506192,
-                "score": 150.0,
-                "keyword": "방산 관계자 테러",
-                "hook": "영국 방산 업계 인물들의 자택이 친팔레스타인 단체의 무차별 공격을 받았습니다.",
-                "script": "영국 주요 방산 기업 관계자들의 자택이 친팔레스타인 시위대에 의해 훼손되었습니다. 단순한 시위를 넘어선 범죄 행위로 간주되며 영국 사회에 큰 충격을 주고 있습니다. 경찰은 즉각적인 수사에 착수했습니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1328695194",
-                "url": "https://www.oxfordmail.co.uk/news/national/26649235.police-treating-bomb-threat-sent-hundreds-schools-hoax/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 90,
-                "sources": 9,
-                "goldstein": 3.0,
-                "tone": -3.07692307692309,
-                "score": 133.0
-            },
-            {
-                "record_id": "1328587783",
-                "url": "https://www.aol.co.uk/articles/woman-crashes-car-farmfoods-uk-171600000.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 65,
-                "sources": 2,
                 "goldstein": -10.0,
-                "tone": -4.83103992781412,
-                "score": 86.5
-            }
-        ],
-        "last_updated": "2026-10-19 22:06:09 KST",
-        "current_rank": 4
-    },
-    "Mexico": {
-        "gdp_rank": 12,
-        "spike_score": 746.0,
-        "trends": [
-            {
-                "record_id": "1328513677",
-                "url": "https://www.omnia.com.mx/noticia/446058/impugna-pan-exceso-de-facultades-del-iee-reafirma-compromiso-con-la-paridad",
-                "related_urls": [],
-                "title": "",
-                "mentions": 120,
-                "sources": 1,
-                "goldstein": -5.0,
-                "tone": -3.71840185946679,
-                "score": 719.0,
-                "keyword": "멕시코 선거 갈등",
-                "hook": "멕시코 야당이 선거 관리 당국의 과도한 권한 행사를 정면으로 비판하고 나섰습니다.",
-                "script": "멕시코 야당 PAN이 선거 관리 당국의 권한 남용을 이유로 이의를 제기했습니다. 평등한 선거를 위한 조치라 주장하지만 정치적 파장이 거셉니다. 민주주의를 둘러싼 갈등이 심화하고 있습니다.",
-                "sentiment": "negative"
+                "tone": -3.1185252478983,
+                "score": 170.0
             },
             {
-                "record_id": "1328531771",
-                "url": "http://spanish.xinhuanet.com/20261018/c919f4c0ba274205828c10638bf937f0/c.html",
+                "record_id": "1328572518",
+                "url": "https://www.royston-crow.co.uk/news/national/26646884.major-fire-breaks-alberta-deadly-incident-military-base/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 2.8,
+                "tone": -3.59712230215827,
+                "score": 107.5
+            },
+            {
+                "record_id": "1328610024",
+                "url": "https://www.bordermail.com.au/story/9370681/winds-turn-grass-fire-deadly-at-canadian-military-base/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 3,
+                "goldstein": 4.0,
+                "tone": -3.43007915567282,
+                "score": 97.0
+            },
+            {
+                "record_id": "1328516737",
+                "url": "https://medicinehatnews.com/news/national-news/2026/10/17/explosion-and-fire-at-albertas-cfb-wainwright-mp-reporting-significant-casualties/",
                 "related_urls": [],
                 "title": "",
                 "mentions": 50,
-                "sources": 1,
-                "goldstein": 0.0,
-                "tone": 0.0,
-                "score": 27.0
+                "sources": 2,
+                "goldstein": -10.0,
+                "tone": -2.65486725663717,
+                "score": 79.0,
+                "keyword": "군 기지 폭발",
+                "hook": "캐나다 군사 기지에서 발생한 대형 폭발과 화재, 사상자가 속출하고 있다.",
+                "script": "캐나다 웨인라이트 군 기지에서 끔찍한 폭발음이 울려 퍼졌습니다. 대형 화재로 인해 수십 명의 사상자가 발생했다는 긴급 보고가 이어지고 있습니다. 현장은 아비규환입니다.",
+                "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-19 22:06:09 KST",
-        "current_rank": 5
+        "last_updated": "2026-10-20 05:34:12 KST",
+        "current_rank": 3
     },
     "United States": {
         "gdp_rank": 1,
-        "spike_score": 710.5,
+        "spike_score": 948.5,
         "trends": [
+            {
+                "record_id": "1328744922",
+                "url": "https://wsfcam.iheart.com/content/2026-10-19-supreme-court-will-review-federal-ban-on-home-distilling-spirits/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 1,
+                "goldstein": 4.0,
+                "tone": -7.92858133682105,
+                "score": 311.0
+            },
             {
                 "record_id": "1328697202",
                 "url": "https://www.worcesternews.co.uk/news/national/26649534.musk-pledges-share-spacex-company-every-kid-america/",
@@ -360,29 +260,113 @@
                 "goldstein": 2.8,
                 "tone": 2.4,
                 "score": 109.0
-            },
-            {
-                "record_id": "1328676193",
-                "url": "https://wmrn.iheart.com/content/2026-10-19-miami-judge-signs-arrest-warrant-for-raul-castro/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 42,
-                "sources": 1,
-                "goldstein": -10.0,
-                "tone": -4.79466432737695,
-                "score": 73.0,
-                "keyword": "라울 카스트로 체포",
-                "hook": "마이애미 법원이 라울 카스트로에 대한 전격 체포 영장을 발부했습니다.",
-                "script": "마이애미 법원이 라울 카스트로에 대한 체포 영장을 발부했습니다. 국제적 파장이 예상되는 이번 결정은 전직 지도자의 신병 확보를 위한 중대한 조치입니다. 향후 체포 집행 과정과 쿠바의 반발에 전 세계가 주목하고 있습니다.",
-                "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-19 22:06:09 KST",
+        "last_updated": "2026-10-20 05:34:12 KST",
+        "current_rank": 4
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 941.5,
+        "trends": [
+            {
+                "record_id": "1328738370",
+                "url": "https://961therocket.iheart.com/content/2026-10-19-christiane-amanpour-leaving-cnn-after-more-than-four-decades/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 222,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 1.09410232794486,
+                "score": 307.5
+            },
+            {
+                "record_id": "1328695304",
+                "url": "https://www.aol.co.uk/articles/tommy-robinson-used-bully-boy-120048000.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 55,
+                "sources": 11,
+                "goldstein": -10.0,
+                "tone": -4.93327180762804,
+                "score": 211.0
+            },
+            {
+                "record_id": "1328581861",
+                "url": "https://www.impartialreporter.com/news/national/26647578.homes-defence-industry-figures-vandalised-pro-palestinian-group/",
+                "related_urls": [
+                    "https://www.lynnnews.co.uk/national/homes-of-defence-industry-figures-vandalised-by-pro-palestinian-group-173141/"
+                ],
+                "title": "",
+                "mentions": 62,
+                "sources": 7,
+                "goldstein": -9.2,
+                "tone": -3.71907090506192,
+                "score": 150.0
+            },
+            {
+                "record_id": "1328502720",
+                "url": "https://www.gazetteandherald.co.uk/news/national/26646469.buses-brought-public-control-2031-says-john-swinney/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 4.0,
+                "tone": 1.36363636363637,
+                "score": 140.0
+            },
+            {
+                "record_id": "1328695194",
+                "url": "https://www.oxfordmail.co.uk/news/national/26649235.police-treating-bomb-threat-sent-hundreds-schools-hoax/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 3.0,
+                "tone": -3.07692307692309,
+                "score": 133.0
+            }
+        ],
+        "last_updated": "2026-10-20 05:34:12 KST",
+        "current_rank": 5
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 746.0,
+        "trends": [
+            {
+                "record_id": "1328513677",
+                "url": "https://www.omnia.com.mx/noticia/446058/impugna-pan-exceso-de-facultades-del-iee-reafirma-compromiso-con-la-paridad",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -3.71840185946679,
+                "score": 719.0,
+                "keyword": "선거 기구 이의제기",
+                "hook": "멕시코 정치권이 선거 관리 기구의 권한 남용을 정면으로 비판하고 나섰다.",
+                "script": "PAN 정당이 선거관리위원회의 과도한 권한 행사에 이의를 제기했습니다. 공정성을 강조하며 법적 대응을 예고한 상태입니다. 멕시코 정치 지형에 또 다른 파장이 예고되고 있습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1328531771",
+                "url": "http://spanish.xinhuanet.com/20261018/c919f4c0ba274205828c10638bf937f0/c.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": 0.0,
+                "score": 27.0
+            }
+        ],
+        "last_updated": "2026-10-20 05:34:12 KST",
         "current_rank": 6
     },
     "Russia": {
         "gdp_rank": 11,
-        "spike_score": 525.5,
+        "spike_score": 541.5,
         "trends": [
             {
                 "record_id": "1328669116",
@@ -405,13 +389,13 @@
                 "goldstein": 7.0,
                 "tone": -5.18518518518518,
                 "score": 107.0,
-                "keyword": "러시아 드론 공습",
-                "hook": "우크라이나가 러시아를 향해 무려 1,000대의 드론을 쏟아부었습니다.",
-                "script": "하늘을 뒤덮은 1,000대의 드론, 우크라이나가 러시아를 향해 전례 없는 대규모 공습을 감행했습니다. 트럼프와 젤렌스키의 갈등 속 전쟁은 더욱 예측 불허의 상황으로 치닫고 있습니다.",
-                "sentiment": "warning"
+                "keyword": "우크라이나 드론 공습",
+                "hook": "러시아를 향해 날아든 1,000대의 드론, 전장의 판도가 뒤집히고 있다.",
+                "script": "우크라이나가 러시아를 상대로 1,000대 규모의 드론 공습을 감행했습니다. 트럼프와 젤렌스키의 갈등 속에서 전면전 양상으로 치닫는 상황. 과연 러시아의 방어망은 무너질 것인가?",
+                "sentiment": "negative"
             },
             {
-                "record_id": "1328646202",
+                "record_id": "1328646285",
                 "url": "https://ria.ru/20261019/nato-2125327069.html",
                 "related_urls": [],
                 "title": "",
@@ -420,6 +404,17 @@
                 "goldstein": 1.0,
                 "tone": -0.0944381169324205,
                 "score": 98.0
+            },
+            {
+                "record_id": "1328714230",
+                "url": "https://www.burytimes.co.uk/news/national/26647938.ukraine-got-no-early-warning-partners-russia-hits-grid---zelensky/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 91,
+                "sources": 13,
+                "goldstein": -4.4,
+                "tone": -4.80167014613778,
+                "score": 93.5
             },
             {
                 "record_id": "1328539750",
@@ -431,29 +426,18 @@
                 "goldstein": -10.0,
                 "tone": -11.6591928251121,
                 "score": 84.0,
-                "keyword": "러시아 주거지 폭격",
-                "hook": "러시아군의 폭격이 자포리자의 주거지를 강타하며 27세 여성이 사망했습니다.",
-                "script": "자포리자의 평온한 주거지가 러시아군의 포격에 산산조각 났습니다. 건물 잔해 속에서 27세 여성이 끝내 숨진 채 발견되었습니다. 비극적인 인명 피해가 계속되고 있습니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1328505463",
-                "url": "https://english.news.cn/20261018/1b4844977cca4a53b55dbfe951490630/c.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 1,
-                "goldstein": 2.8,
-                "tone": 7.01754385964912,
-                "score": 77.5
+                "keyword": "민간인 주택 타격",
+                "hook": "러시아군의 미사일이 자포리자 주택가를 덮쳐 20대 여성이 사망했다.",
+                "script": "러시아군이 자포리자의 주거 지역을 정밀 타격했습니다. 무고한 27세 여성이 현장에서 목숨을 잃었습니다. 전쟁의 참상이 민간인 거주지까지 번지고 있습니다. 참혹한 현장 사진이 공개되었습니다.",
+                "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-19 22:06:09 KST",
+        "last_updated": "2026-10-20 05:34:12 KST",
         "current_rank": 7
     },
     "Italy": {
         "gdp_rank": 8,
-        "spike_score": 254.0,
+        "spike_score": 312.0,
         "trends": [
             {
                 "record_id": "1328530753",
@@ -466,8 +450,8 @@
                 "tone": -11.0287303058387,
                 "score": 103.0,
                 "keyword": "프랑스 시위 격화",
-                "hook": "프랑스 거리 전체가 불길에 휩싸이며 역사적 상징물마저 잿더미로 변했습니다.",
-                "script": "프랑스 전역이 지금 거대한 화염에 휩싸였습니다. 시위대의 격렬한 저항으로 역사적 상징물이 불타고 도심은 전쟁터를 방불케 합니다. 사태는 걷잡을 수 없이 번지고 있습니다.",
+                "hook": "역사적 상징이 불타오르는 프랑스 거리, 지금 그곳에서 무슨 일이 벌어지고 있나?",
+                "script": "프랑스 전역이 화염에 휩싸였습니다. 거리 곳곳에서 벌어지는 전쟁 같은 폭동, 역사적 상징물마저 불길 속에 사라졌습니다. 시민들은 공포에 떨고 있습니다. 자세한 피해 상황과 현장 소식, 지금 바로 확인하세요.",
                 "sentiment": "warning"
             },
             {
@@ -482,6 +466,17 @@
                 "score": 62.0
             },
             {
+                "record_id": "1328751903",
+                "url": "https://www.southernhighlandnews.com.au/story/9370853/the-echidna-across-the-world-we-finally-had-our-day-in-court/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 72,
+                "sources": 6,
+                "goldstein": -2.0,
+                "tone": -4.77177231425711,
+                "score": 58.0
+            },
+            {
                 "record_id": "1328573393",
                 "url": "https://www.zazoom.it/2026-10-18/la-rabbia-della-meloni-non-firmo-il-decreto-per-dare-un-miliardo-ai-magistrati-litalia-ha-altre-priorita/19816461/",
                 "related_urls": [],
@@ -492,8 +487,8 @@
                 "tone": -5.09164969450103,
                 "score": 57.0,
                 "keyword": "멜로니 예산 거부",
-                "hook": "이탈리아 멜로니 총리가 사법부 예산 10억 유로 지급을 단호히 거부했습니다.",
-                "script": "멜로니 총리가 사법부를 향한 10억 유로 규모의 예산안 서명을 거부했습니다. 이탈리아에 더 시급한 우선순위가 있다는 입장입니다. 정부와 사법부 간의 갈등이 최고조에 달했습니다.",
+                "hook": "정부 예산안을 두고 폭발한 멜로니 총리의 분노, 그 배경은 무엇인가?",
+                "script": "멜로니 총리가 사법부 지원금 10억 유로 법안 서명을 거부했습니다. 이탈리아의 우선순위는 다르다는 입장입니다. 정치권의 갈등이 최고조에 달한 가운데, 과연 예산안은 통과될 수 있을까요?",
                 "sentiment": "negative"
             },
             {
@@ -508,7 +503,7 @@
                 "score": 32.0
             }
         ],
-        "last_updated": "2026-10-19 22:06:09 KST",
+        "last_updated": "2026-10-20 05:34:12 KST",
         "current_rank": 8
     },
     "South Korea": {
@@ -536,30 +531,42 @@
                 "goldstein": 5.0,
                 "tone": -1.47058823529412,
                 "score": 52.0,
-                "keyword": "삼성 엔비디아 위기",
-                "hook": "삼성전자의 엔비디아 AI 메모리 공급에 빨간불이 켜졌습니다.",
-                "script": "삼성전자가 엔비디아에 공급하는 AI 메모리 다이 생산에 차질이 생겼습니다. TSMC 파운드리 수율이 기대에 미치지 못하면서 공급망 전체에 비상이 걸렸습니다. 기술 패권 경쟁의 치명적인 변수입니다.",
+                "keyword": "삼성 반도체 위기",
+                "hook": "엔비디아 AI 메모리 공급망에 빨간불, 삼성전자의 수율 문제가 심상치 않다.",
+                "script": "삼성전자가 엔비디아 공급망에서 고전하고 있습니다. TSMC 파운드리 수율이 기대에 미치지 못하면서 AI 반도체 전략에 차질이 빚어지고 있습니다. 위기의 삼성, 돌파구는 있을까요?",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-19 22:06:09 KST",
+        "last_updated": "2026-10-20 05:34:12 KST",
         "current_rank": 9
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 157.5,
+        "trends": [
+            {
+                "record_id": "1328736477",
+                "url": "https://ktok.iheart.com/content/2026-10-19-ex-openai-worker-accused-of-espionage-allegedly-backed-by-saudi-government/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 78,
+                "sources": 2,
+                "goldstein": 7.0,
+                "tone": -4.74566624499885,
+                "score": 157.5,
+                "keyword": "사우디 연루 스파이",
+                "hook": "오픈AI 전 직원이 사우디 정부의 지원을 받은 스파이 혐의로 기소되었습니다.",
+                "script": "실리콘밸리가 발칵 뒤집혔습니다. 오픈AI의 핵심 기밀을 빼돌린 혐의를 받는 전직 직원이 사우디아라비아 정부와 연루되었다는 충격적인 사실이 밝혀졌습니다. 인공지능 기술 패권을 둘러싼 국가 간 첩보전, 과연 그 끝은 어디일까요?",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-10-20 05:34:12 KST",
+        "current_rank": 10
     },
     "Japan": {
         "gdp_rank": 4,
-        "spike_score": 170.0,
+        "spike_score": 84.0,
         "trends": [
-            {
-                "record_id": "1328584657",
-                "url": "http://www.africaleader.com/news/279383193/gujarat-deputy-cm-harsh-sanghavi-calls-for-stronger-business-ties-with-japan-gujarati-community",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": 3.0,
-                "tone": 3.1941031941032,
-                "score": 86.0
-            },
             {
                 "record_id": "1328503187",
                 "url": "http://www.thailandnews.net/news/279379718/indonesia-battles-rising-wildfires-amid-dry-season",
@@ -569,15 +576,11 @@
                 "sources": 9,
                 "goldstein": 6.0,
                 "tone": -7.71349862258953,
-                "score": 84.0,
-                "keyword": "인도네시아 산불 확산",
-                "hook": "건기 속 인도네시아 전역이 걷잡을 수 없는 산불로 불타오르고 있습니다.",
-                "script": "인도네시아가 기록적인 건기와 함께 최악의 산불 사태를 맞이했습니다. 거대한 산림이 잿더미로 변해가며 지역 사회의 생존권을 위협하고 있습니다. 조속한 진화 작업이 시급한 상황입니다.",
-                "sentiment": "negative"
+                "score": 84.0
             }
         ],
-        "last_updated": "2026-10-19 22:06:09 KST",
-        "current_rank": 10
+        "last_updated": "2026-10-20 05:34:12 KST",
+        "current_rank": 11
     },
     "China": {
         "gdp_rank": 2,
@@ -594,15 +597,11 @@
                 "sources": 1,
                 "goldstein": 3.4,
                 "tone": 5.30973451327435,
-                "score": 83.5,
-                "keyword": "중국 기술 발전",
-                "hook": "글로벌 시장을 뒤흔들 중국의 파격적인 기술 혁신이 공개되었습니다.",
-                "script": "중국이 새로운 기술 혁신을 통해 글로벌 경쟁력을 다시 한번 입증했습니다. 이번 성과는 기존 산업 패러다임을 바꿀 강력한 동력이 될 전망입니다. 기술 패권 경쟁이 더욱 치열해질 것으로 보입니다.",
-                "sentiment": "positive"
+                "score": 83.5
             }
         ],
-        "last_updated": "2026-10-19 22:06:09 KST",
-        "current_rank": 11
+        "last_updated": "2026-10-20 05:34:12 KST",
+        "current_rank": 12
     },
     "Indonesia": {
         "gdp_rank": 15,
@@ -619,13 +618,13 @@
                 "tone": -7.71349862258953,
                 "score": 73.0,
                 "keyword": "인도네시아 산불 확산",
-                "hook": "건기 시작과 동시에 인도네시아 전역이 거대한 화염에 휩싸이고 있습니다.",
-                "script": "인도네시아가 통제 불능 수준의 산불과 사투를 벌이고 있습니다. 기록적인 건조 기후가 겹치며 불길은 걷잡을 수 없이 번지는 중입니다. 생태계 파괴는 물론 심각한 대기 오염까지 덮치면서 주민들의 생존권이 위협받고 있습니다. 긴급 대응반이 투입됐지만 역부족인 상황, 과연 이 재앙을 멈출 수 있을까요?",
+                "hook": "건기 속 거대한 산불이 인도네시아 전역을 집어삼키고 있습니다.",
+                "script": "인도네시아 전역이 붉은 화염에 휩싸였습니다. 기록적인 건기가 이어지면서 통제 불가능한 산불이 주거지를 위협하는 상황입니다. 당국은 긴급 진화 작업에 총력을 다하고 있지만, 건조한 날씨 탓에 불길은 더욱 거세지고 있습니다. 주민들의 대피가 시급합니다.",
                 "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-19 22:06:09 KST",
-        "current_rank": 12
+        "last_updated": "2026-10-20 05:34:12 KST",
+        "current_rank": 13
     },
     "Turkey": {
         "gdp_rank": 16,
@@ -643,12 +642,12 @@
                 "score": 72.0,
                 "keyword": "트라브존 총격범 검거",
                 "hook": "백주대낮에 벌어진 총격 테러, 도주하던 용의자 2명이 결국 덜미를 잡혔습니다.",
-                "script": "터키 트라브존에서 발생한 에슈레프 사랄에 대한 총격 사건, 충격적인 범행 직후 자취를 감췄던 용의자 2명이 이스탄불에서 전격 체포됐습니다. 치밀하게 계획된 범행 정황이 드러나며 현지 사회는 큰 충격에 빠졌습니다. 경찰은 이들의 배후와 정확한 범행 동기를 밝히기 위해 강도 높은 수사를 이어가고 있습니다.",
+                "script": "트라브존을 공포로 몰아넣었던 총격 사건의 주범들이 이스탄불에서 체포됐습니다. 에슈레프 사라를 향해 무차별 총격을 가한 뒤 종적을 감췄던 이들은 철저한 추적 끝에 경찰에 붙잡혔습니다. 잔혹한 범죄 현장의 전말이 이제 곧 드러납니다.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-19 22:06:09 KST",
-        "current_rank": 13
+        "last_updated": "2026-10-20 05:34:12 KST",
+        "current_rank": 14
     },
     "Germany": {
         "gdp_rank": 3,
@@ -663,14 +662,10 @@
                 "sources": 1,
                 "goldstein": -2.0,
                 "tone": -7.90816326530613,
-                "score": 42.0,
-                "keyword": "독일 드론 테스트",
-                "hook": "독일군이 헬리콥터 성능 시험을 위해 저가형 드론을 대량 도입했습니다.",
-                "script": "독일 군당국이 헬리콥터 방어 체계 시험을 위해 이른바 '멍청한 드론'을 대거 구매했습니다. 정밀한 실험을 위한 파격적인 선택이지만, 군사 전문가들 사이에서는 비용 대비 효율성에 대한 논란이 일고 있습니다.",
-                "sentiment": "negative"
+                "score": 42.0
             }
         ],
-        "last_updated": "2026-10-19 22:06:09 KST",
-        "current_rank": 14
+        "last_updated": "2026-10-20 05:34:12 KST",
+        "current_rank": 15
     }
 }
