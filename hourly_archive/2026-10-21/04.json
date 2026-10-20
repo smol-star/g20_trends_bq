@@ -1,0 +1,587 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 1920.5,
+        "trends": [
+            {
+                "record_id": "1328794200",
+                "url": "https://925kissfm.iheart.com/content/2026-10-19-donnie-wahlbergs-plane-skids-off-las-vegas-runway/",
+                "related_urls": [
+                    "https://970kfbx.iheart.com/content/2026-10-19-donnie-wahlbergs-plane-skids-off-las-vegas-runway/"
+                ],
+                "title": "",
+                "mentions": 180,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": -2.55351922841289,
+                "score": 885.0
+            },
+            {
+                "record_id": "1328744922",
+                "url": "https://wsfcam.iheart.com/content/2026-10-19-supreme-court-will-review-federal-ban-on-home-distilling-spirits/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 1,
+                "goldstein": 4.0,
+                "tone": -7.92858133682105,
+                "score": 311.0
+            },
+            {
+                "record_id": "1328697202",
+                "url": "https://www.worcesternews.co.uk/news/national/26649534.musk-pledges-share-spacex-company-every-kid-america/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": 3.0,
+                "tone": 1.42787655149279,
+                "score": 257.5
+            },
+            {
+                "record_id": "1328777457",
+                "url": "https://wwnc.iheart.com/content/2026-10-19-ca-state-workers-prepare-for-strike-amid-contract-dispute/",
+                "related_urls": [
+                    "https://wflafm.iheart.com/content/2026-10-19-ca-state-workers-prepare-for-strike-amid-contract-dispute/"
+                ],
+                "title": "",
+                "mentions": 90,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -1.07189145146515,
+                "score": 235.0
+            },
+            {
+                "record_id": "1328792080",
+                "url": "https://www.wgal.com/article/bend-school-shooting-victims-parents-attorneys-probe-school-plans-gun-purchase/74185330",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -10.0,
+                "tone": -2.65381582159895,
+                "score": 232.0
+            }
+        ],
+        "last_updated": "2026-10-21 04:12:48 KST",
+        "current_rank": 1
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 941.0,
+        "trends": [
+            {
+                "record_id": "1328738370",
+                "url": "https://961therocket.iheart.com/content/2026-10-19-christiane-amanpour-leaving-cnn-after-more-than-four-decades/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 222,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 1.09410232794486,
+                "score": 307.5
+            },
+            {
+                "record_id": "1328695304",
+                "url": "https://www.aol.co.uk/articles/tommy-robinson-used-bully-boy-120048000.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 55,
+                "sources": 11,
+                "goldstein": -10.0,
+                "tone": -4.93327180762804,
+                "score": 211.0
+            },
+            {
+                "record_id": "1328876782",
+                "url": "https://www.wiltshiretimes.co.uk/news/national/26652539.revolut-services-google-cloud-apologises-outage/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 4.0,
+                "tone": -4.66666666666667,
+                "score": 166.0
+            },
+            {
+                "record_id": "1328695194",
+                "url": "https://www.oxfordmail.co.uk/news/national/26649235.police-treating-bomb-threat-sent-hundreds-schools-hoax/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 3.0,
+                "tone": -3.07692307692309,
+                "score": 133.0
+            },
+            {
+                "record_id": "1328861732",
+                "url": "https://www.halsteadgazette.co.uk/news/national/26652052.toto-embark-uk-arena-tour-mark-50th-anniversary/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 0.0,
+                "tone": 3.27868852459016,
+                "score": 123.5
+            }
+        ],
+        "last_updated": "2026-10-21 04:12:48 KST",
+        "current_rank": 2
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 890.5,
+        "trends": [
+            {
+                "record_id": "1328733953",
+                "url": "https://www.bracknellnews.co.uk/news/national/26649130.police-feared-dissident-gun-attack-drumcree-parade-went-ahead-court-told/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 8.3,
+                "tone": -2.59541984732824,
+                "score": 293.5
+            },
+            {
+                "record_id": "1328939862",
+                "url": "https://www.echo-news.co.uk/news/national/26655172.new-curfews-place-paris-lyon-quiet-night-following-weekend-riots/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 11,
+                "goldstein": -5.0,
+                "tone": -6.45994832041344,
+                "score": 203.0
+            },
+            {
+                "record_id": "1328743030",
+                "url": "https://1190kex.iheart.com/content/2026-10-19-louvre-shuts-down-as-protests-escalate-across-france/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 1,
+                "goldstein": -7.5,
+                "tone": -9.12165477982071,
+                "score": 191.0
+            },
+            {
+                "record_id": "1328840405",
+                "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1501140",
+                "related_urls": [
+                    "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1501081"
+                ],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": -5.8,
+                "tone": -1.41807464104527,
+                "score": 123.0
+            },
+            {
+                "record_id": "1328717486",
+                "url": "https://www.hna.de/welt/paris-demonstranten-blockieren-den-louvre-zr-94548612.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -2.0,
+                "tone": -5.20965692503177,
+                "score": 80.0
+            }
+        ],
+        "last_updated": "2026-10-21 04:12:48 KST",
+        "current_rank": 3
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 775.0,
+        "trends": [
+            {
+                "record_id": "1328611661",
+                "url": "https://www.bournemouthecho.co.uk/news/national/26646884.39-people-hospital-fire-canadian-military-base-says-alberta-premier/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 75,
+                "sources": 8,
+                "goldstein": 2.8,
+                "tone": -2.66339869281046,
+                "score": 520.0
+            },
+            {
+                "record_id": "1328611847",
+                "url": "https://www.spokesman.com/stories/2026/oct/18/four-killed-after-high-winds-turn-grass-fire-deadl/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -10.0,
+                "tone": -3.1185252478983,
+                "score": 170.0
+            },
+            {
+                "record_id": "1328688529",
+                "url": "https://www.manilatimes.net/2026/10/19/tmt-newswire/globenewswire/kane-launches-new-corporate-brand-and-redesigned-website/2448603",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -4.4,
+                "tone": -2.48017652501958,
+                "score": 57.0
+            },
+            {
+                "record_id": "1328776891",
+                "url": "https://torontosun.com/news/local-news/mississauga-enforcing-rules-illegal-election-signs",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 1,
+                "goldstein": -0.4,
+                "tone": -0.768265060145706,
+                "score": 28.0
+            }
+        ],
+        "last_updated": "2026-10-21 04:12:48 KST",
+        "current_rank": 4
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 641.5,
+        "trends": [
+            {
+                "record_id": "1328666042",
+                "url": "https://www.westernadvocate.com.au/story/9371464/indi-mp-helen-haines-reportedly-struck-by-car-in-wangaratta/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -4.0,
+                "tone": -0.497363532012381,
+                "score": 167.0
+            },
+            {
+                "record_id": "1328845730",
+                "url": "https://www.dailyadvertiser.com.au/story/9372183/strike-cancelled-after-doctors-reach-last-minute-deal/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 4,
+                "goldstein": 3.5,
+                "tone": -0.668844709916183,
+                "score": 131.0
+            },
+            {
+                "record_id": "1328804400",
+                "url": "https://www.hepburnadvocate.com.au/story/9371507/driver-allegedly-rammed-mp-reversed-hit-her-again/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 2,
+                "goldstein": -10.0,
+                "tone": -6.46900269541779,
+                "score": 123.0
+            },
+            {
+                "record_id": "1328779988",
+                "url": "https://www.westernadvocate.com.au/story/9371529/how-tasmanian-school-concert-became-centre-of-premier-culture-war/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 72,
+                "sources": 9,
+                "goldstein": 3.0,
+                "tone": -1.38264628916268,
+                "score": 123.0
+            },
+            {
+                "record_id": "1328845729",
+                "url": "https://www.wiltshiretimes.co.uk/news/national/26651612.australian-mp-critical-stable-condition-hit-car/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 42,
+                "sources": 7,
+                "goldstein": -4.0,
+                "tone": -2.25225225225225,
+                "score": 97.5
+            }
+        ],
+        "last_updated": "2026-10-21 04:12:48 KST",
+        "current_rank": 5
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 481.5,
+        "trends": [
+            {
+                "record_id": "1328669116",
+                "url": "https://klops.ru/kaliningrad/2026-10-18/393205-v-noyabre-v-chernyahovske-posle-remonta-otkroyut-odnu-iz-tsentralnyh-ulits-i-vazhnyy-dlya-avtomobilistov-most",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": 10.0,
+                "tone": 0.0,
+                "score": 159.0
+            },
+            {
+                "record_id": "1328646285",
+                "url": "https://ria.ru/20261019/nato-2125327069.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 2,
+                "goldstein": 1.0,
+                "tone": -0.0944381169324205,
+                "score": 98.0
+            },
+            {
+                "record_id": "1328714230",
+                "url": "https://www.burytimes.co.uk/news/national/26647938.ukraine-got-no-early-warning-partners-russia-hits-grid---zelensky/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 91,
+                "sources": 13,
+                "goldstein": -4.4,
+                "tone": -4.80167014613778,
+                "score": 93.5
+            },
+            {
+                "record_id": "1328944044",
+                "url": "https://informpskov.ru/news/520891.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": 2.3094688221709,
+                "score": 78.0
+            },
+            {
+                "record_id": "1328949422",
+                "url": "https://www.nwemail.co.uk/news/national/26655274.zelensky-says-early-warning-system-resumes-following-rubio-call/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 8,
+                "goldstein": 1.0,
+                "tone": -3.751617076326,
+                "score": 53.0
+            }
+        ],
+        "last_updated": "2026-10-21 04:12:48 KST",
+        "current_rank": 6
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 291.0,
+        "trends": [
+            {
+                "record_id": "1328918347",
+                "url": "https://www.kreiszeitung.de/wirtschaft/deutschlandticket-light-ticket-angebot-gelegenheitsfahrer-verkehrsminister-diskussion-konferenz-zr-94550361.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 3.0,
+                "tone": 1.67038121417699,
+                "score": 151.0
+            },
+            {
+                "record_id": "1328910525",
+                "url": "http://www.tz.de/wissen/trump-laesst-forschen-usa-richten-akademischen-ufo-forschungsrat-ein-zr-94550228.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 5,
+                "goldstein": -2.0,
+                "tone": -1.25710921388562,
+                "score": 50.0
+            },
+            {
+                "record_id": "1328833992",
+                "url": "https://www.kreiszeitung.de/wirtschaft/gkv-reform-kassiert-beamte-ab-bund-spart-doppelt-zr-94549195.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 4,
+                "goldstein": 3.0,
+                "tone": 0.418585475820808,
+                "score": 48.0
+            },
+            {
+                "record_id": "1328631332",
+                "url": "https://www.zazoom.it/2026-10-19/la-germania-cerca-droni-stupidi-per-testare-i-propri-elicotteri/19817673/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -7.90816326530613,
+                "score": 42.0
+            }
+        ],
+        "last_updated": "2026-10-21 04:12:48 KST",
+        "current_rank": 7
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 256.5,
+        "trends": [
+            {
+                "record_id": "1328736477",
+                "url": "https://ktok.iheart.com/content/2026-10-19-ex-openai-worker-accused-of-espionage-allegedly-backed-by-saudi-government/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 78,
+                "sources": 2,
+                "goldstein": 7.0,
+                "tone": -4.74566624499885,
+                "score": 157.5
+            },
+            {
+                "record_id": "1328911839",
+                "url": "https://wbex.iheart.com/content/2026-10-20-uk-to-fly-defensive-air-missions-over-saudi-arabia/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 6.0,
+                "tone": -4.92491570126531,
+                "score": 99.0
+            }
+        ],
+        "last_updated": "2026-10-21 04:12:48 KST",
+        "current_rank": 8
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 211.0,
+        "trends": [
+            {
+                "record_id": "1328628382",
+                "url": "https://www.newspim.com/news/view/20261019000521",
+                "related_urls": [],
+                "title": "",
+                "mentions": 310,
+                "sources": 1,
+                "goldstein": -0.4,
+                "tone": -0.171681023091768,
+                "score": 159.0
+            },
+            {
+                "record_id": "1328680607",
+                "url": "https://www.techtimes.com/articles/329206/20261019/samsung-outsources-nvidia-ai-memory-base-dies-tsmc-foundry-yields-fall-short.htm",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 5.0,
+                "tone": -1.47058823529412,
+                "score": 52.0
+            }
+        ],
+        "last_updated": "2026-10-21 04:12:48 KST",
+        "current_rank": 9
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 160.5,
+        "trends": [
+            {
+                "record_id": "1328637991",
+                "url": "https://www.globaltimes.cn/page/202610/1372527.shtml",
+                "related_urls": [
+                    "https://www.globaltimes.cn/page/202610/1372510.shtml"
+                ],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 5.30973451327435,
+                "score": 83.5
+            },
+            {
+                "record_id": "1328923988",
+                "url": "http://www.soester-anzeiger.de/politik/china-schliesst-die-luecke-der-gefaehrliche-wettlauf-um-die-weltraumvorherrschaft-zr-94549705.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 5,
+                "goldstein": 7.4,
+                "tone": -1.84682237914177,
+                "score": 77.0
+            }
+        ],
+        "last_updated": "2026-10-21 04:12:48 KST",
+        "current_rank": 10
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 120.0,
+        "trends": [
+            {
+                "record_id": "1328664811",
+                "url": "http://www.leccesette.it/news/categories/89271281161/meteo",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -7.0,
+                "tone": -7.9295154185022,
+                "score": 62.0
+            },
+            {
+                "record_id": "1328751903",
+                "url": "https://www.southernhighlandnews.com.au/story/9370853/the-echidna-across-the-world-we-finally-had-our-day-in-court/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 72,
+                "sources": 6,
+                "goldstein": -2.0,
+                "tone": -4.77177231425711,
+                "score": 58.0
+            }
+        ],
+        "last_updated": "2026-10-21 04:12:48 KST",
+        "current_rank": 11
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 52.0,
+        "trends": [
+            {
+                "record_id": "1328798469",
+                "url": "https://www.legallyindia.com/convos/topic/499636-cap-marks-guidance",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.57216807359607,
+                "score": 52.0
+            }
+        ],
+        "last_updated": "2026-10-21 04:12:48 KST",
+        "current_rank": 12
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 48.0,
+        "trends": [
+            {
+                "record_id": "1328880962",
+                "url": "https://gazeta10.com/kontrolle-telefonash-pa-vendim-gjykate-dhe-pretendime-per-dhune-avokati-i-popullit-publikon-gjetjet-pas-protestes/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 4,
+                "goldstein": -2.0,
+                "tone": -5.35412004639391,
+                "score": 48.0
+            }
+        ],
+        "last_updated": "2026-10-21 04:12:48 KST",
+        "current_rank": 13
+    }
+}
