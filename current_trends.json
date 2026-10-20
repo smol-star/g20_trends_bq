@@ -15,9 +15,9 @@
                 "goldstein": 2.8,
                 "tone": -2.55351922841289,
                 "score": 885.0,
-                "keyword": "라스베이거스 활주로 이탈",
-                "hook": "착륙하던 비행기가 활주로를 완전히 벗어나 미끄러지는 아찔한 사고가 발생했습니다.",
-                "script": "도니 월버그가 탑승한 전용기가 라스베이거스 공항에서 활주로를 이탈했습니다. 기체는 굉음을 내며 멈춰 섰고 현장은 순식간에 아수라장이 됐습니다. 인명 피해 여부는 아직 확인되지 않았습니다. 즉시 관련 소식 업데이트하겠습니다.",
+                "keyword": "라스베이거스 비행기 이탈",
+                "hook": "착륙하던 항공기가 활주로를 그대로 뚫고 나갔습니다.",
+                "script": "도니 월버그가 탑승한 비행기가 라스베이거스 공항 활주로를 이탈하는 아찔한 사고가 발생했습니다. 기체는 멈추지 않고 미끄러져 나갔고, 현장은 아수라장이 됐습니다. 승객들의 생사는 현재 확인 중입니다.",
                 "sentiment": "negative"
             },
             {
@@ -30,9 +30,9 @@
                 "goldstein": 4.0,
                 "tone": -7.92858133682105,
                 "score": 311.0,
-                "keyword": "증류주 금지 재검토",
-                "hook": "미국 대법원이 집에서 술을 만드는 행위에 대한 연방 금지령을 정면으로 다룹니다.",
-                "script": "가정 내 증류주 제조, 과연 합법화될까요? 대법원이 연방 차원의 금지 규정을 재검토하기로 결정했습니다. 수십 년간 이어진 규제의 틀이 깨질지, 애주가들과 당국 간의 치열한 공방이 예고됐습니다.",
+                "keyword": "증류주 금지령 재검토",
+                "hook": "미국 대법원이 집에서 술을 만드는 행위에 칼을 빼 들었습니다.",
+                "script": "연방 정부의 자택 증류 금지령이 대법원 심판대에 오릅니다. 그동안 암암리에 행해지던 홈 브루잉이 전면 불법화될지, 아니면 새로운 국면을 맞이할지 미국 전역이 주목하고 있습니다.",
                 "sentiment": "warning"
             },
             {
@@ -45,9 +45,9 @@
                 "goldstein": 3.0,
                 "tone": 1.42787655149279,
                 "score": 257.5,
-                "keyword": "머스크의 파격 공약",
-                "hook": "일론 머스크가 미국 모든 아이들에게 스페이스X 지분을 공유하겠다고 선언했습니다.",
-                "script": "머스크가 또 한 번 판을 흔듭니다. 모든 미국 어린이에게 스페이스X 지분을 나눠주겠다는 파격적인 제안을 내놨습니다. 우주 산업의 미래가 아이들의 손에 쥐어질지, 전 세계가 이 황당하고도 거대한 약속을 주목하고 있습니다.",
+                "keyword": "머스크 주식 공유",
+                "hook": "일론 머스크가 미국 모든 아이들에게 스페이스X 주식을 쏘겠다고 선언했습니다.",
+                "script": "머스크의 파격적인 행보가 다시 한번 세상을 놀라게 했습니다. 미국 내 모든 어린이에게 스페이스X 주식을 배분하겠다는 약속, 과연 이게 현실 가능한 계획일까요? 지금 전 세계가 그의 입만 바라보고 있습니다.",
                 "sentiment": "positive"
             },
             {
@@ -62,10 +62,10 @@
                 "goldstein": -5.0,
                 "tone": -1.07189145146515,
                 "score": 235.0,
-                "keyword": "주 공무원 총파업",
-                "hook": "계약 분쟁이 격화되면서 캘리포니아 주 정부 업무가 마비될 위기에 처했습니다.",
-                "script": "캘리포니아 주 공무원들이 거리로 나옵니다. 노사 간의 계약 분쟁이 타협점을 찾지 못하며 대규모 파업이 임박했습니다. 행정 서비스 공백으로 인한 시민들의 불편은 이제 피할 수 없는 현실이 됐습니다.",
-                "sentiment": "negative"
+                "keyword": "캘리포니아 대규모 파업",
+                "hook": "캘리포니아 공공 서비스가 곧 마비될 위기에 처했습니다.",
+                "script": "계약 분쟁으로 인한 주 정부 노동자들의 파업이 초읽기에 들어갔습니다. 거리 청소부터 행정 업무까지, 캘리포니아 전역의 기능이 정지될 수 있는 긴박한 상황이 이어지고 있습니다.",
+                "sentiment": "warning"
             },
             {
                 "record_id": "1328792080",
@@ -78,90 +78,17 @@
                 "tone": -2.65381582159895,
                 "score": 232.0,
                 "keyword": "학교 총기 참사",
-                "hook": "비극적인 학교 총기 난사 사건, 그 뒤에 숨겨진 학교 측의 치밀한 계획이 드러났습니다.",
-                "script": "벤드 학교 총기 사고, 유족들이 학교 측의 사전 계획을 정조준하고 있습니다. 총기 구매 과정에 학교 관계자가 개입했다는 의혹이 제기되며 공분이 일고 있습니다. 도대체 그날 학교에선 무슨 일이 있었던 걸까요?",
-                "sentiment": "warning"
+                "hook": "학교 총기 난사 사건의 배후에 치밀한 계획이 있었다는 정황이 포착됐습니다.",
+                "script": "희생자 부모들이 학교의 총기 구매 계획을 정조준하고 나섰습니다. 단순 사고가 아닌 사전에 준비된 비극이라는 의혹이 제기되면서, 미국 사회의 안전망이 다시 한번 도마 위에 올랐습니다.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-20 17:27:54 KST",
+        "last_updated": "2026-10-20 23:17:00 KST",
         "current_rank": 1
-    },
-    "Canada": {
-        "gdp_rank": 10,
-        "spike_score": 1001.0,
-        "trends": [
-            {
-                "record_id": "1328612027",
-                "url": "https://www.bournemouthecho.co.uk/news/national/26646884.39-people-hospital-fire-canadian-military-base-says-alberta-premier/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 42,
-                "sources": 7,
-                "goldstein": -10.0,
-                "tone": -2.61437908496732,
-                "score": 605.0,
-                "keyword": "군사 기지 화재",
-                "hook": "캐나다 군사 기지에서 발생한 대규모 화재로 수십 명이 병원으로 이송되었습니다.",
-                "script": "캐나다의 한 군사 기지에서 화재가 발생해 39명이 병원으로 긴급 후송되었습니다. 불길은 걷잡을 수 없이 번졌고, 현재 당국은 화재 원인을 조사 중입니다. 인근 주민들은 각별히 주의하십시오.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1328612209",
-                "url": "https://www.spokesman.com/stories/2026/oct/18/four-killed-after-high-winds-turn-grass-fire-deadl/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 5,
-                "goldstein": -10.0,
-                "tone": -3.1185252478983,
-                "score": 170.0,
-                "keyword": "강풍 산불 참사",
-                "hook": "강풍을 타고 번진 산불이 4명의 목숨을 앗아갔습니다.",
-                "script": "캐나다를 덮친 기록적인 강풍이 산불을 대형 참사로 만들었습니다. 4명이 숨지고 피해 규모는 계속 커지고 있습니다. 소방 당국이 사투를 벌이고 있지만 진화에 난항을 겪고 있습니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1328688527",
-                "url": "https://www.thewhig.com/press-releases/pr-newswire/curaleaf-challenges-auroras-unilateral-rejection-of-its-enhanced-proposal/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": 7.4,
-                "tone": -0.64102564102564,
-                "score": 93.0
-            },
-            {
-                "record_id": "1328688529",
-                "url": "https://www.manilatimes.net/2026/10/19/tmt-newswire/globenewswire/kane-launches-new-corporate-brand-and-redesigned-website/2448603",
-                "related_urls": [
-                    "https://www.nugget.ca/press-releases/globe-newswire/kane-launches-new-corporate-brand-and-redesigned-website/"
-                ],
-                "title": "",
-                "mentions": 50,
-                "sources": 5,
-                "goldstein": -4.4,
-                "tone": -2.48017652501958,
-                "score": 85.0
-            },
-            {
-                "record_id": "1328720989",
-                "url": "https://www.manilatimes.net/2026/10/19/tmt-newswire/globenewswire/mcfarlane-lake-mining-outlines-fully-funded-50000-metre-phase-2-drilling-program-at-juby-gold-project/2448964",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": -4.0,
-                "tone": 1.64226401435568,
-                "score": 48.0
-            }
-        ],
-        "last_updated": "2026-10-20 17:27:54 KST",
-        "current_rank": 2
     },
     "United Kingdom": {
         "gdp_rank": 6,
-        "spike_score": 853.5,
+        "spike_score": 982.0,
         "trends": [
             {
                 "record_id": "1328738370",
@@ -174,8 +101,8 @@
                 "tone": 1.09410232794486,
                 "score": 307.5,
                 "keyword": "아만푸어 CNN 하차",
-                "hook": "40년 넘게 CNN의 얼굴이었던 크리스티안 아만푸어가 마침내 마이크를 내려놓습니다.",
-                "script": "전설적인 저널리스트 크리스티안 아만푸어가 CNN을 떠납니다. 40년이라는 긴 세월 동안 전 세계의 사건 현장을 지켜온 그녀의 퇴진은 방송가에 큰 충격을 주고 있습니다. 언론계의 한 시대가 저물고 있습니다.",
+                "hook": "뉴스계의 전설, 크리스티안 아만푸어가 40년 만에 CNN을 떠납니다.",
+                "script": "전 세계를 누비던 아만푸어의 시대가 저물고 있습니다. 40년 동안 현장을 지켰던 그녀의 갑작스러운 하차 소식에 전 세계 언론계가 충격에 빠졌습니다.",
                 "sentiment": "positive"
             },
             {
@@ -188,9 +115,9 @@
                 "goldstein": -10.0,
                 "tone": -4.93327180762804,
                 "score": 211.0,
-                "keyword": "로빈슨 괴롭힘 논란",
-                "hook": "토미 로빈슨이 과거 저지른 악랄한 괴롭힘 행태가 대중 앞에 낱낱이 공개되었습니다.",
-                "script": "토미 로빈슨의 추악한 과거가 드러났습니다. 과거 그가 행했던 강압적인 괴롭힘 사례들이 수면 위로 떠오르며 여론의 뭇매를 맞고 있습니다. 그의 도덕성에 대한 치명적인 타격이 예상됩니다.",
+                "keyword": "토미 로빈슨 폭력",
+                "hook": "토미 로빈슨의 과거 추악한 행태가 법정에서 낱낱이 드러났습니다.",
+                "script": "지속적인 괴롭힘과 폭력, 토미 로빈슨의 이중성이 법적 증거와 함께 세상에 공개됐습니다. 영국 사회를 뒤흔든 그의 비도덕적인 행보가 마침내 심판대에 올랐습니다.",
                 "sentiment": "negative"
             },
             {
@@ -205,43 +132,99 @@
                 "goldstein": 3.0,
                 "tone": -3.07692307692309,
                 "score": 174.0,
-                "keyword": "학교 폭파 협박",
-                "hook": "수백 개의 학교에 동시다발적으로 날아든 폭파 협박, 알고 보니 정교한 가짜였습니다.",
-                "script": "영국 전역의 학교들이 공포에 떨었습니다. 수백 곳에 달하는 학교에 폭파 협박 메일이 발송됐지만, 경찰 조사 결과 모두 허위 사실로 밝혀졌습니다. 치밀하게 계획된 이 장난의 배후를 추적 중입니다.",
+                "keyword": "학교 폭탄 협박",
+                "hook": "영국 전역의 수백 개 학교가 폭탄 테러 공포에 휩싸였습니다.",
+                "script": "전국적인 학교 폭탄 위협으로 학부모들이 패닉에 빠졌습니다. 다행히 허위 신고로 밝혀졌지만, 아이들을 공포로 몰아넣은 범인의 정체를 추적하는 경찰의 움직임이 분주합니다.",
                 "sentiment": "negative"
             },
             {
-                "record_id": "1328845664",
-                "url": "https://www.southwalesargus.co.uk/news/national/26651611.drivers-get-new-rights-challenge-rip-off-private-parking-charges/",
+                "record_id": "1328877224",
+                "url": "https://www.wiltshiretimes.co.uk/news/national/26652539.revolut-services-google-cloud-apologises-outage/",
                 "related_urls": [],
                 "title": "",
-                "mentions": 70,
-                "sources": 7,
-                "goldstein": 7.0,
-                "tone": -2.78639542275906,
-                "score": 84.0,
-                "keyword": "주차 벌금 방어권",
-                "hook": "부당한 사설 주차 요금에 시달리던 운전자들에게 드디어 대항할 권리가 주어집니다.",
-                "script": "영국 운전자들에게 희소식입니다. 그동안 횡포를 부리던 사설 주차장의 과도한 벌금에 맞설 수 있는 새로운 법적 권리가 보장됩니다. 이제 '바가지' 요금으로부터 당당히 내 돈을 지킬 수 있게 됐습니다.",
-                "sentiment": "positive"
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 4.0,
+                "tone": -4.66666666666667,
+                "score": 166.0,
+                "keyword": "레볼루트 서비스 오류",
+                "hook": "당신의 계좌가 안 열립니다, 레볼루트 서비스가 전면 마비됐습니다.",
+                "script": "구글 클라우드 오류로 인해 수백만 명의 사용자가 자금 접근에 실패했습니다. 금융 서비스의 디지털 의존도가 낳은 대규모 재앙, 레볼루트의 즉각적인 사과에도 불안은 가라앉지 않고 있습니다.",
+                "sentiment": "negative"
             },
             {
-                "record_id": "1328722295",
-                "url": "https://adevarul.ro/stiri-externe/europa/un-politist-a-fost-impuscat-in-plina-strada-in-2565002.html",
+                "record_id": "1328861732",
+                "url": "https://www.halsteadgazette.co.uk/news/national/26652052.toto-embark-uk-arena-tour-mark-50th-anniversary/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 0.0,
+                "tone": 3.27868852459016,
+                "score": 123.5,
+                "keyword": "토토 투어 시작",
+                "hook": "전설적인 밴드 토토가 50주년 기념 투어를 시작합니다.",
+                "script": "영국 아레나를 뒤흔들 토토의 귀환입니다. 50년의 역사를 기념하는 이번 투어는 음악 팬들에게 잊지 못할 선물이 될 예정입니다. 예매 전쟁이 시작됐습니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-20 23:17:00 KST",
+        "current_rank": 2
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 860.0,
+        "trends": [
+            {
+                "record_id": "1328612027",
+                "url": "https://www.bournemouthecho.co.uk/news/national/26646884.39-people-hospital-fire-canadian-military-base-says-alberta-premier/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 42,
+                "sources": 7,
+                "goldstein": -10.0,
+                "tone": -2.61437908496732,
+                "score": 605.0,
+                "keyword": "군사기지 화재 대참사",
+                "hook": "캐나다 군사기지에서 발생한 대형 화재로 수십 명이 병원으로 긴급 이송됐습니다.",
+                "script": "캐나다의 한 군사기지에서 대규모 화재가 발생해 39명이 병원으로 실려 갔습니다. 앨버타 주 당국은 긴급 대응에 나섰으나 피해 규모가 걷잡을 수 없이 커지고 있습니다. 정확한 화재 원인은 아직 밝혀지지 않았습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1328612209",
+                "url": "https://www.spokesman.com/stories/2026/oct/18/four-killed-after-high-winds-turn-grass-fire-deadl/",
                 "related_urls": [],
                 "title": "",
                 "mentions": 50,
-                "sources": 1,
+                "sources": 5,
                 "goldstein": -10.0,
-                "tone": -5.5299539170507,
-                "score": 77.0,
-                "keyword": "경찰 길거리 피격",
-                "hook": "대낮 도심 한복판에서 경찰관이 총에 맞아 쓰러지는 충격적인 사건이 발생했습니다.",
-                "script": "영국 거리에서 경찰이 피격당했습니다. 시민들이 오가는 대낮에 벌어진 무자비한 총격 사건에 지역 사회는 충격에 빠졌습니다. 범인은 도주 중이며 경찰은 대대적인 검거 작전을 펼치고 있습니다.",
-                "sentiment": "negative"
+                "tone": -3.1185252478983,
+                "score": 170.0
+            },
+            {
+                "record_id": "1328688529",
+                "url": "https://www.manilatimes.net/2026/10/19/tmt-newswire/globenewswire/kane-launches-new-corporate-brand-and-redesigned-website/2448603",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -4.4,
+                "tone": -2.48017652501958,
+                "score": 57.0
+            },
+            {
+                "record_id": "1328776891",
+                "url": "https://torontosun.com/news/local-news/mississauga-enforcing-rules-illegal-election-signs",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 1,
+                "goldstein": -0.4,
+                "tone": -0.768265060145706,
+                "score": 28.0
             }
         ],
-        "last_updated": "2026-10-20 17:27:54 KST",
+        "last_updated": "2026-10-20 23:17:00 KST",
         "current_rank": 3
     },
     "France": {
@@ -258,9 +241,9 @@
                 "goldstein": 8.3,
                 "tone": -2.59541984732824,
                 "score": 293.5,
-                "keyword": "퍼레이드 총기 위협",
-                "hook": "드럼크리 퍼레이드 현장에서 반체제 세력의 총기 테러 시도가 사전에 적발되었습니다.",
-                "script": "퍼레이드 축제가 공포로 변할 뻔했습니다. 법정에서 공개된 바에 따르면, 반체제 세력이 드럼크리 퍼레이드를 겨냥해 무장 공격을 계획했습니다. 경찰의 신속한 대응이 대형 참사를 막았습니다.",
+                "keyword": "퍼레이드 총기 테러",
+                "hook": "퍼레이드 현장에서 끔찍한 총기 테러가 발생할 뻔한 정황이 드러났습니다.",
+                "script": "법정에서 밝혀진 충격적인 사실, 퍼레이드 당일 무장한 테러리스트의 습격 계획이 경찰에 포착됐습니다. 하마터면 대규모 참사로 이어질 뻔한 아찔한 순간이었습니다.",
                 "sentiment": "warning"
             },
             {
@@ -274,8 +257,8 @@
                 "tone": -9.12165477982071,
                 "score": 191.0,
                 "keyword": "루브르 박물관 폐쇄",
-                "hook": "프랑스 전역을 뒤덮은 시위대의 분노가 결국 루브르 박물관의 문을 닫게 만들었습니다.",
-                "script": "파리의 심장, 루브르 박물관이 폐쇄됐습니다. 프랑스 전역으로 번진 거센 시위가 박물관까지 덮쳤습니다. 예술의 전당이 시위대의 구호로 가득 찼고, 관광객들은 발길을 돌려야만 했습니다.",
+                "hook": "프랑스 시위가 루브르 박물관까지 집어삼켰습니다.",
+                "script": "성난 시위대가 루브르를 봉쇄하면서 박물관 문이 굳게 닫혔습니다. 프랑스 전역으로 번지는 분노의 불길, 예술의 중심지마저 멈춰 세운 시위의 끝은 어디일까요?",
                 "sentiment": "negative"
             },
             {
@@ -291,8 +274,8 @@
                 "tone": -1.41807464104527,
                 "score": 123.0,
                 "keyword": "프랑스 시위 격화",
-                "hook": "프랑스 거리 곳곳에서 시위대와 경찰의 충돌이 격해지며 국가적 위기가 고조되고 있습니다.",
-                "script": "프랑스가 멈췄습니다. 시위대의 저항이 한계점을 넘어서며 거리는 불타고 있습니다. 경찰과의 물리적 충돌이 이어지면서 부상자가 속출하고 있습니다. 지금 프랑스에서 무슨 일이 벌어지고 있는 걸까요?",
+                "hook": "프랑스 거리가 지금 불타고 있습니다.",
+                "script": "전국적인 시위로 치안이 마비된 프랑스입니다. 정부의 정책에 반대하는 시민들이 거리로 쏟아져 나오며 물리적 충돌이 격화되고 있습니다. 여행객들은 각별히 주의하십시오.",
                 "sentiment": "negative"
             },
             {
@@ -305,9 +288,9 @@
                 "goldstein": -2.0,
                 "tone": -5.20965692503177,
                 "score": 80.0,
-                "keyword": "시위대 루브르 봉쇄",
-                "hook": "루브르 박물관 입구를 가로막은 시위대, 파리의 관광지가 아수라장으로 변했습니다.",
-                "script": "시위대가 루브르 박물관을 점거했습니다. 정문 앞을 가로막은 인파로 인해 출입이 전면 통제됐습니다. 파리의 상징적인 장소가 정치적 시위의 격전지로 바뀌면서 긴장감이 최고조에 달했습니다.",
+                "keyword": "루브르 시위 봉쇄",
+                "hook": "루브르 입구가 시위대의 인간 방패로 막혔습니다.",
+                "script": "관광객들의 발길이 끊겼습니다. 시위대가 루브르 박물관을 점거하며 도심 전체가 마비 상태입니다. 프랑스 정부의 대응이 시급한 시점입니다.",
                 "sentiment": "negative"
             },
             {
@@ -321,17 +304,17 @@
                 "tone": -2.25627926777352,
                 "score": 47.0,
                 "keyword": "마크롱 사임 거부",
-                "hook": "정치적 위기에 몰린 마크롱 대통령이 사임 요구를 일축하며 정면 돌파를 선언했습니다.",
-                "script": "마크롱 대통령이 사임 압박을 정면으로 거부했습니다. 거세지는 퇴진 요구에도 그는 물러서지 않겠다고 밝혔습니다. 프랑스 정국이 한 치 앞을 내다볼 수 없는 혼돈 속으로 빠져들고 있습니다.",
+                "hook": "마크롱 대통령이 사퇴 요구를 단칼에 거절했습니다.",
+                "script": "프랑스 정국이 대혼란에 빠졌습니다. 빗발치는 사임 요구에도 마크롱은 물러서지 않겠다고 선언했습니다. 대통령의 강경 대응이 시위대에 기름을 붓고 있습니다.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-20 17:27:54 KST",
+        "last_updated": "2026-10-20 23:17:00 KST",
         "current_rank": 4
     },
     "Australia": {
         "gdp_rank": 13,
-        "spike_score": 702.0,
+        "spike_score": 674.0,
         "trends": [
             {
                 "record_id": "1328666042",
@@ -345,7 +328,7 @@
                 "score": 167.0
             },
             {
-                "record_id": "1328845730",
+                "record_id": "1328845682",
                 "url": "https://www.dailyadvertiser.com.au/story/9372183/strike-cancelled-after-doctors-reach-last-minute-deal/",
                 "related_urls": [],
                 "title": "",
@@ -353,7 +336,7 @@
                 "sources": 4,
                 "goldstein": 3.5,
                 "tone": -0.668844709916183,
-                "score": 159.0
+                "score": 131.0
             },
             {
                 "record_id": "1328827763",
@@ -364,11 +347,7 @@
                 "sources": 5,
                 "goldstein": -5.0,
                 "tone": -6.55963641872443,
-                "score": 130.0,
-                "keyword": "호주 의원 피습",
-                "hook": "현직 의원이 잔혹한 공격을 받고 다리를 잃는 충격적인 사건이 발생했습니다.",
-                "script": "호주 정계를 뒤흔든 끔찍한 공격 사건입니다. 괴한에게 습격당한 현직 의원이 다리를 절단하는 중상을 입고 생사를 오가고 있습니다. 범인의 잔혹한 범행 수법에 국민들이 경악하고 있습니다.",
-                "sentiment": "negative"
+                "score": 130.0
             },
             {
                 "record_id": "1328804400",
@@ -380,9 +359,9 @@
                 "goldstein": -10.0,
                 "tone": -6.46900269541779,
                 "score": 123.0,
-                "keyword": "의원 고의 충돌",
-                "hook": "차량으로 의원을 치고 다시 후진해 덮친 의도적인 살인 미수 사건입니다.",
-                "script": "호주에서 발생한 경악스러운 보복 범죄입니다. 용의자는 의원을 차량으로 들이받은 뒤, 후진해 다시 치는 잔혹함을 보였습니다. 정치인에 대한 테러 수준의 범죄에 당국이 비상에 걸렸습니다.",
+                "keyword": "의원 피습 테러",
+                "hook": "현직 의원을 향한 차량 돌진 테러가 호주를 충격에 빠뜨렸습니다.",
+                "script": "호주의 헬렌 헤인즈 의원이 차량에 치이는 끔찍한 사고를 당했습니다. 단순 사고가 아닌 고의적인 돌진 정황이 포착되면서 경찰이 수사에 착수했습니다. 의원의 생사가 불투명한 가운데, 정치권은 경악을 금치 못하고 있습니다.",
                 "sentiment": "negative"
             },
             {
@@ -397,7 +376,7 @@
                 "score": 123.0
             }
         ],
-        "last_updated": "2026-10-20 17:27:54 KST",
+        "last_updated": "2026-10-20 23:17:00 KST",
         "current_rank": 5
     },
     "Russia": {
@@ -425,13 +404,13 @@
                 "goldstein": 7.0,
                 "tone": -5.18518518518518,
                 "score": 107.0,
-                "keyword": "러시아 드론 공습",
-                "hook": "우크라이나가 러시아를 향해 1,000대의 드론을 쏟아부었습니다.",
-                "script": "양국의 갈등이 최고조에 달했습니다. 우크라이나가 전례 없는 규모의 드론 1,000대를 동원해 러시아를 타격했습니다. 트럼프와 젤렌스키의 설전 속에서 전황은 더욱 예측 불허입니다.",
+                "keyword": "우크라이나 드론 공습",
+                "hook": "우크라이나가 러시아를 향해 1,000대의 드론을 동시에 띄웠습니다.",
+                "script": "러시아 전역이 우크라이나의 대규모 드론 공격으로 마비 상태입니다. 트럼프와 젤렌스키의 갈등 속에서 감행된 이번 공습은 전쟁의 판도를 뒤흔들고 있습니다. 러시아의 방어망이 한계에 부딪혔다는 분석이 나오고 있습니다.",
                 "sentiment": "warning"
             },
             {
-                "record_id": "1328646202",
+                "record_id": "1328646285",
                 "url": "https://ria.ru/20261019/nato-2125327069.html",
                 "related_urls": [],
                 "title": "",
@@ -450,11 +429,7 @@
                 "sources": 13,
                 "goldstein": -4.4,
                 "tone": -4.80167014613778,
-                "score": 93.5,
-                "keyword": "러시아 전력 타격",
-                "hook": "러시아의 기습 공격으로 우크라이나 전력망이 초토화되었습니다.",
-                "script": "젤렌스키 대통령이 러시아의 전력망 타격에 대해 경고했습니다. 사전 경보조차 없었던 기습 공격으로 우크라이나 곳곳이 암흑에 빠졌습니다. 추운 겨울을 앞두고 인도적 위기가 고조되고 있습니다.",
-                "sentiment": "negative"
+                "score": 93.5
             },
             {
                 "record_id": "1328705831",
@@ -468,7 +443,7 @@
                 "score": 46.0
             }
         ],
-        "last_updated": "2026-10-20 17:27:54 KST",
+        "last_updated": "2026-10-20 23:17:00 KST",
         "current_rank": 6
     },
     "South Korea": {
@@ -496,13 +471,13 @@
                 "goldstein": 5.0,
                 "tone": -1.47058823529412,
                 "score": 52.0,
-                "keyword": "삼성 엔비디아 위기",
-                "hook": "삼성전자의 AI 메모리 전략에 빨간불이 켜졌습니다.",
-                "script": "엔비디아 공급망에 균열이 생겼습니다. 삼성전자가 TSMC 파운드리 수율 문제로 AI 메모리 생산에 차질을 빚고 있습니다. 반도체 업계의 판도가 흔들리고 있습니다.",
-                "sentiment": "warning"
+                "keyword": "삼성 AI 위기",
+                "hook": "삼성전자가 엔비디아 공급망에서 밀려날 위기에 처했습니다.",
+                "script": "삼성의 AI 메모리 전략에 빨간불이 켜졌습니다. TSMC의 수율 부진과 맞물려 엔비디아가 생산 기지를 변경한다는 소식입니다. 한국 반도체 업계의 입지가 흔들리고 있습니다. 과연 삼성은 이 기술적 난관을 어떻게 돌파할 것인가.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-20 17:27:54 KST",
+        "last_updated": "2026-10-20 23:17:00 KST",
         "current_rank": 7
     },
     "Saudi Arabia": {
@@ -519,13 +494,13 @@
                 "goldstein": 7.0,
                 "tone": -4.74566624499885,
                 "score": 157.5,
-                "keyword": "전직 오픈AI 스파이 의혹",
-                "hook": "전직 오픈AI 직원이 사우디 정부의 지원을 받아 국가 기밀을 빼돌린 혐의로 전격 기소되었습니다.",
-                "script": "전직 오픈AI 직원이 사우디 정부와 결탁해 핵심 기술을 유출한 혐의로 덜미를 잡혔습니다. 단순한 기업 스파이를 넘어 국가 간 기술 패권 전쟁으로 번진 이번 사건, 사우디 측의 배후 지원 정황이 속속 드러나며 글로벌 AI 업계에 엄청난 파장이 일고 있습니다. 미국 사법 당국이 즉각 수사에 착수하면서 사우디와 오픈AI 사이의 위험한 커넥션이 어디까지 닿아 있는지 전 세계의 이목이 집중되고 있습니다.",
+                "keyword": "간첩 혐의 파문",
+                "hook": "오픈AI 전 직원이 사우디 정부의 지원을 받은 간첩 혐의로 기소되었습니다.",
+                "script": "전 세계 AI 업계가 발칵 뒤집혔습니다. 오픈AI의 핵심 인력이 사우디 정부를 위해 기밀을 빼돌렸다는 혐의를 받고 있습니다. 단순한 기술 유출을 넘어 국제적인 스파이 사건으로 번지는 모양새입니다. 사우디의 야욕이 실리콘밸리를 집어삼키려 한 것일까요? 지금 전 세계가 이 충격적인 배후를 주목하고 있습니다.",
                 "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-20 17:27:54 KST",
+        "last_updated": "2026-10-20 23:17:00 KST",
         "current_rank": 8
     },
     "Italy": {
@@ -542,9 +517,9 @@
                 "goldstein": -7.0,
                 "tone": -7.9295154185022,
                 "score": 62.0,
-                "keyword": "이탈리아 기상 이변",
-                "hook": "평온하던 이탈리아를 덮친 기상 이변의 실체가 밝혀졌습니다.",
-                "script": "이탈리아 전역에 비상경보가 발령되었습니다. 급격한 기상 악화로 주요 도시들이 마비 상태에 빠졌습니다. 시민들은 즉시 안전한 곳으로 대피하시기 바랍니다. 추가적인 피해가 우려되는 상황입니다.",
+                "keyword": "이탈리아 기상 악화",
+                "hook": "이탈리아 전역을 덮친 기상 이변이 멈출 줄 모릅니다.",
+                "script": "이탈리아 기상 상황이 심상치 않습니다. 폭우와 강풍이 전국을 강타하며 시민들의 안전이 위협받고 있습니다. 당국은 즉각적인 주의를 당부했으며, 피해 지역 복구에 총력을 기울이고 있습니다. 외출을 자제하고 최신 기상 정보를 반드시 확인하십시오.",
                 "sentiment": "warning"
             },
             {
@@ -559,7 +534,7 @@
                 "score": 58.0
             }
         ],
-        "last_updated": "2026-10-20 17:27:54 KST",
+        "last_updated": "2026-10-20 23:17:00 KST",
         "current_rank": 9
     },
     "Germany": {
@@ -577,8 +552,8 @@
                 "tone": 0.418585475820808,
                 "score": 48.0,
                 "keyword": "공무원 연금 개혁",
-                "hook": "독일 정부가 공무원 연금 개혁을 통해 이중 절약이라는 논란에 휩싸였습니다.",
-                "script": "독일의 건강보험 개혁안이 발표되자마자 거센 비판이 쏟아집니다. 공무원들의 혜택은 줄이고 연방 정부는 비용을 절감하는 이번 조치, 과연 형평성에 맞는 걸까요? 독일 전역이 분노로 들끓고 있습니다.",
+                "hook": "독일 정부가 공무원들의 지갑을 털어 부족한 예산을 채우기로 했습니다.",
+                "script": "건강보험 개혁안이 발표되면서 공무원들의 반발이 거세지고 있습니다. 국가 재정을 위해 공무원들의 혜택을 대폭 축소하는 이번 조치, 독일 사회의 뜨거운 감자가 되고 있습니다.",
                 "sentiment": "neutral"
             },
             {
@@ -591,52 +566,14 @@
                 "goldstein": -2.0,
                 "tone": -7.90816326530613,
                 "score": 42.0,
-                "keyword": "헬기 시험용 드론",
-                "hook": "독일군이 자국 헬기 테스트를 위해 이른바 '멍청한 드론'을 찾고 있습니다.",
-                "script": "독일군이 헬리콥터 성능 시험을 위해 저가형 드론을 대량 구매합니다. 고성능 장비가 아닌 단순한 타겟용 드론을 찾는 이유가 무엇일까요? 군비 전략의 허점이 드러난 것인지 논란이 커지고 있습니다.",
-                "sentiment": "warning"
+                "keyword": "헬기 테스트용 드론",
+                "hook": "독일군이 헬기 성능을 시험하려고 일부러 '멍청한 드론'을 찾고 있습니다.",
+                "script": "헬기의 방어 체계를 테스트하기 위해 고의로 조종이 쉬운 드론을 동원하는 황당한 실험이 시작됐습니다. 군사 강국의 엉뚱한 테스트가 과연 실전에서 어떤 결과를 낼지 의문입니다.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-20 17:27:54 KST",
+        "last_updated": "2026-10-20 23:17:00 KST",
         "current_rank": 10
-    },
-    "India": {
-        "gdp_rank": 5,
-        "spike_score": 85.0,
-        "trends": [
-            {
-                "record_id": "1328798469",
-                "url": "https://www.legallyindia.com/convos/topic/499636-cap-marks-guidance",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 1,
-                "goldstein": -5.0,
-                "tone": 2.57216807359607,
-                "score": 52.0,
-                "keyword": "자본 시장 가이드라인",
-                "hook": "인도 자본 시장에 새로운 규제 가이드라인이 도입되며 투자자들이 긴장하고 있습니다.",
-                "script": "인도 시장이 규제 강화로 요동칩니다. 자본 시장의 투명성을 높이기 위한 새로운 가이드라인이 발표되면서 기업과 투자자 모두 촉각을 곤두세우고 있습니다. 시장의 안정화가 가능할지 귀추가 주목됩니다.",
-                "sentiment": "positive"
-            },
-            {
-                "record_id": "1328791572",
-                "url": "http://www.afghanistansun.com/news/279385903/marco-rubio-to-commence-three-day-visit-to-india-trade-deal-talks-with-jaishankar-on-agenda",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": 1.0,
-                "tone": -0.29673590504451,
-                "score": 33.0,
-                "keyword": "루비오 인도 방문",
-                "hook": "마르코 루비오가 인도를 찾아 자이샹카르 외무장관과 무역 협상에 돌입합니다.",
-                "script": "마르코 루비오가 3일간의 인도 공식 방문을 시작합니다. 핵심 의제는 단연 무역 협상입니다. 급변하는 국제 정세 속에서 미국과 인도가 어떤 경제적 밀월 관계를 맺게 될지 전 세계가 지켜보고 있습니다.",
-                "sentiment": "neutral"
-            }
-        ],
-        "last_updated": "2026-10-20 17:27:54 KST",
-        "current_rank": 11
     },
     "China": {
         "gdp_rank": 2,
@@ -655,13 +592,13 @@
                 "tone": 5.30973451327435,
                 "score": 83.5,
                 "keyword": "중국 경제 성장",
-                "hook": "글로벌 시장의 판도를 바꾸는 중국의 경제 성장세가 다시 한번 확인되었습니다.",
-                "script": "중국 경제가 예상을 뛰어넘는 상승 곡선을 그리고 있습니다. 글로벌 공급망의 핵심인 중국의 강력한 회복세가 전 세계 증시를 들썩이게 만들고 있습니다. 다음 경제 지표가 기대되는 이유입니다.",
+                "hook": "중국의 경제 지표가 예상을 뒤엎고 폭발적인 상승세를 기록했습니다.",
+                "script": "글로벌 시장이 놀라고 있습니다. 중국의 경제가 강력한 반등을 시작하며 전 세계 공급망에 새로운 활력을 불어넣고 있습니다. 과연 이 기세가 어디까지 이어질지 주목됩니다.",
                 "sentiment": "positive"
             }
         ],
-        "last_updated": "2026-10-20 17:27:54 KST",
-        "current_rank": 12
+        "last_updated": "2026-10-20 23:17:00 KST",
+        "current_rank": 11
     },
     "Brazil": {
         "gdp_rank": 9,
@@ -677,13 +614,59 @@
                 "goldstein": -10.0,
                 "tone": -5.34124629080119,
                 "score": 73.0,
-                "keyword": "브라질 관광객 피격",
-                "hook": "휴양지 과루자 해변에서 벌어진 끔찍한 총격 사건 현장입니다.",
-                "script": "브라질 과루자 해변을 찾은 관광객 커플이 차량에서 내린 괴한들의 총격을 받았습니다. 평화롭던 해변은 순식간에 아수라장으로 변했습니다. 경찰이 용의자를 추적 중입니다.",
+                "keyword": "과루자 총격 사건",
+                "hook": "평화롭던 휴양지에서 벌어진 충격적인 총격 테러가 발생했습니다.",
+                "script": "브라질 과루자 해변에서 관광객 부부가 차량을 탄 괴한들에게 총격을 당했습니다. 대낮에 벌어진 무차별 공격에 현장은 아수라장이 됐습니다. 용의자들은 즉시 도주했으며 경찰이 추적 중입니다. 관광객들의 불안이 극에 달하고 있습니다.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-20 17:27:54 KST",
+        "last_updated": "2026-10-20 23:17:00 KST",
+        "current_rank": 12
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 52.0,
+        "trends": [
+            {
+                "record_id": "1328798469",
+                "url": "https://www.legallyindia.com/convos/topic/499636-cap-marks-guidance",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.57216807359607,
+                "score": 52.0,
+                "keyword": "인도 규제 가이드라인",
+                "hook": "인도 시장의 투자 지형을 바꿀 새로운 규제가 발표됐습니다.",
+                "script": "자본 시장의 투명성을 높이기 위한 새로운 가이드라인이 제시되었습니다. 기업들에게는 부담이지만, 장기적인 시장 신뢰를 위한 필수적인 선택이라는 평가가 나오고 있습니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-20 23:17:00 KST",
         "current_rank": 13
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 48.0,
+        "trends": [
+            {
+                "record_id": "1328880962",
+                "url": "https://gazeta10.com/kontrolle-telefonash-pa-vendim-gjykate-dhe-pretendime-per-dhune-avokati-i-popullit-publikon-gjetjet-pas-protestes/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 4,
+                "goldstein": -2.0,
+                "tone": -5.35412004639391,
+                "score": 48.0,
+                "keyword": "불법 도청 논란",
+                "hook": "법원 영장 없는 도청과 폭력 의혹이 튀르키예를 뒤흔들고 있습니다.",
+                "script": "법원 허가 없는 휴대전화 도청, 그리고 경찰의 폭력 행위가 수면 위로 드러났습니다. 옴부즈맨이 발표한 조사 결과는 충격적입니다. 시위 과정에서 벌어진 인권 유린 증거들이 속속 확보되고 있습니다. 시민들은 지금 국가의 감시망 아래 공포에 떨고 있습니다. 진실은 무엇일까요?",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-20 23:17:00 KST",
+        "current_rank": 14
     }
 }
