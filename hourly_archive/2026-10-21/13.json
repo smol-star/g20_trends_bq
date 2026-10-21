@@ -1,0 +1,684 @@
+{
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 1328.0,
+        "trends": [
+            {
+                "record_id": "1328991494",
+                "url": "https://www.standard.net.au/story/9372383/mps-to-get-security-brief-after-life-threatening-attack/",
+                "related_urls": [
+                    "https://www.singletonargus.com.au/story/9372383/mps-to-get-security-brief-after-life-threatening-attack/"
+                ],
+                "title": "",
+                "mentions": 120,
+                "sources": 6,
+                "goldstein": 1.0,
+                "tone": -6.10080844012814,
+                "score": 608.0,
+                "keyword": "의원 테러 위협",
+                "hook": "호주 의원들이 생명을 위협하는 테러 공격을 받은 후 긴급 보안 브리핑을 소집했습니다.",
+                "script": "호주 정계가 공포에 떨고 있습니다. 의원들을 향한 테러 공격이 잇따르자 정부가 즉각적인 보안 강화에 나섰습니다. 도대체 누가, 왜 민주주의의 상징인 의원들을 노리는 것입니까?",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1329007989",
+                "url": "https://www.dungogchronicle.com.au/story/9372280/footage-shows-how-killer-cop-dragged-in-close-friends/",
+                "related_urls": [
+                    "https://www.areanews.com.au/story/9372280/footage-shows-how-killer-cop-dragged-in-close-friends/"
+                ],
+                "title": "",
+                "mentions": 52,
+                "sources": 2,
+                "goldstein": -10.0,
+                "tone": -4.3209942401985,
+                "score": 234.0,
+                "keyword": "경찰 살인 영상",
+                "hook": "경찰이 지인을 잔혹하게 살해하는 충격적인 영상이 공개되면서 호주 사회가 충격에 빠졌습니다.",
+                "script": "믿을 수 없는 범죄입니다. 한 경찰관이 자신의 친구들을 잔혹하게 살해하는 영상이 세상에 드러났습니다. 공권력을 가진 자의 끔찍한 일탈, 호주 국민들은 분노와 충격을 금치 못하고 있습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1328827763",
+                "url": "https://www.irrigator.com.au/story/9371507/federal-mp-loses-leg-fighting-for-life-after-attack/",
+                "related_urls": [
+                    "https://www.lithgowmercury.com.au/story/9371507/federal-mp-loses-leg-fighting-for-life-after-attack/"
+                ],
+                "title": "",
+                "mentions": 70,
+                "sources": 5,
+                "goldstein": -5.0,
+                "tone": -6.55963641872443,
+                "score": 192.0,
+                "keyword": "의원 테러 참변",
+                "hook": "호주 연방 의원이 괴한의 공격으로 다리를 절단하는 끔찍한 사고를 당했습니다.",
+                "script": "민주주의를 향한 테러인가? 호주 연방 의원이 공격을 받고 다리를 절단하는 비극적인 일이 벌어졌습니다. 생사의 기로에 선 의원, 호주 전역이 충격과 슬픔에 잠겼습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1328845730",
+                "url": "https://www.dailyadvertiser.com.au/story/9372183/strike-cancelled-after-doctors-reach-last-minute-deal/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 4,
+                "goldstein": 3.5,
+                "tone": -0.668844709916183,
+                "score": 159.0,
+                "keyword": "의료 파업 종료",
+                "hook": "의료진과 정부의 극적인 합의로 호주 전역을 멈출 뻔했던 대규모 의료 파업이 취소되었습니다.",
+                "script": "의료 대란이 가까스로 피했습니다. 막판 협상 끝에 의료진과 정부가 극적인 합의에 도달했습니다. 파업은 취소됐고, 이제 환자들은 안도의 한숨을 내쉬고 있습니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1328992724",
+                "url": "https://www.greatlakesadvocate.com.au/story/9372284/alleged-mp-attacker-faces-court-for-the-first-time/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 8,
+                "goldstein": 3.0,
+                "tone": -8.18811664770493,
+                "score": 135.0,
+                "keyword": "의원 테러범 법정",
+                "hook": "호주 의원을 공격한 범인이 드디어 법정에 섰습니다. 그가 밝힌 범행 동기는 무엇일까요?",
+                "script": "드디어 피의자가 법정에 섰습니다. 호주 의원을 잔혹하게 공격한 범인이 오늘 첫 공판을 받았습니다. 모든 국민의 시선이 집중된 가운데, 과연 그는 어떤 변명을 늘어놓을까요?",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-10-21 13:41:09 KST",
+        "current_rank": 1
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 1311.0,
+        "trends": [
+            {
+                "record_id": "1328794200",
+                "url": "https://925kissfm.iheart.com/content/2026-10-19-donnie-wahlbergs-plane-skids-off-las-vegas-runway/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 180,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": -2.55351922841289,
+                "score": 532.5
+            },
+            {
+                "record_id": "1328968114",
+                "url": "https://www.chardandilminsternews.co.uk/news/national/26655274.zelensky-says-early-warning-system-resumes-following-rubio-call/",
+                "related_urls": [
+                    "https://www.nwemail.co.uk/news/national/26655274.zelensky-says-early-warning-system-resumes-following-rubio-call/"
+                ],
+                "title": "",
+                "mentions": 66,
+                "sources": 11,
+                "goldstein": -5.0,
+                "tone": -3.12771503040834,
+                "score": 268.5
+            },
+            {
+                "record_id": "1328792080",
+                "url": "https://www.wgal.com/article/bend-school-shooting-victims-parents-attorneys-probe-school-plans-gun-purchase/74185330",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -10.0,
+                "tone": -2.65381582159895,
+                "score": 265.0
+            },
+            {
+                "record_id": "1328953588",
+                "url": "https://www.mcall.com/2026/10/20/instacart-hiring-settlement/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -6.5,
+                "tone": -0.48192771084338,
+                "score": 140.0
+            },
+            {
+                "record_id": "1328869519",
+                "url": "http://www.soester-anzeiger.de/politik/trump-versetzte-bbc-anwaelte-um-an-einer-spendenveranstaltung-in-mar-lago-teilzunehmen-zr-94549645.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -5.0,
+                "tone": -3.83436486884762,
+                "score": 105.0
+            }
+        ],
+        "last_updated": "2026-10-21 13:41:09 KST",
+        "current_rank": 2
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 544.5,
+        "trends": [
+            {
+                "record_id": "1328876782",
+                "url": "https://www.wiltshiretimes.co.uk/news/national/26652539.revolut-services-google-cloud-apologises-outage/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 4.0,
+                "tone": -4.66666666666667,
+                "score": 166.0
+            },
+            {
+                "record_id": "1328861732",
+                "url": "https://www.halsteadgazette.co.uk/news/national/26652052.toto-embark-uk-arena-tour-mark-50th-anniversary/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 0.0,
+                "tone": 3.27868852459016,
+                "score": 123.5
+            },
+            {
+                "record_id": "1329009803",
+                "url": "https://www.tivysideadvertiser.co.uk/news/national/26655512.actor-noel-clarke-appear-court-charged-sexual-offences/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 78,
+                "sources": 13,
+                "goldstein": -5.0,
+                "tone": -5.5921052631579,
+                "score": 90.0
+            },
+            {
+                "record_id": "1328845664",
+                "url": "https://www.southwalesargus.co.uk/news/national/26651611.drivers-get-new-rights-challenge-rip-off-private-parking-charges/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 7.0,
+                "tone": -2.78639542275906,
+                "score": 84.0
+            },
+            {
+                "record_id": "1328902155",
+                "url": "https://www.yourlocalguardian.co.uk/news/national/26652973.uk-fighter-jets-help-defend-saudi-arabia-houthi-attacks/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 42,
+                "sources": 5,
+                "goldstein": -10.0,
+                "tone": -3.22085889570552,
+                "score": 81.0
+            }
+        ],
+        "last_updated": "2026-10-21 13:41:09 KST",
+        "current_rank": 3
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 410.0,
+        "trends": [
+            {
+                "record_id": "1329017893",
+                "url": "https://www.rhein-zeitung.de/deutschland-welt/politik/trump-gesandter-witkoff-reist-nach-russland_arid-4164009.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 8,
+                "goldstein": 7.0,
+                "tone": -3.66227312491042,
+                "score": 96.0,
+                "keyword": "트럼프 특사 파견",
+                "hook": "트럼프의 특사가 러시아로 향했다는 소식이 전해지며 우크라이나 전쟁의 판도가 흔들리고 있습니다.",
+                "script": "전쟁의 끝인가, 새로운 공작인가? 트럼프의 비공개 특사 윗코프가 러시아행 비행기에 올랐습니다. 서방의 제재 속에서 벌어지는 이 비밀스러운 움직임이 전 세계 안보 지형을 뒤흔들고 있습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1328886664",
+                "url": "http://www.hna.de/politik/diese-republikaner-stellen-sich-gegen-trumps-aussetzung-der-russland-sanktionen-zr-94549860.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 3,
+                "goldstein": 3.5,
+                "tone": -4.29414922168545,
+                "score": 87.0,
+                "keyword": "공화당 제재 반기",
+                "hook": "트럼프의 러시아 제재 해제 방침에 같은 당인 공화당 내부에서조차 거센 반발이 터져 나왔습니다.",
+                "script": "내부 분열이 시작됐습니다. 트럼프의 러시아 제재 완화 카드에 공화당 핵심 의원들이 정면으로 반기를 들었습니다. 당내 갈등이 최고조에 달하면서 미국의 외교 정책이 갈림길에 섰습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1328944044",
+                "url": "https://informpskov.ru/news/520891.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": 2.3094688221709,
+                "score": 78.0,
+                "keyword": "러시아 지역 소식",
+                "hook": "러시아 프스코프 지역에서 새로운 뉴스들이 쏟아지며 현지 분위기가 급변하고 있습니다.",
+                "script": "러시아 현지에서 전해지는 소식입니다. 프스코프 지역의 새로운 동향이 포착됐습니다. 정치적, 경제적 변화 속에서 러시아 내부의 민심이 어떻게 움직이고 있는지 지금 바로 확인해 보십시오.",
+                "sentiment": "neutral"
+            },
+            {
+                "record_id": "1328911101",
+                "url": "http://www.tz.de/politik/trump-selenskyj-sollte-sich-an-unseren-eklat-im-oval-office-erinnern-zr-94550253.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 3,
+                "goldstein": 10.0,
+                "tone": -4.61983961983962,
+                "score": 76.0,
+                "keyword": "트럼프 젤렌스키 설전",
+                "hook": "트럼프가 젤렌스키 대통령과의 과거 오벌 오피스 설전을 언급하며 외교적 파문을 일으켰습니다.",
+                "script": "과거의 악연이 다시 폭발했습니다. 트럼프 전 대통령이 젤렌스키를 향해 노골적인 경고를 날렸습니다. 오벌 오피스에서의 기억을 떠올리라는 발언, 이는 단순한 경고일까요, 아니면 향후 관계의 단절일까요?",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1328967400",
+                "url": "https://novosti.dn.ua/news/403647-rosijska-armiya-z-rszv-obstrilyala-harkiv-poshkodzhene-pidpryyemstvo-postrazhdaly-devyat-lyudej/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 42,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -6.13496932515337,
+                "score": 73.0,
+                "keyword": "하르키우 폭격 피해",
+                "hook": "러시아군의 무차별 로켓 공격이 하르키우를 덮치며 사상자가 속출하고 있습니다.",
+                "script": "지금 하르키우는 지옥입니다. 러시아군의 로켓 포격이 민간 기업 시설을 완전히 파괴했습니다. 9명의 부상자가 발생하며 도시는 비명으로 가득 찼습니다. 멈추지 않는 공격에 우크라이나의 상처가 깊어집니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-21 13:41:09 KST",
+        "current_rank": 4
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 307.0,
+        "trends": [
+            {
+                "record_id": "1328939862",
+                "url": "https://www.echo-news.co.uk/news/national/26655172.new-curfews-place-paris-lyon-quiet-night-following-weekend-riots/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 11,
+                "goldstein": -5.0,
+                "tone": -6.45994832041344,
+                "score": 203.0
+            },
+            {
+                "record_id": "1328840405",
+                "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1501140",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": -5.8,
+                "tone": -1.41807464104527,
+                "score": 66.0
+            },
+            {
+                "record_id": "1328875765",
+                "url": "http://www.az-online.de/politik/warum-sind-in-frankreich-unruhen-ausgebrochen-proteste-macron-demonstrationen-zr-94549753.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -2.0,
+                "tone": -6.45577792123951,
+                "score": 38.0
+            }
+        ],
+        "last_updated": "2026-10-21 13:41:09 KST",
+        "current_rank": 5
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 249.0,
+        "trends": [
+            {
+                "record_id": "1328918347",
+                "url": "https://www.kreiszeitung.de/wirtschaft/deutschlandticket-light-ticket-angebot-gelegenheitsfahrer-verkehrsminister-diskussion-konferenz-zr-94550361.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 3.0,
+                "tone": 1.67038121417699,
+                "score": 151.0
+            },
+            {
+                "record_id": "1328910525",
+                "url": "http://www.tz.de/wissen/trump-laesst-forschen-usa-richten-akademischen-ufo-forschungsrat-ein-zr-94550228.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 5,
+                "goldstein": -2.0,
+                "tone": -1.25710921388562,
+                "score": 50.0
+            },
+            {
+                "record_id": "1328833992",
+                "url": "https://www.kreiszeitung.de/wirtschaft/gkv-reform-kassiert-beamte-ab-bund-spart-doppelt-zr-94549195.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 4,
+                "goldstein": 3.0,
+                "tone": 0.418585475820808,
+                "score": 48.0
+            }
+        ],
+        "last_updated": "2026-10-21 13:41:09 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 208.5,
+        "trends": [
+            {
+                "record_id": "1328946176",
+                "url": "https://www.zazoom.it/2026-10-20/badante-accusato-di-stupro-su-unanziana-viene-espulso-processo-sospeso-limputato-e-in-sri-lanka/19825712/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -9.0,
+                "tone": -15.4727793696275,
+                "score": 114.0,
+                "keyword": "간병인 성폭행 도주",
+                "hook": "노인을 성폭행한 혐의를 받는 간병인이 스리랑카로 도주하며 재판이 중단되는 초유의 사태가 발생했습니다.",
+                "script": "이탈리아를 경악하게 만든 사건입니다. 노인을 돌봐야 할 간병인이 성폭행 혐의를 받자마자 스리랑카로 야반도주했습니다. 법원은 즉각 재판을 중단했고, 피해자와 가족들은 망연자실한 상태입니다. 정의는 과연 어디에 있습니까?",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1328907965",
+                "url": "https://www.kreiszeitung.de/politik/proteste-in-mailand-jugendliche-pluendern-meloni-droht-mit-haerte-zr-94550195.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -5.0,
+                "tone": -9.90415335463257,
+                "score": 53.0,
+                "keyword": "밀라노 약탈 폭동",
+                "hook": "밀라노 도심이 청소년들의 집단 약탈로 아수라장이 되며 멜로니 총리가 강력한 엄벌을 경고했습니다.",
+                "script": "지금 밀라노 거리에서 벌어지고 있는 일입니다. 수많은 청소년이 상점을 부수고 물건을 훔치는 약탈 행위가 포착됐습니다. 멜로니 정부는 관용 없는 강력 대응을 예고했습니다. 도심의 치안이 무너지고 있습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1328838302",
+                "url": "https://www.prealpina.it/news/italia-esteri/564116/trump-annuncia-8-miliardi-di-dollari-per-gli-agricoltori-contro-il-caro-gasolio.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": 3.5,
+                "tone": 1.7167698202181,
+                "score": 41.5,
+                "keyword": "트럼프 농업 지원",
+                "hook": "트럼프 전 대통령이 치솟는 유가로 고통받는 농민들을 위해 80억 달러 지원을 깜짝 발표했습니다.",
+                "script": "유가 폭등에 신음하던 농업계에 트럼프의 카드가 떨어졌습니다. 무려 80억 달러 규모의 긴급 지원책입니다. 이번 조치가 침체된 농가 경제에 과연 숨통을 틔워줄 수 있을지 전 세계가 주목하고 있습니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-21 13:41:09 KST",
+        "current_rank": 7
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 163.0,
+        "trends": [
+            {
+                "record_id": "1328911839",
+                "url": "https://wbex.iheart.com/content/2026-10-20-uk-to-fly-defensive-air-missions-over-saudi-arabia/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 6.0,
+                "tone": -4.92491570126531,
+                "score": 99.0,
+                "keyword": "영국군 사우디 방어",
+                "hook": "사우디아라비아 상공에 영국 전투기가 뜹니다. 중동의 긴장감이 최고조에 달했습니다.",
+                "script": "영국군이 사우디아라비아 영공에서 방어 임무를 수행하기로 결정했습니다. 이는 중동 지역의 안보 위협이 영국까지 직접적인 영향을 미치고 있다는 방증입니다. 미사일과 드론 위협이 빗발치는 사우디 상공, 영국군의 개입이 전쟁 억제책이 될지, 아니면 확전의 도화선이 될지 세계가 주목하고 있습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1328869743",
+                "url": "https://www.birgun.net/haber/mekke-ortak-savunma-anlasmasi-tbmm-ye-sunuldu-741426%20class=slide-link%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": 8.0,
+                "tone": 2.56862745098039,
+                "score": 64.0,
+                "keyword": "메카 방위 협정 체결",
+                "hook": "사우디 메카를 지키기 위한 전격적인 공동 방위 협정이 의회에 제출되었습니다.",
+                "script": "이슬람 성지 메카를 겨냥한 위협이 거세지자 사우디아라비아가 전격적인 공동 방위 카드를 꺼냈습니다. 터키 의회에 제출된 이 협정은 중동의 군사 지형을 완전히 뒤흔들 핵심 변수입니다. 성지를 보호하기 위한 이 강력한 군사 연합체, 과연 어떤 파장을 몰고 올까요?",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-21 13:41:09 KST",
+        "current_rank": 8
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 132.0,
+        "trends": [
+            {
+                "record_id": "1329013947",
+                "url": "https://www.eluniversal.com.mx/nacion/mexico-rechaza-interpretacion-de-la-onu-sobre-desapariciones-forzadas-en-nuestro-pais-dice-rosa-icela-defiende-estrategia/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 3,
+                "goldstein": -4.0,
+                "tone": -5.46477363291132,
+                "score": 54.0,
+                "keyword": "멕시코 UN 반박",
+                "hook": "강제 실종 문제에 대한 UN의 비판을 멕시코 정부가 공식적으로 거부하며 국제적 외교 마찰이 시작됐습니다.",
+                "script": "멕시코가 UN에 맞섰습니다. 자국 내 강제 실종 문제에 대한 UN의 보고서를 '잘못된 해석'이라며 일축한 것입니다. 정부의 대응 전략이 과연 정당한지, 국제 사회의 압박은 거세지고 있습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329025179",
+                "url": "https://www.omnia.com.mx/noticia/446414/juan-blanco-pide-respetar-la-presuncion-de-inocencia-de-cesar-jauregui",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": -1.00018913000346,
+                "score": 41.0,
+                "keyword": "무죄 추정 원칙",
+                "hook": "세사르 하우레기 사건을 두고 무죄 추정 원칙을 지키라는 정치권의 목소리가 터져 나왔습니다.",
+                "script": "정치적 공방이 가열되고 있습니다. 세사르 하우레기 사건에 대해 무죄 추정의 원칙을 존중하라는 요구가 빗발치고 있습니다. 법치주의와 정치적 희생양, 진실은 무엇입니까?",
+                "sentiment": "neutral"
+            },
+            {
+                "record_id": "1328971433",
+                "url": "https://www.ejecentral.com.mx/nuestro-eje/mananera-de-claudia-sheinbaum-en-vivo-resumen-de-la-conferencia-matutina-del-20-de-octubre-de-2026",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -0.73643410852713,
+                "score": 37.0,
+                "keyword": "셰인바움 아침 회견",
+                "hook": "클라우디아 셰인바움 대통령의 아침 기자회견에서 멕시코의 미래를 좌우할 중대 발표가 나왔습니다.",
+                "script": "오늘 아침, 셰인바움 대통령이 직접 마이크를 잡았습니다. 멕시코의 국정 운영 방향과 경제 정책에 대한 핵심 내용이 공개됐습니다. 멕시코의 내일이 궁금하다면 이 브리핑을 주목하십시오.",
+                "sentiment": "neutral"
+            }
+        ],
+        "last_updated": "2026-10-21 13:41:09 KST",
+        "current_rank": 9
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 129.5,
+        "trends": [
+            {
+                "record_id": "1328983421",
+                "url": "https://correiodoestado.com.br/cidades/latam-tera-3-voos-entre-bonito-e-sao-paulo-a-partir-de-domingo/475148/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": 2.21602724223996,
+                "score": 129.5,
+                "keyword": "보니투 항공편 증설",
+                "hook": "브라질의 숨은 보석 보니투로 가는 하늘길이 더 넓어지며 관광객들의 기대감이 폭발하고 있습니다.",
+                "script": "여행객 주목! 라탐항공이 보니투와 상파울루를 잇는 직항 노선을 이번 주 일요일부터 대폭 늘립니다. 이제 에메랄드빛 강물을 보러 가는 길이 훨씬 빨라집니다. 브라질 여행 계획 중이라면 지금 바로 예약하세요.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-21 13:41:09 KST",
+        "current_rank": 10
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 91.0,
+        "trends": [
+            {
+                "record_id": "1328880962",
+                "url": "https://gazeta10.com/kontrolle-telefonash-pa-vendim-gjykate-dhe-pretendime-per-dhune-avokati-i-popullit-publikon-gjetjet-pas-protestes/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 4,
+                "goldstein": -2.0,
+                "tone": -5.35412004639391,
+                "score": 91.0,
+                "keyword": "터키 시위대 인권 침해",
+                "hook": "터키 시위 현장에서 터져 나온 충격적인 인권 유린 의혹, 법원 명령 없는 휴대전화 검열이 확인됐습니다.",
+                "script": "터키 인권 옴부즈맨이 시위 도중 발생한 폭력 사태와 불법적인 통신 검열 실태를 공식 발표했습니다. 시위대의 휴대전화를 강제로 압수하고 사생활을 침해했다는 증거가 쏟아지고 있습니다. 민주주의 수호인가, 정권의 과잉 진압인가. 터키 전역이 분노로 들끓고 있습니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-10-21 13:41:09 KST",
+        "current_rank": 11
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 85.0,
+        "trends": [
+            {
+                "record_id": "1328798469",
+                "url": "https://www.legallyindia.com/convos/topic/499636-cap-marks-guidance",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.57216807359607,
+                "score": 52.0
+            },
+            {
+                "record_id": "1328791572",
+                "url": "http://www.afghanistansun.com/news/279385903/marco-rubio-to-commence-three-day-visit-to-india-trade-deal-talks-with-jaishankar-on-agenda",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 1.0,
+                "tone": -0.29673590504451,
+                "score": 33.0
+            }
+        ],
+        "last_updated": "2026-10-21 13:41:09 KST",
+        "current_rank": 12
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 78.0,
+        "trends": [
+            {
+                "record_id": "1328810813",
+                "url": "https://www.leducrep.com:443/news/local-news/referendum-results-in-lac-ste-anne-parkland",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": 3.0,
+                "tone": 3.39807827126891,
+                "score": 39.0,
+                "keyword": "캐나다 분리 투표",
+                "hook": "앨버타주 일부 지역에서 캐나다로부터의 독립을 묻는 충격적인 주민투표 결과가 나왔습니다.",
+                "script": "캐나다의 분열인가, 단순 소동인가? 락 세인트 앤 파크랜드 지역에서 독립을 찬성하는 주민투표 결과가 발표되며 정치권에 거대한 파장이 일고 있습니다. 연방 정부의 대응이 시급합니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1328791974",
+                "url": "https://www.centralwesterndaily.com.au/story/9371544/alberta-holds-referendum-on-breakaway-from-canada/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": 3.0,
+                "tone": -0.1980198019802,
+                "score": 39.0,
+                "keyword": "앨버타 독립 시도",
+                "hook": "캐나다 앨버타주가 연방 탈퇴를 위한 실질적인 행동에 돌입하며 국가 통합이 위기를 맞았습니다.",
+                "script": "캐나다 지도가 바뀔 수도 있습니다. 앨버타주가 분리 독립을 위한 주민투표를 강행했습니다. 단순한 불만이 아닌 구체적인 분리 움직임에 캐나다 정국이 요동치고 있습니다. 과연 캐나다는 하나로 남을 수 있을까요?",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-21 13:41:09 KST",
+        "current_rank": 13
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 77.0,
+        "trends": [
+            {
+                "record_id": "1328923988",
+                "url": "http://www.soester-anzeiger.de/politik/china-schliesst-die-luecke-der-gefaehrliche-wettlauf-um-die-weltraumvorherrschaft-zr-94549705.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 5,
+                "goldstein": 7.4,
+                "tone": -1.84682237914177,
+                "score": 77.0
+            }
+        ],
+        "last_updated": "2026-10-21 13:41:09 KST",
+        "current_rank": 14
+    },
+    "Indonesia": {
+        "gdp_rank": 15,
+        "spike_score": 71.5,
+        "trends": [
+            {
+                "record_id": "1328894899",
+                "url": "https://ianslive.in/indian-coast-guard-ship-shaunak-strengthens-cooperation-with-indonesia--20261020164502",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": 2.8,
+                "tone": 6.2737726391093,
+                "score": 71.5,
+                "keyword": "인도-인도네시아 해상 공조",
+                "hook": "인도 해안경비대 함정이 인도네시아 앞바다에 전격 등장하며 아시아 해상 안보 지도가 급변하고 있습니다.",
+                "script": "인도 해안경비대 함정 '샤우낙'호가 인도네시아에 도착했습니다. 단순한 친선 방문이 아닙니다. 인도-태평양 지역의 해상 안보 주도권을 쥐기 위한 전술적 협력 강화입니다. 중국의 해상 팽창을 견제하려는 양국의 노골적인 움직임, 과연 인도네시아가 인도와 손잡고 남중국해의 새로운 방어선이 될까요?",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-21 13:41:09 KST",
+        "current_rank": 15
+    }
+}
