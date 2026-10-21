@@ -1,88 +1,19 @@
 {
-    "United States": {
-        "gdp_rank": 1,
-        "spike_score": 1295.0,
-        "trends": [
-            {
-                "record_id": "1328794200",
-                "url": "https://925kissfm.iheart.com/content/2026-10-19-donnie-wahlbergs-plane-skids-off-las-vegas-runway/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 180,
-                "sources": 1,
-                "goldstein": 2.8,
-                "tone": -2.55351922841289,
-                "score": 532.5,
-                "keyword": "라스베이거스 활주로 이탈",
-                "hook": "도니 월버그가 탑승한 전용기가 착륙 직후 활주로를 완전히 벗어나는 아찔한 사고가 발생했습니다.",
-                "script": "라스베이거스 공항 활주로가 마비됐습니다. 도니 월버그가 탑승했던 항공기가 착륙 도중 통제력을 잃고 활주로 밖으로 미끄러져 나갔습니다. 다행히 인명 피해는 알려지지 않았지만, 현장 상황은 긴박했습니다. 지금 바로 사고 현장과 기체 상태를 확인합니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1328968114",
-                "url": "https://www.chardandilminsternews.co.uk/news/national/26655274.zelensky-says-early-warning-system-resumes-following-rubio-call/",
-                "related_urls": [
-                    "https://www.nwemail.co.uk/news/national/26655274.zelensky-says-early-warning-system-resumes-following-rubio-call/"
-                ],
-                "title": "",
-                "mentions": 66,
-                "sources": 11,
-                "goldstein": -5.0,
-                "tone": -3.12771503040834,
-                "score": 268.5
-            },
-            {
-                "record_id": "1328792080",
-                "url": "https://www.wgal.com/article/bend-school-shooting-victims-parents-attorneys-probe-school-plans-gun-purchase/74185330",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 5,
-                "goldstein": -10.0,
-                "tone": -2.65381582159895,
-                "score": 232.0
-            },
-            {
-                "record_id": "1329070984",
-                "url": "https://www.az-online.de/welt/polizist-erschiesst-einjaehrigen-supermarkt-taeter-kommt-straffrei-davon-kohen-wiley-zr-94551400.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 100,
-                "sources": 4,
-                "goldstein": -10.0,
-                "tone": -4.0,
-                "score": 141.0
-            },
-            {
-                "record_id": "1329067288",
-                "url": "https://geotimes.ge/?m=5&news_id=131956",
-                "related_urls": [],
-                "title": "",
-                "mentions": 80,
-                "sources": 1,
-                "goldstein": -5.0,
-                "tone": -0.387155470902794,
-                "score": 121.0
-            }
-        ],
-        "last_updated": "2026-10-22 02:08:12 KST",
-        "current_rank": 1
-    },
     "Australia": {
         "gdp_rank": 13,
-        "spike_score": 1197.0,
+        "spike_score": 1268.5,
         "trends": [
             {
-                "record_id": "1328991494",
-                "url": "https://www.standard.net.au/story/9372383/mps-to-get-security-brief-after-life-threatening-attack/",
+                "record_id": "1328984353",
+                "url": "https://www.singletonargus.com.au/story/9372383/mps-to-get-security-brief-after-life-threatening-attack/",
                 "related_urls": [
-                    "https://www.singletonargus.com.au/story/9372383/mps-to-get-security-brief-after-life-threatening-attack/"
+                    "https://www.standard.net.au/story/9372383/mps-to-get-security-brief-after-life-threatening-attack/"
                 ],
                 "title": "",
                 "mentions": 120,
                 "sources": 6,
                 "goldstein": 1.0,
-                "tone": -6.10080844012814,
+                "tone": -6.16330599192007,
                 "score": 608.0
             },
             {
@@ -97,6 +28,17 @@
                 "goldstein": -10.0,
                 "tone": -4.3209942401985,
                 "score": 200.0
+            },
+            {
+                "record_id": "1329156829",
+                "url": "https://www.oberonreview.com.au/story/9372300/the-echidna-john-hanscombe-the-true-meaning-of-travel/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -9.5,
+                "tone": -2.86352837044162,
+                "score": 194.5
             },
             {
                 "record_id": "1328992724",
@@ -119,25 +61,79 @@
                 "goldstein": 3.5,
                 "tone": -0.668844709916183,
                 "score": 131.0
-            },
-            {
-                "record_id": "1328804400",
-                "url": "https://www.hepburnadvocate.com.au/story/9371507/driver-allegedly-rammed-mp-reversed-hit-her-again/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 60,
-                "sources": 2,
-                "goldstein": -10.0,
-                "tone": -6.46900269541779,
-                "score": 123.0
             }
         ],
-        "last_updated": "2026-10-22 02:08:12 KST",
+        "last_updated": "2026-10-22 06:38:55 KST",
+        "current_rank": 1
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 1186.0,
+        "trends": [
+            {
+                "record_id": "1328794200",
+                "url": "https://925kissfm.iheart.com/content/2026-10-19-donnie-wahlbergs-plane-skids-off-las-vegas-runway/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 180,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": -2.55351922841289,
+                "score": 532.5
+            },
+            {
+                "record_id": "1328968114",
+                "url": "https://www.chardandilminsternews.co.uk/news/national/26655274.zelensky-says-early-warning-system-resumes-following-rubio-call/",
+                "related_urls": [
+                    "https://www.nwemail.co.uk/news/national/26655274.zelensky-says-early-warning-system-resumes-following-rubio-call/"
+                ],
+                "title": "",
+                "mentions": 66,
+                "sources": 11,
+                "goldstein": -5.0,
+                "tone": -3.12771503040834,
+                "score": 199.5
+            },
+            {
+                "record_id": "1328792080",
+                "url": "https://www.wgal.com/article/bend-school-shooting-victims-parents-attorneys-probe-school-plans-gun-purchase/74185330",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -10.0,
+                "tone": -2.65381582159895,
+                "score": 185.0
+            },
+            {
+                "record_id": "1329070984",
+                "url": "https://www.az-online.de/welt/polizist-erschiesst-einjaehrigen-supermarkt-taeter-kommt-straffrei-davon-kohen-wiley-zr-94551400.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 4,
+                "goldstein": -10.0,
+                "tone": -4.0,
+                "score": 141.0
+            },
+            {
+                "record_id": "1329154740",
+                "url": "https://magic989fm.iheart.com/content/2026-10-21-american-airlines-flight-blows-tire-during-landing-at-ohare/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 72,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": 0.564971751412429,
+                "score": 128.0
+            }
+        ],
+        "last_updated": "2026-10-22 06:38:55 KST",
         "current_rank": 2
     },
     "United Kingdom": {
         "gdp_rank": 6,
-        "spike_score": 1045.0,
+        "spike_score": 1068.0,
         "trends": [
             {
                 "record_id": "1329118877",
@@ -170,11 +166,7 @@
                 "sources": 9,
                 "goldstein": 4.0,
                 "tone": -4.66666666666667,
-                "score": 166.0,
-                "keyword": "레볼루트 서비스 마비",
-                "hook": "수많은 사용자가 이용하는 레볼루트 앱이 갑작스러운 서버 오류로 먹통이 되며 대혼란이 벌어졌습니다.",
-                "script": "내 돈은 어디에 있을까요? 인기 금융 앱 레볼루트가 구글 클라우드 장애로 인해 전 세계적인 서비스 중단 사태를 겪었습니다. 결제도, 송금도 불가능해진 사용자들의 분노가 폭발하고 있습니다. 이번 사태의 정확한 원인과 대응책을 지금 확인하십시오.",
-                "sentiment": "negative"
+                "score": 166.0
             },
             {
                 "record_id": "1329054791",
@@ -188,18 +180,18 @@
                 "score": 162.0
             },
             {
-                "record_id": "1329039941",
-                "url": "https://www.yourlocalguardian.co.uk/news/national/26655607.industry-groups-welcome-jackdaw-decision-say-rosebank-equally-vital/",
+                "record_id": "1329163754",
+                "url": "https://www.royston-crow.co.uk/news/national/26659048.ira-lawyers-comment-blasted-shameful-ni-first-minister/",
                 "related_urls": [],
                 "title": "",
-                "mentions": 60,
-                "sources": 6,
-                "goldstein": -7.2,
-                "tone": 2.20440881763527,
-                "score": 137.0
+                "mentions": 66,
+                "sources": 11,
+                "goldstein": 7.0,
+                "tone": -5.0303161301785,
+                "score": 160.0
             }
         ],
-        "last_updated": "2026-10-22 02:08:12 KST",
+        "last_updated": "2026-10-22 06:38:55 KST",
         "current_rank": 3
     },
     "Russia": {
@@ -240,7 +232,7 @@
                 "score": 93.5
             },
             {
-                "record_id": "1328943940",
+                "record_id": "1328944044",
                 "url": "https://informpskov.ru/news/520891.html",
                 "related_urls": [],
                 "title": "",
@@ -262,8 +254,60 @@
                 "score": 74.0
             }
         ],
-        "last_updated": "2026-10-22 02:08:12 KST",
+        "last_updated": "2026-10-22 06:38:55 KST",
         "current_rank": 4
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 459.5,
+        "trends": [
+            {
+                "record_id": "1328939862",
+                "url": "https://www.echo-news.co.uk/news/national/26655172.new-curfews-place-paris-lyon-quiet-night-following-weekend-riots/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 11,
+                "goldstein": -5.0,
+                "tone": -6.45994832041344,
+                "score": 203.0
+            },
+            {
+                "record_id": "1329184583",
+                "url": "https://midmichigannow.com/news/nation-world/macron-blasts-trump-other-leaders-for-exploiting-france-unrest-calls-remarks-stupid",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 4,
+                "goldstein": 7.0,
+                "tone": -8.63050661422545,
+                "score": 144.0
+            },
+            {
+                "record_id": "1328840405",
+                "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1501140",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": -5.8,
+                "tone": -1.41807464104527,
+                "score": 66.0
+            },
+            {
+                "record_id": "1329125603",
+                "url": "https://www.index.hr/magazin/clanak/luka-rajic-jr-dijeli-savjete-kako-se-obogatiti-za-pocetak-vjerujte-u-sebe/2848190.aspx?index_ref=homepage_comment_box_d&commentId=12304157",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": 1.9,
+                "tone": 2.33333333333333,
+                "score": 46.5
+            }
+        ],
+        "last_updated": "2026-10-22 06:38:55 KST",
+        "current_rank": 5
     },
     "Germany": {
         "gdp_rank": 3,
@@ -322,70 +366,10 @@
                 "sources": 6,
                 "goldstein": 0.0,
                 "tone": -4.72840040715252,
-                "score": 42.0,
-                "keyword": "전국 웹사이트 마비",
-                "hook": "전 세계를 강타한 치명적인 보안 결함으로 인해 독일 관공서의 웹사이트가 줄줄이 폐쇄되고 있습니다.",
-                "script": "지금 당장 PC 보안을 점검하십시오. 전 세계적인 IT 보안 취약점이 발견되면서 독일 정부 기관들이 잇따라 웹사이트 접속을 차단했습니다. 개인정보 유출 위험이 최고조에 달한 지금, 당신의 디지털 자산은 안전합니까?",
-                "sentiment": "warning"
+                "score": 42.0
             }
         ],
-        "last_updated": "2026-10-22 02:08:12 KST",
-        "current_rank": 5
-    },
-    "France": {
-        "gdp_rank": 7,
-        "spike_score": 346.5,
-        "trends": [
-            {
-                "record_id": "1328939862",
-                "url": "https://www.echo-news.co.uk/news/national/26655172.new-curfews-place-paris-lyon-quiet-night-following-weekend-riots/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 110,
-                "sources": 11,
-                "goldstein": -5.0,
-                "tone": -6.45994832041344,
-                "score": 203.0
-            },
-            {
-                "record_id": "1328840405",
-                "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1501140",
-                "related_urls": [],
-                "title": "",
-                "mentions": 70,
-                "sources": 1,
-                "goldstein": -5.8,
-                "tone": -1.41807464104527,
-                "score": 66.0
-            },
-            {
-                "record_id": "1329125603",
-                "url": "https://www.index.hr/magazin/clanak/luka-rajic-jr-dijeli-savjete-kako-se-obogatiti-za-pocetak-vjerujte-u-sebe/2848190.aspx?index_ref=homepage_comment_box_d&commentId=12304157",
-                "related_urls": [],
-                "title": "",
-                "mentions": 70,
-                "sources": 1,
-                "goldstein": 1.9,
-                "tone": 2.33333333333333,
-                "score": 46.5
-            },
-            {
-                "record_id": "1329125839",
-                "url": "https://www.sigmalive.com/news/international/1334363/parisi-nea-apaghorefsi-kikloforias-ghia-triti-sinekhomeni-nykhta",
-                "related_urls": [],
-                "title": "",
-                "mentions": 42,
-                "sources": 5,
-                "goldstein": 0.0,
-                "tone": -7.82175104603309,
-                "score": 31.0,
-                "keyword": "파리 야간 통행금지",
-                "hook": "폭동의 불길이 사그라지지 않자 파리 시내에 3일 연속 야간 통행금지령이 내려졌습니다.",
-                "script": "파리의 밤이 멈췄습니다. 연이은 폭동 사태로 인해 당국이 파리와 리옹 전역에 강제 야간 통행금지를 발령했습니다. 거리에는 긴장감만 감돌고 있습니다. 지금 파리에서 벌어지고 있는 극도의 혼란을 실시간으로 전합니다.",
-                "sentiment": "warning"
-            }
-        ],
-        "last_updated": "2026-10-22 02:08:12 KST",
+        "last_updated": "2026-10-22 06:38:55 KST",
         "current_rank": 6
     },
     "India": {
@@ -412,11 +396,7 @@
                 "sources": 1,
                 "goldstein": -10.0,
                 "tone": -1.14285714285715,
-                "score": 87.0,
-                "keyword": "도네츠크 무차별 포격",
-                "hook": "도네츠크 지역에 26차례의 포격이 쏟아지며 주택 20여 채가 순식간에 잿더미로 변했습니다.",
-                "script": "끝나지 않는 공포입니다. 러시아군이 도네츠크를 향해 무차별적인 포격을 가했습니다. 마을 곳곳이 파괴되고 주민들은 생존의 기로에 섰습니다. 지금 현장에서 벌어지고 있는 참혹한 실상을 낱낱이 공개합니다.",
-                "sentiment": "negative"
+                "score": 87.0
             },
             {
                 "record_id": "1328798469",
@@ -430,8 +410,49 @@
                 "score": 52.0
             }
         ],
-        "last_updated": "2026-10-22 02:08:12 KST",
+        "last_updated": "2026-10-22 06:38:55 KST",
         "current_rank": 7
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 252.0,
+        "trends": [
+            {
+                "record_id": "1328911839",
+                "url": "https://wbex.iheart.com/content/2026-10-20-uk-to-fly-defensive-air-missions-over-saudi-arabia/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 6.0,
+                "tone": -4.92491570126531,
+                "score": 99.0
+            },
+            {
+                "record_id": "1329183703",
+                "url": "https://www.goulburnpost.com.au/story/9373075/two-killed-after-drone-intercepted-near-saudi-oil-field/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 3,
+                "goldstein": -10.0,
+                "tone": -5.04279246386408,
+                "score": 86.0
+            },
+            {
+                "record_id": "1329178205",
+                "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1501320",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -7.0,
+                "tone": -2.51249793638529,
+                "score": 67.0
+            }
+        ],
+        "last_updated": "2026-10-22 06:38:55 KST",
+        "current_rank": 8
     },
     "China": {
         "gdp_rank": 2,
@@ -457,15 +478,11 @@
                 "sources": 5,
                 "goldstein": 7.4,
                 "tone": -1.84682237914177,
-                "score": 77.0,
-                "keyword": "우주 패권 전쟁",
-                "hook": "지구를 넘어 우주까지, 중국이 압도적인 속도로 우주 주도권을 장악하기 시작했습니다.",
-                "script": "우주를 지배하는 자가 미래를 지배합니다. 중국이 우주 탐사 프로젝트를 가속화하며 전 세계 우주 패권 경쟁의 판도를 흔들고 있습니다. 미국의 아성에 도전하는 중국의 거침없는 질주, 과연 누가 최후의 승자가 될까요? 지금 바로 분석합니다.",
-                "sentiment": "negative"
+                "score": 77.0
             }
         ],
-        "last_updated": "2026-10-22 02:08:12 KST",
-        "current_rank": 8
+        "last_updated": "2026-10-22 06:38:55 KST",
+        "current_rank": 9
     },
     "Mexico": {
         "gdp_rank": 12,
@@ -505,8 +522,8 @@
                 "score": 37.0
             }
         ],
-        "last_updated": "2026-10-22 02:08:12 KST",
-        "current_rank": 9
+        "last_updated": "2026-10-22 06:38:55 KST",
+        "current_rank": 10
     },
     "Brazil": {
         "gdp_rank": 9,
@@ -524,8 +541,8 @@
                 "score": 129.5
             }
         ],
-        "last_updated": "2026-10-22 02:08:12 KST",
-        "current_rank": 10
+        "last_updated": "2026-10-22 06:38:55 KST",
+        "current_rank": 11
     },
     "Italy": {
         "gdp_rank": 8,
@@ -554,8 +571,8 @@
                 "score": 52.0
             }
         ],
-        "last_updated": "2026-10-22 02:08:12 KST",
-        "current_rank": 11
+        "last_updated": "2026-10-22 06:38:55 KST",
+        "current_rank": 12
     },
     "Turkey": {
         "gdp_rank": 16,
@@ -584,45 +601,45 @@
                 "score": 48.0
             }
         ],
-        "last_updated": "2026-10-22 02:08:12 KST",
-        "current_rank": 12
-    },
-    "Saudi Arabia": {
-        "gdp_rank": 17,
-        "spike_score": 99.0,
-        "trends": [
-            {
-                "record_id": "1328911839",
-                "url": "https://wbex.iheart.com/content/2026-10-20-uk-to-fly-defensive-air-missions-over-saudi-arabia/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 1,
-                "goldstein": 6.0,
-                "tone": -4.92491570126531,
-                "score": 99.0
-            }
-        ],
-        "last_updated": "2026-10-22 02:08:12 KST",
+        "last_updated": "2026-10-22 06:38:55 KST",
         "current_rank": 13
     },
-    "South Korea": {
-        "gdp_rank": 14,
-        "spike_score": 70.5,
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 67.0,
         "trends": [
             {
-                "record_id": "1329069709",
-                "url": "https://www.koreaherald.com/article/10910469",
+                "record_id": "1329178762",
+                "url": "https://www.gloucesteradvocate.com.au/story/9373072/government-cybersecurity-website-hit-in-global-flaw/",
                 "related_urls": [],
                 "title": "",
-                "mentions": 42,
-                "sources": 1,
-                "goldstein": -9.5,
-                "tone": -1.97183098591549,
-                "score": 70.5
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -5.0,
+                "tone": -5.86930739710097,
+                "score": 67.0
             }
         ],
-        "last_updated": "2026-10-22 02:08:12 KST",
+        "last_updated": "2026-10-22 06:38:55 KST",
         "current_rank": 14
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 44.0,
+        "trends": [
+            {
+                "record_id": "1329184358",
+                "url": "https://www.nantonnews.com:443/life/vancouver-fashion-entrepreneur-shoe-brand-collaborate-on-the-ultimate-fall-boot",
+                "related_urls": [],
+                "title": "",
+                "mentions": 52,
+                "sources": 4,
+                "goldstein": -2.0,
+                "tone": 5.33333333333333,
+                "score": 44.0
+            }
+        ],
+        "last_updated": "2026-10-22 06:38:55 KST",
+        "current_rank": 15
     }
 }
