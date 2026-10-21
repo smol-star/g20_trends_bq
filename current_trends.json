@@ -1,7 +1,7 @@
 {
     "United States": {
         "gdp_rank": 1,
-        "spike_score": 1314.0,
+        "spike_score": 1295.0,
         "trends": [
             {
                 "record_id": "1328794200",
@@ -13,9 +13,9 @@
                 "goldstein": 2.8,
                 "tone": -2.55351922841289,
                 "score": 532.5,
-                "keyword": "도니 월버그 비행기 사고",
-                "hook": "라스베이거스 활주로를 질주하던 항공기가 중심을 잃고 미끄러졌습니다.",
-                "script": "도니 월버그가 탑승한 전용기가 라스베이거스 공항 활주로를 이탈했습니다. 긴박했던 사고 현장, 항공기는 멈추지 못하고 활주로를 완전히 벗어났습니다. 다행히 인명 피해는 알려지지 않았지만, 충격적인 당시 상황이 공개되며 팬들의 가슴을 쓸어내리게 하고 있습니다.",
+                "keyword": "라스베이거스 활주로 이탈",
+                "hook": "도니 월버그가 탑승한 전용기가 착륙 직후 활주로를 완전히 벗어나는 아찔한 사고가 발생했습니다.",
+                "script": "라스베이거스 공항 활주로가 마비됐습니다. 도니 월버그가 탑승했던 항공기가 착륙 도중 통제력을 잃고 활주로 밖으로 미끄러져 나갔습니다. 다행히 인명 피해는 알려지지 않았지만, 현장 상황은 긴박했습니다. 지금 바로 사고 현장과 기체 상태를 확인합니다.",
                 "sentiment": "negative"
             },
             {
@@ -29,11 +29,7 @@
                 "sources": 11,
                 "goldstein": -5.0,
                 "tone": -3.12771503040834,
-                "score": 268.5,
-                "keyword": "젤렌스키 조기 경보 재개",
-                "hook": "루비오의 긴급 호출 이후, 멈췄던 우크라이나의 심장이 다시 뛰기 시작했습니다.",
-                "script": "우크라이나의 조기 경보 시스템이 마침내 가동을 재개했습니다. 루비오의 강력한 요청이 결정적이었습니다. 전운이 감도는 전선에서 이 시스템의 부활은 무엇을 의미할까요? 긴박한 전황 속, 우크라이나의 방어망이 다시 촘촘해지고 있습니다.",
-                "sentiment": "warning"
+                "score": 268.5
             },
             {
                 "record_id": "1328792080",
@@ -44,11 +40,7 @@
                 "sources": 5,
                 "goldstein": -10.0,
                 "tone": -2.65381582159895,
-                "score": 232.0,
-                "keyword": "학교 총기 참사 수사",
-                "hook": "아이들을 지켜야 할 학교에서 발생한 비극, 총기 구매 계획이 드러났습니다.",
-                "script": "벤드 학교 총기 사건의 충격적인 진실이 밝혀지고 있습니다. 유가족 변호인단이 범인의 치밀했던 총기 구매 계획을 정조준했습니다. 어떻게 학교 내부에서 이런 일이 가능했을까요? 분노한 학부모들과 수사 당국의 진실 공방이 지금 시작됩니다.",
-                "sentiment": "warning"
+                "score": 232.0
             },
             {
                 "record_id": "1329070984",
@@ -59,34 +51,26 @@
                 "sources": 4,
                 "goldstein": -10.0,
                 "tone": -4.0,
-                "score": 141.0,
-                "keyword": "경찰 사살 무죄 판결",
-                "hook": "한 살배기 아이를 향한 경찰의 총구, 법원은 무죄를 선고했습니다.",
-                "script": "슈퍼마켓에서 발생한 경찰의 사격, 피해자는 겨우 한 살 된 아이였습니다. 하지만 돌아온 판결은 충격적인 '무죄'. 코헨 와일리 사건을 둘러싼 법적 논란이 미국 전역을 뒤흔들고 있습니다. 공권력의 정당성인가, 아니면 끔찍한 과잉 대응인가?",
-                "sentiment": "warning"
+                "score": 141.0
             },
             {
-                "record_id": "1328953588",
-                "url": "https://www.mcall.com/2026/10/20/instacart-hiring-settlement/",
+                "record_id": "1329067288",
+                "url": "https://geotimes.ge/?m=5&news_id=131956",
                 "related_urls": [],
                 "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": -6.5,
-                "tone": -0.48192771084338,
-                "score": 140.0,
-                "keyword": "인스타카트 고용 합의",
-                "hook": "수천 명의 노동자가 기다려온 보상, 인스타카트가 마침내 합의안을 내놓았습니다.",
-                "script": "인스타카트가 고용 관련 법적 분쟁을 마무리하기 위해 거액의 합의금을 지급합니다. 플랫폼 노동자들의 처우를 둘러싼 오랜 갈등이 일단락되는 순간입니다. 이번 합의가 긱 이코노미 시장에 어떤 변화를 가져올지 주목됩니다.",
-                "sentiment": "neutral"
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -0.387155470902794,
+                "score": 121.0
             }
         ],
-        "last_updated": "2026-10-21 20:43:11 KST",
+        "last_updated": "2026-10-22 02:08:12 KST",
         "current_rank": 1
     },
     "Australia": {
         "gdp_rank": 13,
-        "spike_score": 1232.0,
+        "spike_score": 1197.0,
         "trends": [
             {
                 "record_id": "1328991494",
@@ -102,32 +86,17 @@
                 "score": 608.0
             },
             {
-                "record_id": "1329018429",
-                "url": "https://www.areanews.com.au/story/9372280/footage-shows-how-killer-cop-dragged-in-close-friends/",
+                "record_id": "1329007989",
+                "url": "https://www.dungogchronicle.com.au/story/9372280/footage-shows-how-killer-cop-dragged-in-close-friends/",
                 "related_urls": [
-                    "https://www.dungogchronicle.com.au/story/9372280/footage-shows-how-killer-cop-dragged-in-close-friends/"
+                    "https://www.areanews.com.au/story/9372280/footage-shows-how-killer-cop-dragged-in-close-friends/"
                 ],
                 "title": "",
-                "mentions": 48,
-                "sources": 3,
+                "mentions": 52,
+                "sources": 2,
                 "goldstein": -10.0,
-                "tone": -4.36790213068397,
-                "score": 200.0,
-                "keyword": "살인 경찰 범죄 영상",
-                "hook": "경찰의 탈을 쓴 살인마, 그 추악한 범죄 현장이 공개되었습니다.",
-                "script": "믿었던 경찰이 친구를 살해했다? 공개된 영상 속 범행 과정은 충격 그 자체입니다. 호주 사회를 뒤흔든 살인 경찰 사건의 전말을 지금 확인하세요.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1328845730",
-                "url": "https://www.dailyadvertiser.com.au/story/9372183/strike-cancelled-after-doctors-reach-last-minute-deal/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 80,
-                "sources": 4,
-                "goldstein": 3.5,
-                "tone": -0.668844709916183,
-                "score": 159.0
+                "tone": -4.3209942401985,
+                "score": 200.0
             },
             {
                 "record_id": "1328992724",
@@ -141,30 +110,59 @@
                 "score": 135.0
             },
             {
-                "record_id": "1328827763",
-                "url": "https://www.irrigator.com.au/story/9371507/federal-mp-loses-leg-fighting-for-life-after-attack/",
+                "record_id": "1328845730",
+                "url": "https://www.dailyadvertiser.com.au/story/9372183/strike-cancelled-after-doctors-reach-last-minute-deal/",
                 "related_urls": [],
                 "title": "",
-                "mentions": 70,
-                "sources": 5,
-                "goldstein": -5.0,
-                "tone": -6.55963641872443,
-                "score": 130.0,
-                "keyword": "의원 피습 다리 절단",
-                "hook": "호주 정계가 충격에 빠졌습니다. 현직 의원이 괴한의 습격으로 다리를 잃었습니다.",
-                "script": "생사를 넘나드는 끔찍한 공격이 발생했습니다. 현직 의원이 피습당해 다리를 절단하는 중상을 입으며 호주 전역에 보안 비상이 걸렸습니다. 도대체 누가, 왜 이런 짓을 벌인 걸까요?",
-                "sentiment": "negative"
+                "mentions": 80,
+                "sources": 4,
+                "goldstein": 3.5,
+                "tone": -0.668844709916183,
+                "score": 131.0
+            },
+            {
+                "record_id": "1328804400",
+                "url": "https://www.hepburnadvocate.com.au/story/9371507/driver-allegedly-rammed-mp-reversed-hit-her-again/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 2,
+                "goldstein": -10.0,
+                "tone": -6.46900269541779,
+                "score": 123.0
             }
         ],
-        "last_updated": "2026-10-21 20:43:11 KST",
+        "last_updated": "2026-10-22 02:08:12 KST",
         "current_rank": 2
     },
     "United Kingdom": {
         "gdp_rank": 6,
-        "spike_score": 678.5,
+        "spike_score": 1045.0,
         "trends": [
             {
-                "record_id": "1328877224",
+                "record_id": "1329118877",
+                "url": "https://www.wharfedaleobserver.co.uk/news/national/26658132.ring-fence-energy-fund-north-east-scotland-says-swinney/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 12,
+                "goldstein": 7.4,
+                "tone": 0.37313432835821,
+                "score": 372.0
+            },
+            {
+                "record_id": "1329127122",
+                "url": "https://www.london-now.co.uk/news/national/26657877.change-will-come-antisemitism-englands-schools---education-secretary/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 140,
+                "sources": 14,
+                "goldstein": 3.0,
+                "tone": -1.43369175627241,
+                "score": 208.0
+            },
+            {
+                "record_id": "1328876782",
                 "url": "https://www.wiltshiretimes.co.uk/news/national/26652539.revolut-services-google-cloud-apologises-outage/",
                 "related_urls": [],
                 "title": "",
@@ -173,25 +171,21 @@
                 "goldstein": 4.0,
                 "tone": -4.66666666666667,
                 "score": 166.0,
-                "keyword": "레볼루트 접속 장애",
-                "hook": "내 돈이 사라졌다? 레볼루트 서비스 마비에 사용자들 패닉.",
-                "script": "유명 핀테크 앱 레볼루트가 구글 클라우드 오류로 먹통이 됐습니다. 갑작스러운 접속 장애에 사용자들의 불안은 극에 달했습니다. 기술적 오류가 금융 시스템에 끼치는 치명적인 영향, 지금 바로 확인하세요.",
-                "sentiment": "warning"
+                "keyword": "레볼루트 서비스 마비",
+                "hook": "수많은 사용자가 이용하는 레볼루트 앱이 갑작스러운 서버 오류로 먹통이 되며 대혼란이 벌어졌습니다.",
+                "script": "내 돈은 어디에 있을까요? 인기 금융 앱 레볼루트가 구글 클라우드 장애로 인해 전 세계적인 서비스 중단 사태를 겪었습니다. 결제도, 송금도 불가능해진 사용자들의 분노가 폭발하고 있습니다. 이번 사태의 정확한 원인과 대응책을 지금 확인하십시오.",
+                "sentiment": "negative"
             },
             {
-                "record_id": "1329054792",
+                "record_id": "1329054791",
                 "url": "https://www.worcesternews.co.uk/news/national/26655867.fahnbulleh-declines-back-home-secretarys-plan-extend-wait-settlement/",
                 "related_urls": [],
                 "title": "",
                 "mentions": 80,
                 "sources": 8,
-                "goldstein": -5.0,
+                "goldstein": 5.0,
                 "tone": -2.12742000125905,
-                "score": 162.0,
-                "keyword": "정착 비자 연장",
-                "hook": "이민자들의 희망이 좌절됐다, 정착 비자 연장 계획이 무산되었습니다.",
-                "script": "영국 내 정착을 꿈꾸던 이들에게 청천벽력 같은 소식입니다. 정부의 비자 연장 계획이 거부되면서 수많은 이들이 혼란에 빠졌습니다. 영국의 이민 정책, 어디로 향하고 있는 걸까요?",
-                "sentiment": "negative"
+                "score": 162.0
             },
             {
                 "record_id": "1329039941",
@@ -202,50 +196,27 @@
                 "sources": 6,
                 "goldstein": -7.2,
                 "tone": 2.20440881763527,
-                "score": 137.0,
-                "keyword": "잭도우 사업 승인",
-                "hook": "에너지 안보인가 환경 파괴인가, 잭도우 결정에 영국이 들썩입니다.",
-                "script": "잭도우 가스전 사업이 마침내 승인되었습니다. 산업계는 환호하지만, 환경 단체의 반발은 거셉니다. 로즈뱅크 사업과 함께 영국의 미래 에너지를 책임질 수 있을까요? 찬반 논란의 뜨거운 현장입니다.",
-                "sentiment": "neutral"
-            },
-            {
-                "record_id": "1328861732",
-                "url": "https://www.halsteadgazette.co.uk/news/national/26652052.toto-embark-uk-arena-tour-mark-50th-anniversary/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 90,
-                "sources": 9,
-                "goldstein": 0.0,
-                "tone": 3.27868852459016,
-                "score": 123.5,
-                "keyword": "토토 50주년 투어",
-                "hook": "전설이 돌아온다, 토토가 50주년 투어로 영국을 점령합니다.",
-                "script": "전설적인 밴드 토토가 데뷔 50주년을 맞아 영국 아레나 투어를 확정했습니다. 세대를 초월한 그들의 명곡들이 영국 전역에 울려 퍼집니다. 티켓 전쟁 예고, 팬들의 심장이 다시 뛰기 시작합니다.",
-                "sentiment": "positive"
-            },
-            {
-                "record_id": "1329009803",
-                "url": "https://www.tivysideadvertiser.co.uk/news/national/26655512.actor-noel-clarke-appear-court-charged-sexual-offences/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 78,
-                "sources": 13,
-                "goldstein": -5.0,
-                "tone": -5.5921052631579,
-                "score": 90.0,
-                "keyword": "노엘 클라크 법정",
-                "hook": "화려한 스포트라이트 뒤의 추악한 진실, 배우 노엘 클라크가 법정에 섭니다.",
-                "script": "성범죄 혐의로 기소된 배우 노엘 클라크가 다시 법정에 출두합니다. 영국 연예계를 충격에 빠뜨린 이번 사건, 과연 정의는 실현될까요? 재판의 결과에 온 국민의 시선이 집중되고 있습니다.",
-                "sentiment": "negative"
+                "score": 137.0
             }
         ],
-        "last_updated": "2026-10-21 20:43:11 KST",
+        "last_updated": "2026-10-22 02:08:12 KST",
         "current_rank": 3
     },
     "Russia": {
         "gdp_rank": 11,
-        "spike_score": 395.0,
+        "spike_score": 522.0,
         "trends": [
+            {
+                "record_id": "1329110878",
+                "url": "https://www.wfae.org/world/2026-10-21/russia-releases-imprisoned-u-s-citizen-stephen-hubbard-following-trumps-request",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 8,
+                "goldstein": 7.4,
+                "tone": -2.97872340425532,
+                "score": 180.5
+            },
             {
                 "record_id": "1329017893",
                 "url": "https://www.rhein-zeitung.de/deutschland-welt/politik/trump-gesandter-witkoff-reist-nach-russland_arid-4164009.html",
@@ -255,14 +226,21 @@
                 "sources": 8,
                 "goldstein": 7.0,
                 "tone": -3.66227312491042,
-                "score": 96.0,
-                "keyword": "트럼프 특사 러시아행",
-                "hook": "트럼프의 핵심 측근이 지금 러시아로 향하고 있습니다.",
-                "script": "트럼프 당선인의 특사 위트코프가 러시아를 방문합니다. 국제 정세의 거대한 변화가 예고된 가운데, 이번 회담이 우크라이나 전쟁의 향방을 어떻게 바꿀지 전 세계가 숨죽여 지켜보고 있습니다.",
-                "sentiment": "warning"
+                "score": 96.0
             },
             {
-                "record_id": "1328944044",
+                "record_id": "1329114426",
+                "url": "https://www.countytimes.co.uk/news/national/26657939.putin-agrees-resume-talks-ukraine-war-kyiv-washington---kremlin/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 87,
+                "sources": 15,
+                "goldstein": 4.0,
+                "tone": -2.20502838896893,
+                "score": 93.5
+            },
+            {
+                "record_id": "1328943940",
                 "url": "https://informpskov.ru/news/520891.html",
                 "related_urls": [],
                 "title": "",
@@ -282,40 +260,14 @@
                 "goldstein": -4.4,
                 "tone": -1.47186147186147,
                 "score": 74.0
-            },
-            {
-                "record_id": "1329074940",
-                "url": "http://www.tz.de/politik/trump-verkuendet-putin-laesst-inhaftierten-us-buerger-stephen-hubbard-frei-zr-94551414.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 70,
-                "sources": 7,
-                "goldstein": -5.0,
-                "tone": -3.90390390390391,
-                "score": 74.0
-            },
-            {
-                "record_id": "1328967400",
-                "url": "https://novosti.dn.ua/news/403647-rosijska-armiya-z-rszv-obstrilyala-harkiv-poshkodzhene-pidpryyemstvo-postrazhdaly-devyat-lyudej/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 42,
-                "sources": 1,
-                "goldstein": -10.0,
-                "tone": -6.13496932515337,
-                "score": 73.0,
-                "keyword": "하르키우 미사일 공습",
-                "hook": "하르키우가 다시 한번 불길에 휩싸였습니다.",
-                "script": "러시아군의 무차별 포격으로 하르키우의 기업 시설이 파괴되고 9명의 사상자가 발생했습니다. 멈추지 않는 전쟁의 공포, 현장의 긴박한 상황을 지금 전합니다.",
-                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-21 20:43:11 KST",
+        "last_updated": "2026-10-22 02:08:12 KST",
         "current_rank": 4
     },
     "Germany": {
         "gdp_rank": 3,
-        "spike_score": 353.0,
+        "spike_score": 357.0,
         "trends": [
             {
                 "record_id": "1328918347",
@@ -326,14 +278,10 @@
                 "sources": 6,
                 "goldstein": 3.0,
                 "tone": 1.67038121417699,
-                "score": 151.0,
-                "keyword": "독일 티켓 할인 도입",
-                "hook": "기차표 가격이 가벼워진다, 독일 교통 시스템의 파격적인 변화가 시작됩니다.",
-                "script": "독일 교통부가 '라이트 티켓' 카드를 꺼내 들었습니다. 가끔 기차를 타는 시민들에게 희소식입니다. 잦은 토론 끝에 마련된 이번 정책이 독일의 대중교통 이용률을 얼마나 끌어올릴지 관심이 집중됩니다.",
-                "sentiment": "positive"
+                "score": 151.0
             },
             {
-                "record_id": "1329061772",
+                "record_id": "1329061985",
                 "url": "https://www.aktiencheck.de/analysen/Artikel-OTS_HDBank_Sovico_und_Hamburg_schliessen_Partnerschaft_zur_Staerkung-20187637",
                 "related_urls": [],
                 "title": "",
@@ -341,11 +289,7 @@
                 "sources": 2,
                 "goldstein": 1.0,
                 "tone": 3.27868852459016,
-                "score": 66.0,
-                "keyword": "함부르크 은행 협력",
-                "hook": "독일과 베트남의 만남, 금융 시장의 새로운 거인이 탄생합니다.",
-                "script": "HDBank와 소비코, 그리고 함부르크가 손을 잡았습니다. 글로벌 금융 네트워크 강화를 위한 대규모 파트너십이 체결되었습니다. 경제적 시너지가 기대되는 이번 협약, 글로벌 시장의 판도가 바뀝니다.",
-                "sentiment": "positive"
+                "score": 66.0
             },
             {
                 "record_id": "1328910525",
@@ -356,11 +300,7 @@
                 "sources": 5,
                 "goldstein": -2.0,
                 "tone": -1.25710921388562,
-                "score": 50.0,
-                "keyword": "미국 UFO 연구소",
-                "hook": "하늘에 무엇이 있는가, 미국이 마침내 공식적인 UFO 연구를 시작합니다.",
-                "script": "트럼프 행정부가 학계와 손잡고 UFO 연구 위원회를 구성했습니다. 더 이상 미스터리로 남겨두지 않겠다는 의지입니다. 외계 생명체인가, 아니면 최첨단 무기인가? 진실을 향한 미국의 도전에 전 세계가 주목하고 있습니다.",
-                "sentiment": "negative"
+                "score": 50.0
             },
             {
                 "record_id": "1328833992",
@@ -371,34 +311,30 @@
                 "sources": 4,
                 "goldstein": 3.0,
                 "tone": 0.418585475820808,
-                "score": 48.0,
-                "keyword": "공무원 건강보험 개혁",
-                "hook": "독일 정부의 예산 절감, 공무원들의 건강보험 혜택이 도마 위에 올랐습니다.",
-                "script": "정부의 GKV 개혁안이 공무원들의 지갑을 겨냥하고 있습니다. 예산을 아끼기 위한 고육지책이라지만, 내부 반발은 만만치 않습니다. 과연 독일의 이번 개혁이 재정 건전성과 민심을 모두 잡을 수 있을까요?",
-                "sentiment": "neutral"
+                "score": 48.0
             },
             {
-                "record_id": "1329082813",
-                "url": "https://www.gea.de/welt/weltspiegel_artikel,-emmas-gr%C3%B6%C3%9Fte-kontroversen-und-kampagnen-_arid,7172579.html",
+                "record_id": "1329134644",
+                "url": "http://www.kreisbote.de/ratgeber/verbraucher/weltweite-it-sicherheitsluecke-behoerden-schalten-webseiten-ab-bsi-warnt-zr-94552287.html",
                 "related_urls": [],
                 "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": -2.0,
-                "tone": -7.13497439207887,
-                "score": 38.0,
-                "keyword": "엠마 잡지 논란",
-                "hook": "독일 여성주의의 상징, 엠마가 쏟아지는 비난의 중심에 섰습니다.",
-                "script": "엠마 잡지의 캠페인이 독일 사회를 뒤흔들고 있습니다. 오랜 명성만큼이나 거센 논란, 과연 무엇이 문제일까요? 페미니즘의 아이콘이 직면한 최대의 위기, 그 속사정을 낱낱이 파헤칩니다.",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 0.0,
+                "tone": -4.72840040715252,
+                "score": 42.0,
+                "keyword": "전국 웹사이트 마비",
+                "hook": "전 세계를 강타한 치명적인 보안 결함으로 인해 독일 관공서의 웹사이트가 줄줄이 폐쇄되고 있습니다.",
+                "script": "지금 당장 PC 보안을 점검하십시오. 전 세계적인 IT 보안 취약점이 발견되면서 독일 정부 기관들이 잇따라 웹사이트 접속을 차단했습니다. 개인정보 유출 위험이 최고조에 달한 지금, 당신의 디지털 자산은 안전합니까?",
                 "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-21 20:43:11 KST",
+        "last_updated": "2026-10-22 02:08:12 KST",
         "current_rank": 5
     },
     "France": {
         "gdp_rank": 7,
-        "spike_score": 307.0,
+        "spike_score": 346.5,
         "trends": [
             {
                 "record_id": "1328939862",
@@ -409,11 +345,7 @@
                 "sources": 11,
                 "goldstein": -5.0,
                 "tone": -6.45994832041344,
-                "score": 203.0,
-                "keyword": "프랑스 야간 통행금지",
-                "hook": "파리와 리옹의 거리가 텅 비었습니다, 폭동이 남긴 끔찍한 흔적.",
-                "script": "연이은 폭동 끝에 프랑스 정부가 야간 통행금지령을 내렸습니다. 파리와 리옹의 밤은 이제 적막뿐입니다. 민주주의의 심장부가 왜 이토록 불타올랐는지, 현장의 목소리를 통해 확인합니다.",
-                "sentiment": "warning"
+                "score": 203.0
             },
             {
                 "record_id": "1328840405",
@@ -424,37 +356,89 @@
                 "sources": 1,
                 "goldstein": -5.8,
                 "tone": -1.41807464104527,
-                "score": 66.0,
-                "keyword": "프랑스 시위 격화",
-                "hook": "최루탄 가스가 거리를 뒤덮고, 시민들의 분노가 폭발합니다.",
-                "script": "프랑스 곳곳에서 시위대와 경찰의 충돌이 격화되고 있습니다. 평화롭던 거리는 전쟁터를 방불케 합니다. 마크롱 정부를 향한 성난 민심, 프랑스의 내일이 위태롭습니다.",
+                "score": 66.0
+            },
+            {
+                "record_id": "1329125603",
+                "url": "https://www.index.hr/magazin/clanak/luka-rajic-jr-dijeli-savjete-kako-se-obogatiti-za-pocetak-vjerujte-u-sebe/2848190.aspx?index_ref=homepage_comment_box_d&commentId=12304157",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": 1.9,
+                "tone": 2.33333333333333,
+                "score": 46.5
+            },
+            {
+                "record_id": "1329125839",
+                "url": "https://www.sigmalive.com/news/international/1334363/parisi-nea-apaghorefsi-kikloforias-ghia-triti-sinekhomeni-nykhta",
+                "related_urls": [],
+                "title": "",
+                "mentions": 42,
+                "sources": 5,
+                "goldstein": 0.0,
+                "tone": -7.82175104603309,
+                "score": 31.0,
+                "keyword": "파리 야간 통행금지",
+                "hook": "폭동의 불길이 사그라지지 않자 파리 시내에 3일 연속 야간 통행금지령이 내려졌습니다.",
+                "script": "파리의 밤이 멈췄습니다. 연이은 폭동 사태로 인해 당국이 파리와 리옹 전역에 강제 야간 통행금지를 발령했습니다. 거리에는 긴장감만 감돌고 있습니다. 지금 파리에서 벌어지고 있는 극도의 혼란을 실시간으로 전합니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-10-22 02:08:12 KST",
+        "current_rank": 6
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 330.5,
+        "trends": [
+            {
+                "record_id": "1329118852",
+                "url": "https://www.wharfedaleobserver.co.uk/news/national/26658132.ring-fence-energy-fund-north-east-scotland-says-swinney/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 12,
+                "goldstein": 2.8,
+                "tone": 0.37313432835821,
+                "score": 191.5
+            },
+            {
+                "record_id": "1329069392",
+                "url": "https://novosti.dn.ua/news/403715-armiya-rf-obstrilyala-donechchynu-26-raziv-poshkodzheno-ponad-20-budynkiv/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -1.14285714285715,
+                "score": 87.0,
+                "keyword": "도네츠크 무차별 포격",
+                "hook": "도네츠크 지역에 26차례의 포격이 쏟아지며 주택 20여 채가 순식간에 잿더미로 변했습니다.",
+                "script": "끝나지 않는 공포입니다. 러시아군이 도네츠크를 향해 무차별적인 포격을 가했습니다. 마을 곳곳이 파괴되고 주민들은 생존의 기로에 섰습니다. 지금 현장에서 벌어지고 있는 참혹한 실상을 낱낱이 공개합니다.",
                 "sentiment": "negative"
             },
             {
-                "record_id": "1328875765",
-                "url": "http://www.az-online.de/politik/warum-sind-in-frankreich-unruhen-ausgebrochen-proteste-macron-demonstrationen-zr-94549753.html",
+                "record_id": "1328798469",
+                "url": "https://www.legallyindia.com/convos/topic/499636-cap-marks-guidance",
                 "related_urls": [],
                 "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": -2.0,
-                "tone": -6.45577792123951,
-                "score": 38.0,
-                "keyword": "프랑스 폭동 원인",
-                "hook": "프랑스는 왜 불타고 있는가, 분노의 근원을 파헤칩니다.",
-                "script": "마크롱 정부에 대한 불신이 임계점을 넘었습니다. 왜 프랑스 시민들은 거리로 쏟아져 나와 폭동을 일으켰을까요? 단순한 시위를 넘어선 사회적 병폐, 그 깊은 뿌리를 분석합니다.",
-                "sentiment": "negative"
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.57216807359607,
+                "score": 52.0
             }
         ],
-        "last_updated": "2026-10-21 20:43:11 KST",
-        "current_rank": 6
+        "last_updated": "2026-10-22 02:08:12 KST",
+        "current_rank": 7
     },
     "China": {
         "gdp_rank": 2,
         "spike_score": 207.0,
         "trends": [
             {
-                "record_id": "1329080646",
+                "record_id": "1329081982",
                 "url": "https://www.stroudnewsandjournal.co.uk/news/national/26655808.trump-envoy-witkoff-meets-putin-st-petersburg-ukraine-war-talks/",
                 "related_urls": [],
                 "title": "",
@@ -462,11 +446,7 @@
                 "sources": 9,
                 "goldstein": 4.0,
                 "tone": -1.79282868525897,
-                "score": 130.0,
-                "keyword": "트럼프 특사 푸틴 회담",
-                "hook": "우크라이나 전쟁의 운명을 바꿀 비밀 회담이 상트페테르부르크에서 열렸습니다.",
-                "script": "트럼프의 특사 위트코프가 푸틴을 직접 만났습니다. 우크라이나 전쟁 종식을 위한 전격적인 담판일까요? 세계의 이목이 쏠린 가운데, 이들의 비밀 회담이 향후 국제 정세에 어떤 파장을 몰고 올지 지금 바로 분석합니다.",
-                "sentiment": "negative"
+                "score": 130.0
             },
             {
                 "record_id": "1328923988",
@@ -478,66 +458,13 @@
                 "goldstein": 7.4,
                 "tone": -1.84682237914177,
                 "score": 77.0,
-                "keyword": "중국 우주 패권 경쟁",
-                "hook": "지구는 좁다, 중국이 우주를 향한 위험한 질주를 시작했습니다.",
-                "script": "우주를 지배하는 자가 세계를 지배한다. 중국이 우주 패권을 쥐기 위해 속도를 높이고 있습니다. 미국과의 보이지 않는 전쟁, 그 뜨거운 현장을 추적합니다. 인류의 미래가 걸린 우주 경쟁, 과연 승자는 누가 될까요?",
+                "keyword": "우주 패권 전쟁",
+                "hook": "지구를 넘어 우주까지, 중국이 압도적인 속도로 우주 주도권을 장악하기 시작했습니다.",
+                "script": "우주를 지배하는 자가 미래를 지배합니다. 중국이 우주 탐사 프로젝트를 가속화하며 전 세계 우주 패권 경쟁의 판도를 흔들고 있습니다. 미국의 아성에 도전하는 중국의 거침없는 질주, 과연 누가 최후의 승자가 될까요? 지금 바로 분석합니다.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-21 20:43:11 KST",
-        "current_rank": 7
-    },
-    "India": {
-        "gdp_rank": 5,
-        "spike_score": 172.0,
-        "trends": [
-            {
-                "record_id": "1329069392",
-                "url": "https://novosti.dn.ua/news/403715-armiya-rf-obstrilyala-donechchynu-26-raziv-poshkodzheno-ponad-20-budynkiv/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 70,
-                "sources": 1,
-                "goldstein": -10.0,
-                "tone": -1.14285714285715,
-                "score": 87.0,
-                "keyword": "도네츠크 26회 폭격",
-                "hook": "멈추지 않는 포격, 도네츠크의 밤이 화염으로 뒤덮였습니다.",
-                "script": "러시아군의 26차례 집중 폭격으로 도네츠크가 폐허가 되었습니다. 무너진 건물만 20채 이상, 공포에 질린 주민들은 갈 곳을 잃었습니다. 전쟁의 비극이 극에 달한 현장, 지금 바로 전해드립니다.",
-                "sentiment": "warning"
-            },
-            {
-                "record_id": "1328798469",
-                "url": "https://www.legallyindia.com/convos/topic/499636-cap-marks-guidance",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 1,
-                "goldstein": -5.0,
-                "tone": 2.57216807359607,
-                "score": 52.0,
-                "keyword": "캡마크 가이드라인 발표",
-                "hook": "인도 법률 시장의 새로운 기준, 캡마크가 명확한 지침을 제시합니다.",
-                "script": "캡마크가 최근 가이드라인을 발표하며 법적 혼선을 잠재우고 있습니다. 시장의 투명성을 높이기 위한 이번 조치, 인도 법조계의 반응은 뜨겁습니다. 변화하는 비즈니스 환경, 그 중심에 선 캡마크의 행보를 주목하십시오.",
-                "sentiment": "positive"
-            },
-            {
-                "record_id": "1328791572",
-                "url": "http://www.afghanistansun.com/news/279385903/marco-rubio-to-commence-three-day-visit-to-india-trade-deal-talks-with-jaishankar-on-agenda",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": 1.0,
-                "tone": -0.29673590504451,
-                "score": 33.0,
-                "keyword": "루비오 인도 방문",
-                "hook": "미국과 인도의 밀월 관계, 루비오가 인도 땅을 밟습니다.",
-                "script": "마르코 루비오가 인도를 방문해 자이샨카르 외무장관과 무역 담판을 벌입니다. 글로벌 공급망 재편의 핵심, 두 나라의 이번 만남이 가져올 경제적 파급력은 무엇일까요? 양국 관계의 새로운 전환점이 될 3일간의 여정이 시작됩니다.",
-                "sentiment": "neutral"
-            }
-        ],
-        "last_updated": "2026-10-21 20:43:11 KST",
+        "last_updated": "2026-10-22 02:08:12 KST",
         "current_rank": 8
     },
     "Mexico": {
@@ -553,11 +480,7 @@
                 "sources": 3,
                 "goldstein": -4.0,
                 "tone": -5.46477363291132,
-                "score": 54.0,
-                "keyword": "UN 강제 실종 보고서",
-                "hook": "멕시코 정부가 UN의 실종 사건 보고서를 전면 거부했습니다.",
-                "script": "UN이 제기한 멕시코의 강제 실종 문제에 대해 정부가 강하게 반발하고 나섰습니다. 치안 전략을 방어하는 정부와 국제 사회의 대립, 그 진실은 무엇일까요?",
-                "sentiment": "negative"
+                "score": 54.0
             },
             {
                 "record_id": "1329025179",
@@ -582,7 +505,7 @@
                 "score": 37.0
             }
         ],
-        "last_updated": "2026-10-21 20:43:11 KST",
+        "last_updated": "2026-10-22 02:08:12 KST",
         "current_rank": 9
     },
     "Brazil": {
@@ -598,34 +521,26 @@
                 "sources": 1,
                 "goldstein": 3.0,
                 "tone": 2.21602724223996,
-                "score": 129.5,
-                "keyword": "보니투 상파울루 직항",
-                "hook": "남미의 낙원 보니투로 가는 하늘길이 드디어 뚫렸습니다.",
-                "script": "라탐 항공이 이번 일요일부터 보니투와 상파울루를 잇는 직항 노선을 운항합니다. 관광객들의 접근성이 대폭 개선되면서 브라질 경제에도 활력을 불어넣을 것으로 기대됩니다.",
-                "sentiment": "positive"
+                "score": 129.5
             }
         ],
-        "last_updated": "2026-10-21 20:43:11 KST",
+        "last_updated": "2026-10-22 02:08:12 KST",
         "current_rank": 10
     },
     "Italy": {
         "gdp_rank": 8,
-        "spike_score": 122.0,
+        "spike_score": 127.5,
         "trends": [
             {
-                "record_id": "1329070494",
-                "url": "https://www.illawarramercury.com.au/story/9373019/pope-takes-to-popemobile-for-first-time-since-surgery/",
+                "record_id": "1329142231",
+                "url": "https://www.zazoom.it/soluzioni-cruciverba/definizione/2026-10-21-scienziato-atomico-italiano-che-trasferi-russia-nel-1950--18-29/988906/",
                 "related_urls": [],
                 "title": "",
-                "mentions": 40,
-                "sources": 5,
-                "goldstein": 8.0,
-                "tone": -0.150164341435206,
-                "score": 70.0,
-                "keyword": "교황 수술 후 첫 등장",
-                "hook": "수술 이후 침묵을 지키던 교황이 드디어 대중 앞에 모습을 드러냈습니다.",
-                "script": "교황이 수술 후 처음으로 포프모빌에 탑승했습니다. 건강 이상설을 잠재우며 바티칸 광장에 등장한 그의 모습에 전 세계가 주목하고 있습니다. 과연 그의 건강 상태는 어떤지 지금 바로 확인하시죠.",
-                "sentiment": "neutral"
+                "mentions": 52,
+                "sources": 1,
+                "goldstein": -9.5,
+                "tone": 3.07017543859649,
+                "score": 75.5
             },
             {
                 "record_id": "1329062132",
@@ -636,14 +551,10 @@
                 "sources": 6,
                 "goldstein": -2.0,
                 "tone": -9.75422971296921,
-                "score": 52.0,
-                "keyword": "채무 갈등 살인 미수",
-                "hook": "돈 문제로 시작된 비극, 34세 남성이 살인 미수 혐의로 긴급 체포되었습니다.",
-                "script": "빚을 갚으라는 요구가 끔찍한 범죄로 변했습니다. 이탈리아에서 채무 관계를 빌미로 한 폭행 사건이 발생해 용의자가 체포되고 공범이 추적 중입니다. 무너진 공권력과 치안 상황을 전합니다.",
-                "sentiment": "negative"
+                "score": 52.0
             }
         ],
-        "last_updated": "2026-10-21 20:43:11 KST",
+        "last_updated": "2026-10-22 02:08:12 KST",
         "current_rank": 11
     },
     "Turkey": {
@@ -659,11 +570,7 @@
                 "sources": 5,
                 "goldstein": 3.4,
                 "tone": -4.7905733796411,
-                "score": 52.0,
-                "keyword": "대규모 펀드 사기",
-                "hook": "수십 명의 피의자가 한꺼번에 검거되며 터키 금융권이 발칵 뒤집혔습니다.",
-                "script": "터키 금융계를 뒤흔든 대규모 펀드 사기 사건입니다. 검찰이 31명의 피의자를 정조준하며 대대적인 검거 작전에 돌입했습니다. 투자자들의 돈이 어디로 사라졌는지, 이번 수사가 거물급 인사들을 향할지 전 국민의 시선이 집중되고 있습니다.",
-                "sentiment": "negative"
+                "score": 52.0
             },
             {
                 "record_id": "1328880962",
@@ -674,14 +581,10 @@
                 "sources": 4,
                 "goldstein": -2.0,
                 "tone": -5.35412004639391,
-                "score": 48.0,
-                "keyword": "불법 도청 논란",
-                "hook": "법적 근거 없는 무차별 도청 의혹이 터지며 인권 침해 논란이 확산하고 있습니다.",
-                "script": "시위대를 향한 무차별적인 도청과 폭력 의혹이 제기됐습니다. 법원 영장도 없이 진행된 통신 감청 실태가 낱낱이 드러나면서 시민들의 분노가 극에 달하고 있습니다. 인권 보호를 외쳐야 할 당국이 오히려 불법의 온상이 된 실태를 고발합니다.",
-                "sentiment": "warning"
+                "score": 48.0
             }
         ],
-        "last_updated": "2026-10-21 20:43:11 KST",
+        "last_updated": "2026-10-22 02:08:12 KST",
         "current_rank": 12
     },
     "Saudi Arabia": {
@@ -697,14 +600,10 @@
                 "sources": 1,
                 "goldstein": 6.0,
                 "tone": -4.92491570126531,
-                "score": 99.0,
-                "keyword": "영국군 공중 방어",
-                "hook": "영국 전투기가 사우디 영공을 직접 방어하는 긴박한 상황이 벌어졌습니다.",
-                "script": "중동의 긴장 수위가 최고조에 달했습니다. 영국군이 사우디아라비아 영공 보호를 위해 긴급 방어 임무를 수행합니다. 단순한 군사 협력을 넘어 실전 투입이 임박했다는 신호입니다. 과연 이 지역의 화약고가 폭발할지 전 세계가 숨죽여 지켜보고 있습니다.",
-                "sentiment": "negative"
+                "score": 99.0
             }
         ],
-        "last_updated": "2026-10-21 20:43:11 KST",
+        "last_updated": "2026-10-22 02:08:12 KST",
         "current_rank": 13
     },
     "South Korea": {
@@ -720,14 +619,10 @@
                 "sources": 1,
                 "goldstein": -9.5,
                 "tone": -1.97183098591549,
-                "score": 70.5,
-                "keyword": "국가 안보 비상 사태",
-                "hook": "대한민국 안보에 적신호가 켜졌습니다.",
-                "script": "한반도를 둘러싼 긴장감이 극에 달하고 있습니다. 주요 안보 지표가 곤두박질치며 국가적 위기감이 고조되는 가운데, 정부의 대응책에 관심이 집중됩니다.",
-                "sentiment": "warning"
+                "score": 70.5
             }
         ],
-        "last_updated": "2026-10-21 20:43:11 KST",
+        "last_updated": "2026-10-22 02:08:12 KST",
         "current_rank": 14
     }
 }
