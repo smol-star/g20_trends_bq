@@ -1,7 +1,7 @@
 {
     "United Kingdom": {
         "gdp_rank": 6,
-        "spike_score": 1166.5,
+        "spike_score": 1397.5,
         "trends": [
             {
                 "record_id": "1329118877",
@@ -15,6 +15,28 @@
                 "score": 372.0
             },
             {
+                "record_id": "1329331330",
+                "url": "https://www.thecomet.net/news/national/26662230.wales-must-prepare-another-difficult-season-wildfires-fm-warns/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 7.0,
+                "tone": -0.804932475511507,
+                "score": 325.0
+            },
+            {
+                "record_id": "1329327910",
+                "url": "https://www.hampshirechronicle.co.uk/news/national/26662084.pc-sharon-beshenivsky-killer-given-second-life-sentence-gun-conspiracy/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 8,
+                "goldstein": -10.0,
+                "tone": -8.34437086092714,
+                "score": 294.0
+            },
+            {
                 "record_id": "1329127122",
                 "url": "https://www.london-now.co.uk/news/national/26657877.change-will-come-antisemitism-englands-schools---education-secretary/",
                 "related_urls": [],
@@ -26,17 +48,6 @@
                 "score": 208.0
             },
             {
-                "record_id": "1329163754",
-                "url": "https://www.royston-crow.co.uk/news/national/26659048.ira-lawyers-comment-blasted-shameful-ni-first-minister/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 66,
-                "sources": 11,
-                "goldstein": 7.0,
-                "tone": -5.0303161301785,
-                "score": 206.0
-            },
-            {
                 "record_id": "1329258323",
                 "url": "https://www.halesowennews.co.uk/news/national/26659378.history-boys-returns-west-end-first-time-20-years/",
                 "related_urls": [],
@@ -46,25 +57,14 @@
                 "goldstein": 2.8,
                 "tone": 4.16666666666666,
                 "score": 198.5
-            },
-            {
-                "record_id": "1329199966",
-                "url": "https://www.royston-crow.co.uk/news/national/26658133.murderer-says-killed-i-totally-get-familys-pain-now/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 48,
-                "sources": 8,
-                "goldstein": -2.0,
-                "tone": -8.66748663997717,
-                "score": 182.0
             }
         ],
-        "last_updated": "2026-10-22 20:46:24 KST",
+        "last_updated": "2026-10-23 02:07:08 KST",
         "current_rank": 1
     },
     "Australia": {
         "gdp_rank": 13,
-        "spike_score": 948.5,
+        "spike_score": 942.5,
         "trends": [
             {
                 "record_id": "1328991494",
@@ -75,11 +75,7 @@
                 "sources": 6,
                 "goldstein": 1.0,
                 "tone": -6.10080844012814,
-                "score": 323.0,
-                "keyword": "의원실 테러 위협",
-                "hook": "호주 정치권이 발칵 뒤집혔습니다. 의원을 향한 치명적인 공격, 도대체 누가 왜 이런 짓을 벌인 걸까요?",
-                "script": "호주 의원들이 긴급 보안 브리핑에 소집되었습니다. 생명을 위협하는 공격이 발생했기 때문입니다. 범인은 의회 내부를 겨냥해 끔찍한 위협을 가했습니다. 현장 분위기는 초긴장 상태입니다. 과연 의사당은 안전한가요? 지금 즉시 보안 강화 조치가 시행되고 있습니다.",
-                "sentiment": "warning"
+                "score": 323.0
             },
             {
                 "record_id": "1329007989",
@@ -114,30 +110,26 @@
                 "sources": 8,
                 "goldstein": 3.0,
                 "tone": -8.18811664770493,
-                "score": 135.0,
-                "keyword": "의원 습격범 법정",
-                "hook": "충격적인 의원 습격 사건, 범인이 드디어 법의 심판대 앞에 섰습니다.",
-                "script": "호주 전역을 분노케 한 의원 습격 사건의 범인이 법원에 출두했습니다. 피해자는 생사의 갈림길을 오갔고, 국민들은 분노했습니다. 법정 밖은 취재진과 시민들로 아수라장입니다. 재판부는 과연 어떤 판결을 내릴까요? 사건의 전말이 곧 드러납니다.",
-                "sentiment": "negative"
+                "score": 135.0
             },
             {
-                "record_id": "1329140300",
-                "url": "https://www.ulladullatimes.com.au/story/9373042/mining-behemoth-faces-copper-questions-coal-protests/",
+                "record_id": "1329029590",
+                "url": "https://www.theadvocate.com.au/story/9372877/no-surrender-un-urges-action-as-15c-goal-slips-away/",
                 "related_urls": [],
                 "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": 4.0,
-                "tone": -0.528910497999987,
-                "score": 96.0
+                "mentions": 48,
+                "sources": 8,
+                "goldstein": 10.0,
+                "tone": -5.03172460744036,
+                "score": 90.0
             }
         ],
-        "last_updated": "2026-10-22 20:46:24 KST",
+        "last_updated": "2026-10-23 02:07:08 KST",
         "current_rank": 2
     },
     "United States": {
         "gdp_rank": 1,
-        "spike_score": 753.5,
+        "spike_score": 713.0,
         "trends": [
             {
                 "record_id": "1329154740",
@@ -151,28 +143,6 @@
                 "score": 171.0
             },
             {
-                "record_id": "1329271569",
-                "url": "https://jetradio1400.iheart.com/content/2026-10-22-la-hbcu-xavier-university-to-open-medical-school/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 60,
-                "sources": 1,
-                "goldstein": 7.0,
-                "tone": 3.70550737034449,
-                "score": 157.0
-            },
-            {
-                "record_id": "1329175765",
-                "url": "https://www.winnipegfreepress.com/world/2026/10/21/visitor-killed-by-piece-of-roof-blown-off-frank-lloyd-wrights-winter-home-in-arizona",
-                "related_urls": [],
-                "title": "",
-                "mentions": 42,
-                "sources": 7,
-                "goldstein": 3.4,
-                "tone": -1.43647072208515,
-                "score": 145.5
-            },
-            {
                 "record_id": "1329070984",
                 "url": "https://www.az-online.de/welt/polizist-erschiesst-einjaehrigen-supermarkt-taeter-kommt-straffrei-davon-kohen-wiley-zr-94551400.html",
                 "related_urls": [],
@@ -181,6 +151,17 @@
                 "sources": 4,
                 "goldstein": -10.0,
                 "tone": -4.0,
+                "score": 141.0
+            },
+            {
+                "record_id": "1329331426",
+                "url": "https://woc1420.iheart.com/content/2026-10-22-eric-danes-posthumous-memoir-reveals-the-subtle-als-sign-he-brushed-off/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 170,
+                "sources": 1,
+                "goldstein": 1.9,
+                "tone": -3.48360655737705,
                 "score": 141.0
             },
             {
@@ -193,14 +174,25 @@
                 "goldstein": -9.0,
                 "tone": -14.070351758794,
                 "score": 139.0
+            },
+            {
+                "record_id": "1329067288",
+                "url": "https://geotimes.ge/?m=5&news_id=131956",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -0.387155470902794,
+                "score": 121.0
             }
         ],
-        "last_updated": "2026-10-22 20:46:24 KST",
+        "last_updated": "2026-10-23 02:07:08 KST",
         "current_rank": 3
     },
     "Russia": {
         "gdp_rank": 11,
-        "spike_score": 527.5,
+        "spike_score": 530.0,
         "trends": [
             {
                 "record_id": "1329110878",
@@ -211,11 +203,7 @@
                 "sources": 8,
                 "goldstein": 7.4,
                 "tone": -2.97872340425532,
-                "score": 180.5,
-                "keyword": "미국인 수감자 석방",
-                "hook": "트럼프의 한마디에 러시아가 수감 중이던 미국인을 전격 석방했습니다.",
-                "script": "러시아 감옥에 갇혀 있던 미국인 스티븐 허바드가 자유의 몸이 됐습니다. 트럼프의 요청 직후 이루어진 이번 결정, 양국 관계의 새로운 국면이 시작되는 것일까요?",
-                "sentiment": "neutral"
+                "score": 180.5
             },
             {
                 "record_id": "1329017893",
@@ -226,11 +214,7 @@
                 "sources": 8,
                 "goldstein": 7.0,
                 "tone": -3.66227312491042,
-                "score": 96.0,
-                "keyword": "러시아 특사 파견",
-                "hook": "트럼프의 측근 위트코프가 러시아행 비행기에 몸을 실었습니다.",
-                "script": "막후 협상은 시작되었습니다. 트럼프의 특사 위트코프가 러시아 모스크바에 도착했습니다. 이번 방문이 전쟁의 판도를 바꿀 수 있을지 전 세계의 시선이 집중되고 있습니다.",
-                "sentiment": "warning"
+                "score": 96.0
             },
             {
                 "record_id": "1329114426",
@@ -241,11 +225,7 @@
                 "sources": 15,
                 "goldstein": 4.0,
                 "tone": -2.20502838896893,
-                "score": 93.5,
-                "keyword": "우크라 전쟁 회담",
-                "hook": "푸틴이 드디어 우크라이나 전쟁 종식을 위한 대화 테이블에 앉기로 했습니다.",
-                "script": "러시아와 우크라이나, 그리고 워싱턴이 다시 대화에 나섭니다. 푸틴 대통령이 전쟁 중단 회담 재개에 동의했다는 소식이 전해졌습니다. 평화의 기회가 온 것일까요?",
-                "sentiment": "positive"
+                "score": 93.5
             },
             {
                 "record_id": "1329240380",
@@ -259,23 +239,86 @@
                 "score": 83.5
             },
             {
-                "record_id": "1329058178",
-                "url": "https://drimble.nl/regio/groningen/groningen-stad/108356122/meerdere-meldingen-van-drones-boven-nederland-maar-kloppen-deze-wel.html",
+                "record_id": "1329298974",
+                "url": "https://700wlw.iheart.com/content/2026-10-22-russia-criticizes-ukraine-peace-proposals/",
                 "related_urls": [],
                 "title": "",
-                "mentions": 100,
+                "mentions": 49,
                 "sources": 1,
-                "goldstein": -4.4,
-                "tone": -1.47186147186147,
-                "score": 74.0
+                "goldstein": -10.0,
+                "tone": -1.79954871149021,
+                "score": 76.5
             }
         ],
-        "last_updated": "2026-10-22 20:46:24 KST",
+        "last_updated": "2026-10-23 02:07:08 KST",
         "current_rank": 4
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 460.5,
+        "trends": [
+            {
+                "record_id": "1329334565",
+                "url": "https://athina984.gr/2026/10/22/marinakis-gia-tsipra-to-rebranding-mporei-na-allaxei-tin-eikona-den-mporei-omos-na-xanagrapsei-tin-istoria/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 4,
+                "goldstein": 8.0,
+                "tone": 0.834346326609913,
+                "score": 237.0
+            },
+            {
+                "record_id": "1329142231",
+                "url": "https://www.zazoom.it/soluzioni-cruciverba/definizione/2026-10-21-scienziato-atomico-italiano-che-trasferi-russia-nel-1950--18-29/988906/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 52,
+                "sources": 1,
+                "goldstein": -9.5,
+                "tone": 3.07017543859649,
+                "score": 75.5
+            },
+            {
+                "record_id": "1329062132",
+                "url": "https://top-channel.tv/2026/10/21/kanosen-nje-person-per-ti-kthyer-borxhin-arrestohet-nje-34-vjecar-dhe-shpallet-ne-kerkim-nje-tjeter/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -2.0,
+                "tone": -9.75422971296921,
+                "score": 52.0
+            },
+            {
+                "record_id": "1329322594",
+                "url": "https://primorske.si/univerza-na-primorskem/jesenska-promocija-doktoric-in-doktorjev-znanosti-up/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 5.94479830148619,
+                "score": 49.0
+            },
+            {
+                "record_id": "1329315526",
+                "url": "https://www.zazoom.it/2026-10-22/la-corte-europea-dei-diritti-delluomo-ha-respinto-un-ricorso-di-berlusconi-contro-la-sua-condanna-per-frode-fiscale-del-2013/19833914/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -4.0,
+                "tone": -9.02111324376204,
+                "score": 47.0
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 5
     },
     "France": {
         "gdp_rank": 7,
-        "spike_score": 469.0,
+        "spike_score": 446.0,
         "trends": [
             {
                 "record_id": "1329184583",
@@ -288,26 +331,18 @@
                 "sources": 4,
                 "goldstein": 7.0,
                 "tone": -8.63050661422545,
-                "score": 335.5,
-                "keyword": "마크롱 외세 비난",
-                "hook": "프랑스 폭동을 조롱하는 해외 지도자들을 향해 마크롱이 참았던 분노를 터뜨렸습니다.",
-                "script": "프랑스 전역을 뒤덮은 유혈 사태. 이를 두고 트럼프를 포함한 해외 정상들이 어리석은 발언을 쏟아내자 마크롱 대통령이 정면으로 반격했습니다. 국가 위기를 이용한 정치적 공세, 과연 프랑스는 이 혼란을 수습할 수 있을까요?",
-                "sentiment": "negative"
+                "score": 335.5
             },
             {
-                "record_id": "1329139538",
-                "url": "https://www.leprogres.fr/economie/2026/10/21/une-situation-sans-precedent-carrefour-denonce-les-pillages-et-voit-son-action-chuter",
+                "record_id": "1329302388",
+                "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69908450-macron-vor-neuen-protesten-nur-gewerkschafts-demos-erlaubt-016.htm",
                 "related_urls": [],
                 "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": -5.6,
-                "tone": -3.71574787400597,
-                "score": 56.0,
-                "keyword": "까르푸 매장 약탈",
-                "hook": "프랑스 유통 공룡 까르푸가 연이은 약탈로 사실상 마비 상태에 빠졌습니다.",
-                "script": "프랑스 경제의 상징 까르푸가 무너지고 있습니다. 계속되는 약탈과 폭동으로 주가는 폭락했고, 경영진은 전례 없는 위기 상황이라며 비명을 지르고 있습니다. 프랑스 거리에서 대체 무슨 일이 벌어지고 있는 걸까요?",
-                "sentiment": "negative"
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 3.0,
+                "tone": -0.784958900042885,
+                "score": 64.0
             },
             {
                 "record_id": "1329125603",
@@ -318,30 +353,11 @@
                 "sources": 1,
                 "goldstein": 1.9,
                 "tone": 2.33333333333333,
-                "score": 46.5,
-                "keyword": "부의 비밀 공개",
-                "hook": "자수성가한 억만장자 루카 라지치 주니어가 공개한 단 하나의 성공 법칙.",
-                "script": "돈을 버는 비결은 복잡하지 않습니다. 루카 라지치 주니어가 강조하는 핵심은 바로 자기 자신에 대한 믿음입니다. 부자가 되고 싶다면 지금 당장 당신의 마인드셋부터 바꾸십시오.",
-                "sentiment": "positive"
-            },
-            {
-                "record_id": "1329125839",
-                "url": "https://www.sigmalive.com/news/international/1334363/parisi-nea-apaghorefsi-kikloforias-ghia-triti-sinekhomeni-nykhta",
-                "related_urls": [],
-                "title": "",
-                "mentions": 42,
-                "sources": 5,
-                "goldstein": 0.0,
-                "tone": -7.82175104603309,
-                "score": 31.0,
-                "keyword": "파리 야간 통행금지",
-                "hook": "불타는 파리의 밤, 당국이 결국 3일 연속 야간 통행금지령을 내렸습니다.",
-                "script": "파리 시내가 멈췄습니다. 3일째 이어지는 야간 통행금지로 시민들은 공포에 떨고 있습니다. 거리를 점령한 폭도들과 경찰의 대치, 파리의 평화는 언제쯤 돌아올 수 있을까요?",
-                "sentiment": "warning"
+                "score": 46.5
             }
         ],
-        "last_updated": "2026-10-22 20:46:24 KST",
-        "current_rank": 5
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 6
     },
     "India": {
         "gdp_rank": 5,
@@ -392,60 +408,37 @@
                 "score": 49.5
             }
         ],
-        "last_updated": "2026-10-22 20:46:24 KST",
-        "current_rank": 6
-    },
-    "Turkey": {
-        "gdp_rank": 16,
-        "spike_score": 367.0,
-        "trends": [
-            {
-                "record_id": "1329263567",
-                "url": "https://www.winnipegfreepress.com/canada/2026/10/22/in-the-news-today-update-on-base-fire-carney-in-turkey-emergencies-act-ruling",
-                "related_urls": [],
-                "title": "",
-                "mentions": 96,
-                "sources": 4,
-                "goldstein": 1.0,
-                "tone": -1.42432989905351,
-                "score": 315.0
-            },
-            {
-                "record_id": "1329046650",
-                "url": "https://www.sondakika.com/guncel/haber-fon-sorusturmasinda-yeni-dalga-31-supheli-20350603/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 5,
-                "goldstein": 3.4,
-                "tone": -4.7905733796411,
-                "score": 52.0,
-                "keyword": "펀드 비리 수사",
-                "hook": "터키 금융가를 뒤흔든 대규모 펀드 비리 사건, 31명의 용의자가 무더기로 검거되었습니다.",
-                "script": "터키 검찰의 칼날이 금융계를 향했습니다. 불법 펀드 운용 혐의로 31명의 거물급 인사가 체포되었습니다. 국가 경제를 좀먹는 이들의 범죄 행각이 낱낱이 파헤쳐지고 있습니다. 터키 금융 시장은 지금 대혼란에 빠졌습니다. 정의의 심판이 시작됩니다.",
-                "sentiment": "negative"
-            }
-        ],
-        "last_updated": "2026-10-22 20:46:24 KST",
+        "last_updated": "2026-10-23 02:07:08 KST",
         "current_rank": 7
     },
     "Germany": {
         "gdp_rank": 3,
-        "spike_score": 291.5,
+        "spike_score": 335.0,
         "trends": [
             {
-                "record_id": "1329109252",
-                "url": "http://www.az-online.de/deutschland/rolling-stones-gitarrist-ron-wood-stellt-in-tuebingen-aus-zr-94551820.html",
+                "record_id": "1329307774",
+                "url": "https://www.azonline.de/welt/politik/steuereinnahmen-ziehen-an-klingbeil-keine-etat-entlastung-3692624",
                 "related_urls": [],
                 "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": 2.8,
-                "tone": 3.46534653465346,
-                "score": 79.5
+                "mentions": 110,
+                "sources": 10,
+                "goldstein": 5.2,
+                "tone": -2.0493736607794,
+                "score": 101.0
             },
             {
-                "record_id": "1329061772",
+                "record_id": "1329294883",
+                "url": "https://www.gea.de/land_artikel,-m%C3%BCller-gr%C3%BCnder-will-im-95-lebensjahr-immer-noch-arbeiten-_arid,7172730.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": 3.0,
+                "tone": -1.81836574746167,
+                "score": 71.0
+            },
+            {
+                "record_id": "1329061985",
                 "url": "https://www.aktiencheck.de/analysen/Artikel-OTS_HDBank_Sovico_und_Hamburg_schliessen_Partnerschaft_zur_Staerkung-20187637",
                 "related_urls": [],
                 "title": "",
@@ -454,17 +447,6 @@
                 "goldstein": 1.0,
                 "tone": 3.27868852459016,
                 "score": 66.0
-            },
-            {
-                "record_id": "1329134639",
-                "url": "http://www.kreisbote.de/welt/erfolglosester-flughafen-europas-berliner-ber-wird-von-warschau-ueberholt-zr-94550888.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 5,
-                "goldstein": 5.0,
-                "tone": -4.30797433547204,
-                "score": 55.0
             },
             {
                 "record_id": "1329279553",
@@ -478,72 +460,90 @@
                 "score": 49.0
             },
             {
-                "record_id": "1329134644",
-                "url": "http://www.kreisbote.de/ratgeber/verbraucher/weltweite-it-sicherheitsluecke-behoerden-schalten-webseiten-ab-bsi-warnt-zr-94552287.html",
+                "record_id": "1329292059",
+                "url": "http://www.op-online.de/politik/ruestungsinfos-gesammelt-mutmasslicher-russland-spion-gefasst-zr-94553342.html",
                 "related_urls": [],
                 "title": "",
-                "mentions": 60,
-                "sources": 6,
-                "goldstein": 0.0,
-                "tone": -4.72840040715252,
-                "score": 42.0
+                "mentions": 48,
+                "sources": 7,
+                "goldstein": -2.0,
+                "tone": -4.11492994807805,
+                "score": 48.0
             }
         ],
-        "last_updated": "2026-10-22 20:46:24 KST",
+        "last_updated": "2026-10-23 02:07:08 KST",
         "current_rank": 8
     },
-    "Italy": {
-        "gdp_rank": 8,
-        "spike_score": 197.5,
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 316.0,
         "trends": [
             {
-                "record_id": "1329142231",
-                "url": "https://www.zazoom.it/soluzioni-cruciverba/definizione/2026-10-21-scienziato-atomico-italiano-che-trasferi-russia-nel-1950--18-29/988906/",
+                "record_id": "1329263567",
+                "url": "https://www.winnipegfreepress.com/canada/2026/10/22/in-the-news-today-update-on-base-fire-carney-in-turkey-emergencies-act-ruling",
                 "related_urls": [],
                 "title": "",
-                "mentions": 52,
-                "sources": 1,
-                "goldstein": -9.5,
-                "tone": 3.07017543859649,
-                "score": 75.5,
-                "keyword": "러시아 망명 과학자",
-                "hook": "냉전 시대, 이탈리아의 천재 과학자가 소련으로 사라진 충격적인 미스터리.",
-                "script": "1950년, 핵 물리학의 핵심 인물이 흔적도 없이 사라졌습니다. 그가 향한 곳은 바로 러시아였습니다. 이탈리아를 뒤흔들었던 전설적인 망명 사건, 지금 다시 조명받는 이유는 무엇일까요?",
-                "sentiment": "neutral"
+                "mentions": 96,
+                "sources": 4,
+                "goldstein": 1.0,
+                "tone": -1.42432989905351,
+                "score": 264.0
             },
             {
-                "record_id": "1329070494",
-                "url": "https://www.illawarramercury.com.au/story/9373019/pope-takes-to-popemobile-for-first-time-since-surgery/",
+                "record_id": "1329046650",
+                "url": "https://www.sondakika.com/guncel/haber-fon-sorusturmasinda-yeni-dalga-31-supheli-20350603/",
                 "related_urls": [],
                 "title": "",
-                "mentions": 40,
+                "mentions": 50,
                 "sources": 5,
-                "goldstein": 8.0,
-                "tone": -0.150164341435206,
-                "score": 70.0,
-                "keyword": "교황 건강 회복",
-                "hook": "수술 후 모습을 감췄던 교황이 드디어 대중 앞에 모습을 드러냈습니다.",
-                "script": "수술 이후 굳게 닫혔던 바티칸의 문이 열렸습니다. 교황이 다시 '포프모빌'에 올라 시민들과 만났습니다. 건강을 되찾은 교황의 등장에 전 세계가 안도하고 있습니다.",
-                "sentiment": "positive"
-            },
+                "goldstein": 3.4,
+                "tone": -4.7905733796411,
+                "score": 52.0
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 9
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 245.0,
+        "trends": [
             {
-                "record_id": "1329062132",
-                "url": "https://top-channel.tv/2026/10/21/kanosen-nje-person-per-ti-kthyer-borxhin-arrestohet-nje-34-vjecar-dhe-shpallet-ne-kerkim-nje-tjeter/",
+                "record_id": "1329314712",
+                "url": "https://www.tanea.gr/2026/10/22/world/reuters-entoli-ekkenosis-sta-kentrika-grafeia-tis-aramco-sti-saoydiki-aravia-ypo-ton-fovo/",
                 "related_urls": [],
                 "title": "",
                 "mentions": 60,
                 "sources": 6,
-                "goldstein": -2.0,
-                "tone": -9.75422971296921,
-                "score": 52.0,
-                "keyword": "빚 독촉 흉기 협박",
-                "hook": "단순한 빚 독촉이 흉기 협박으로 번지며 이탈리아 경찰이 긴급 체포에 나섰습니다.",
-                "script": "돈을 갚으라는 협박이 살인 위협으로 변했습니다. 34세 남성이 흉기를 들고 채무자를 위협하다 경찰에 붙잡혔습니다. 공범은 현재 도주 중, 이탈리아 당국이 추적을 시작했습니다.",
-                "sentiment": "negative"
+                "goldstein": -10.0,
+                "tone": -5.80947887421503,
+                "score": 92.0
+            },
+            {
+                "record_id": "1329183703",
+                "url": "https://www.goulburnpost.com.au/story/9373075/two-killed-after-drone-intercepted-near-saudi-oil-field/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 3,
+                "goldstein": -10.0,
+                "tone": -5.04279246386408,
+                "score": 86.0
+            },
+            {
+                "record_id": "1329178205",
+                "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1501320",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -7.0,
+                "tone": -2.51249793638529,
+                "score": 67.0
             }
         ],
-        "last_updated": "2026-10-22 20:46:24 KST",
-        "current_rank": 9
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 10
     },
     "Canada": {
         "gdp_rank": 10,
@@ -558,11 +558,7 @@
                 "sources": 4,
                 "goldstein": 4.0,
                 "tone": -1.42432989905351,
-                "score": 139.5,
-                "keyword": "캐나다 긴급 상황",
-                "hook": "군 기지 화재부터 비상법 판결까지, 캐나다 전역이 긴박하게 돌아가고 있습니다.",
-                "script": "오늘 캐나다 뉴스입니다. 군 기지에서 발생한 대형 화재로 비상이 걸렸고, 비상법에 대한 법원의 판결이 나오며 정치권이 술렁이고 있습니다. 캐나다 전역을 관통하는 오늘의 핵심 이슈를 정리합니다.",
-                "sentiment": "negative"
+                "score": 139.5
             },
             {
                 "record_id": "1329184358",
@@ -573,19 +569,15 @@
                 "sources": 4,
                 "goldstein": -2.0,
                 "tone": 5.33333333333333,
-                "score": 44.0,
-                "keyword": "가을 부츠 협업",
-                "hook": "밴쿠버 패션계가 주목하는 이번 시즌 가장 완벽한 가을 부츠가 탄생했습니다.",
-                "script": "패션 기업과 슈즈 브랜드가 만났습니다. 밴쿠버의 실력파들이 뭉쳐 선보이는 이번 가을 한정판 부츠, 스타일과 실용성을 모두 잡았다는 평가입니다. 지금 확인해보세요.",
-                "sentiment": "positive"
+                "score": 44.0
             }
         ],
-        "last_updated": "2026-10-22 20:46:24 KST",
-        "current_rank": 10
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 11
     },
     "China": {
         "gdp_rank": 2,
-        "spike_score": 177.0,
+        "spike_score": 130.0,
         "trends": [
             {
                 "record_id": "1329080646",
@@ -597,89 +589,10 @@
                 "goldstein": 4.0,
                 "tone": -1.79282868525897,
                 "score": 130.0
-            },
-            {
-                "record_id": "1329278164",
-                "url": "https://english.news.cn/20261022/47da09eda277496c9902cff4097920f9/c.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 46,
-                "sources": 1,
-                "goldstein": -4.4,
-                "tone": 3.53982300884956,
-                "score": 47.0
             }
         ],
-        "last_updated": "2026-10-22 20:46:24 KST",
-        "current_rank": 11
-    },
-    "South Korea": {
-        "gdp_rank": 14,
-        "spike_score": 154.5,
-        "trends": [
-            {
-                "record_id": "1329244106",
-                "url": "http://inews24.com/view/2017911",
-                "related_urls": [],
-                "title": "",
-                "mentions": 70,
-                "sources": 1,
-                "goldstein": 1.0,
-                "tone": -2.80612244897959,
-                "score": 84.0
-            },
-            {
-                "record_id": "1329069709",
-                "url": "https://www.koreaherald.com/article/10910469",
-                "related_urls": [],
-                "title": "",
-                "mentions": 42,
-                "sources": 1,
-                "goldstein": -9.5,
-                "tone": -1.97183098591549,
-                "score": 70.5,
-                "keyword": "한국 경제 경고",
-                "hook": "한국 경제에 빨간불이 켜졌습니다. 지금 당장 주목해야 할 긴박한 지표를 공개합니다.",
-                "script": "대한민국 경제가 심상치 않습니다. 주요 지표들이 일제히 하락하며 경고음이 울리고 있습니다. 전문가들은 지금의 위기가 단순한 일시적 현상이 아니라고 경고합니다. 기업과 가계 모두가 흔들리는 상황, 한국 경제의 미래는 과연 어디로 향하고 있을까요?",
-                "sentiment": "warning"
-            }
-        ],
-        "last_updated": "2026-10-22 20:46:24 KST",
+        "last_updated": "2026-10-23 02:07:08 KST",
         "current_rank": 12
-    },
-    "Saudi Arabia": {
-        "gdp_rank": 17,
-        "spike_score": 153.0,
-        "trends": [
-            {
-                "record_id": "1329183703",
-                "url": "https://www.goulburnpost.com.au/story/9373075/two-killed-after-drone-intercepted-near-saudi-oil-field/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 60,
-                "sources": 3,
-                "goldstein": -10.0,
-                "tone": -5.04279246386408,
-                "score": 86.0,
-                "keyword": "유전 드론 폭격",
-                "hook": "사우디 유전 지대 상공에서 드론이 폭발했습니다. 두 명의 사망자가 발생한 긴박한 상황입니다.",
-                "script": "사우디아라비아 핵심 유전 시설 근처에서 드론이 요격되었습니다. 하지만 파편으로 인해 2명이 안타깝게 목숨을 잃었습니다. 에너지 시장은 즉각 요동치고 있습니다. 배후 세력이 누구인지, 이번 공격이 중동 정세에 어떤 파장을 몰고 올지 전 세계가 주목하고 있습니다.",
-                "sentiment": "warning"
-            },
-            {
-                "record_id": "1329178205",
-                "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1501320",
-                "related_urls": [],
-                "title": "",
-                "mentions": 60,
-                "sources": 1,
-                "goldstein": -7.0,
-                "tone": -2.51249793638529,
-                "score": 67.0
-            }
-        ],
-        "last_updated": "2026-10-22 20:46:24 KST",
-        "current_rank": 13
     },
     "Mexico": {
         "gdp_rank": 12,
@@ -694,11 +607,7 @@
                 "sources": 3,
                 "goldstein": -4.0,
                 "tone": -5.46477363291132,
-                "score": 54.0,
-                "keyword": "멕시코 UN 비판",
-                "hook": "멕시코 정부가 실종 사건을 다루는 UN의 해석을 정면으로 반박하고 나섰습니다.",
-                "script": "강제 실종 사건을 두고 멕시코와 UN이 충돌했습니다. 로사 이셀라 장관은 정부의 전략을 옹호하며 UN의 보고서가 왜곡되었다고 주장했습니다. 멕시코의 강경 대응, 그 배경은 무엇일까요?",
-                "sentiment": "negative"
+                "score": 54.0
             },
             {
                 "record_id": "1329025179",
@@ -709,14 +618,29 @@
                 "sources": 1,
                 "goldstein": 2.8,
                 "tone": -1.00018913000346,
-                "score": 41.0,
-                "keyword": "무죄 추정 원칙",
-                "hook": "정치적 논란 속, 후안 블랑코가 무죄 추정 원칙을 지킬 것을 호소했습니다.",
-                "script": "세자르 하우레기 사건을 둘러싼 여론이 들끓고 있습니다. 후안 블랑코는 정치적 마녀사냥을 멈추고 법적 무죄 추정 원칙을 준수해야 한다고 강조했습니다. 멕시코 정계의 뜨거운 감자, 결말은?",
-                "sentiment": "neutral"
+                "score": 41.0
             }
         ],
-        "last_updated": "2026-10-22 20:46:24 KST",
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 13
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 84.0,
+        "trends": [
+            {
+                "record_id": "1329244153",
+                "url": "http://inews24.com/view/2017911",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": -2.80612244897959,
+                "score": 84.0
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
         "current_rank": 14
     },
     "Japan": {
@@ -735,7 +659,7 @@
                 "score": 67.0
             }
         ],
-        "last_updated": "2026-10-22 20:46:24 KST",
+        "last_updated": "2026-10-23 02:07:08 KST",
         "current_rank": 15
     },
     "Brazil": {
@@ -751,14 +675,10 @@
                 "sources": 1,
                 "goldstein": 1.0,
                 "tone": 0.15015015015015,
-                "score": 62.0,
-                "keyword": "주 6일 근무 종말",
-                "hook": "브라질의 노동 환경을 뒤흔들 역사적인 변화가 시작되었습니다.",
-                "script": "주 6일 근무제 폐지, 뉴욕 시장까지 이 움직임을 주목하고 있습니다. 브라질 노동계의 거대한 파동이 전 세계적인 근로 문화 개선의 신호탄이 될까요? 변화의 바람이 불고 있습니다.",
-                "sentiment": "positive"
+                "score": 62.0
             }
         ],
-        "last_updated": "2026-10-22 20:46:24 KST",
+        "last_updated": "2026-10-23 02:07:08 KST",
         "current_rank": 16
     }
 }

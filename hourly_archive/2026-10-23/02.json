@@ -1,0 +1,684 @@
+{
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 1397.5,
+        "trends": [
+            {
+                "record_id": "1329118877",
+                "url": "https://www.wharfedaleobserver.co.uk/news/national/26658132.ring-fence-energy-fund-north-east-scotland-says-swinney/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 12,
+                "goldstein": 7.4,
+                "tone": 0.37313432835821,
+                "score": 372.0
+            },
+            {
+                "record_id": "1329331330",
+                "url": "https://www.thecomet.net/news/national/26662230.wales-must-prepare-another-difficult-season-wildfires-fm-warns/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 7.0,
+                "tone": -0.804932475511507,
+                "score": 325.0
+            },
+            {
+                "record_id": "1329327910",
+                "url": "https://www.hampshirechronicle.co.uk/news/national/26662084.pc-sharon-beshenivsky-killer-given-second-life-sentence-gun-conspiracy/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 8,
+                "goldstein": -10.0,
+                "tone": -8.34437086092714,
+                "score": 294.0
+            },
+            {
+                "record_id": "1329127122",
+                "url": "https://www.london-now.co.uk/news/national/26657877.change-will-come-antisemitism-englands-schools---education-secretary/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 140,
+                "sources": 14,
+                "goldstein": 3.0,
+                "tone": -1.43369175627241,
+                "score": 208.0
+            },
+            {
+                "record_id": "1329258323",
+                "url": "https://www.halesowennews.co.uk/news/national/26659378.history-boys-returns-west-end-first-time-20-years/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 10,
+                "goldstein": 2.8,
+                "tone": 4.16666666666666,
+                "score": 198.5
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 1
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 942.5,
+        "trends": [
+            {
+                "record_id": "1328991494",
+                "url": "https://www.standard.net.au/story/9372383/mps-to-get-security-brief-after-life-threatening-attack/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 6,
+                "goldstein": 1.0,
+                "tone": -6.10080844012814,
+                "score": 323.0
+            },
+            {
+                "record_id": "1329007989",
+                "url": "https://www.dungogchronicle.com.au/story/9372280/footage-shows-how-killer-cop-dragged-in-close-friends/",
+                "related_urls": [
+                    "https://www.areanews.com.au/story/9372280/footage-shows-how-killer-cop-dragged-in-close-friends/"
+                ],
+                "title": "",
+                "mentions": 52,
+                "sources": 2,
+                "goldstein": -10.0,
+                "tone": -4.3209942401985,
+                "score": 200.0
+            },
+            {
+                "record_id": "1329156829",
+                "url": "https://www.oberonreview.com.au/story/9372300/the-echidna-john-hanscombe-the-true-meaning-of-travel/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -9.5,
+                "tone": -2.86352837044162,
+                "score": 194.5
+            },
+            {
+                "record_id": "1328992724",
+                "url": "https://www.greatlakesadvocate.com.au/story/9372284/alleged-mp-attacker-faces-court-for-the-first-time/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 8,
+                "goldstein": 3.0,
+                "tone": -8.18811664770493,
+                "score": 135.0
+            },
+            {
+                "record_id": "1329029590",
+                "url": "https://www.theadvocate.com.au/story/9372877/no-surrender-un-urges-action-as-15c-goal-slips-away/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 8,
+                "goldstein": 10.0,
+                "tone": -5.03172460744036,
+                "score": 90.0
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 2
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 713.0,
+        "trends": [
+            {
+                "record_id": "1329154740",
+                "url": "https://magic989fm.iheart.com/content/2026-10-21-american-airlines-flight-blows-tire-during-landing-at-ohare/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 72,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": 0.564971751412429,
+                "score": 171.0
+            },
+            {
+                "record_id": "1329070984",
+                "url": "https://www.az-online.de/welt/polizist-erschiesst-einjaehrigen-supermarkt-taeter-kommt-straffrei-davon-kohen-wiley-zr-94551400.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 4,
+                "goldstein": -10.0,
+                "tone": -4.0,
+                "score": 141.0
+            },
+            {
+                "record_id": "1329331426",
+                "url": "https://woc1420.iheart.com/content/2026-10-22-eric-danes-posthumous-memoir-reveals-the-subtle-als-sign-he-brushed-off/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 170,
+                "sources": 1,
+                "goldstein": 1.9,
+                "tone": -3.48360655737705,
+                "score": 141.0
+            },
+            {
+                "record_id": "1329194856",
+                "url": "https://abc3340.com/news/nation-world/amish-woman-scares-off-illegal-immigrant-with-weed-whacker-during-kidnapping-attempt-dhs-abduction-knife-handcuffs-false-imprisonment-assault-terrorist-threats-weapons-sadsbury-township-true-crime",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -9.0,
+                "tone": -14.070351758794,
+                "score": 139.0
+            },
+            {
+                "record_id": "1329067288",
+                "url": "https://geotimes.ge/?m=5&news_id=131956",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -0.387155470902794,
+                "score": 121.0
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 3
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 530.0,
+        "trends": [
+            {
+                "record_id": "1329110878",
+                "url": "https://www.wfae.org/world/2026-10-21/russia-releases-imprisoned-u-s-citizen-stephen-hubbard-following-trumps-request",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 8,
+                "goldstein": 7.4,
+                "tone": -2.97872340425532,
+                "score": 180.5
+            },
+            {
+                "record_id": "1329017893",
+                "url": "https://www.rhein-zeitung.de/deutschland-welt/politik/trump-gesandter-witkoff-reist-nach-russland_arid-4164009.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 8,
+                "goldstein": 7.0,
+                "tone": -3.66227312491042,
+                "score": 96.0
+            },
+            {
+                "record_id": "1329114426",
+                "url": "https://www.countytimes.co.uk/news/national/26657939.putin-agrees-resume-talks-ukraine-war-kyiv-washington---kremlin/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 87,
+                "sources": 15,
+                "goldstein": 4.0,
+                "tone": -2.20502838896893,
+                "score": 93.5
+            },
+            {
+                "record_id": "1329240380",
+                "url": "https://www.ideal.es/xlsemanal/camara-oro-banco-espana-tesoro-mejor-guardado-20261019170831-ntrc.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 3,
+                "goldstein": -9.5,
+                "tone": 1.78880553952683,
+                "score": 83.5
+            },
+            {
+                "record_id": "1329298974",
+                "url": "https://700wlw.iheart.com/content/2026-10-22-russia-criticizes-ukraine-peace-proposals/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 49,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -1.79954871149021,
+                "score": 76.5
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 4
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 460.5,
+        "trends": [
+            {
+                "record_id": "1329334565",
+                "url": "https://athina984.gr/2026/10/22/marinakis-gia-tsipra-to-rebranding-mporei-na-allaxei-tin-eikona-den-mporei-omos-na-xanagrapsei-tin-istoria/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 4,
+                "goldstein": 8.0,
+                "tone": 0.834346326609913,
+                "score": 237.0
+            },
+            {
+                "record_id": "1329142231",
+                "url": "https://www.zazoom.it/soluzioni-cruciverba/definizione/2026-10-21-scienziato-atomico-italiano-che-trasferi-russia-nel-1950--18-29/988906/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 52,
+                "sources": 1,
+                "goldstein": -9.5,
+                "tone": 3.07017543859649,
+                "score": 75.5
+            },
+            {
+                "record_id": "1329062132",
+                "url": "https://top-channel.tv/2026/10/21/kanosen-nje-person-per-ti-kthyer-borxhin-arrestohet-nje-34-vjecar-dhe-shpallet-ne-kerkim-nje-tjeter/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -2.0,
+                "tone": -9.75422971296921,
+                "score": 52.0
+            },
+            {
+                "record_id": "1329322594",
+                "url": "https://primorske.si/univerza-na-primorskem/jesenska-promocija-doktoric-in-doktorjev-znanosti-up/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 5.94479830148619,
+                "score": 49.0
+            },
+            {
+                "record_id": "1329315526",
+                "url": "https://www.zazoom.it/2026-10-22/la-corte-europea-dei-diritti-delluomo-ha-respinto-un-ricorso-di-berlusconi-contro-la-sua-condanna-per-frode-fiscale-del-2013/19833914/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -4.0,
+                "tone": -9.02111324376204,
+                "score": 47.0
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 5
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 446.0,
+        "trends": [
+            {
+                "record_id": "1329184583",
+                "url": "https://midmichigannow.com/news/nation-world/macron-blasts-trump-other-leaders-for-exploiting-france-unrest-calls-remarks-stupid",
+                "related_urls": [
+                    "https://wtov9.com/news/nation-world/macron-blasts-trump-other-leaders-for-exploiting-france-unrest-calls-remarks-stupid"
+                ],
+                "title": "",
+                "mentions": 64,
+                "sources": 4,
+                "goldstein": 7.0,
+                "tone": -8.63050661422545,
+                "score": 335.5
+            },
+            {
+                "record_id": "1329302388",
+                "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69908450-macron-vor-neuen-protesten-nur-gewerkschafts-demos-erlaubt-016.htm",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 3.0,
+                "tone": -0.784958900042885,
+                "score": 64.0
+            },
+            {
+                "record_id": "1329125603",
+                "url": "https://www.index.hr/magazin/clanak/luka-rajic-jr-dijeli-savjete-kako-se-obogatiti-za-pocetak-vjerujte-u-sebe/2848190.aspx?index_ref=homepage_comment_box_d&commentId=12304157",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": 1.9,
+                "tone": 2.33333333333333,
+                "score": 46.5
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 6
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 385.0,
+        "trends": [
+            {
+                "record_id": "1329118852",
+                "url": "https://www.wharfedaleobserver.co.uk/news/national/26658132.ring-fence-energy-fund-north-east-scotland-says-swinney/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 12,
+                "goldstein": 2.8,
+                "tone": 0.37313432835821,
+                "score": 191.5
+            },
+            {
+                "record_id": "1329069392",
+                "url": "https://novosti.dn.ua/news/403715-armiya-rf-obstrilyala-donechchynu-26-raziv-poshkodzheno-ponad-20-budynkiv/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -1.14285714285715,
+                "score": 87.0
+            },
+            {
+                "record_id": "1329225586",
+                "url": "https://www.legallyindia.com/convos/topic/492336-sam-pevc-practice-best-teams",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.81271256763358,
+                "score": 57.0
+            },
+            {
+                "record_id": "1329271667",
+                "url": "https://www.yourlocalguardian.co.uk/news/national/26659977.endangered-lion-cubs-born-edinburgh-zoo-first-time-seven-years/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 8,
+                "goldstein": 1.9,
+                "tone": 0.6896551724138,
+                "score": 49.5
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 7
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 335.0,
+        "trends": [
+            {
+                "record_id": "1329307774",
+                "url": "https://www.azonline.de/welt/politik/steuereinnahmen-ziehen-an-klingbeil-keine-etat-entlastung-3692624",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 10,
+                "goldstein": 5.2,
+                "tone": -2.0493736607794,
+                "score": 101.0
+            },
+            {
+                "record_id": "1329294883",
+                "url": "https://www.gea.de/land_artikel,-m%C3%BCller-gr%C3%BCnder-will-im-95-lebensjahr-immer-noch-arbeiten-_arid,7172730.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": 3.0,
+                "tone": -1.81836574746167,
+                "score": 71.0
+            },
+            {
+                "record_id": "1329061985",
+                "url": "https://www.aktiencheck.de/analysen/Artikel-OTS_HDBank_Sovico_und_Hamburg_schliessen_Partnerschaft_zur_Staerkung-20187637",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 2,
+                "goldstein": 1.0,
+                "tone": 3.27868852459016,
+                "score": 66.0
+            },
+            {
+                "record_id": "1329279553",
+                "url": "http://www.merkur.de/politik/soeder-und-laenderfinanzausgleich-erste-cdu-kritik-an-vorstoss-zr-94553201.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 6,
+                "goldstein": -0.4,
+                "tone": -0.13927576601671,
+                "score": 49.0
+            },
+            {
+                "record_id": "1329292059",
+                "url": "http://www.op-online.de/politik/ruestungsinfos-gesammelt-mutmasslicher-russland-spion-gefasst-zr-94553342.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 7,
+                "goldstein": -2.0,
+                "tone": -4.11492994807805,
+                "score": 48.0
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 8
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 316.0,
+        "trends": [
+            {
+                "record_id": "1329263567",
+                "url": "https://www.winnipegfreepress.com/canada/2026/10/22/in-the-news-today-update-on-base-fire-carney-in-turkey-emergencies-act-ruling",
+                "related_urls": [],
+                "title": "",
+                "mentions": 96,
+                "sources": 4,
+                "goldstein": 1.0,
+                "tone": -1.42432989905351,
+                "score": 264.0
+            },
+            {
+                "record_id": "1329046650",
+                "url": "https://www.sondakika.com/guncel/haber-fon-sorusturmasinda-yeni-dalga-31-supheli-20350603/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 3.4,
+                "tone": -4.7905733796411,
+                "score": 52.0
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 9
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 245.0,
+        "trends": [
+            {
+                "record_id": "1329314712",
+                "url": "https://www.tanea.gr/2026/10/22/world/reuters-entoli-ekkenosis-sta-kentrika-grafeia-tis-aramco-sti-saoydiki-aravia-ypo-ton-fovo/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -10.0,
+                "tone": -5.80947887421503,
+                "score": 92.0
+            },
+            {
+                "record_id": "1329183703",
+                "url": "https://www.goulburnpost.com.au/story/9373075/two-killed-after-drone-intercepted-near-saudi-oil-field/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 3,
+                "goldstein": -10.0,
+                "tone": -5.04279246386408,
+                "score": 86.0
+            },
+            {
+                "record_id": "1329178205",
+                "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1501320",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -7.0,
+                "tone": -2.51249793638529,
+                "score": 67.0
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 10
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 183.5,
+        "trends": [
+            {
+                "record_id": "1329262760",
+                "url": "https://www.winnipegfreepress.com/canada/2026/10/22/in-the-news-today-update-on-base-fire-carney-in-turkey-emergencies-act-ruling",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 4,
+                "goldstein": 4.0,
+                "tone": -1.42432989905351,
+                "score": 139.5
+            },
+            {
+                "record_id": "1329184358",
+                "url": "https://www.nantonnews.com:443/life/vancouver-fashion-entrepreneur-shoe-brand-collaborate-on-the-ultimate-fall-boot",
+                "related_urls": [],
+                "title": "",
+                "mentions": 52,
+                "sources": 4,
+                "goldstein": -2.0,
+                "tone": 5.33333333333333,
+                "score": 44.0
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 11
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 130.0,
+        "trends": [
+            {
+                "record_id": "1329080646",
+                "url": "https://www.stroudnewsandjournal.co.uk/news/national/26655808.trump-envoy-witkoff-meets-putin-st-petersburg-ukraine-war-talks/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 54,
+                "sources": 9,
+                "goldstein": 4.0,
+                "tone": -1.79282868525897,
+                "score": 130.0
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 12
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 95.0,
+        "trends": [
+            {
+                "record_id": "1329013947",
+                "url": "https://www.eluniversal.com.mx/nacion/mexico-rechaza-interpretacion-de-la-onu-sobre-desapariciones-forzadas-en-nuestro-pais-dice-rosa-icela-defiende-estrategia/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 3,
+                "goldstein": -4.0,
+                "tone": -5.46477363291132,
+                "score": 54.0
+            },
+            {
+                "record_id": "1329025179",
+                "url": "https://www.omnia.com.mx/noticia/446414/juan-blanco-pide-respetar-la-presuncion-de-inocencia-de-cesar-jauregui",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": -1.00018913000346,
+                "score": 41.0
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 13
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 84.0,
+        "trends": [
+            {
+                "record_id": "1329244153",
+                "url": "http://inews24.com/view/2017911",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": -2.80612244897959,
+                "score": 84.0
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 14
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 67.0,
+        "trends": [
+            {
+                "record_id": "1329178762",
+                "url": "https://www.gloucesteradvocate.com.au/story/9373072/government-cybersecurity-website-hit-in-global-flaw/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -5.0,
+                "tone": -5.86930739710097,
+                "score": 67.0
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 15
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 62.0,
+        "trends": [
+            {
+                "record_id": "1329225004",
+                "url": "https://g1.globo.com/mundo/noticia/2026/10/21/prefeito-de-nova-york-chama-fim-da-escala-6x1-de-passo-historico-no-brasil.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": 0.15015015015015,
+                "score": 62.0
+            }
+        ],
+        "last_updated": "2026-10-23 02:07:08 KST",
+        "current_rank": 16
+    }
+}
