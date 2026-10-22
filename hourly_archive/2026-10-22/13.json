@@ -1,0 +1,756 @@
+{
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 1130.0,
+        "trends": [
+            {
+                "record_id": "1329118877",
+                "url": "https://www.wharfedaleobserver.co.uk/news/national/26658132.ring-fence-energy-fund-north-east-scotland-says-swinney/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 12,
+                "goldstein": 7.4,
+                "tone": 0.37313432835821,
+                "score": 372.0
+            },
+            {
+                "record_id": "1329127122",
+                "url": "https://www.london-now.co.uk/news/national/26657877.change-will-come-antisemitism-englands-schools---education-secretary/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 140,
+                "sources": 14,
+                "goldstein": 3.0,
+                "tone": -1.43369175627241,
+                "score": 208.0
+            },
+            {
+                "record_id": "1329163754",
+                "url": "https://www.royston-crow.co.uk/news/national/26659048.ira-lawyers-comment-blasted-shameful-ni-first-minister/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 66,
+                "sources": 11,
+                "goldstein": 7.0,
+                "tone": -5.0303161301785,
+                "score": 206.0
+            },
+            {
+                "record_id": "1329199966",
+                "url": "https://www.royston-crow.co.uk/news/national/26658133.murderer-says-killed-i-totally-get-familys-pain-now/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 8,
+                "goldstein": -2.0,
+                "tone": -8.66748663997717,
+                "score": 182.0,
+                "keyword": "살인범의 뒤늦은 참회",
+                "hook": "살인마가 입을 열었습니다. 피해자 가족의 고통을 이제야 이해한다는 그의 말, 과연 진심일까요?",
+                "script": "끔찍한 살인을 저지른 범죄자가 뒤늦게 참회의 눈물을 흘렸습니다. 이제야 가족들의 고통이 느껴진다는 그의 인터뷰가 영국 전역을 분노케 하고 있습니다. 씻을 수 없는 범죄, 그 뒤에 남은 잔인한 현실을 짚어봅니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329054791",
+                "url": "https://www.worcesternews.co.uk/news/national/26655867.fahnbulleh-declines-back-home-secretarys-plan-extend-wait-settlement/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": 5.0,
+                "tone": -2.12742000125905,
+                "score": 162.0
+            }
+        ],
+        "last_updated": "2026-10-22 13:38:35 KST",
+        "current_rank": 1
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 997.5,
+        "trends": [
+            {
+                "record_id": "1328991494",
+                "url": "https://www.standard.net.au/story/9372383/mps-to-get-security-brief-after-life-threatening-attack/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 6,
+                "goldstein": 1.0,
+                "tone": -6.10080844012814,
+                "score": 323.0
+            },
+            {
+                "record_id": "1329018429",
+                "url": "https://www.areanews.com.au/story/9372280/footage-shows-how-killer-cop-dragged-in-close-friends/",
+                "related_urls": [
+                    "https://www.dungogchronicle.com.au/story/9372280/footage-shows-how-killer-cop-dragged-in-close-friends/"
+                ],
+                "title": "",
+                "mentions": 48,
+                "sources": 3,
+                "goldstein": -10.0,
+                "tone": -4.36790213068397,
+                "score": 234.0
+            },
+            {
+                "record_id": "1329156829",
+                "url": "https://www.oberonreview.com.au/story/9372300/the-echidna-john-hanscombe-the-true-meaning-of-travel/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -9.5,
+                "tone": -2.86352837044162,
+                "score": 194.5
+            },
+            {
+                "record_id": "1328992724",
+                "url": "https://www.greatlakesadvocate.com.au/story/9372284/alleged-mp-attacker-faces-court-for-the-first-time/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 8,
+                "goldstein": 3.0,
+                "tone": -8.18811664770493,
+                "score": 135.0
+            },
+            {
+                "record_id": "1329165578",
+                "url": "https://www.portstephensexaminer.com.au/story/9373057/mums-seek-help-seven-times-before-psychosis-diagnosis/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 10.0,
+                "tone": -9.28848533757538,
+                "score": 111.0
+            }
+        ],
+        "last_updated": "2026-10-22 13:38:35 KST",
+        "current_rank": 2
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 862.5,
+        "trends": [
+            {
+                "record_id": "1329194856",
+                "url": "https://abc3340.com/news/nation-world/amish-woman-scares-off-illegal-immigrant-with-weed-whacker-during-kidnapping-attempt-dhs-abduction-knife-handcuffs-false-imprisonment-assault-terrorist-threats-weapons-sadsbury-township-true-crime",
+                "related_urls": [
+                    "https://bakersfieldnow.com/news/nation-world/amish-woman-scares-off-illegal-immigrant-with-weed-whacker-during-kidnapping-attempt-dhs-abduction-knife-handcuffs-false-imprisonment-assault-terrorist-threats-weapons-sadsbury-township-true-crime"
+                ],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -9.0,
+                "tone": -14.070351758794,
+                "score": 250.0,
+                "keyword": "아미쉬 여성 납치극",
+                "hook": "납치범의 칼날 앞에 선 아미쉬 여성, 예초기를 휘둘러 탈출에 성공하다.",
+                "script": "펜실베이니아의 평화로운 마을, 납치범이 아미쉬 여성을 덮쳤습니다. 수갑과 칼로 무장한 범인, 하지만 여성은 당황하지 않았습니다. 손에 잡힌 건 예초기였습니다. 굉음을 내며 돌아가는 날 앞에 납치범은 결국 줄행랑을 쳤습니다. 지금 미국이 이 용감한 여성의 대처에 열광하고 있습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329154740",
+                "url": "https://magic989fm.iheart.com/content/2026-10-21-american-airlines-flight-blows-tire-during-landing-at-ohare/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 72,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": 0.564971751412429,
+                "score": 171.0
+            },
+            {
+                "record_id": "1329061149",
+                "url": "https://www.wuky.org/npr-news/2026-10-21/expecting-a-baby-5-tips-to-help-you-prepare-for-pregnancy-costs",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 6.0,
+                "tone": 2.12765957446809,
+                "score": 155.0
+            },
+            {
+                "record_id": "1329175765",
+                "url": "https://www.winnipegfreepress.com/world/2026/10/21/visitor-killed-by-piece-of-roof-blown-off-frank-lloyd-wrights-winter-home-in-arizona",
+                "related_urls": [],
+                "title": "",
+                "mentions": 42,
+                "sources": 7,
+                "goldstein": 3.4,
+                "tone": -1.43647072208515,
+                "score": 145.5
+            },
+            {
+                "record_id": "1329070984",
+                "url": "https://www.az-online.de/welt/polizist-erschiesst-einjaehrigen-supermarkt-taeter-kommt-straffrei-davon-kohen-wiley-zr-94551400.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 4,
+                "goldstein": -10.0,
+                "tone": -4.0,
+                "score": 141.0
+            }
+        ],
+        "last_updated": "2026-10-22 13:38:35 KST",
+        "current_rank": 3
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 525.5,
+        "trends": [
+            {
+                "record_id": "1329184583",
+                "url": "https://midmichigannow.com/news/nation-world/macron-blasts-trump-other-leaders-for-exploiting-france-unrest-calls-remarks-stupid",
+                "related_urls": [
+                    "https://wtov9.com/news/nation-world/macron-blasts-trump-other-leaders-for-exploiting-france-unrest-calls-remarks-stupid"
+                ],
+                "title": "",
+                "mentions": 64,
+                "sources": 4,
+                "goldstein": 7.0,
+                "tone": -8.63050661422545,
+                "score": 335.5,
+                "keyword": "마크롱의 강한 반격",
+                "hook": "프랑스 폭동을 조롱한 트럼프를 향해 마크롱 대통령이 '어리석다'며 직격탄을 날렸습니다.",
+                "script": "파리 시위가 격화되는 가운데, 마크롱 대통령이 트럼프를 포함한 외국 지도자들의 발언을 정면으로 비판했습니다. 폭동을 정치적으로 이용하지 말라는 경고입니다. 프랑스 내부 혼란이 국제 외교전으로 번지고 있습니다. 지금 파리는 그야말로 일촉즉발입니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1329201061",
+                "url": "https://www.journal-advocate.com/2026/10/21/france-protests-macron-trump/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": -6.5,
+                "tone": -4.44033302497687,
+                "score": 56.5
+            },
+            {
+                "record_id": "1329139538",
+                "url": "https://www.leprogres.fr/economie/2026/10/21/une-situation-sans-precedent-carrefour-denonce-les-pillages-et-voit-son-action-chuter",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -5.6,
+                "tone": -3.71574787400597,
+                "score": 56.0
+            },
+            {
+                "record_id": "1329125603",
+                "url": "https://www.index.hr/magazin/clanak/luka-rajic-jr-dijeli-savjete-kako-se-obogatiti-za-pocetak-vjerujte-u-sebe/2848190.aspx?index_ref=homepage_comment_box_d&commentId=12304157",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": 1.9,
+                "tone": 2.33333333333333,
+                "score": 46.5
+            },
+            {
+                "record_id": "1329125839",
+                "url": "https://www.sigmalive.com/news/international/1334363/parisi-nea-apaghorefsi-kikloforias-ghia-triti-sinekhomeni-nykhta",
+                "related_urls": [],
+                "title": "",
+                "mentions": 42,
+                "sources": 5,
+                "goldstein": 0.0,
+                "tone": -7.82175104603309,
+                "score": 31.0
+            }
+        ],
+        "last_updated": "2026-10-22 13:38:35 KST",
+        "current_rank": 4
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 518.0,
+        "trends": [
+            {
+                "record_id": "1329110878",
+                "url": "https://www.wfae.org/world/2026-10-21/russia-releases-imprisoned-u-s-citizen-stephen-hubbard-following-trumps-request",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 8,
+                "goldstein": 7.4,
+                "tone": -2.97872340425532,
+                "score": 180.5,
+                "keyword": "미국인 석방 합의",
+                "hook": "트럼프의 강력한 요청에 러시아가 수감 중이던 미국인 스티븐 허바드를 전격 석방했습니다.",
+                "script": "러시아와 미국 사이의 긴장이 완화되는 신호탄일까요? 트럼프 당선인의 요청에 푸틴 대통령이 응답했습니다. 우크라이나 전쟁 종식 논의까지 거론되며 국제 정세가 급변하고 있습니다. 이번 석방이 평화의 시작이 될 수 있을지 주목됩니다.",
+                "sentiment": "neutral"
+            },
+            {
+                "record_id": "1329017893",
+                "url": "https://www.rhein-zeitung.de/deutschland-welt/politik/trump-gesandter-witkoff-reist-nach-russland_arid-4164009.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 8,
+                "goldstein": 7.0,
+                "tone": -3.66227312491042,
+                "score": 96.0
+            },
+            {
+                "record_id": "1329114426",
+                "url": "https://www.countytimes.co.uk/news/national/26657939.putin-agrees-resume-talks-ukraine-war-kyiv-washington---kremlin/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 87,
+                "sources": 15,
+                "goldstein": 4.0,
+                "tone": -2.20502838896893,
+                "score": 93.5
+            },
+            {
+                "record_id": "1329074940",
+                "url": "http://www.tz.de/politik/trump-verkuendet-putin-laesst-inhaftierten-us-buerger-stephen-hubbard-frei-zr-94551414.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -5.0,
+                "tone": -3.90390390390391,
+                "score": 74.0
+            },
+            {
+                "record_id": "1329058178",
+                "url": "https://drimble.nl/regio/groningen/groningen-stad/108356122/meerdere-meldingen-van-drones-boven-nederland-maar-kloppen-deze-wel.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 1,
+                "goldstein": -4.4,
+                "tone": -1.47186147186147,
+                "score": 74.0
+            }
+        ],
+        "last_updated": "2026-10-22 13:38:35 KST",
+        "current_rank": 5
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 335.5,
+        "trends": [
+            {
+                "record_id": "1329118852",
+                "url": "https://www.wharfedaleobserver.co.uk/news/national/26658132.ring-fence-energy-fund-north-east-scotland-says-swinney/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 12,
+                "goldstein": 2.8,
+                "tone": 0.37313432835821,
+                "score": 191.5
+            },
+            {
+                "record_id": "1329069392",
+                "url": "https://novosti.dn.ua/news/403715-armiya-rf-obstrilyala-donechchynu-26-raziv-poshkodzheno-ponad-20-budynkiv/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -1.14285714285715,
+                "score": 87.0,
+                "keyword": "도네츠크 폭격 피해",
+                "hook": "26번의 폭격, 20채의 가옥 파괴, 도네츠크 주민들은 지금도 공포에 떨고 있습니다.",
+                "script": "러시아군의 무차별 폭격이 도네츠크를 강타했습니다. 단 하루 만에 26차례의 포격이 쏟아지며 마을은 폐허로 변했습니다. 스무 채가 넘는 주택이 순식간에 사라졌고, 주민들은 삶의 터전을 잃었습니다. 전쟁의 참혹함이 오늘 또 증명됐습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329225586",
+                "url": "https://www.legallyindia.com/convos/topic/492336-sam-pevc-practice-best-teams",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.81271256763358,
+                "score": 57.0
+            }
+        ],
+        "last_updated": "2026-10-22 13:38:35 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 322.5,
+        "trends": [
+            {
+                "record_id": "1329142231",
+                "url": "https://www.zazoom.it/soluzioni-cruciverba/definizione/2026-10-21-scienziato-atomico-italiano-che-trasferi-russia-nel-1950--18-29/988906/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 52,
+                "sources": 1,
+                "goldstein": -9.5,
+                "tone": 3.07017543859649,
+                "score": 75.5
+            },
+            {
+                "record_id": "1329070494",
+                "url": "https://www.illawarramercury.com.au/story/9373019/pope-takes-to-popemobile-for-first-time-since-surgery/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 5,
+                "goldstein": 8.0,
+                "tone": -0.150164341435206,
+                "score": 70.0
+            },
+            {
+                "record_id": "1329040804",
+                "url": "https://www.zazoom.it/2026-10-21/guerriglia-milano-35-minorenni-arrestati-per-i-saccheggi-i-ragazzi-raccontano-gli-inviti-a-rubare-su-telegram-e-tiktok/19827220/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 3,
+                "goldstein": -7.5,
+                "tone": -5.14718135280382,
+                "score": 63.5,
+                "keyword": "밀라노 약탈 사태",
+                "hook": "SNS를 통해 조직된 10대들의 약탈 행각이 이탈리아 밀라노를 공포로 몰아넣었습니다.",
+                "script": "밀라노 거리에서 35명의 미성년자가 현행범으로 체포되었습니다. 텔레그램과 틱톡을 통해 범죄를 공모한 정황이 드러나며 이탈리아 사회가 충격에 빠졌습니다. 상점들은 문을 걸어 잠그고 공포에 떨고 있습니다. 청소년 범죄, 이제는 막을 수 없는 수준인가요?",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329092752",
+                "url": "https://www.zazoom.it/2026-10-21/manifestazione-a-firenze-commercianti-in-allerta-dopo-i-saccheggi-di-milano-pronti-a-chiuderci-dentro/19828863/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": -7.5,
+                "tone": -2.25936734587524,
+                "score": 61.5
+            },
+            {
+                "record_id": "1329062132",
+                "url": "https://top-channel.tv/2026/10/21/kanosen-nje-person-per-ti-kthyer-borxhin-arrestohet-nje-34-vjecar-dhe-shpallet-ne-kerkim-nje-tjeter/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -2.0,
+                "tone": -9.75422971296921,
+                "score": 52.0
+            }
+        ],
+        "last_updated": "2026-10-22 13:38:35 KST",
+        "current_rank": 7
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 280.5,
+        "trends": [
+            {
+                "record_id": "1329109252",
+                "url": "http://www.az-online.de/deutschland/rolling-stones-gitarrist-ron-wood-stellt-in-tuebingen-aus-zr-94551820.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 2.8,
+                "tone": 3.46534653465346,
+                "score": 79.5
+            },
+            {
+                "record_id": "1329061772",
+                "url": "https://www.aktiencheck.de/analysen/Artikel-OTS_HDBank_Sovico_und_Hamburg_schliessen_Partnerschaft_zur_Staerkung-20187637",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 2,
+                "goldstein": 1.0,
+                "tone": 3.27868852459016,
+                "score": 66.0
+            },
+            {
+                "record_id": "1329134639",
+                "url": "http://www.kreisbote.de/welt/erfolglosester-flughafen-europas-berliner-ber-wird-von-warschau-ueberholt-zr-94550888.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 5,
+                "goldstein": 5.0,
+                "tone": -4.30797433547204,
+                "score": 55.0
+            },
+            {
+                "record_id": "1329134644",
+                "url": "http://www.kreisbote.de/ratgeber/verbraucher/weltweite-it-sicherheitsluecke-behoerden-schalten-webseiten-ab-bsi-warnt-zr-94552287.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 0.0,
+                "tone": -4.72840040715252,
+                "score": 42.0,
+                "keyword": "전 세계 보안구멍",
+                "hook": "당신의 개인정보가 위험합니다. 전 세계를 강타한 IT 보안 결함으로 정부 웹사이트들이 줄줄이 마비됐습니다.",
+                "script": "지금 즉시 보안을 점검하십시오. 전 세계적인 IT 취약점이 발견되면서 각국 정부가 비상입니다. 독일 연방정보보안청은 경고를 발령했고, 주요 기관 웹사이트는 차단되었습니다. 당신의 기기도 안전하지 않을 수 있습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1329082813",
+                "url": "https://www.gea.de/welt/weltspiegel_artikel,-emmas-gr%C3%B6%C3%9Fte-kontroversen-und-kampagnen-_arid,7172579.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -2.0,
+                "tone": -7.13497439207887,
+                "score": 38.0
+            }
+        ],
+        "last_updated": "2026-10-22 13:38:35 KST",
+        "current_rank": 8
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 199.0,
+        "trends": [
+            {
+                "record_id": "1329183703",
+                "url": "https://www.goulburnpost.com.au/story/9373075/two-killed-after-drone-intercepted-near-saudi-oil-field/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 3,
+                "goldstein": -10.0,
+                "tone": -5.04279246386408,
+                "score": 86.0
+            },
+            {
+                "record_id": "1329178205",
+                "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1501320",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -7.0,
+                "tone": -2.51249793638529,
+                "score": 67.0
+            },
+            {
+                "record_id": "1329178193",
+                "url": "https://www.vesti.ru/ns/gosdep-ehvakuiruet-chast-sotrudnikov-gosstruktur-ssha-iz-saudovskoj-aravii",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 3,
+                "goldstein": -4.0,
+                "tone": -5.04624266295953,
+                "score": 46.0
+            }
+        ],
+        "last_updated": "2026-10-22 13:38:35 KST",
+        "current_rank": 9
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 191.0,
+        "trends": [
+            {
+                "record_id": "1329106924",
+                "url": "https://www.aksam.com.tr/guncel/kurye-kiliginda-zehir-sevkiyati-polisten-kacamadilar/haber-1708054",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -5.0,
+                "tone": -5.76548667736746,
+                "score": 53.0
+            },
+            {
+                "record_id": "1329046650",
+                "url": "https://www.sondakika.com/guncel/haber-fon-sorusturmasinda-yeni-dalga-31-supheli-20350603/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 3.4,
+                "tone": -4.7905733796411,
+                "score": 52.0
+            },
+            {
+                "record_id": "1329134499",
+                "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogan-ve-aliyev-telefonda-gorustu-tdt-zirvesine-davet-etti-haberi-844773",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 3.4,
+                "tone": 5.10968027399083,
+                "score": 45.0
+            },
+            {
+                "record_id": "1329042566",
+                "url": "https://yerel-haberler.haberturk.com/malatya-haberleri/malatya-icin-cumhurbaskani-erdogana-gorusme-cagrisi-119498742",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": 3.4,
+                "tone": 0.241332466052275,
+                "score": 41.0
+            }
+        ],
+        "last_updated": "2026-10-22 13:38:35 KST",
+        "current_rank": 10
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 130.0,
+        "trends": [
+            {
+                "record_id": "1329081982",
+                "url": "https://www.stroudnewsandjournal.co.uk/news/national/26655808.trump-envoy-witkoff-meets-putin-st-petersburg-ukraine-war-talks/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 54,
+                "sources": 9,
+                "goldstein": 4.0,
+                "tone": -1.79282868525897,
+                "score": 130.0,
+                "keyword": "트럼프 특사 푸틴회담",
+                "hook": "우크라이나 전쟁 종식인가, 트럼프 특사와 푸틴의 비밀스러운 만남이 성사되었습니다.",
+                "script": "상트페테르부르크에서 긴박한 회동이 포착됐습니다. 트럼프 당선인의 특사 위트코프가 푸틴을 직접 만났습니다. 우크라이나 전쟁의 향방을 가를 이번 회담, 과연 평화의 물꼬를 틀 수 있을까요? 세계의 이목이 러시아로 쏠리고 있습니다.",
+                "sentiment": "neutral"
+            }
+        ],
+        "last_updated": "2026-10-22 13:38:35 KST",
+        "current_rank": 11
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 95.0,
+        "trends": [
+            {
+                "record_id": "1329013947",
+                "url": "https://www.eluniversal.com.mx/nacion/mexico-rechaza-interpretacion-de-la-onu-sobre-desapariciones-forzadas-en-nuestro-pais-dice-rosa-icela-defiende-estrategia/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 3,
+                "goldstein": -4.0,
+                "tone": -5.46477363291132,
+                "score": 54.0,
+                "keyword": "유엔 보고서 거부",
+                "hook": "강제 실종 문제에 대한 유엔의 비판적 해석을 멕시코 정부가 정면으로 거부했습니다.",
+                "script": "자국 내 실종 사건에 대해 유엔이 내놓은 평가를 멕시코 정부가 인정할 수 없다고 밝혔습니다. 로사 이셀라 장관은 정부의 전략을 옹호하며 국제사회의 압박에 맞서고 있습니다. 멕시코의 인권 문제는 과연 어디로 향하고 있을까요?",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329025179",
+                "url": "https://www.omnia.com.mx/noticia/446414/juan-blanco-pide-respetar-la-presuncion-de-inocencia-de-cesar-jauregui",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": -1.00018913000346,
+                "score": 41.0
+            }
+        ],
+        "last_updated": "2026-10-22 13:38:35 KST",
+        "current_rank": 12
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 70.5,
+        "trends": [
+            {
+                "record_id": "1329069709",
+                "url": "https://www.koreaherald.com/article/10910469",
+                "related_urls": [],
+                "title": "",
+                "mentions": 42,
+                "sources": 1,
+                "goldstein": -9.5,
+                "tone": -1.97183098591549,
+                "score": 70.5
+            }
+        ],
+        "last_updated": "2026-10-22 13:38:35 KST",
+        "current_rank": 13
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 67.0,
+        "trends": [
+            {
+                "record_id": "1329178762",
+                "url": "https://www.gloucesteradvocate.com.au/story/9373072/government-cybersecurity-website-hit-in-global-flaw/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -5.0,
+                "tone": -5.86930739710097,
+                "score": 67.0,
+                "keyword": "정부 웹사이트 해킹",
+                "hook": "글로벌 보안 대란, 일본 정부의 사이버 방어선마저 무너졌습니다.",
+                "script": "전 세계를 뒤흔든 보안 결함이 일본을 덮쳤습니다. 정부 사이버 보안 웹사이트가 이번 사태의 타깃이 되며 치명적인 취약점이 노출됐습니다. 국가 기밀 유출 우려까지 나오는 상황, 일본 정부의 대응이 시급합니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-10-22 13:38:35 KST",
+        "current_rank": 14
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 62.0,
+        "trends": [
+            {
+                "record_id": "1329225004",
+                "url": "https://g1.globo.com/mundo/noticia/2026/10/21/prefeito-de-nova-york-chama-fim-da-escala-6x1-de-passo-historico-no-brasil.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": 0.15015015015015,
+                "score": 62.0,
+                "keyword": "노동 시간 개혁",
+                "hook": "주 6일 근무제 폐지를 두고 브라질 사회가 역사적인 전환점을 맞이했습니다.",
+                "script": "뉴욕 시장까지 주목한 브라질의 노동 환경 변화, 6일제 폐지 논의가 급물살을 타고 있습니다. 근로자들의 삶의 질을 개선하겠다는 정부의 강한 의지가 담긴 행보입니다. 과연 브라질 경제에 어떤 파장을 불러올지 전 세계가 지켜보고 있습니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-22 13:38:35 KST",
+        "current_rank": 15
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 44.0,
+        "trends": [
+            {
+                "record_id": "1329184358",
+                "url": "https://www.nantonnews.com:443/life/vancouver-fashion-entrepreneur-shoe-brand-collaborate-on-the-ultimate-fall-boot",
+                "related_urls": [],
+                "title": "",
+                "mentions": 52,
+                "sources": 4,
+                "goldstein": -2.0,
+                "tone": 5.33333333333333,
+                "score": 44.0,
+                "keyword": "패션 산업 협업",
+                "hook": "밴쿠버의 패션 기업과 신발 브랜드가 올가을 최고의 부츠를 선보이며 시장을 공략합니다.",
+                "script": "밴쿠버 패션계가 들썩이고 있습니다. 혁신적인 디자인과 실용성을 결합한 새로운 부츠 컬렉션이 공개되었습니다. 가을 패션 트렌드를 바꿀 이번 협업, 스타일과 기능을 모두 잡았다는 평가가 쏟아집니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-22 13:38:35 KST",
+        "current_rank": 16
+    }
+}
