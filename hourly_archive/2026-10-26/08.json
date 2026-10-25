@@ -1,0 +1,791 @@
+{
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 741.0,
+        "trends": [
+            {
+                "record_id": "1329626562",
+                "url": "https://www.yourlocalguardian.co.uk/news/national/26666809.tech-tycoons-must-not-allowed-let-rip-ai-minister-warns/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 8,
+                "goldstein": 7.4,
+                "tone": 0.200664613283069,
+                "score": 244.0
+            },
+            {
+                "record_id": "1329782376",
+                "url": "https://www.messengernewspapers.co.uk/news/national/26668452.metropolitan-police-reduce-enforcement-tag-breaches/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": -5.0,
+                "tone": -7.44680851063829,
+                "score": 138.0
+            },
+            {
+                "record_id": "1329692478",
+                "url": "https://www.thewestmorlandgazette.co.uk/news/national/26667665.burnham-time-honest-discussion-freedom-movement-eu/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 8,
+                "goldstein": 4.0,
+                "tone": 1.05820105820106,
+                "score": 124.0
+            },
+            {
+                "record_id": "1329579887",
+                "url": "https://www.timminspress.com/press-releases/globe-newswire/mirasol-resources-announces-option-grants/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 5.2,
+                "tone": 3.125,
+                "score": 120.0
+            },
+            {
+                "record_id": "1329651937",
+                "url": "https://www.leighjournal.co.uk/news/national/26667157.scottish-greens-urge-john-swinney-say-stands-energy-policy/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 72,
+                "sources": 9,
+                "goldstein": -2.0,
+                "tone": 0.22831050228311,
+                "score": 115.0
+            }
+        ],
+        "last_updated": "2026-10-26 08:14:08 KST",
+        "current_rank": 1
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 724.0,
+        "trends": [
+            {
+                "record_id": "1329693543",
+                "url": "https://www.wimbledonguardian.co.uk/news/national/26667668.musk-says-behind-starlink-speed-restriction-ukraine-service-restored/",
+                "related_urls": [
+                    "https://www.heraldseries.co.uk/news/national/26667668.musk-speaks-starlink-service-ukraine-restored/"
+                ],
+                "title": "",
+                "mentions": 112,
+                "sources": 14,
+                "goldstein": -10.0,
+                "tone": -5.43933054393306,
+                "score": 324.0
+            },
+            {
+                "record_id": "1329715564",
+                "url": "https://news.mail.ru/politics/72846130/",
+                "related_urls": [
+                    "https://news.mail.ru/politics/72837999/"
+                ],
+                "title": "",
+                "mentions": 46,
+                "sources": 2,
+                "goldstein": -9.0,
+                "tone": -9.97499182660934,
+                "score": 144.0
+            },
+            {
+                "record_id": "1329705211",
+                "url": "https://news.mail.ru/society/72845750/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 34,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": 2.72727272727273,
+                "score": 113.0
+            },
+            {
+                "record_id": "1329776559",
+                "url": "https://www.express.co.uk/news/world/2260220/russia-demands-trump-assassinate-zelensky",
+                "related_urls": [],
+                "title": "",
+                "mentions": 36,
+                "sources": 2,
+                "goldstein": -10.0,
+                "tone": -9.7161679743842,
+                "score": 72.0,
+                "keyword": "러시아 암살 요구",
+                "hook": "러시아가 트럼프 당선인에게 젤렌스키 대통령 암살을 요구했다는 충격적인 보도가 나왔습니다.",
+                "script": "전 세계가 경악하고 있습니다. 러시아가 트럼프를 향해 젤렌스키 암살을 종용했다는 소식이 전해지며 국제 외교가 파국으로 치닫고 있습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1329679887",
+                "url": "https://www.vesti.ru/ns/kachestvo-vozdukha-proveryat-v-omske-posle-bespilotnoj-ataki",
+                "related_urls": [],
+                "title": "",
+                "mentions": 34,
+                "sources": 2,
+                "goldstein": -10.0,
+                "tone": -3.20261437908497,
+                "score": 71.0,
+                "keyword": "옴스크 공습 여파",
+                "hook": "드론 공격을 받은 러시아 옴스크, 공기 질이 급격히 나빠지며 주민들이 공포에 떨고 있습니다.",
+                "script": "무인기 공격 이후 옴스크의 대기 질에 비상이 걸렸습니다. 당국은 즉각 조사에 착수했지만, 주민들의 불안은 걷잡을 수 없이 커지고 있습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-26 08:14:08 KST",
+        "current_rank": 2
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 587.5,
+        "trends": [
+            {
+                "record_id": "1329580385",
+                "url": "https://www.northwalespioneer.co.uk/news/national/26666327.racially-motivated-attack-suspected-one-killed-france-shooting-spree/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 44,
+                "sources": 4,
+                "goldstein": -10.0,
+                "tone": -12.890625,
+                "score": 355.0
+            },
+            {
+                "record_id": "1329704976",
+                "url": "https://www.traunsteiner-tagblatt.de/nachrichten_artikel,-mindestens-1000-festnahmen-nach-protesten-in-frankreich-_arid,1023137.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 4,
+                "goldstein": -9.5,
+                "tone": -6.02049657114266,
+                "score": 80.5
+            },
+            {
+                "record_id": "1329715869",
+                "url": "https://nypost.com/2026/10/24/world-news/peaceful-paris-protest-turned-into-tear-gas-filled-riot-by-nightfall-after-violent-far-left-mob-arrived/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": -5.7909604519774,
+                "score": 77.5
+            },
+            {
+                "record_id": "1329661992",
+                "url": "https://www.thenorthernecho.co.uk/news/national/26666764.france-mobilises-thousands-police-protests-living-costs/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -6.5,
+                "tone": -3.23488045007032,
+                "score": 74.5
+            }
+        ],
+        "last_updated": "2026-10-26 08:14:08 KST",
+        "current_rank": 3
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 521.0,
+        "trends": [
+            {
+                "record_id": "1329703441",
+                "url": "https://www.thepeterboroughexaminer.com/news/world/united-states/california-election-officials-frustrated-rattled-by-doj-demand-to-sequester-noncitizen-ballots/article_e662d4e7-9ed8-5f48-9a04-b75532a677fa.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 4.0,
+                "tone": -4.06873934637739,
+                "score": 145.0
+            },
+            {
+                "record_id": "1329599589",
+                "url": "http://www.coloradostar.com/news/279390453/samsung-sk-hynix-advance-china-chipmaking-despite-us-curbs",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 7.0,
+                "tone": 1.82590801712683,
+                "score": 126.0
+            },
+            {
+                "record_id": "1329720739",
+                "url": "https://1430kasi.iheart.com/content/2026-10-25-trump-announces-audi-plant-at-georgia-rally/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 42,
+                "sources": 1,
+                "goldstein": 5.2,
+                "tone": 3.55543855185581,
+                "score": 89.0
+            },
+            {
+                "record_id": "1329580671",
+                "url": "https://www.orlandosentinel.com/2026/10/23/unc-student-death-conviction/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 3.0,
+                "tone": -7.33873708414378,
+                "score": 81.0
+            },
+            {
+                "record_id": "1329786758",
+                "url": "https://www.impartialreporter.com/news/national/26668498.venezuelas-opposition-leader-machado-returns-months-exile/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 84,
+                "sources": 14,
+                "goldstein": -2.0,
+                "tone": -2.34986945169713,
+                "score": 80.0
+            }
+        ],
+        "last_updated": "2026-10-26 08:14:08 KST",
+        "current_rank": 4
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 521.0,
+        "trends": [
+            {
+                "record_id": "1329737299",
+                "url": "https://aa.com.tr/en/world/police-clash-with-protesters-in-rome-as-demonstrators-march-toward-prime-minister-s-office/4100018",
+                "related_urls": [],
+                "title": "",
+                "mentions": 140,
+                "sources": 1,
+                "goldstein": -7.5,
+                "tone": -4.37956204379562,
+                "score": 201.5,
+                "keyword": "로마 시위 격화",
+                "hook": "이탈리아 로마 도심이 분노한 시위대와 경찰의 충돌로 아비규환이 되었습니다.",
+                "script": "로마 총리실을 향해 행진하던 시위대가 경찰과 정면충돌했습니다. 최루탄과 고성이 오가는 일촉즉발의 현장, 이탈리아 치안이 무너지고 있습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1329593437",
+                "url": "https://www.zazoom.it/2026-10-24/abbiategrasso-la-fiera-del-lavoro-e-un-successo-selezionati-81-candidati-dopo-600-colloqui-con-le-aziende/19840442/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": 8.72093023255814,
+                "score": 114.0,
+                "keyword": "아비아테그라소 채용 성공",
+                "hook": "600명의 구직자가 몰린 이탈리아 채용 박람회에서 놀라운 결과가 나왔습니다.",
+                "script": "아비아테그라소 취업 박람회가 성황리에 종료되었습니다. 600번의 면접 끝에 81명의 인재가 선발되며 지역 경제에 훈풍이 불고 있습니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1329617177",
+                "url": "http://www.hna.de/politik/demo-verbot-in-mailand-soldaten-und-polizei-gegen-neue-gewalt-zr-94556363.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 2,
+                "goldstein": -9.5,
+                "tone": -4.54545454545454,
+                "score": 75.5
+            },
+            {
+                "record_id": "1329681462",
+                "url": "https://www.inewsgr.com/184/synantisi-tou-oikoumenikou-patriarchi-vartholomaiou-me-ton-papa-leonta-sto-vatikano.htm",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": 2.8,
+                "tone": -1.4845310939061,
+                "score": 71.5
+            },
+            {
+                "record_id": "1329758204",
+                "url": "https://rtsh.al/te-lenduarit-ne-protesta-rama-akuzon-nxitesit-e-dhunes-i-riu-qe-u-plagos-ne-sy-kambane-alarmi-jam-marre-personalisht-me-kurimin-e-tij-ne-itali/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 3,
+                "goldstein": -6.5,
+                "tone": -11.8329643191568,
+                "score": 58.5
+            }
+        ],
+        "last_updated": "2026-10-26 08:14:08 KST",
+        "current_rank": 5
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 482.5,
+        "trends": [
+            {
+                "record_id": "1329637143",
+                "url": "https://indiankanoon.org/doc/162255177/",
+                "related_urls": [
+                    "https://indiankanoon.org/doc/3085754/",
+                    "https://indiankanoon.org/doc/178016686/",
+                    "https://indiankanoon.org/doc/174165111/"
+                ],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -1.82724252491695,
+                "score": 342.5
+            },
+            {
+                "record_id": "1329669924",
+                "url": "https://www.legallyindia.com/convos/topic/499919-sr-capital-markets-new-delhi",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.47491124075593,
+                "score": 72.0
+            },
+            {
+                "record_id": "1329719634",
+                "url": "http://www.malaysiasun.com/news/279397250/balipara-foundation-to-host-14th-eastern-himalayan-naturenomics-forum-from-october-30",
+                "related_urls": [],
+                "title": "",
+                "mentions": 32,
+                "sources": 2,
+                "goldstein": 4.0,
+                "tone": 2.73109243697479,
+                "score": 40.0
+            },
+            {
+                "record_id": "1329753401",
+                "url": "https://www.thehindu.com/news/cities/Delhi/delhi-schoolgirls-death-police-question-teachers-examine-cctv-footage/article71623066.ece",
+                "related_urls": [],
+                "title": "",
+                "mentions": 32,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -5.50098231827112,
+                "score": 28.0
+            }
+        ],
+        "last_updated": "2026-10-26 08:14:08 KST",
+        "current_rank": 6
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 478.5,
+        "trends": [
+            {
+                "record_id": "1329788251",
+                "url": "https://www.b92.net/svi-komentari/279491",
+                "related_urls": [
+                    "https://www.b92.net/svi-komentari/278291"
+                ],
+                "title": "",
+                "mentions": 122,
+                "sources": 2,
+                "goldstein": 1.0,
+                "tone": -0.800378343770622,
+                "score": 175.0
+            },
+            {
+                "record_id": "1329705396",
+                "url": "https://www.dailypolitical.com/2026/10/24/direxion-daily-csi-300-china-a-share-bear-1x-shares-nysearcachad-shares-will-pay-dividend-of-0-01-9.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 7.4,
+                "tone": 0.03229168338672,
+                "score": 81.0
+            },
+            {
+                "record_id": "1329599629",
+                "url": "http://www.coloradostar.com/news/279390453/samsung-sk-hynix-advance-china-chipmaking-despite-us-curbs",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -5.0,
+                "tone": 1.82590801712683,
+                "score": 81.0
+            },
+            {
+                "record_id": "1329788248",
+                "url": "https://www.lettera43.it/eta-oro-universita-cinese-perche-pechino-beffe-declino-europeo/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -4.0,
+                "tone": -0.81018518518519,
+                "score": 74.0
+            },
+            {
+                "record_id": "1329711588",
+                "url": "https://calgarysun.com/opinion/columnists/lorne-gunter-canada-public-private-models-to-improve-health-care/wcm/2c666ee0-6d09-4094-ab06-e5f4fb5e4aeb",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 0.178613701486178,
+                "score": 67.5
+            }
+        ],
+        "last_updated": "2026-10-26 08:14:08 KST",
+        "current_rank": 7
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 337.5,
+        "trends": [
+            {
+                "record_id": "1329801968",
+                "url": "https://www.eastlondonadvertiser.co.uk/news/national/26668594.brazil-votes-tense-lula-vs-bolsonaro-runoff/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 2.8,
+                "tone": -1.32978723404255,
+                "score": 86.0,
+                "keyword": "브라질 대선 긴장",
+                "hook": "루라와 보우소나루, 브라질의 운명을 결정지을 결선 투표가 임박했습니다.",
+                "script": "브라질 대선 결선 투표를 앞두고 전국이 극도의 긴장감에 휩싸였습니다. 두 후보의 초박빙 승부, 브라질의 미래는 과연 누구의 손에 쥐어질까요?",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329702927",
+                "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/24/pai-de-santo-e-encontrado-morto-a-tiros-dentro-de-casa-na-zona-norte-de-sp-cameras-registraram-invasao.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -4.1501976284585,
+                "score": 72.0,
+                "keyword": "상파울루 살인 사건",
+                "hook": "상파울루 자택에서 발생한 끔찍한 총격 살인 사건, CCTV에 범행 순간이 그대로 담겼습니다.",
+                "script": "상파울루 북부, 한 남성이 자신의 집에서 총에 맞아 숨진 채 발견되었습니다. 괴한들이 침입해 범행을 저지르는 모습이 CCTV에 포착되어 경찰이 추적 중입니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329604213",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/23/candidatos-que-disputam-2o-turno-para-governador-participaram-de-debates-e-sabatinas-promovidos-pela-globo-e-afiliadas.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": -2.55813953488372,
+                "score": 67.5
+            },
+            {
+                "record_id": "1329794761",
+                "url": "https://www.correio24horas.com.br/eleicoes/saiba-quem-venceu-o-2-turno-entre-flavio-bolsonaro-e-lula-na-nova-zelandia-1026",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": 2.84032569485035,
+                "score": 62.0
+            },
+            {
+                "record_id": "1329707599",
+                "url": "https://www.pz-news.de/politik_artikel,-Vor-Stichwahl-Lula-und-Bolsonaro-kaempfen-um-letzte-Stimmen-_arid,2374428.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 34,
+                "sources": 4,
+                "goldstein": -5.0,
+                "tone": -0.923653920411444,
+                "score": 50.0
+            }
+        ],
+        "last_updated": "2026-10-26 08:14:08 KST",
+        "current_rank": 8
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 330.5,
+        "trends": [
+            {
+                "record_id": "1329677296",
+                "url": "https://www.index.hr/magazin/clanak/milijarder-jeo-kebab-u-berlinu-ostavio-je-veliku-napojnicu/2849327.aspx?index_ref=homepage_comment_box_d&commentId=12328758",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 4.05405405405406,
+                "score": 87.5
+            },
+            {
+                "record_id": "1329722409",
+                "url": "https://www.noz.de/deutschland-welt/wirtschaft/artikel/einigung-auf-hafen-finanzierung-noch-2026-51646203",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 3.0,
+                "tone": 0.643651984815705,
+                "score": 86.0
+            },
+            {
+                "record_id": "1329768665",
+                "url": "http://www.come-on.de/wirtschaft/soeder-minijobs-abschaffung-rentenkommission-empfehlung-26-zr-94557320.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 32,
+                "sources": 4,
+                "goldstein": 3.0,
+                "tone": -0.685323344095792,
+                "score": 63.0
+            },
+            {
+                "record_id": "1329643757",
+                "url": "https://www.hna.de/politik/soeder-will-finanzausgleich-kuerzen-kritik-von-bund-und-laendern-zr-94556525.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -4.0,
+                "tone": -0.87260034904014,
+                "score": 48.0
+            },
+            {
+                "record_id": "1329640312",
+                "url": "https://www.b92.net/svi-komentari/278291",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 1,
+                "goldstein": -4.0,
+                "tone": -5.42384046886484,
+                "score": 46.0
+            }
+        ],
+        "last_updated": "2026-10-26 08:14:08 KST",
+        "current_rank": 9
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 327.0,
+        "trends": [
+            {
+                "record_id": "1329717723",
+                "url": "https://www.birgun.net/haber/istanbuldan-vana-izmirden-artvine-ulke-tek-ses-susturamazsiniz-742349%20target=_blank%20class=stretched-link",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -9.0,
+                "tone": -2.21550855991944,
+                "score": 114.0,
+                "keyword": "터키 전국 시위",
+                "hook": "이스탄불부터 아르트빈까지, 터키 전역이 정부를 향한 규탄의 목소리로 뒤덮였습니다.",
+                "script": "전국적인 시위가 동시다발적으로 발생했습니다. 시민들은 거리로 나와 한목소리로 정부를 비판하며, 터키 사회의 갈등이 최고조에 달했습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1329654564",
+                "url": "https://www.birgun.net/haber/emeklileri-ilgilendiren-kanun-teklifleri-meclis-e-sunuldu-742285%20class=slide-link%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": -1.19047619047619,
+                "score": 76.0
+            },
+            {
+                "record_id": "1329768814",
+                "url": "https://www.birgun.net/haber/tuncer-bakirhan-surecin-temposunda-bir-dusme-var-742443",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": -0.23923444976076,
+                "score": 64.0
+            },
+            {
+                "record_id": "1329762804",
+                "url": "https://www.birgun.net/haber/secim-tarihi-tartismasi-yeniden-gundeme-geldi-su-ana-kadar-kim-ne-soyledi-742432%20class=slide-legend-link%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": 3.13479623824451,
+                "score": 37.0
+            },
+            {
+                "record_id": "1329746504",
+                "url": "https://www.haberekspres.com.tr/iste-izmirle-is-buldu-ogrencileriyle-derste-bulustu",
+                "related_urls": [],
+                "title": "",
+                "mentions": 34,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 5.04451038575668,
+                "score": 36.0,
+                "keyword": "학생과 교사 만남",
+                "hook": "이즈미르에서 교사와 학생들의 특별한 만남이 이루어지며 훈훈한 감동을 전하고 있습니다.",
+                "script": "이즈미르에서 교사가 직접 학생들을 찾아가 수업을 진행했습니다. 교육 현장의 새로운 시도가 학생들에게 큰 환영을 받으며 희망의 메시지를 던졌습니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-26 08:14:08 KST",
+        "current_rank": 10
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 248.0,
+        "trends": [
+            {
+                "record_id": "1329603185",
+                "url": "https://www.omnia.com.mx/noticia/446860/localizan-pick-up-con-reporte-de-robo-bajo-el-puente-de-la-mirador-y-canal",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -3.28048494783065,
+                "score": 134.0,
+                "keyword": "도난 차량 발견",
+                "hook": "멕시코 도심 다리 밑에서 버려진 도난 차량이 발견되며 경찰이 수사에 나섰습니다.",
+                "script": "미라도르와 카날 다리 아래, 도난 신고된 픽업트럭이 발견되었습니다. 범죄에 이용된 것으로 의심되는 가운데 경찰이 현장을 봉쇄하고 증거를 확보 중입니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329694725",
+                "url": "https://www.critica.com.mx/vernoticias.php?artid=119873&mas=1",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": -2.89389067524116,
+                "score": 54.0
+            },
+            {
+                "record_id": "1329597781",
+                "url": "https://foxrochester.com/news/nation-world/bloody-sledgehammer-found-in-car-after-reported-seattle-stabbing-and-carjacking",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -2.0,
+                "tone": -4.39560439560439,
+                "score": 38.0
+            },
+            {
+                "record_id": "1329607904",
+                "url": "https://www.edaily.co.kr/News/Read?newsId=02013926645616200&mediaCodeNo=257",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": -1.32211538461538,
+                "score": 22.0
+            }
+        ],
+        "last_updated": "2026-10-26 08:14:08 KST",
+        "current_rank": 11
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 137.0,
+        "trends": [
+            {
+                "record_id": "1329789565",
+                "url": "http://www.0223.com.ar/nota/2026-10-25-14-21-0-ara-san-juan-a-nueve-anos-de-su-zarpada-el-dolor-de-las-familias-y-el-reclamo-de-justicia",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -5.36193029490616,
+                "score": 57.0
+            },
+            {
+                "record_id": "1329600309",
+                "url": "https://www.notimerica.com/politica/noticia-argentina-justicia-argentina-exculpa-milei-hermana-causa-criptomoneda-libra-20261024031602.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 5.0,
+                "tone": -0.515509788965165,
+                "score": 47.0
+            },
+            {
+                "record_id": "1329593667",
+                "url": "https://www.iprofesional.com/politica/467372-operacion-con-fines-golpistas-fuerte-descargo-de-milei-tras-ser-sobreseido-por-libra",
+                "related_urls": [],
+                "title": "",
+                "mentions": 34,
+                "sources": 3,
+                "goldstein": -2.0,
+                "tone": -5.23284745840218,
+                "score": 33.0
+            }
+        ],
+        "last_updated": "2026-10-26 08:14:08 KST",
+        "current_rank": 12
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 36.5,
+        "trends": [
+            {
+                "record_id": "1329798813",
+                "url": "https://calgarysun.com/news/local-news/calgary-honours-158-canadian-soldiers-killed-afghanistan-war",
+                "related_urls": [],
+                "title": "",
+                "mentions": 35,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 1.86735350933676,
+                "score": 36.5,
+                "keyword": "아프간 참전 추모",
+                "hook": "캐나다 캘거리에서 아프가니스탄 전쟁에서 희생된 158명의 영웅을 향한 눈물의 추모가 이어졌습니다.",
+                "script": "캘거리 시민들이 아프간 전쟁에서 전사한 158명의 캐나다 군인들을 기렸습니다. 그들의 숭고한 희생을 잊지 않겠다는 다짐이 도시 전체를 숙연하게 만들었습니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-26 08:14:08 KST",
+        "current_rank": 13
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 25.0,
+        "trends": [
+            {
+                "record_id": "1329608155",
+                "url": "https://news.mail.ru/politics/72838366/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 32,
+                "sources": 2,
+                "goldstein": 1.0,
+                "tone": 0.630291887285265,
+                "score": 25.0
+            }
+        ],
+        "last_updated": "2026-10-26 08:14:08 KST",
+        "current_rank": 14
+    }
+}

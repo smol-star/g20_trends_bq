@@ -23,11 +23,7 @@
                 "sources": 8,
                 "goldstein": -5.0,
                 "tone": -7.44680851063829,
-                "score": 138.0,
-                "keyword": "경찰 단속 축소",
-                "hook": "영국 런던 경찰이 전자발찌 위반자들에 대한 단속 수위를 대폭 낮추기로 결정했습니다.",
-                "script": "영국 메트로폴리탄 경찰이 전자발찌 위반 사항에 대한 법 집행을 축소하겠다고 발표했습니다. 치안 공백을 우려하는 비판이 쏟아지는 가운데, 사법 당국의 이번 결정이 가져올 파장에 이목이 집중되고 있습니다.",
-                "sentiment": "warning"
+                "score": 138.0
             },
             {
                 "record_id": "1329692478",
@@ -63,7 +59,7 @@
                 "score": 115.0
             }
         ],
-        "last_updated": "2026-10-26 05:47:49 KST",
+        "last_updated": "2026-10-26 08:14:08 KST",
         "current_rank": 1
     },
     "Russia": {
@@ -81,11 +77,7 @@
                 "sources": 14,
                 "goldstein": -10.0,
                 "tone": -5.43933054393306,
-                "score": 324.0,
-                "keyword": "스타링크 속도 제한",
-                "hook": "머스크가 우크라이나 스타링크 서비스의 속도 제한을 해제하며 큰 파장이 일고 있습니다.",
-                "script": "스타링크 서비스가 정상화됐습니다. 속도 제한으로 논란을 빚었던 머스크는 결국 우크라이나 내 서비스를 복구하며 통신망 정상화에 나섰습니다.",
-                "sentiment": "negative"
+                "score": 324.0
             },
             {
                 "record_id": "1329715564",
@@ -98,11 +90,7 @@
                 "sources": 2,
                 "goldstein": -9.0,
                 "tone": -9.97499182660934,
-                "score": 144.0,
-                "keyword": "러시아 정치적 위기",
-                "hook": "러시아 내부에서 심상치 않은 정치적 파동이 감지되고 있습니다.",
-                "script": "러시아 정계가 소용돌이에 휘말렸습니다. 주요 정책과 리더십을 둘러싼 논란이 가속화되며 내부 불안감이 극도로 고조되고 있습니다.",
-                "sentiment": "negative"
+                "score": 144.0
             },
             {
                 "record_id": "1329705211",
@@ -113,11 +101,7 @@
                 "sources": 1,
                 "goldstein": -10.0,
                 "tone": 2.72727272727273,
-                "score": 113.0,
-                "keyword": "사회적 혼란 가중",
-                "hook": "러시아 전역에서 사회적 불안이 확산하며 시민들의 우려가 커지고 있습니다.",
-                "script": "러시아의 사회 전반에 걸쳐 경고음이 울리고 있습니다. 반복되는 혼란과 불안 요소들로 인해 시민들의 일상마저 위협받고 있습니다.",
-                "sentiment": "warning"
+                "score": 113.0
             },
             {
                 "record_id": "1329776559",
@@ -129,10 +113,10 @@
                 "goldstein": -10.0,
                 "tone": -9.7161679743842,
                 "score": 72.0,
-                "keyword": "암살 요구 파문",
-                "hook": "러시아가 트럼프에게 우크라이나 대통령 암살을 요구했다는 충격적인 보도가 나왔습니다.",
-                "script": "믿기 힘든 주장이 나왔습니다. 러시아가 트럼프를 통해 젤렌스키 암살을 시도했다는 외신 보도가 나오며 국제사회에 큰 충격파를 던지고 있습니다.",
-                "sentiment": "negative"
+                "keyword": "러시아 암살 요구",
+                "hook": "러시아가 트럼프 당선인에게 젤렌스키 대통령 암살을 요구했다는 충격적인 보도가 나왔습니다.",
+                "script": "전 세계가 경악하고 있습니다. 러시아가 트럼프를 향해 젤렌스키 암살을 종용했다는 소식이 전해지며 국제 외교가 파국으로 치닫고 있습니다.",
+                "sentiment": "warning"
             },
             {
                 "record_id": "1329679887",
@@ -144,13 +128,13 @@
                 "goldstein": -10.0,
                 "tone": -3.20261437908497,
                 "score": 71.0,
-                "keyword": "드론 공격 공포",
-                "hook": "옴스크 지역에서 드론 공격 이후 대기질 검사가 실시되며 주민들이 공포에 떨고 있습니다.",
-                "script": "드론 공격이 옴스크를 강타했습니다. 연이은 공격에 주민들은 불안에 떨고 있고, 당국은 대기 오염을 우려해 긴급 환경 검사에 착수했습니다.",
+                "keyword": "옴스크 공습 여파",
+                "hook": "드론 공격을 받은 러시아 옴스크, 공기 질이 급격히 나빠지며 주민들이 공포에 떨고 있습니다.",
+                "script": "무인기 공격 이후 옴스크의 대기 질에 비상이 걸렸습니다. 당국은 즉각 조사에 착수했지만, 주민들의 불안은 걷잡을 수 없이 커지고 있습니다.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-26 05:47:49 KST",
+        "last_updated": "2026-10-26 08:14:08 KST",
         "current_rank": 2
     },
     "France": {
@@ -166,11 +150,7 @@
                 "sources": 4,
                 "goldstein": -10.0,
                 "tone": -12.890625,
-                "score": 355.0,
-                "keyword": "프랑스 총격 참사",
-                "hook": "프랑스 전역을 공포로 몰아넣은 무차별 총격 사건, 사망자까지 발생하며 충격에 빠졌습니다.",
-                "script": "프랑스에서 발생한 끔찍한 총격 사건입니다. 인종 차별적 동기가 의심되는 가운데, 한 명이 숨지고 거리는 아수라장이 됐습니다. 당국은 즉각 수사에 착수했습니다.",
-                "sentiment": "warning"
+                "score": 355.0
             },
             {
                 "record_id": "1329704976",
@@ -181,11 +161,7 @@
                 "sources": 4,
                 "goldstein": -9.5,
                 "tone": -6.02049657114266,
-                "score": 80.5,
-                "keyword": "프랑스 대규모 체포",
-                "hook": "프랑스 거리에서 1,000명 이상이 한꺼번에 체포되는 사상 초유의 사태가 벌어졌습니다.",
-                "script": "프랑스 전역이 격렬한 시위로 마비됐습니다. 물가 폭등에 분노한 시민들이 거리로 쏟아져 나오면서 경찰과의 충돌 끝에 무려 1,000명이 연행됐습니다.",
-                "sentiment": "negative"
+                "score": 80.5
             },
             {
                 "record_id": "1329715869",
@@ -196,11 +172,7 @@
                 "sources": 1,
                 "goldstein": 2.8,
                 "tone": -5.7909604519774,
-                "score": 77.5,
-                "keyword": "파리 시위 폭동",
-                "hook": "평화로웠던 파리의 밤이 최루탄 가스와 폭동으로 뒤덮였습니다.",
-                "script": "파리 시위 현장이 극좌파 폭력 단체의 난입으로 완전히 변질됐습니다. 평화 집회는 순식간에 최루탄이 난무하는 폭동 현장으로 바뀌며 아수라장이 됐습니다.",
-                "sentiment": "negative"
+                "score": 77.5
             },
             {
                 "record_id": "1329661992",
@@ -211,14 +183,10 @@
                 "sources": 6,
                 "goldstein": -6.5,
                 "tone": -3.23488045007032,
-                "score": 74.5,
-                "keyword": "경찰 병력 투입",
-                "hook": "프랑스 정부가 생활고 시위를 잠재우기 위해 수천 명의 경찰 병력을 급파했습니다.",
-                "script": "살인적인 물가에 항의하는 프랑스 시민들의 분노가 임계점에 도달했습니다. 정부는 전국에 수천 명의 경찰을 배치하며 강경 진압을 예고했습니다.",
-                "sentiment": "negative"
+                "score": 74.5
             }
         ],
-        "last_updated": "2026-10-26 05:47:49 KST",
+        "last_updated": "2026-10-26 08:14:08 KST",
         "current_rank": 3
     },
     "United States": {
@@ -234,11 +202,7 @@
                 "sources": 5,
                 "goldstein": 4.0,
                 "tone": -4.06873934637739,
-                "score": 145.0,
-                "keyword": "투표용지 분리 논란",
-                "hook": "미국 법무부의 갑작스러운 투표용지 분리 명령에 캘리포니아 선거 당국이 발칵 뒤집혔습니다.",
-                "script": "캘리포니아 선거 당국이 미 법무부의 비시민권자 투표용지 격리 요구에 강력히 반발하고 있습니다. 선거의 공정성과 행정적 혼란을 우려하는 목소리가 터져 나오는 가운데, 투표용지 처리를 둘러싼 연방 정부와 주 정부의 갈등이 최고조에 달했습니다.",
-                "sentiment": "warning"
+                "score": 145.0
             },
             {
                 "record_id": "1329599589",
@@ -285,7 +249,7 @@
                 "score": 80.0
             }
         ],
-        "last_updated": "2026-10-26 05:47:49 KST",
+        "last_updated": "2026-10-26 08:14:08 KST",
         "current_rank": 4
     },
     "Italy": {
@@ -302,13 +266,13 @@
                 "goldstein": -7.5,
                 "tone": -4.37956204379562,
                 "score": 201.5,
-                "keyword": "로마 시위 충돌",
-                "hook": "이탈리아 로마 중심부에서 경찰과 시위대가 정면으로 충돌하며 긴장감이 최고조에 달했습니다.",
-                "script": "총리실을 향해 행진하던 시위대가 경찰 저지선을 뚫으려다 격렬한 충돌을 빚었습니다. 로마 도심은 현재 최루탄과 비명소리로 가득 찼습니다.",
-                "sentiment": "negative"
+                "keyword": "로마 시위 격화",
+                "hook": "이탈리아 로마 도심이 분노한 시위대와 경찰의 충돌로 아비규환이 되었습니다.",
+                "script": "로마 총리실을 향해 행진하던 시위대가 경찰과 정면충돌했습니다. 최루탄과 고성이 오가는 일촉즉발의 현장, 이탈리아 치안이 무너지고 있습니다.",
+                "sentiment": "warning"
             },
             {
-                "record_id": "1329593361",
+                "record_id": "1329593437",
                 "url": "https://www.zazoom.it/2026-10-24/abbiategrasso-la-fiera-del-lavoro-e-un-successo-selezionati-81-candidati-dopo-600-colloqui-con-le-aziende/19840442/",
                 "related_urls": [],
                 "title": "",
@@ -317,9 +281,9 @@
                 "goldstein": 7.0,
                 "tone": 8.72093023255814,
                 "score": 114.0,
-                "keyword": "취업 박람회 성공",
-                "hook": "이탈리아에서 600명의 구직자가 몰린 대규모 취업 박람회가 성공적으로 마무리되었습니다.",
-                "script": "아비아테그라소에서 열린 취업 박람회가 큰 성과를 거뒀습니다. 600번의 면접 끝에 81명의 인재가 선발되며 고용 시장에 활력을 불어넣고 있습니다.",
+                "keyword": "아비아테그라소 채용 성공",
+                "hook": "600명의 구직자가 몰린 이탈리아 채용 박람회에서 놀라운 결과가 나왔습니다.",
+                "script": "아비아테그라소 취업 박람회가 성황리에 종료되었습니다. 600번의 면접 끝에 81명의 인재가 선발되며 지역 경제에 훈풍이 불고 있습니다.",
                 "sentiment": "positive"
             },
             {
@@ -331,11 +295,7 @@
                 "sources": 2,
                 "goldstein": -9.5,
                 "tone": -4.54545454545454,
-                "score": 75.5,
-                "keyword": "밀라노 시위 금지",
-                "hook": "밀라노 시 당국이 폭력 사태를 우려해 시위를 전면 금지하고 군 병력을 배치했습니다.",
-                "script": "밀라노 거리에서 시위가 전면 금지됐습니다. 폭력 사태를 막기 위해 군인과 경찰이 합동 순찰에 나섰고, 도심은 삼엄한 경계 태세에 돌입했습니다.",
-                "sentiment": "warning"
+                "score": 75.5
             },
             {
                 "record_id": "1329681462",
@@ -346,11 +306,7 @@
                 "sources": 2,
                 "goldstein": 2.8,
                 "tone": -1.4845310939061,
-                "score": 71.5,
-                "keyword": "교황 바티칸 회동",
-                "hook": "바티칸에서 교황과 세계 총대주교의 역사적인 만남이 성사되었습니다.",
-                "script": "바티칸에서 프란치스코 교황과 바르톨로메오 세계 총대주교가 만났습니다. 두 종교 지도자의 회동은 평화와 화합의 메시지를 전 세계에 던지고 있습니다.",
-                "sentiment": "neutral"
+                "score": 71.5
             },
             {
                 "record_id": "1329758204",
@@ -361,14 +317,10 @@
                 "sources": 3,
                 "goldstein": -6.5,
                 "tone": -11.8329643191568,
-                "score": 58.5,
-                "keyword": "시위 부상자 발생",
-                "hook": "이탈리아 시위 중 발생한 부상 소식에 정치권이 큰 충격에 빠졌습니다.",
-                "script": "시위 현장에서 부상자가 발생하며 이탈리아 정계가 발칵 뒤집혔습니다. 라마 총리는 폭력 조장 세력을 강력히 비난하며 직접 치료를 챙기겠다고 나섰습니다.",
-                "sentiment": "negative"
+                "score": 58.5
             }
         ],
-        "last_updated": "2026-10-26 05:47:49 KST",
+        "last_updated": "2026-10-26 08:14:08 KST",
         "current_rank": 5
     },
     "India": {
@@ -376,12 +328,12 @@
         "spike_score": 482.5,
         "trends": [
             {
-                "record_id": "1329637479",
+                "record_id": "1329637143",
                 "url": "https://indiankanoon.org/doc/162255177/",
                 "related_urls": [
-                    "https://indiankanoon.org/doc/174165111/",
+                    "https://indiankanoon.org/doc/3085754/",
                     "https://indiankanoon.org/doc/178016686/",
-                    "https://indiankanoon.org/doc/3085754/"
+                    "https://indiankanoon.org/doc/174165111/"
                 ],
                 "title": "",
                 "mentions": 50,
@@ -421,14 +373,10 @@
                 "sources": 1,
                 "goldstein": -2.0,
                 "tone": -5.50098231827112,
-                "score": 28.0,
-                "keyword": "델리 여학생 사망",
-                "hook": "학교에서 벌어진 여학생 사망 사건, 경찰이 CCTV 분석과 교사 조사에 착수했습니다.",
-                "script": "델리의 한 학교에서 비극적인 여학생 사망 사건이 발생했습니다. 경찰은 현재 모든 가능성을 열어두고 교사들을 집중 조사하는 한편, 사건 당시의 CCTV 영상을 정밀 분석하며 진실 규명에 속도를 내고 있습니다.",
-                "sentiment": "negative"
+                "score": 28.0
             }
         ],
-        "last_updated": "2026-10-26 05:47:49 KST",
+        "last_updated": "2026-10-26 08:14:08 KST",
         "current_rank": 6
     },
     "China": {
@@ -457,11 +405,7 @@
                 "sources": 1,
                 "goldstein": 7.4,
                 "tone": 0.03229168338672,
-                "score": 81.0,
-                "keyword": "중국 증시 배당",
-                "hook": "중국 CSI 300 베어 ETF가 배당금 지급을 발표하며 투자자들의 시선이 쏠리고 있습니다.",
-                "script": "Direxion Daily CSI 300 China Bear 1X Shares가 0.01달러 규모의 배당을 결정했습니다. 하락장에 베팅하는 상품의 이례적인 배당 소식에 중국 증시 변동성을 둘러싼 시장의 긴장감이 높아지고 있습니다.",
-                "sentiment": "neutral"
+                "score": 81.0
             },
             {
                 "record_id": "1329599629",
@@ -497,8 +441,79 @@
                 "score": 67.5
             }
         ],
-        "last_updated": "2026-10-26 05:47:49 KST",
+        "last_updated": "2026-10-26 08:14:08 KST",
         "current_rank": 7
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 337.5,
+        "trends": [
+            {
+                "record_id": "1329801968",
+                "url": "https://www.eastlondonadvertiser.co.uk/news/national/26668594.brazil-votes-tense-lula-vs-bolsonaro-runoff/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 2.8,
+                "tone": -1.32978723404255,
+                "score": 86.0,
+                "keyword": "브라질 대선 긴장",
+                "hook": "루라와 보우소나루, 브라질의 운명을 결정지을 결선 투표가 임박했습니다.",
+                "script": "브라질 대선 결선 투표를 앞두고 전국이 극도의 긴장감에 휩싸였습니다. 두 후보의 초박빙 승부, 브라질의 미래는 과연 누구의 손에 쥐어질까요?",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329702927",
+                "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/24/pai-de-santo-e-encontrado-morto-a-tiros-dentro-de-casa-na-zona-norte-de-sp-cameras-registraram-invasao.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -4.1501976284585,
+                "score": 72.0,
+                "keyword": "상파울루 살인 사건",
+                "hook": "상파울루 자택에서 발생한 끔찍한 총격 살인 사건, CCTV에 범행 순간이 그대로 담겼습니다.",
+                "script": "상파울루 북부, 한 남성이 자신의 집에서 총에 맞아 숨진 채 발견되었습니다. 괴한들이 침입해 범행을 저지르는 모습이 CCTV에 포착되어 경찰이 추적 중입니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329604213",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/23/candidatos-que-disputam-2o-turno-para-governador-participaram-de-debates-e-sabatinas-promovidos-pela-globo-e-afiliadas.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": -2.55813953488372,
+                "score": 67.5
+            },
+            {
+                "record_id": "1329794761",
+                "url": "https://www.correio24horas.com.br/eleicoes/saiba-quem-venceu-o-2-turno-entre-flavio-bolsonaro-e-lula-na-nova-zelandia-1026",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": 2.84032569485035,
+                "score": 62.0
+            },
+            {
+                "record_id": "1329707599",
+                "url": "https://www.pz-news.de/politik_artikel,-Vor-Stichwahl-Lula-und-Bolsonaro-kaempfen-um-letzte-Stimmen-_arid,2374428.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 34,
+                "sources": 4,
+                "goldstein": -5.0,
+                "tone": -0.923653920411444,
+                "score": 50.0
+            }
+        ],
+        "last_updated": "2026-10-26 08:14:08 KST",
+        "current_rank": 8
     },
     "Germany": {
         "gdp_rank": 3,
@@ -513,14 +528,10 @@
                 "sources": 1,
                 "goldstein": 2.8,
                 "tone": 4.05405405405406,
-                "score": 87.5,
-                "keyword": "억만장자 케밥 시식",
-                "hook": "베를린의 한 케밥집에 나타난 억만장자가 남긴 엄청난 팁이 화제입니다.",
-                "script": "베를린 거리를 걷던 한 억만장자가 평범한 케밥집에서 식사를 마친 뒤 거액의 팁을 남기고 떠났습니다. 소박한 일상 속에서 벌어진 뜻밖의 통 큰 기부에 현지 시민들이 놀라움을 금치 못하고 있습니다.",
-                "sentiment": "positive"
+                "score": 87.5
             },
             {
-                "record_id": "1329722452",
+                "record_id": "1329722409",
                 "url": "https://www.noz.de/deutschland-welt/wirtschaft/artikel/einigung-auf-hafen-finanzierung-noch-2026-51646203",
                 "related_urls": [],
                 "title": "",
@@ -564,8 +575,8 @@
                 "score": 46.0
             }
         ],
-        "last_updated": "2026-10-26 05:47:49 KST",
-        "current_rank": 8
+        "last_updated": "2026-10-26 08:14:08 KST",
+        "current_rank": 9
     },
     "Turkey": {
         "gdp_rank": 16,
@@ -581,9 +592,9 @@
                 "goldstein": -9.0,
                 "tone": -2.21550855991944,
                 "score": 114.0,
-                "keyword": "전국적 반정부 시위",
-                "hook": "터키 전역이 분노로 뒤덮였습니다, 시민들이 거리로 쏟아져 나온 이유는 무엇일까요?",
-                "script": "이스탄불에서 반까지, 전국이 하나 되어 외칩니다. 정부의 탄압에 맞선 시민들의 목소리가 거리를 가득 채웠습니다. 멈추지 않는 시위, 과연 이 사태는 어디로 흘러갈까요?",
+                "keyword": "터키 전국 시위",
+                "hook": "이스탄불부터 아르트빈까지, 터키 전역이 정부를 향한 규탄의 목소리로 뒤덮였습니다.",
+                "script": "전국적인 시위가 동시다발적으로 발생했습니다. 시민들은 거리로 나와 한목소리로 정부를 비판하며, 터키 사회의 갈등이 최고조에 달했습니다.",
                 "sentiment": "warning"
             },
             {
@@ -595,14 +606,10 @@
                 "sources": 1,
                 "goldstein": 3.4,
                 "tone": -1.19047619047619,
-                "score": 76.0,
-                "keyword": "은퇴자 복지 법안",
-                "hook": "터키 은퇴자들의 삶이 바뀔 수도 있는 중대 법안이 의회에 제출되었습니다.",
-                "script": "경제난에 시달리던 은퇴자들에게 희망이 될까요? 의회에 상정된 새로운 복지 법안, 그 내용을 지금 바로 확인하세요. 생계 위협에 처한 노년층의 운명이 결정됩니다.",
-                "sentiment": "neutral"
+                "score": 76.0
             },
             {
-                "record_id": "1329768467",
+                "record_id": "1329768814",
                 "url": "https://www.birgun.net/haber/tuncer-bakirhan-surecin-temposunda-bir-dusme-var-742443",
                 "related_urls": [],
                 "title": "",
@@ -610,11 +617,7 @@
                 "sources": 1,
                 "goldstein": 1.0,
                 "tone": -0.23923444976076,
-                "score": 64.0,
-                "keyword": "정치권 긴장 고조",
-                "hook": "정치권의 시계가 멈췄습니다, 긴박하게 돌아가던 정국이 갑자기 식어버린 이유는 무엇일까요?",
-                "script": "정치적 템포가 급격히 떨어졌습니다. 툰제르 바키르한이 직접 경고한 정국 냉각기, 과연 차기 권력 구도에 어떤 균열을 가져올지 주목됩니다.",
-                "sentiment": "negative"
+                "score": 64.0
             },
             {
                 "record_id": "1329762804",
@@ -625,11 +628,7 @@
                 "sources": 1,
                 "goldstein": 3.0,
                 "tone": 3.13479623824451,
-                "score": 37.0,
-                "keyword": "조기 선거 논란",
-                "hook": "다시 불붙은 조기 선거설, 정치권이 벌써부터 차기 대권을 향해 질주하고 있습니다.",
-                "script": "선거 시기가 정치권의 뜨거운 감자로 떠올랐습니다. 여야가 팽팽하게 맞서는 조기 선거론, 과연 누가 주도권을 잡을 것인가. 터키의 미래가 요동칩니다.",
-                "sentiment": "neutral"
+                "score": 37.0
             },
             {
                 "record_id": "1329746504",
@@ -641,96 +640,13 @@
                 "goldstein": 3.4,
                 "tone": 5.04451038575668,
                 "score": 36.0,
-                "keyword": "혁신적 교육 현장",
-                "hook": "학생과 교사가 디지털로 하나 되다, 이즈미르에서 시작된 교육 혁명이 화제입니다.",
-                "script": "교실의 경계가 허물어졌습니다. 디지털 플랫폼을 통해 학생들을 만나는 혁신적인 수업 현장, 교육 현장의 새로운 패러다임이 여기서 완성됩니다.",
+                "keyword": "학생과 교사 만남",
+                "hook": "이즈미르에서 교사와 학생들의 특별한 만남이 이루어지며 훈훈한 감동을 전하고 있습니다.",
+                "script": "이즈미르에서 교사가 직접 학생들을 찾아가 수업을 진행했습니다. 교육 현장의 새로운 시도가 학생들에게 큰 환영을 받으며 희망의 메시지를 던졌습니다.",
                 "sentiment": "positive"
             }
         ],
-        "last_updated": "2026-10-26 05:47:49 KST",
-        "current_rank": 9
-    },
-    "Brazil": {
-        "gdp_rank": 9,
-        "spike_score": 298.5,
-        "trends": [
-            {
-                "record_id": "1329702927",
-                "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/24/pai-de-santo-e-encontrado-morto-a-tiros-dentro-de-casa-na-zona-norte-de-sp-cameras-registraram-invasao.ghtml",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 1,
-                "goldstein": -10.0,
-                "tone": -4.1501976284585,
-                "score": 72.0,
-                "keyword": "종교 지도자 피살",
-                "hook": "브라질 상파울루에서 유명 종교 지도자가 자택에서 총에 맞아 숨진 채 발견됐습니다.",
-                "script": "상파울루 북부, 침입자가 종교 지도자를 살해하는 장면이 CCTV에 고스란히 담겼습니다. 경찰은 범행 동기를 파악하기 위해 수사력을 집중하고 있습니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1329604213",
-                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/23/candidatos-que-disputam-2o-turno-para-governador-participaram-de-debates-e-sabatinas-promovidos-pela-globo-e-afiliadas.ghtml",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 1,
-                "goldstein": 2.8,
-                "tone": -2.55813953488372,
-                "score": 67.5,
-                "keyword": "주지사 후보 토론",
-                "hook": "브라질 결선 투표를 앞두고 주지사 후보들이 뜨거운 토론을 벌였습니다.",
-                "script": "주지사 선거 2차 투표가 임박했습니다. 후보들은 글로보 등 주요 방송사의 토론과 인터뷰에 나서며 마지막 표심 잡기에 사활을 걸고 있습니다.",
-                "sentiment": "neutral"
-            },
-            {
-                "record_id": "1329794761",
-                "url": "https://www.correio24horas.com.br/eleicoes/saiba-quem-venceu-o-2-turno-entre-flavio-bolsonaro-e-lula-na-nova-zelandia-1026",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 1,
-                "goldstein": 7.0,
-                "tone": 2.84032569485035,
-                "score": 62.0,
-                "keyword": "재외국민 투표 결과",
-                "hook": "뉴질랜드에서 치러진 브라질 대선 결선 투표의 승자가 공개되었습니다.",
-                "script": "지구 반대편 뉴질랜드에서 브라질 대선 투표 결과가 나왔습니다. 룰라와 볼소나로 후보의 치열한 대결, 현지 투표소에서는 누가 승리했을까요?",
-                "sentiment": "positive"
-            },
-            {
-                "record_id": "1329707599",
-                "url": "https://www.pz-news.de/politik_artikel,-Vor-Stichwahl-Lula-und-Bolsonaro-kaempfen-um-letzte-Stimmen-_arid,2374428.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 34,
-                "sources": 4,
-                "goldstein": -5.0,
-                "tone": -0.923653920411444,
-                "score": 50.0,
-                "keyword": "대선 막판 접전",
-                "hook": "브라질 대선 결선 투표를 앞두고 룰라와 볼소나로의 초접전이 벌어지고 있습니다.",
-                "script": "운명의 결선 투표가 눈앞으로 다가왔습니다. 룰라와 볼소나로 후보는 마지막 한 표라도 더 얻기 위해 브라질 전역을 누비며 사투를 벌이고 있습니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1329699646",
-                "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/24/moradores-denunciam-abandono-de-gatos-na-ilha-porchat-em-sao-vicente.ghtml",
-                "related_urls": [],
-                "title": "",
-                "mentions": 70,
-                "sources": 1,
-                "goldstein": -2.0,
-                "tone": -5.59284116331095,
-                "score": 47.0,
-                "keyword": "유기묘 방치 논란",
-                "hook": "브라질의 한 섬에서 버려진 고양이들이 떼로 발견되어 공분을 사고 있습니다.",
-                "script": "포르샤 섬에 고양이들이 버려졌습니다. 주민들은 동물의 생명을 방치한 행태를 강력히 규탄하며 당국의 즉각적인 구조를 요구하고 나섰습니다.",
-                "sentiment": "negative"
-            }
-        ],
-        "last_updated": "2026-10-26 05:47:49 KST",
+        "last_updated": "2026-10-26 08:14:08 KST",
         "current_rank": 10
     },
     "Mexico": {
@@ -738,7 +654,7 @@
         "spike_score": 248.0,
         "trends": [
             {
-                "record_id": "1329603031",
+                "record_id": "1329603185",
                 "url": "https://www.omnia.com.mx/noticia/446860/localizan-pick-up-con-reporte-de-robo-bajo-el-puente-de-la-mirador-y-canal",
                 "related_urls": [],
                 "title": "",
@@ -748,8 +664,8 @@
                 "tone": -3.28048494783065,
                 "score": 134.0,
                 "keyword": "도난 차량 발견",
-                "hook": "멕시코 도심 다리 밑에서 도난 신고된 픽업트럭이 발견되어 수사가 진행 중입니다.",
-                "script": "다리 밑에 버려진 픽업트럭 한 대. 알고 보니 도난 차량이었습니다. 경찰은 범인이 남긴 흔적을 쫓아 현장을 정밀 감식하고 있습니다.",
+                "hook": "멕시코 도심 다리 밑에서 버려진 도난 차량이 발견되며 경찰이 수사에 나섰습니다.",
+                "script": "미라도르와 카날 다리 아래, 도난 신고된 픽업트럭이 발견되었습니다. 범죄에 이용된 것으로 의심되는 가운데 경찰이 현장을 봉쇄하고 증거를 확보 중입니다.",
                 "sentiment": "negative"
             },
             {
@@ -761,11 +677,7 @@
                 "sources": 1,
                 "goldstein": 1.0,
                 "tone": -2.89389067524116,
-                "score": 54.0,
-                "keyword": "멕시코 뉴스 속보",
-                "hook": "멕시코 현지에서 긴박한 사건 사고 소식이 끊이지 않고 있습니다.",
-                "script": "멕시코 전역에서 사건 사고가 잇따르고 있습니다. 현지 소식통들이 전하는 긴박한 뉴스들을 지금 바로 확인하시기 바랍니다.",
-                "sentiment": "negative"
+                "score": 54.0
             },
             {
                 "record_id": "1329597781",
@@ -776,11 +688,7 @@
                 "sources": 4,
                 "goldstein": -2.0,
                 "tone": -4.39560439560439,
-                "score": 38.0,
-                "keyword": "차량 내 흉기",
-                "hook": "시애틀 사건 이후 차량 안에서 피 묻은 대형 망치가 발견되어 충격을 주고 있습니다.",
-                "script": "흉기 난동과 차량 탈취 사건이 발생한 차량에서 핏자국이 묻은 망치가 발견됐습니다. 잔혹한 범행의 실체가 드러나며 공포가 확산하고 있습니다.",
-                "sentiment": "negative"
+                "score": 38.0
             },
             {
                 "record_id": "1329607904",
@@ -791,14 +699,10 @@
                 "sources": 1,
                 "goldstein": 0.0,
                 "tone": -1.32211538461538,
-                "score": 22.0,
-                "keyword": "사건 사고 정황",
-                "hook": "멕시코를 둘러싼 각종 사건 사고의 실체가 하나둘씩 드러나고 있습니다.",
-                "script": "연이어 발생하는 사건 사고들, 도대체 무슨 일이 벌어지고 있는 걸까요? 최신 정황을 추적해 전해드립니다.",
-                "sentiment": "neutral"
+                "score": 22.0
             }
         ],
-        "last_updated": "2026-10-26 05:47:49 KST",
+        "last_updated": "2026-10-26 08:14:08 KST",
         "current_rank": 11
     },
     "Argentina": {
@@ -814,11 +718,7 @@
                 "sources": 1,
                 "goldstein": 7.0,
                 "tone": -5.36193029490616,
-                "score": 57.0,
-                "keyword": "산후안 침몰 비극",
-                "hook": "9년 전 바다로 사라진 산후안호, 유가족들의 눈물 섞인 절규가 아르헨티나를 울립니다.",
-                "script": "진실은 아직 심해 속에 있습니다. 9주기를 맞이한 산후안호 참사, 정의를 외치는 가족들의 투쟁은 지금도 계속되고 있습니다. 잊혀선 안 될 그날의 비극입니다.",
-                "sentiment": "negative"
+                "score": 57.0
             },
             {
                 "record_id": "1329600309",
@@ -829,11 +729,7 @@
                 "sources": 1,
                 "goldstein": 5.0,
                 "tone": -0.515509788965165,
-                "score": 47.0,
-                "keyword": "밀레이 사법 리스크",
-                "hook": "아르헨티나 대통령 밀레이, 암호화폐 스캔들에서 극적으로 벗어났습니다.",
-                "script": "법원이 밀레이 대통령과 그 자매의 혐의를 기각했습니다. 하지만 여론의 시선은 여전히 차갑습니다. 과연 사법부의 결정이 정권의 위기를 잠재울 수 있을까요?",
-                "sentiment": "negative"
+                "score": 47.0
             },
             {
                 "record_id": "1329593667",
@@ -844,19 +740,15 @@
                 "sources": 3,
                 "goldstein": -2.0,
                 "tone": -5.23284745840218,
-                "score": 33.0,
-                "keyword": "대통령의 정면 돌파",
-                "hook": "쿠데타 음모라는 밀레이의 충격 발언, 아르헨티나 정국이 폭풍 속으로 빠져듭니다.",
-                "script": "법적 면죄부를 받은 밀레이 대통령이 반격에 나섰습니다. 자신을 향한 공격을 쿠데타 시도로 규정하며 정면 돌파를 선언한 상황, 아르헨티나 정치가 격랑에 휩싸였습니다.",
-                "sentiment": "negative"
+                "score": 33.0
             }
         ],
-        "last_updated": "2026-10-26 05:47:49 KST",
+        "last_updated": "2026-10-26 08:14:08 KST",
         "current_rank": 12
     },
     "Canada": {
         "gdp_rank": 10,
-        "spike_score": 59.5,
+        "spike_score": 36.5,
         "trends": [
             {
                 "record_id": "1329798813",
@@ -868,52 +760,14 @@
                 "goldstein": 3.4,
                 "tone": 1.86735350933676,
                 "score": 36.5,
-                "keyword": "전사자 추모 행사",
-                "hook": "캐나다 캘거리에서 아프가니스탄 전쟁 전사자들을 위한 숙연한 추모식이 열렸습니다.",
-                "script": "158명의 캐나다 군인이 아프가니스탄 전쟁에서 목숨을 잃었습니다. 캘거리 시민들은 이들의 희생을 기리며 깊은 애도의 뜻을 표했습니다.",
+                "keyword": "아프간 참전 추모",
+                "hook": "캐나다 캘거리에서 아프가니스탄 전쟁에서 희생된 158명의 영웅을 향한 눈물의 추모가 이어졌습니다.",
+                "script": "캘거리 시민들이 아프간 전쟁에서 전사한 158명의 캐나다 군인들을 기렸습니다. 그들의 숭고한 희생을 잊지 않겠다는 다짐이 도시 전체를 숙연하게 만들었습니다.",
                 "sentiment": "positive"
-            },
-            {
-                "record_id": "1329629242",
-                "url": "https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-mayoral-candidates-9.7387040",
-                "related_urls": [],
-                "title": "",
-                "mentions": 32,
-                "sources": 1,
-                "goldstein": 1.0,
-                "tone": 0.172117039586919,
-                "score": 23.0,
-                "keyword": "시장 선거 후보",
-                "hook": "캐나다 선더베이 시장 선거를 앞두고 후보들의 경쟁이 본격화되었습니다.",
-                "script": "선더베이의 미래를 책임질 시장 선거 후보들이 윤곽을 드러냈습니다. 시민들의 선택을 받기 위한 이들의 정책 대결이 시작됐습니다.",
-                "sentiment": "neutral"
             }
         ],
-        "last_updated": "2026-10-26 05:47:49 KST",
+        "last_updated": "2026-10-26 08:14:08 KST",
         "current_rank": 13
-    },
-    "Japan": {
-        "gdp_rank": 4,
-        "spike_score": 35.0,
-        "trends": [
-            {
-                "record_id": "1329582684",
-                "url": "https://www.sbsun.com/2026/10/23/remains-of-ww-ii-soldier-missing-since-1942-are-identified-and-returned-home-to-ontario/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 32,
-                "sources": 1,
-                "goldstein": 3.4,
-                "tone": -3.68259535291539,
-                "score": 35.0,
-                "keyword": "참전용사 유해 귀환",
-                "hook": "84년이라는 긴 세월, 전장을 떠돌던 참전용사의 유해가 드디어 고국 품으로 돌아왔습니다.",
-                "script": "1942년 이후 실종되었던 제2차 세계대전 참전용사의 유해가 마침내 신원 확인을 마치고 온타리오로 귀환했습니다. 멈췄던 시간이 다시 흐르며 유족들의 오랜 기다림이 끝을 맺었습니다.",
-                "sentiment": "neutral"
-            }
-        ],
-        "last_updated": "2026-10-26 05:47:49 KST",
-        "current_rank": 14
     },
     "Saudi Arabia": {
         "gdp_rank": 17,
@@ -928,14 +782,10 @@
                 "sources": 2,
                 "goldstein": 1.0,
                 "tone": 0.630291887285265,
-                "score": 25.0,
-                "keyword": "사우디 외교 행보",
-                "hook": "글로벌 외교 무대에서 사우디아라비아의 영향력이 다시 한번 시험대에 올랐습니다.",
-                "script": "복잡한 국제 정세 속에서 사우디가 내놓은 카드는 무엇일까요? 중동의 맹주가 선택한 전략적 결단이 세계 경제와 정치판을 뒤흔들고 있습니다.",
-                "sentiment": "neutral"
+                "score": 25.0
             }
         ],
-        "last_updated": "2026-10-26 05:47:49 KST",
-        "current_rank": 15
+        "last_updated": "2026-10-26 08:14:08 KST",
+        "current_rank": 14
     }
 }
