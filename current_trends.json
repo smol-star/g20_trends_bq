@@ -1,7 +1,7 @@
 {
     "Russia": {
         "gdp_rank": 11,
-        "spike_score": 722.0,
+        "spike_score": 724.0,
         "trends": [
             {
                 "record_id": "1329693543",
@@ -14,11 +14,7 @@
                 "sources": 14,
                 "goldstein": -10.0,
                 "tone": -5.43933054393306,
-                "score": 324.0,
-                "keyword": "스타링크 속도 제한",
-                "hook": "일론 머스크의 스타링크가 우크라이나 서비스 속도를 제한하며 전장에 큰 파장을 일으켰습니다.",
-                "script": "전쟁의 판도를 바꾸는 통신망 스타링크가 멈췄습니다. 속도 제한 조치로 인해 우크라이나군이 큰 혼란을 겪고 있습니다. 기술이 전쟁을 어떻게 흔드는지 확인하세요.",
-                "sentiment": "negative"
+                "score": 324.0
             },
             {
                 "record_id": "1329715564",
@@ -45,6 +41,17 @@
                 "score": 113.0
             },
             {
+                "record_id": "1329776559",
+                "url": "https://www.express.co.uk/news/world/2260220/russia-demands-trump-assassinate-zelensky",
+                "related_urls": [],
+                "title": "",
+                "mentions": 36,
+                "sources": 2,
+                "goldstein": -10.0,
+                "tone": -9.7161679743842,
+                "score": 72.0
+            },
+            {
                 "record_id": "1329679887",
                 "url": "https://www.vesti.ru/ns/kachestvo-vozdukha-proveryat-v-omske-posle-bespilotnoj-ataki",
                 "related_urls": [],
@@ -53,25 +60,10 @@
                 "sources": 2,
                 "goldstein": -10.0,
                 "tone": -3.20261437908497,
-                "score": 71.0,
-                "keyword": "옴스크 공습 조사",
-                "hook": "러시아 옴스크 지역에 무인기 공격이 가해지며 대기 질 검사까지 시행되는 사태가 벌어졌습니다.",
-                "script": "무인기 공격 이후 옴스크의 대기가 오염됐습니다. 당국은 긴급 공기질 조사에 착수했습니다. 공격의 여파가 시민들의 건강까지 위협하고 있습니다.",
-                "sentiment": "warning"
-            },
-            {
-                "record_id": "1329639817",
-                "url": "https://www.dunmowbroadcast.co.uk/news/national/26666999.ukraine-russia-eye-fresh-peace-talks-despite-obstacles/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 42,
-                "sources": 7,
-                "goldstein": 7.0,
-                "tone": -3.26395392739266,
-                "score": 70.0
+                "score": 71.0
             }
         ],
-        "last_updated": "2026-10-25 20:20:50 KST",
+        "last_updated": "2026-10-26 01:12:16 KST",
         "current_rank": 1
     },
     "United Kingdom": {
@@ -131,36 +123,26 @@
                 "sources": 11,
                 "goldstein": 8.5,
                 "tone": -4.16187535065001,
-                "score": 96.5,
-                "keyword": "경찰 서신 파문",
-                "hook": "메트로폴리탄 경찰이 과거 토마스 마클의 서신을 은폐했다는 의혹이 제기되며 거센 후폭풍이 불고 있습니다.",
-                "script": "메트로폴리탄 경찰이 2019년 토마스 마클로부터 서신을 받았음을 뒤늦게 인정했습니다. 경찰의 대응을 두고 비판 여론이 들끓는 가운데, 사건 재조사가 시작되면서 영국 치안 당국에 대한 신뢰가 시험대에 올랐습니다.",
-                "sentiment": "negative"
+                "score": 96.5
             }
         ],
-        "last_updated": "2026-10-25 20:20:50 KST",
+        "last_updated": "2026-10-26 01:12:16 KST",
         "current_rank": 2
     },
     "United States": {
         "gdp_rank": 1,
-        "spike_score": 678.5,
+        "spike_score": 637.5,
         "trends": [
             {
                 "record_id": "1329703441",
                 "url": "https://www.thepeterboroughexaminer.com/news/world/united-states/california-election-officials-frustrated-rattled-by-doj-demand-to-sequester-noncitizen-ballots/article_e662d4e7-9ed8-5f48-9a04-b75532a677fa.html",
-                "related_urls": [
-                    "https://www.2news.com/news/national/california-election-officials-frustrated-rattled-by-doj-demand-to-sequester-noncitizen-ballots/article_f68f41cc-b7ad-5153-912f-b3f1dbe1c1e2.html"
-                ],
+                "related_urls": [],
                 "title": "",
                 "mentions": 50,
                 "sources": 5,
                 "goldstein": 4.0,
                 "tone": -4.06873934637739,
-                "score": 216.0,
-                "keyword": "투표용지 격리 논란",
-                "hook": "캘리포니아 선거 현장이 DOJ의 강경한 투표용지 격리 명령에 발칵 뒤집혔습니다.",
-                "script": "캘리포니아 선거 관리 당국이 DOJ의 비시민권자 투표용지 격리 요구에 큰 충격을 받았습니다. 부정선거 논란이 가열되는 가운데, 선거 관리 현장의 혼란이 극에 달하고 있습니다. 지금 이 결정이 대선 결과에 어떤 파장을 몰고 올지 주목됩니다.",
-                "sentiment": "warning"
+                "score": 175.0
             },
             {
                 "record_id": "1329745932",
@@ -174,7 +156,7 @@
                 "score": 165.0
             },
             {
-                "record_id": "1329599589",
+                "record_id": "1329599808",
                 "url": "http://www.coloradostar.com/news/279390453/samsung-sk-hynix-advance-china-chipmaking-despite-us-curbs",
                 "related_urls": [],
                 "title": "",
@@ -207,12 +189,12 @@
                 "score": 82.5
             }
         ],
-        "last_updated": "2026-10-25 20:20:50 KST",
+        "last_updated": "2026-10-26 01:12:16 KST",
         "current_rank": 3
     },
     "France": {
         "gdp_rank": 7,
-        "spike_score": 639.5,
+        "spike_score": 587.5,
         "trends": [
             {
                 "record_id": "1329580385",
@@ -223,11 +205,7 @@
                 "sources": 4,
                 "goldstein": -10.0,
                 "tone": -12.890625,
-                "score": 355.0,
-                "keyword": "프랑스 총격 발생",
-                "hook": "평화롭던 프랑스 거리에서 인종차별적 동기가 의심되는 충격적인 총격 사건이 발생했습니다.",
-                "script": "프랑스에서 총격으로 한 명이 사망했습니다. 인종차별이 원인으로 지목되며 현장은 공포에 휩싸였습니다. 경찰이 수사에 착수했지만 시민들의 불안은 극에 달한 상황입니다.",
-                "sentiment": "warning"
+                "score": 355.0
             },
             {
                 "record_id": "1329704976",
@@ -238,11 +216,7 @@
                 "sources": 4,
                 "goldstein": -9.5,
                 "tone": -6.02049657114266,
-                "score": 80.5,
-                "keyword": "프랑스 시위 격화",
-                "hook": "프랑스 전역에서 1,000명이 넘는 시위대가 체포되며 대규모 혼란이 벌어지고 있습니다.",
-                "script": "프랑스 거리마다 최루탄과 비명이 가득합니다. 생계비 위기로 시작된 시위가 폭동으로 번지며 경찰이 무력 진압에 나섰습니다. 프랑스 대혼란, 지금 바로 확인하세요.",
-                "sentiment": "negative"
+                "score": 80.5
             },
             {
                 "record_id": "1329715869",
@@ -265,33 +239,85 @@
                 "goldstein": -6.5,
                 "tone": -3.23488045007032,
                 "score": 74.5
-            },
-            {
-                "record_id": "1329718252",
-                "url": "https://timesofoman.com/article/178346-france-unrest-1000-detained-as-cost-of-living-protests-explode-into-clashes",
-                "related_urls": [],
-                "title": "",
-                "mentions": 30,
-                "sources": 3,
-                "goldstein": -2.0,
-                "tone": -6.78462311946475,
-                "score": 52.0
             }
         ],
-        "last_updated": "2026-10-25 20:20:50 KST",
+        "last_updated": "2026-10-26 01:12:16 KST",
         "current_rank": 4
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 521.0,
+        "trends": [
+            {
+                "record_id": "1329737299",
+                "url": "https://aa.com.tr/en/world/police-clash-with-protesters-in-rome-as-demonstrators-march-toward-prime-minister-s-office/4100018",
+                "related_urls": [],
+                "title": "",
+                "mentions": 140,
+                "sources": 1,
+                "goldstein": -7.5,
+                "tone": -4.37956204379562,
+                "score": 201.5
+            },
+            {
+                "record_id": "1329593361",
+                "url": "https://www.zazoom.it/2026-10-24/abbiategrasso-la-fiera-del-lavoro-e-un-successo-selezionati-81-candidati-dopo-600-colloqui-con-le-aziende/19840442/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": 8.72093023255814,
+                "score": 114.0
+            },
+            {
+                "record_id": "1329617177",
+                "url": "http://www.hna.de/politik/demo-verbot-in-mailand-soldaten-und-polizei-gegen-neue-gewalt-zr-94556363.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 2,
+                "goldstein": -9.5,
+                "tone": -4.54545454545454,
+                "score": 75.5
+            },
+            {
+                "record_id": "1329681462",
+                "url": "https://www.inewsgr.com/184/synantisi-tou-oikoumenikou-patriarchi-vartholomaiou-me-ton-papa-leonta-sto-vatikano.htm",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": 2.8,
+                "tone": -1.4845310939061,
+                "score": 71.5
+            },
+            {
+                "record_id": "1329758204",
+                "url": "https://rtsh.al/te-lenduarit-ne-protesta-rama-akuzon-nxitesit-e-dhunes-i-riu-qe-u-plagos-ne-sy-kambane-alarmi-jam-marre-personalisht-me-kurimin-e-tij-ne-itali/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 3,
+                "goldstein": -6.5,
+                "tone": -11.8329643191568,
+                "score": 58.5
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 5
     },
     "India": {
         "gdp_rank": 5,
-        "spike_score": 566.5,
+        "spike_score": 482.5,
         "trends": [
             {
-                "record_id": "1329637479",
+                "record_id": "1329637143",
                 "url": "https://indiankanoon.org/doc/162255177/",
                 "related_urls": [
-                    "https://indiankanoon.org/doc/174165111/",
                     "https://indiankanoon.org/doc/3085754/",
-                    "https://indiankanoon.org/doc/178016686/"
+                    "https://indiankanoon.org/doc/178016686/",
+                    "https://indiankanoon.org/doc/174165111/"
                 ],
                 "title": "",
                 "mentions": 50,
@@ -312,32 +338,6 @@
                 "score": 72.0
             },
             {
-                "record_id": "1329694317",
-                "url": "http://www.bignewsnetwork.com/news/279396810/vacate-illegally-occupied-territory-in-jammu-and-kashmir-focus-on-your-own-citizens-rather-than-taking-military-directives-india-slams-pakistan-at-un",
-                "related_urls": [],
-                "title": "",
-                "mentions": 30,
-                "sources": 3,
-                "goldstein": 7.0,
-                "tone": -0.67681895093062,
-                "score": 56.0
-            },
-            {
-                "record_id": "1329730526",
-                "url": "http://www.indiagazette.com/news/279397383/operation-trident-rs-100-crore-hawala-transactions-unearthed-18-arrested-in-anti-drug-crackdown-across-3-northeastern-states",
-                "related_urls": [],
-                "title": "",
-                "mentions": 30,
-                "sources": 3,
-                "goldstein": -7.0,
-                "tone": -7.54257907542579,
-                "score": 56.0,
-                "keyword": "마약 범죄 소탕",
-                "hook": "인도 전역에서 100억 루피 규모의 거대 하왈라 자금줄이 적발되었습니다.",
-                "script": "인도 북동부 3개 주에서 대규모 마약 소탕 작전 '트라이던트'가 전개되어 18명이 체포되었습니다. 100억 루피에 달하는 불법 송금망이 드러나며 인도 당국이 범죄와의 전쟁을 선포했습니다. 뿌리 깊은 마약 커넥션의 실체가 드러나고 있습니다.",
-                "sentiment": "warning"
-            },
-            {
                 "record_id": "1329719634",
                 "url": "http://www.malaysiasun.com/news/279397250/balipara-foundation-to-host-14th-eastern-himalayan-naturenomics-forum-from-october-30",
                 "related_urls": [],
@@ -347,81 +347,147 @@
                 "goldstein": 4.0,
                 "tone": 2.73109243697479,
                 "score": 40.0
-            }
-        ],
-        "last_updated": "2026-10-25 20:20:50 KST",
-        "current_rank": 5
-    },
-    "Italy": {
-        "gdp_rank": 8,
-        "spike_score": 519.5,
-        "trends": [
-            {
-                "record_id": "1329737299",
-                "url": "https://aa.com.tr/en/world/police-clash-with-protesters-in-rome-as-demonstrators-march-toward-prime-minister-s-office/4100018",
-                "related_urls": [],
-                "title": "",
-                "mentions": 140,
-                "sources": 1,
-                "goldstein": -7.5,
-                "tone": -4.37956204379562,
-                "score": 201.5,
-                "keyword": "로마 시위 충돌",
-                "hook": "이탈리아 로마 중심부에서 경찰과 시위대가 정면으로 충돌하며 긴장감이 최고조에 달했습니다.",
-                "script": "총리실을 향해 행진하던 시위대가 경찰 저지선과 격렬하게 부딪혔습니다. 이탈리아 전역으로 번지는 시위의 열기, 과연 정부는 이 사태를 잠재울 수 있을까요?",
-                "sentiment": "negative"
             },
             {
-                "record_id": "1329593437",
-                "url": "https://www.zazoom.it/2026-10-24/abbiategrasso-la-fiera-del-lavoro-e-un-successo-selezionati-81-candidati-dopo-600-colloqui-con-le-aziende/19840442/",
+                "record_id": "1329753401",
+                "url": "https://www.thehindu.com/news/cities/Delhi/delhi-schoolgirls-death-police-question-teachers-examine-cctv-footage/article71623066.ece",
+                "related_urls": [],
+                "title": "",
+                "mentions": 32,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -5.50098231827112,
+                "score": 28.0
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 6
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 330.5,
+        "trends": [
+            {
+                "record_id": "1329677296",
+                "url": "https://www.index.hr/magazin/clanak/milijarder-jeo-kebab-u-berlinu-ostavio-je-veliku-napojnicu/2849327.aspx?index_ref=homepage_comment_box_d&commentId=12328758",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 4.05405405405406,
+                "score": 87.5
+            },
+            {
+                "record_id": "1329722409",
+                "url": "https://www.noz.de/deutschland-welt/wirtschaft/artikel/einigung-auf-hafen-finanzierung-noch-2026-51646203",
                 "related_urls": [],
                 "title": "",
                 "mentions": 40,
-                "sources": 1,
-                "goldstein": 7.0,
-                "tone": 8.72093023255814,
-                "score": 114.0
+                "sources": 4,
+                "goldstein": 3.0,
+                "tone": 0.643651984815705,
+                "score": 86.0
             },
             {
-                "record_id": "1329617177",
-                "url": "http://www.hna.de/politik/demo-verbot-in-mailand-soldaten-und-polizei-gegen-neue-gewalt-zr-94556363.html",
+                "record_id": "1329768665",
+                "url": "http://www.come-on.de/wirtschaft/soeder-minijobs-abschaffung-rentenkommission-empfehlung-26-zr-94557320.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 32,
+                "sources": 4,
+                "goldstein": 3.0,
+                "tone": -0.685323344095792,
+                "score": 63.0
+            },
+            {
+                "record_id": "1329643757",
+                "url": "https://www.hna.de/politik/soeder-will-finanzausgleich-kuerzen-kritik-von-bund-und-laendern-zr-94556525.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -4.0,
+                "tone": -0.87260034904014,
+                "score": 48.0
+            },
+            {
+                "record_id": "1329640312",
+                "url": "https://www.b92.net/svi-komentari/278291",
                 "related_urls": [],
                 "title": "",
                 "mentions": 48,
-                "sources": 2,
-                "goldstein": -9.5,
-                "tone": -4.54545454545454,
-                "score": 75.5,
-                "keyword": "밀라노 시위 금지",
-                "hook": "폭력 사태를 막기 위해 밀라노 정부가 시위를 전격 금지하고 군대까지 배치했습니다.",
-                "script": "밀라노 거리가 군인들에 의해 봉쇄됐습니다. 잇따른 폭력 시위로 인해 당국이 강경 대응을 선포했습니다. 이탈리아의 긴박한 현장을 지금 전해드립니다.",
-                "sentiment": "warning"
-            },
+                "sources": 1,
+                "goldstein": -4.0,
+                "tone": -5.42384046886484,
+                "score": 46.0
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 7
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 327.0,
+        "trends": [
             {
-                "record_id": "1329681462",
-                "url": "https://www.inewsgr.com/184/synantisi-tou-oikoumenikou-patriarchi-vartholomaiou-me-ton-papa-leonta-sto-vatikano.htm",
+                "record_id": "1329717723",
+                "url": "https://www.birgun.net/haber/istanbuldan-vana-izmirden-artvine-ulke-tek-ses-susturamazsiniz-742349%20target=_blank%20class=stretched-link",
                 "related_urls": [],
                 "title": "",
                 "mentions": 40,
-                "sources": 2,
-                "goldstein": 2.8,
-                "tone": -1.4845310939061,
-                "score": 71.5
+                "sources": 1,
+                "goldstein": -9.0,
+                "tone": -2.21550855991944,
+                "score": 114.0
             },
             {
-                "record_id": "1329725997",
-                "url": "https://www.ledauphine.com/social/2026/10/25/espagne-italie-albanie-la-grogne-monte-dans-d-autres-pays-d-europe",
+                "record_id": "1329654564",
+                "url": "https://www.birgun.net/haber/emeklileri-ilgilendiren-kanun-teklifleri-meclis-e-sunuldu-742285%20class=slide-link%20target=_blank",
                 "related_urls": [],
                 "title": "",
-                "mentions": 30,
-                "sources": 3,
-                "goldstein": -7.2,
-                "tone": -6.09243697478991,
-                "score": 57.0
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": -1.19047619047619,
+                "score": 76.0
+            },
+            {
+                "record_id": "1329768467",
+                "url": "https://www.birgun.net/haber/tuncer-bakirhan-surecin-temposunda-bir-dusme-var-742443",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": -0.23923444976076,
+                "score": 64.0
+            },
+            {
+                "record_id": "1329762804",
+                "url": "https://www.birgun.net/haber/secim-tarihi-tartismasi-yeniden-gundeme-geldi-su-ana-kadar-kim-ne-soyledi-742432%20class=slide-legend-link%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": 3.13479623824451,
+                "score": 37.0
+            },
+            {
+                "record_id": "1329746504",
+                "url": "https://www.haberekspres.com.tr/iste-izmirle-is-buldu-ogrencileriyle-derste-bulustu",
+                "related_urls": [],
+                "title": "",
+                "mentions": 34,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 5.04451038575668,
+                "score": 36.0
             }
         ],
-        "last_updated": "2026-10-25 20:20:50 KST",
-        "current_rank": 6
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 8
     },
     "China": {
         "gdp_rank": 2,
@@ -461,21 +527,6 @@
                 "score": 67.5
             },
             {
-                "record_id": "1329618932",
-                "url": "http://www.reflector.com/news/national/north-korean-leader-kim-jong-un-visits-china-south-korean-news-agency-reports/article_d319cb56-2c45-5ca6-92ba-a75c17a759ae.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 32,
-                "sources": 4,
-                "goldstein": 2.8,
-                "tone": 1.70406570631732,
-                "score": 38.0,
-                "keyword": "김정은 중국 방문",
-                "hook": "북한 김정은 위원장의 전격적인 중국 방문 소식이 전해지며 동북아 정세가 요동치고 있습니다.",
-                "script": "김정은 위원장이 중국을 방문했다는 소식이 남한 뉴스 에이전시를 통해 전해졌습니다. 미묘한 시기에 이루어진 이번 방중이 북중 관계와 주변국 정세에 어떤 변수로 작용할지 국제사회의 이목이 집중되고 있습니다.",
-                "sentiment": "neutral"
-            },
-            {
                 "record_id": "1329654548",
                 "url": "https://kallxo.com/lajm/shba-ja-i-shpall-institutet-kineze-konfuci-kercenim-per-sigurine-kombetare/",
                 "related_urls": [],
@@ -485,10 +536,21 @@
                 "goldstein": -2.0,
                 "tone": 1.87696915506843,
                 "score": 38.0
+            },
+            {
+                "record_id": "1329640311",
+                "url": "https://www.b92.net/svi-komentari/278291",
+                "related_urls": [],
+                "title": "",
+                "mentions": 32,
+                "sources": 1,
+                "goldstein": -4.0,
+                "tone": -5.42384046886484,
+                "score": 38.0
             }
         ],
-        "last_updated": "2026-10-25 20:20:50 KST",
-        "current_rank": 7
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 9
     },
     "Brazil": {
         "gdp_rank": 9,
@@ -503,11 +565,7 @@
                 "sources": 1,
                 "goldstein": -10.0,
                 "tone": -4.1501976284585,
-                "score": 72.0,
-                "keyword": "상파울루 살인 사건",
-                "hook": "상파울루의 한 가정집에 괴한들이 침입해 종교인을 사살하는 끔찍한 사건이 발생했습니다.",
-                "script": "보안 카메라에 찍힌 소름 돋는 침입 장면입니다. 상파울루에서 종교인이 자택에서 총에 맞아 사망했습니다. 브라질의 치안 부재가 다시 한번 도마 위에 올랐습니다.",
-                "sentiment": "negative"
+                "score": 72.0
             },
             {
                 "record_id": "1329604213",
@@ -529,11 +587,7 @@
                 "sources": 4,
                 "goldstein": -5.0,
                 "tone": -0.923653920411444,
-                "score": 50.0,
-                "keyword": "브라질 대선 격돌",
-                "hook": "룰라와 볼소나로, 브라질의 운명을 가를 결선 투표를 앞두고 마지막 전쟁이 시작됐습니다.",
-                "script": "브라질 대선의 마지막 승부수가 던져졌습니다. 두 후보의 한 치 앞도 알 수 없는 접전 속에 국민들의 시선이 쏠리고 있습니다. 결과는 어떻게 될까요?",
-                "sentiment": "neutral"
+                "score": 50.0
             },
             {
                 "record_id": "1329699646",
@@ -558,119 +612,7 @@
                 "score": 37.0
             }
         ],
-        "last_updated": "2026-10-25 20:20:50 KST",
-        "current_rank": 8
-    },
-    "Germany": {
-        "gdp_rank": 3,
-        "spike_score": 267.5,
-        "trends": [
-            {
-                "record_id": "1329677296",
-                "url": "https://www.index.hr/magazin/clanak/milijarder-jeo-kebab-u-berlinu-ostavio-je-veliku-napojnicu/2849327.aspx?index_ref=homepage_comment_box_d&commentId=12328758",
-                "related_urls": [],
-                "title": "",
-                "mentions": 60,
-                "sources": 1,
-                "goldstein": 2.8,
-                "tone": 4.05405405405406,
-                "score": 87.5
-            },
-            {
-                "record_id": "1329722452",
-                "url": "https://www.noz.de/deutschland-welt/wirtschaft/artikel/einigung-auf-hafen-finanzierung-noch-2026-51646203",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": 3.0,
-                "tone": 0.643651984815705,
-                "score": 86.0
-            },
-            {
-                "record_id": "1329643757",
-                "url": "https://www.hna.de/politik/soeder-will-finanzausgleich-kuerzen-kritik-von-bund-und-laendern-zr-94556525.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": -4.0,
-                "tone": -0.87260034904014,
-                "score": 48.0,
-                "keyword": "재정 조정 갈등",
-                "hook": "독일 정계가 재정 조정안 삭감 문제를 두고 전례 없는 내부 갈등에 휩싸였습니다.",
-                "script": "쇠더가 재정 조정안 삭감을 강력히 주장하며 연방 정부와 주 정부 간의 갈등이 최고조에 달했습니다. 예산 부족 문제로 촉발된 이번 대립이 독일 경제 정책의 근간을 흔들 수 있다는 우려가 커지고 있습니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1329640312",
-                "url": "https://www.b92.net/svi-komentari/278291",
-                "related_urls": [],
-                "title": "",
-                "mentions": 48,
-                "sources": 1,
-                "goldstein": -4.0,
-                "tone": -5.42384046886484,
-                "score": 46.0
-            }
-        ],
-        "last_updated": "2026-10-25 20:20:50 KST",
-        "current_rank": 9
-    },
-    "Turkey": {
-        "gdp_rank": 16,
-        "spike_score": 259.0,
-        "trends": [
-            {
-                "record_id": "1329717723",
-                "url": "https://www.birgun.net/haber/istanbuldan-vana-izmirden-artvine-ulke-tek-ses-susturamazsiniz-742349%20target=_blank%20class=stretched-link",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 1,
-                "goldstein": -9.0,
-                "tone": -2.21550855991944,
-                "score": 114.0,
-                "keyword": "전국적 대규모 시위",
-                "hook": "터키 전역이 분노로 들끓고 있습니다, 거리로 쏟아져 나온 시민들이 외치는 단 하나의 메시지는 무엇일까요?",
-                "script": "이스탄불부터 반까지, 터키 전역이 시민들의 함성으로 뒤덮였습니다. 정부의 정책에 반대하는 대규모 시위가 전국을 강타하며 긴장감이 최고조에 달했습니다. 시민들은 목소리를 죽일 수 없다고 외치며 강력한 저항을 이어가고 있습니다. 사태가 어디까지 번질지 주목됩니다.",
-                "sentiment": "warning"
-            },
-            {
-                "record_id": "1329654564",
-                "url": "https://www.birgun.net/haber/emeklileri-ilgilendiren-kanun-teklifleri-meclis-e-sunuldu-742285%20class=slide-link%20target=_blank",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 1,
-                "goldstein": 3.4,
-                "tone": -1.19047619047619,
-                "score": 76.0
-            },
-            {
-                "record_id": "1329746504",
-                "url": "https://www.haberekspres.com.tr/iste-izmirle-is-buldu-ogrencileriyle-derste-bulustu",
-                "related_urls": [],
-                "title": "",
-                "mentions": 34,
-                "sources": 1,
-                "goldstein": 3.4,
-                "tone": 5.04451038575668,
-                "score": 36.0
-            },
-            {
-                "record_id": "1329648013",
-                "url": "https://www.sabah.com.tr/gundem/2026/10/24/tbmm-baskani-numan-kurtulmustan-yunanistana-tepki-lozana-riayet-etmeye-davet-ediyoruz",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": 1.0,
-                "tone": 1.70272665515794,
-                "score": 33.0
-            }
-        ],
-        "last_updated": "2026-10-25 20:20:50 KST",
+        "last_updated": "2026-10-26 01:12:16 KST",
         "current_rank": 10
     },
     "Mexico": {
@@ -678,7 +620,7 @@
         "spike_score": 248.0,
         "trends": [
             {
-                "record_id": "1329603185",
+                "record_id": "1329603031",
                 "url": "https://www.omnia.com.mx/noticia/446860/localizan-pick-up-con-reporte-de-robo-bajo-el-puente-de-la-mirador-y-canal",
                 "related_urls": [],
                 "title": "",
@@ -686,11 +628,7 @@
                 "sources": 1,
                 "goldstein": 7.0,
                 "tone": -3.28048494783065,
-                "score": 134.0,
-                "keyword": "차량 절도 발견",
-                "hook": "멕시코 시내 다리 밑에서 도난 신고된 차량이 발견되며 경찰 수사가 시작됐습니다.",
-                "script": "다리 밑에 버려진 차량 한 대. 도난 신고된 차량이 발견되면서 현장이 통제됐습니다. 멕시코의 치안 불안이 다시 한번 증명된 현장입니다.",
-                "sentiment": "negative"
+                "score": 134.0
             },
             {
                 "record_id": "1329694725",
@@ -726,42 +664,8 @@
                 "score": 22.0
             }
         ],
-        "last_updated": "2026-10-25 20:20:50 KST",
+        "last_updated": "2026-10-26 01:12:16 KST",
         "current_rank": 11
-    },
-    "Canada": {
-        "gdp_rank": 10,
-        "spike_score": 214.0,
-        "trends": [
-            {
-                "record_id": "1329655201",
-                "url": "https://www.nugget.ca/press-releases/globe-newswire/thousands-of-ontarians-to-attend-together-for-publicly-funded-education-rallies/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 30,
-                "sources": 3,
-                "goldstein": 7.4,
-                "tone": 0.62893081761006,
-                "score": 168.0,
-                "keyword": "교육 예산 시위",
-                "hook": "온타리오주 수천 명의 시민들이 공교육 예산 확보를 외치며 거리로 쏟아져 나왔습니다.",
-                "script": "학교를 지키기 위한 대규모 행진이 온타리오를 뒤덮었습니다. 공교육 예산 감축에 반대하는 시민들의 목소리가 그 어느 때보다 높습니다. 캐나다 교육의 미래는?",
-                "sentiment": "neutral"
-            },
-            {
-                "record_id": "1329629242",
-                "url": "https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-mayoral-candidates-9.7387040",
-                "related_urls": [],
-                "title": "",
-                "mentions": 32,
-                "sources": 1,
-                "goldstein": 1.0,
-                "tone": 0.172117039586919,
-                "score": 46.0
-            }
-        ],
-        "last_updated": "2026-10-25 20:20:50 KST",
-        "current_rank": 12
     },
     "Argentina": {
         "gdp_rank": 18,
@@ -787,14 +691,29 @@
                 "sources": 3,
                 "goldstein": -2.0,
                 "tone": -5.23284745840218,
-                "score": 33.0,
-                "keyword": "밀레이 대통령 무죄",
-                "hook": "아르헨티나 정국을 뒤흔든 가상화폐 스캔들, 밀레이 대통령이 마침내 법의 심판대에서 벗어났습니다.",
-                "script": "밀레이 대통령과 그의 여동생을 둘러싼 '리브라' 스캔들이 법적 공방 끝에 무죄로 판결되었습니다. 하지만 대통령은 이를 쿠데타를 노린 정치적 공작이라며 격렬히 비판했습니다. 정권과 사법부 사이의 갈등이 정점에 달하며 아르헨티나 정국이 다시 요동치고 있습니다.",
-                "sentiment": "negative"
+                "score": 33.0
             }
         ],
-        "last_updated": "2026-10-25 20:20:50 KST",
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 12
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 46.0,
+        "trends": [
+            {
+                "record_id": "1329629242",
+                "url": "https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-mayoral-candidates-9.7387040",
+                "related_urls": [],
+                "title": "",
+                "mentions": 32,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": 0.172117039586919,
+                "score": 46.0
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
         "current_rank": 13
     },
     "Japan": {
@@ -810,14 +729,10 @@
                 "sources": 1,
                 "goldstein": 3.4,
                 "tone": -3.68259535291539,
-                "score": 35.0,
-                "keyword": "전사자 유해 귀환",
-                "hook": "80년 넘게 고향을 떠나있던 2차 대전 전사자의 유해가 드디어 가족의 품으로 돌아왔습니다.",
-                "script": "1942년 이후 실종되었던 2차 세계대전 일본군 병사의 유해가 극적으로 확인되었습니다. 긴 세월을 지나 온타리오로 돌아온 전사자의 소식에 전 세계가 숙연해지고 있습니다. 전쟁의 비극이 남긴 긴 여운을 다시금 실감케 합니다.",
-                "sentiment": "negative"
+                "score": 35.0
             }
         ],
-        "last_updated": "2026-10-25 20:20:50 KST",
+        "last_updated": "2026-10-26 01:12:16 KST",
         "current_rank": 14
     },
     "Saudi Arabia": {
@@ -833,14 +748,10 @@
                 "sources": 2,
                 "goldstein": 1.0,
                 "tone": 0.630291887285265,
-                "score": 25.0,
-                "keyword": "사우디 외교 행보",
-                "hook": "중동의 거인 사우디아라비아가 국제 정세의 중심에서 조용히 판을 흔들고 있습니다.",
-                "script": "사우디아라비아의 최근 외교적 움직임이 세계의 이목을 끌고 있습니다. 복잡한 국제 관계 속에서 사우디는 실리를 챙기며 전략적 입지를 다지는 모습입니다. 이들의 행보가 향후 중동의 질서를 어떻게 재편할지 전 세계가 지켜보고 있습니다.",
-                "sentiment": "neutral"
+                "score": 25.0
             }
         ],
-        "last_updated": "2026-10-25 20:20:50 KST",
+        "last_updated": "2026-10-26 01:12:16 KST",
         "current_rank": 15
     }
 }

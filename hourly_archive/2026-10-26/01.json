@@ -1,0 +1,757 @@
+{
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 724.0,
+        "trends": [
+            {
+                "record_id": "1329693543",
+                "url": "https://www.wimbledonguardian.co.uk/news/national/26667668.musk-says-behind-starlink-speed-restriction-ukraine-service-restored/",
+                "related_urls": [
+                    "https://www.heraldseries.co.uk/news/national/26667668.musk-speaks-starlink-service-ukraine-restored/"
+                ],
+                "title": "",
+                "mentions": 112,
+                "sources": 14,
+                "goldstein": -10.0,
+                "tone": -5.43933054393306,
+                "score": 324.0
+            },
+            {
+                "record_id": "1329715564",
+                "url": "https://news.mail.ru/politics/72846130/",
+                "related_urls": [
+                    "https://news.mail.ru/politics/72837999/"
+                ],
+                "title": "",
+                "mentions": 46,
+                "sources": 2,
+                "goldstein": -9.0,
+                "tone": -9.97499182660934,
+                "score": 144.0
+            },
+            {
+                "record_id": "1329705211",
+                "url": "https://news.mail.ru/society/72845750/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 34,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": 2.72727272727273,
+                "score": 113.0
+            },
+            {
+                "record_id": "1329776559",
+                "url": "https://www.express.co.uk/news/world/2260220/russia-demands-trump-assassinate-zelensky",
+                "related_urls": [],
+                "title": "",
+                "mentions": 36,
+                "sources": 2,
+                "goldstein": -10.0,
+                "tone": -9.7161679743842,
+                "score": 72.0
+            },
+            {
+                "record_id": "1329679887",
+                "url": "https://www.vesti.ru/ns/kachestvo-vozdukha-proveryat-v-omske-posle-bespilotnoj-ataki",
+                "related_urls": [],
+                "title": "",
+                "mentions": 34,
+                "sources": 2,
+                "goldstein": -10.0,
+                "tone": -3.20261437908497,
+                "score": 71.0
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 1
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 699.5,
+        "trends": [
+            {
+                "record_id": "1329626562",
+                "url": "https://www.yourlocalguardian.co.uk/news/national/26666809.tech-tycoons-must-not-allowed-let-rip-ai-minister-warns/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 8,
+                "goldstein": 7.4,
+                "tone": 0.200664613283069,
+                "score": 244.0
+            },
+            {
+                "record_id": "1329692478",
+                "url": "https://www.thewestmorlandgazette.co.uk/news/national/26667665.burnham-time-honest-discussion-freedom-movement-eu/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 8,
+                "goldstein": 4.0,
+                "tone": 1.05820105820106,
+                "score": 124.0
+            },
+            {
+                "record_id": "1329579887",
+                "url": "https://www.timminspress.com/press-releases/globe-newswire/mirasol-resources-announces-option-grants/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 5.2,
+                "tone": 3.125,
+                "score": 120.0
+            },
+            {
+                "record_id": "1329651937",
+                "url": "https://www.leighjournal.co.uk/news/national/26667157.scottish-greens-urge-john-swinney-say-stands-energy-policy/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 72,
+                "sources": 9,
+                "goldstein": -2.0,
+                "tone": 0.22831050228311,
+                "score": 115.0
+            },
+            {
+                "record_id": "1329648489",
+                "url": "https://www.dailymail.com/news/article-16235325/Met-police-say-DID-receive-letter-Thomas-Markle-2019-force-reviews-handing-matter.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 11,
+                "goldstein": 8.5,
+                "tone": -4.16187535065001,
+                "score": 96.5
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 2
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 637.5,
+        "trends": [
+            {
+                "record_id": "1329703441",
+                "url": "https://www.thepeterboroughexaminer.com/news/world/united-states/california-election-officials-frustrated-rattled-by-doj-demand-to-sequester-noncitizen-ballots/article_e662d4e7-9ed8-5f48-9a04-b75532a677fa.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 4.0,
+                "tone": -4.06873934637739,
+                "score": 175.0
+            },
+            {
+                "record_id": "1329745932",
+                "url": "https://www.wxii12.com/article/red-flag-laws-by-state/74229820",
+                "related_urls": [],
+                "title": "",
+                "mentions": 30,
+                "sources": 5,
+                "goldstein": -10.0,
+                "tone": -3.66300366300367,
+                "score": 165.0
+            },
+            {
+                "record_id": "1329599808",
+                "url": "http://www.coloradostar.com/news/279390453/samsung-sk-hynix-advance-china-chipmaking-despite-us-curbs",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 7.0,
+                "tone": 1.82590801712683,
+                "score": 126.0
+            },
+            {
+                "record_id": "1329720739",
+                "url": "https://1430kasi.iheart.com/content/2026-10-25-trump-announces-audi-plant-at-georgia-rally/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 42,
+                "sources": 1,
+                "goldstein": 5.2,
+                "tone": 3.55543855185581,
+                "score": 89.0
+            },
+            {
+                "record_id": "1329580232",
+                "url": "https://www.wiltsglosstandard.co.uk/news/national/26666700.lunar-surface-meteor-strikes-minds-nasa-bosses-developing-moon-base/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 0.0,
+                "tone": -0.55632823365786,
+                "score": 82.5
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 3
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 587.5,
+        "trends": [
+            {
+                "record_id": "1329580385",
+                "url": "https://www.northwalespioneer.co.uk/news/national/26666327.racially-motivated-attack-suspected-one-killed-france-shooting-spree/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 44,
+                "sources": 4,
+                "goldstein": -10.0,
+                "tone": -12.890625,
+                "score": 355.0
+            },
+            {
+                "record_id": "1329704976",
+                "url": "https://www.traunsteiner-tagblatt.de/nachrichten_artikel,-mindestens-1000-festnahmen-nach-protesten-in-frankreich-_arid,1023137.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 4,
+                "goldstein": -9.5,
+                "tone": -6.02049657114266,
+                "score": 80.5
+            },
+            {
+                "record_id": "1329715869",
+                "url": "https://nypost.com/2026/10/24/world-news/peaceful-paris-protest-turned-into-tear-gas-filled-riot-by-nightfall-after-violent-far-left-mob-arrived/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": -5.7909604519774,
+                "score": 77.5
+            },
+            {
+                "record_id": "1329661992",
+                "url": "https://www.thenorthernecho.co.uk/news/national/26666764.france-mobilises-thousands-police-protests-living-costs/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -6.5,
+                "tone": -3.23488045007032,
+                "score": 74.5
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 4
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 521.0,
+        "trends": [
+            {
+                "record_id": "1329737299",
+                "url": "https://aa.com.tr/en/world/police-clash-with-protesters-in-rome-as-demonstrators-march-toward-prime-minister-s-office/4100018",
+                "related_urls": [],
+                "title": "",
+                "mentions": 140,
+                "sources": 1,
+                "goldstein": -7.5,
+                "tone": -4.37956204379562,
+                "score": 201.5
+            },
+            {
+                "record_id": "1329593361",
+                "url": "https://www.zazoom.it/2026-10-24/abbiategrasso-la-fiera-del-lavoro-e-un-successo-selezionati-81-candidati-dopo-600-colloqui-con-le-aziende/19840442/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": 8.72093023255814,
+                "score": 114.0
+            },
+            {
+                "record_id": "1329617177",
+                "url": "http://www.hna.de/politik/demo-verbot-in-mailand-soldaten-und-polizei-gegen-neue-gewalt-zr-94556363.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 2,
+                "goldstein": -9.5,
+                "tone": -4.54545454545454,
+                "score": 75.5
+            },
+            {
+                "record_id": "1329681462",
+                "url": "https://www.inewsgr.com/184/synantisi-tou-oikoumenikou-patriarchi-vartholomaiou-me-ton-papa-leonta-sto-vatikano.htm",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": 2.8,
+                "tone": -1.4845310939061,
+                "score": 71.5
+            },
+            {
+                "record_id": "1329758204",
+                "url": "https://rtsh.al/te-lenduarit-ne-protesta-rama-akuzon-nxitesit-e-dhunes-i-riu-qe-u-plagos-ne-sy-kambane-alarmi-jam-marre-personalisht-me-kurimin-e-tij-ne-itali/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 3,
+                "goldstein": -6.5,
+                "tone": -11.8329643191568,
+                "score": 58.5
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 5
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 482.5,
+        "trends": [
+            {
+                "record_id": "1329637143",
+                "url": "https://indiankanoon.org/doc/162255177/",
+                "related_urls": [
+                    "https://indiankanoon.org/doc/3085754/",
+                    "https://indiankanoon.org/doc/178016686/",
+                    "https://indiankanoon.org/doc/174165111/"
+                ],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -1.82724252491695,
+                "score": 342.5
+            },
+            {
+                "record_id": "1329669924",
+                "url": "https://www.legallyindia.com/convos/topic/499919-sr-capital-markets-new-delhi",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.47491124075593,
+                "score": 72.0
+            },
+            {
+                "record_id": "1329719634",
+                "url": "http://www.malaysiasun.com/news/279397250/balipara-foundation-to-host-14th-eastern-himalayan-naturenomics-forum-from-october-30",
+                "related_urls": [],
+                "title": "",
+                "mentions": 32,
+                "sources": 2,
+                "goldstein": 4.0,
+                "tone": 2.73109243697479,
+                "score": 40.0
+            },
+            {
+                "record_id": "1329753401",
+                "url": "https://www.thehindu.com/news/cities/Delhi/delhi-schoolgirls-death-police-question-teachers-examine-cctv-footage/article71623066.ece",
+                "related_urls": [],
+                "title": "",
+                "mentions": 32,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -5.50098231827112,
+                "score": 28.0
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 6
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 330.5,
+        "trends": [
+            {
+                "record_id": "1329677296",
+                "url": "https://www.index.hr/magazin/clanak/milijarder-jeo-kebab-u-berlinu-ostavio-je-veliku-napojnicu/2849327.aspx?index_ref=homepage_comment_box_d&commentId=12328758",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 4.05405405405406,
+                "score": 87.5
+            },
+            {
+                "record_id": "1329722409",
+                "url": "https://www.noz.de/deutschland-welt/wirtschaft/artikel/einigung-auf-hafen-finanzierung-noch-2026-51646203",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 3.0,
+                "tone": 0.643651984815705,
+                "score": 86.0
+            },
+            {
+                "record_id": "1329768665",
+                "url": "http://www.come-on.de/wirtschaft/soeder-minijobs-abschaffung-rentenkommission-empfehlung-26-zr-94557320.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 32,
+                "sources": 4,
+                "goldstein": 3.0,
+                "tone": -0.685323344095792,
+                "score": 63.0
+            },
+            {
+                "record_id": "1329643757",
+                "url": "https://www.hna.de/politik/soeder-will-finanzausgleich-kuerzen-kritik-von-bund-und-laendern-zr-94556525.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -4.0,
+                "tone": -0.87260034904014,
+                "score": 48.0
+            },
+            {
+                "record_id": "1329640312",
+                "url": "https://www.b92.net/svi-komentari/278291",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 1,
+                "goldstein": -4.0,
+                "tone": -5.42384046886484,
+                "score": 46.0
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 7
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 327.0,
+        "trends": [
+            {
+                "record_id": "1329717723",
+                "url": "https://www.birgun.net/haber/istanbuldan-vana-izmirden-artvine-ulke-tek-ses-susturamazsiniz-742349%20target=_blank%20class=stretched-link",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -9.0,
+                "tone": -2.21550855991944,
+                "score": 114.0
+            },
+            {
+                "record_id": "1329654564",
+                "url": "https://www.birgun.net/haber/emeklileri-ilgilendiren-kanun-teklifleri-meclis-e-sunuldu-742285%20class=slide-link%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": -1.19047619047619,
+                "score": 76.0
+            },
+            {
+                "record_id": "1329768467",
+                "url": "https://www.birgun.net/haber/tuncer-bakirhan-surecin-temposunda-bir-dusme-var-742443",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": -0.23923444976076,
+                "score": 64.0
+            },
+            {
+                "record_id": "1329762804",
+                "url": "https://www.birgun.net/haber/secim-tarihi-tartismasi-yeniden-gundeme-geldi-su-ana-kadar-kim-ne-soyledi-742432%20class=slide-legend-link%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": 3.13479623824451,
+                "score": 37.0
+            },
+            {
+                "record_id": "1329746504",
+                "url": "https://www.haberekspres.com.tr/iste-izmirle-is-buldu-ogrencileriyle-derste-bulustu",
+                "related_urls": [],
+                "title": "",
+                "mentions": 34,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 5.04451038575668,
+                "score": 36.0
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 8
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 305.5,
+        "trends": [
+            {
+                "record_id": "1329705396",
+                "url": "https://www.dailypolitical.com/2026/10/24/direxion-daily-csi-300-china-a-share-bear-1x-shares-nysearcachad-shares-will-pay-dividend-of-0-01-9.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 7.4,
+                "tone": 0.03229168338672,
+                "score": 81.0
+            },
+            {
+                "record_id": "1329599629",
+                "url": "http://www.coloradostar.com/news/279390453/samsung-sk-hynix-advance-china-chipmaking-despite-us-curbs",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -5.0,
+                "tone": 1.82590801712683,
+                "score": 81.0
+            },
+            {
+                "record_id": "1329711588",
+                "url": "https://calgarysun.com/opinion/columnists/lorne-gunter-canada-public-private-models-to-improve-health-care/wcm/2c666ee0-6d09-4094-ab06-e5f4fb5e4aeb",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 0.178613701486178,
+                "score": 67.5
+            },
+            {
+                "record_id": "1329654548",
+                "url": "https://kallxo.com/lajm/shba-ja-i-shpall-institutet-kineze-konfuci-kercenim-per-sigurine-kombetare/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -2.0,
+                "tone": 1.87696915506843,
+                "score": 38.0
+            },
+            {
+                "record_id": "1329640311",
+                "url": "https://www.b92.net/svi-komentari/278291",
+                "related_urls": [],
+                "title": "",
+                "mentions": 32,
+                "sources": 1,
+                "goldstein": -4.0,
+                "tone": -5.42384046886484,
+                "score": 38.0
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 9
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 273.5,
+        "trends": [
+            {
+                "record_id": "1329702927",
+                "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/24/pai-de-santo-e-encontrado-morto-a-tiros-dentro-de-casa-na-zona-norte-de-sp-cameras-registraram-invasao.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -4.1501976284585,
+                "score": 72.0
+            },
+            {
+                "record_id": "1329604213",
+                "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/23/candidatos-que-disputam-2o-turno-para-governador-participaram-de-debates-e-sabatinas-promovidos-pela-globo-e-afiliadas.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": -2.55813953488372,
+                "score": 67.5
+            },
+            {
+                "record_id": "1329707599",
+                "url": "https://www.pz-news.de/politik_artikel,-Vor-Stichwahl-Lula-und-Bolsonaro-kaempfen-um-letzte-Stimmen-_arid,2374428.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 34,
+                "sources": 4,
+                "goldstein": -5.0,
+                "tone": -0.923653920411444,
+                "score": 50.0
+            },
+            {
+                "record_id": "1329699646",
+                "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/24/moradores-denunciam-abandono-de-gatos-na-ilha-porchat-em-sao-vicente.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -5.59284116331095,
+                "score": 47.0
+            },
+            {
+                "record_id": "1329673000",
+                "url": "https://correiodoestado.com.br/cidades/justica-exige-conta-bancaria-exclusiva-para-intervencao-no-consorcio/475456/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": 1.37095917203162,
+                "score": 37.0
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 10
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 248.0,
+        "trends": [
+            {
+                "record_id": "1329603031",
+                "url": "https://www.omnia.com.mx/noticia/446860/localizan-pick-up-con-reporte-de-robo-bajo-el-puente-de-la-mirador-y-canal",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -3.28048494783065,
+                "score": 134.0
+            },
+            {
+                "record_id": "1329694725",
+                "url": "https://www.critica.com.mx/vernoticias.php?artid=119873&mas=1",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": -2.89389067524116,
+                "score": 54.0
+            },
+            {
+                "record_id": "1329597781",
+                "url": "https://foxrochester.com/news/nation-world/bloody-sledgehammer-found-in-car-after-reported-seattle-stabbing-and-carjacking",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -2.0,
+                "tone": -4.39560439560439,
+                "score": 38.0
+            },
+            {
+                "record_id": "1329607904",
+                "url": "https://www.edaily.co.kr/News/Read?newsId=02013926645616200&mediaCodeNo=257",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": -1.32211538461538,
+                "score": 22.0
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 11
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 80.0,
+        "trends": [
+            {
+                "record_id": "1329600309",
+                "url": "https://www.notimerica.com/politica/noticia-argentina-justicia-argentina-exculpa-milei-hermana-causa-criptomoneda-libra-20261024031602.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 5.0,
+                "tone": -0.515509788965165,
+                "score": 47.0
+            },
+            {
+                "record_id": "1329593667",
+                "url": "https://www.iprofesional.com/politica/467372-operacion-con-fines-golpistas-fuerte-descargo-de-milei-tras-ser-sobreseido-por-libra",
+                "related_urls": [],
+                "title": "",
+                "mentions": 34,
+                "sources": 3,
+                "goldstein": -2.0,
+                "tone": -5.23284745840218,
+                "score": 33.0
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 12
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 46.0,
+        "trends": [
+            {
+                "record_id": "1329629242",
+                "url": "https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-mayoral-candidates-9.7387040",
+                "related_urls": [],
+                "title": "",
+                "mentions": 32,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": 0.172117039586919,
+                "score": 46.0
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 13
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 35.0,
+        "trends": [
+            {
+                "record_id": "1329582684",
+                "url": "https://www.sbsun.com/2026/10/23/remains-of-ww-ii-soldier-missing-since-1942-are-identified-and-returned-home-to-ontario/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 32,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": -3.68259535291539,
+                "score": 35.0
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 14
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 25.0,
+        "trends": [
+            {
+                "record_id": "1329608155",
+                "url": "https://news.mail.ru/politics/72838366/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 32,
+                "sources": 2,
+                "goldstein": 1.0,
+                "tone": 0.630291887285265,
+                "score": 25.0
+            }
+        ],
+        "last_updated": "2026-10-26 01:12:16 KST",
+        "current_rank": 15
+    }
+}
