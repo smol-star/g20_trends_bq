@@ -1,0 +1,846 @@
+{
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 1450.5,
+        "trends": [
+            {
+                "record_id": "1329849422",
+                "url": "https://www.portnews.com.au/story/9379697/abuse-of-women-mps-supercharged-by-social-media/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 63,
+                "sources": 9,
+                "goldstein": -7.0,
+                "tone": -1.6330877386306,
+                "score": 364.0,
+                "keyword": "여성 의원 괴롭힘",
+                "hook": "소셜 미디어가 호주 정치권의 여성 의원들을 향한 혐오의 온상이 되고 있습니다.",
+                "script": "호주 여성 의원들이 온라인상에서 도를 넘은 공격에 노출되었습니다. 익명성 뒤에 숨은 폭력적인 언어들이 민주주의를 위협하고 있습니다. 소셜 미디어 알고리즘이 혐오를 증폭시키고 있다는 분석입니다. 지금 즉시 대책이 필요합니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329826230",
+                "url": "https://www.edenmagnet.com.au/story/9379989/union-boss-defends-speech-after-bullet-left-on-mps-car/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 10,
+                "goldstein": -2.0,
+                "tone": -5.78088433180449,
+                "score": 363.5,
+                "keyword": "정치인 살해 협박",
+                "hook": "호주 의원의 차량에 실탄이 놓인 충격적인 테러 위협이 발생했습니다.",
+                "script": "의원의 차량에서 발견된 실탄 한 발. 이는 명백한 살해 협박입니다. 노조 위원장의 발언을 둘러싼 갈등이 물리적인 폭력으로 번지고 있습니다. 안전이 보장되지 않는 정치 현장의 민낯을 지금 확인하십시오.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1329826268",
+                "url": "https://www.illawarramercury.com.au/story/9379990/buyback-bookings-owners-spurred-to-surrender-firearms/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 10,
+                "goldstein": -10.0,
+                "tone": -4.16761828468349,
+                "score": 310.0,
+                "keyword": "총기 반납 급증",
+                "hook": "호주 전역에서 총기 반납 행렬이 끊이지 않고 있습니다.",
+                "script": "정부의 총기 회수 프로그램에 시민들이 몰리고 있습니다. 소유하고 있던 총기를 자발적으로 반납하는 사례가 급증하는 이유는 무엇일까요? 더 안전한 사회를 위한 선택, 지금 호주에서 벌어지고 있는 변화입니다.",
+                "sentiment": "neutral"
+            },
+            {
+                "record_id": "1329823697",
+                "url": "https://www.naroomanewsonline.com.au/story/9379925/murderer-fails-to-overturn-vegemite-prison-ban/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 36,
+                "sources": 6,
+                "goldstein": -10.0,
+                "tone": -8.0933810642332,
+                "score": 232.0,
+                "keyword": "살인범 감옥 규제",
+                "hook": "베지마이트 없는 감옥은 상상할 수 없다는 살인범의 황당한 법정 다툼입니다.",
+                "script": "살인범이 교도소 내 베지마이트 금지령에 반발해 소송을 냈습니다. 하지만 법원은 이를 단호히 기각했습니다. 범죄자의 요구가 법의 심판대 위에 올랐던 황당한 사건, 그 결과를 전합니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329849379",
+                "url": "https://www.portnews.com.au/story/9380183/master-manipulator-staged-death-on-mower-jury-told/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -10.0,
+                "tone": -8.10851371337964,
+                "score": 181.0,
+                "keyword": "잔혹한 죽음 조작",
+                "hook": "잔디깎이 기계 위에서 발견된 시신, 알고 보니 치밀하게 계획된 살인이었습니다.",
+                "script": "평화로운 마을에서 벌어진 잔혹한 범죄. 피고인은 사고를 위장해 자신의 범행을 감추려 했습니다. 배심원단 앞에 드러난 마스터마인드의 소름 돋는 거짓말, 사건의 전말을 공개합니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-10-26 21:55:02 KST",
+        "current_rank": 1
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 1040.5,
+        "trends": [
+            {
+                "record_id": "1329877025",
+                "url": "https://www.surreycomet.co.uk/news/national/26669295.thousands-without-power-schools-shut-storm-boelo/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": 7.0,
+                "tone": -3.53089533417403,
+                "score": 545.5,
+                "keyword": "폭풍 정전 사태",
+                "hook": "강력한 폭풍 '보엘로'가 영국을 강타하며 수천 가구가 암흑 속에 갇혔습니다.",
+                "script": "영국 전역이 마비됐습니다. 폭풍 보엘로가 휩쓸고 지나가며 학교들이 문을 닫고, 수천 가구의 전력이 끊겼습니다. 강풍과 폭우가 이어지면서 피해 규모는 눈덩이처럼 불어나고 있습니다. 긴급 복구 작업이 진행 중이지만, 시민들의 고통은 극에 달했습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329872876",
+                "url": "https://www.somersetcountygazette.co.uk/news/national/26669119.burnham-says-will-not-return-uk-eu-freedom-movement-without-referendum/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 10,
+                "goldstein": 4.0,
+                "tone": 0.84317032040472,
+                "score": 180.0
+            },
+            {
+                "record_id": "1329866577",
+                "url": "https://www.bordertelegraph.com/news/national/26668904.caribbean-seeks-reparations-questions-monarchys-role-eve-kings-visit/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": -4.0,
+                "tone": -1.75257731958763,
+                "score": 161.0
+            },
+            {
+                "record_id": "1329782376",
+                "url": "https://www.messengernewspapers.co.uk/news/national/26668452.metropolitan-police-reduce-enforcement-tag-breaches/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": -5.0,
+                "tone": -7.44680851063829,
+                "score": 81.0
+            },
+            {
+                "record_id": "1329853976",
+                "url": "https://www.somersetcountygazette.co.uk/news/national/26668708.burnham-rules-rejoining-eu-within-parliament/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 14,
+                "goldstein": -2.0,
+                "tone": 0.386100386100381,
+                "score": 73.0
+            }
+        ],
+        "last_updated": "2026-10-26 21:55:02 KST",
+        "current_rank": 2
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 571.0,
+        "trends": [
+            {
+                "record_id": "1329703559",
+                "url": "https://www.heraldseries.co.uk/news/national/26667668.musk-speaks-starlink-service-ukraine-restored/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 7,
+                "goldstein": -10.0,
+                "tone": -5.31468531468531,
+                "score": 190.0
+            },
+            {
+                "record_id": "1329867330",
+                "url": "https://www.mngz.ru/ugra/4265784-v-administracii-goroda-megiona-sostoyalos-ocherednoe-zasedanie-gorodskoy-dumy-itogi.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": 3.05810397553517,
+                "score": 124.0
+            },
+            {
+                "record_id": "1329705211",
+                "url": "https://news.mail.ru/society/72845750/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 34,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": 2.72727272727273,
+                "score": 113.0
+            },
+            {
+                "record_id": "1329715564",
+                "url": "https://news.mail.ru/politics/72846130/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 46,
+                "sources": 2,
+                "goldstein": -9.0,
+                "tone": -9.97499182660934,
+                "score": 72.0
+            },
+            {
+                "record_id": "1329776559",
+                "url": "https://www.express.co.uk/news/world/2260220/russia-demands-trump-assassinate-zelensky",
+                "related_urls": [],
+                "title": "",
+                "mentions": 36,
+                "sources": 2,
+                "goldstein": -10.0,
+                "tone": -9.7161679743842,
+                "score": 72.0,
+                "keyword": "러시아 극단 요구",
+                "hook": "러시아 당국이 경악스러운 암살 요구를 공개하며 국제사회를 경악하게 만들었습니다.",
+                "script": "러시아가 젤렌스키 대통령을 향해 끔찍한 위협을 가했습니다. 트럼프를 향해 암살을 종용하는 듯한 발언이 나오며 전 세계 안보가 흔들리고 있습니다. 지금 이 순간, 러시아의 도발이 불러올 파장을 분석합니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-10-26 21:55:02 KST",
+        "current_rank": 3
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 546.5,
+        "trends": [
+            {
+                "record_id": "1329812923",
+                "url": "https://www.sthelensstar.co.uk/news/national/26668594.brazil-resumes-vote-count-last-minute-extension-polling-station-hours/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 2.8,
+                "tone": -1.44927536231884,
+                "score": 188.0
+            },
+            {
+                "record_id": "1329828350",
+                "url": "https://www.wiltshiretimes.co.uk/news/national/26668635.lula-declared-winner-brazils-election-bolsonaro-rejects-results/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 130,
+                "sources": 13,
+                "goldstein": 0.0,
+                "tone": 0.26281208935611,
+                "score": 153.5,
+                "keyword": "브라질 대선 결과",
+                "hook": "룰라의 당선 선언, 볼소나로의 결과 불복으로 브라질 정국이 폭풍 속으로 빠져듭니다.",
+                "script": "브라질 대선 결과가 발표되었습니다. 룰라가 승리를 거머쥐었지만, 볼소나로 측이 즉각 결과 불복을 선언하며 국가적 갈등이 최고조에 달했습니다. 투표소 연장과 부정 선거 논란까지, 브라질의 운명이 갈림길에 섰습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329801968",
+                "url": "https://www.eastlondonadvertiser.co.uk/news/national/26668594.brazil-votes-tense-lula-vs-bolsonaro-runoff/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 2.8,
+                "tone": -1.32978723404255,
+                "score": 86.0
+            },
+            {
+                "record_id": "1329794761",
+                "url": "https://www.correio24horas.com.br/eleicoes/saiba-quem-venceu-o-2-turno-entre-flavio-bolsonaro-e-lula-na-nova-zelandia-1026",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": 2.84032569485035,
+                "score": 62.0
+            },
+            {
+                "record_id": "1329826254",
+                "url": "https://www.edenmagnet.com.au/story/9379753/bolsonaro-calls-for-brazil-poll-results-to-be-annulled/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 5,
+                "goldstein": 3.4,
+                "tone": -1.29237411905042,
+                "score": 57.0
+            }
+        ],
+        "last_updated": "2026-10-26 21:55:02 KST",
+        "current_rank": 4
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 490.0,
+        "trends": [
+            {
+                "record_id": "1329703441",
+                "url": "https://www.thepeterboroughexaminer.com/news/world/united-states/california-election-officials-frustrated-rattled-by-doj-demand-to-sequester-noncitizen-ballots/article_e662d4e7-9ed8-5f48-9a04-b75532a677fa.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 4.0,
+                "tone": -4.06873934637739,
+                "score": 145.0,
+                "keyword": "투표 부정 논란",
+                "hook": "미국 선거 관리 당국이 투표함을 봉인하라는 법무부의 초강수 명령에 패닉에 빠졌습니다.",
+                "script": "캘리포니아 선거 현장이 뒤집혔습니다. 법무부가 비시민권자의 투표용지를 즉각 분리하라는 명령을 내렸기 때문입니다. 당국은 혼란과 좌절을 토로하며, 투표 시스템의 신뢰성에 치명적인 균열이 가고 있습니다. 지금 미국 선거판, 대체 무슨 일이 벌어지고 있는 걸까요?",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1329857499",
+                "url": "https://latinopinionbaltimore.com/hombre-de-michigan-fue-sentenciado-a-70/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -9.49105914718025,
+                "score": 94.0
+            },
+            {
+                "record_id": "1329720739",
+                "url": "https://1430kasi.iheart.com/content/2026-10-25-trump-announces-audi-plant-at-georgia-rally/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 42,
+                "sources": 1,
+                "goldstein": 5.2,
+                "tone": 3.55543855185581,
+                "score": 89.0,
+                "keyword": "조지아 공장 유치",
+                "hook": "트럼프가 조지아 유세 현장에서 아우디 공장 설립을 전격 발표했습니다.",
+                "script": "조지아주가 들썩입니다. 트럼프 전 대통령이 유세 현장에서 아우디 공장 유치를 공식화하며 경제 부흥의 신호탄을 쐈습니다. 일자리 창출을 둘러싼 대규모 프로젝트가 공개되면서 지역 경제는 기대감으로 가득 찼습니다. 과연 이 발표가 판도를 바꿀 수 있을까요?",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1329813459",
+                "url": "https://www.sthelensstar.co.uk/news/national/26668594.brazil-resumes-vote-count-last-minute-extension-polling-station-hours/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 6,
+                "goldstein": 1.0,
+                "tone": -1.44927536231884,
+                "score": 82.0
+            },
+            {
+                "record_id": "1329786758",
+                "url": "https://www.impartialreporter.com/news/national/26668498.venezuelas-opposition-leader-machado-returns-months-exile/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 84,
+                "sources": 14,
+                "goldstein": -2.0,
+                "tone": -2.34986945169713,
+                "score": 80.0
+            }
+        ],
+        "last_updated": "2026-10-26 21:55:02 KST",
+        "current_rank": 5
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 443.0,
+        "trends": [
+            {
+                "record_id": "1329788251",
+                "url": "https://www.b92.net/svi-komentari/279491",
+                "related_urls": [],
+                "title": "",
+                "mentions": 122,
+                "sources": 2,
+                "goldstein": 1.0,
+                "tone": -0.800378343770622,
+                "score": 137.0
+            },
+            {
+                "record_id": "1329820400",
+                "url": "https://calgarysun.com/opinion/columnists/deep-midterms/wcm/eaffca88-c503-4858-b976-dd117441e27a",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": -0.912342535080457,
+                "score": 83.5
+            },
+            {
+                "record_id": "1329705396",
+                "url": "https://www.dailypolitical.com/2026/10/24/direxion-daily-csi-300-china-a-share-bear-1x-shares-nysearcachad-shares-will-pay-dividend-of-0-01-9.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 7.4,
+                "tone": 0.03229168338672,
+                "score": 81.0,
+                "keyword": "중국 주식 배당",
+                "hook": "중국 CSI 300 상장지수펀드가 배당금 지급을 공식 발표하며 투자자들의 시선이 쏠리고 있습니다.",
+                "script": "중국 증시가 주목받고 있습니다. Direxion Daily CSI 300 중국 A주 베어 1배수 상품이 주당 0.01달러의 배당을 결정했습니다. 하락장에 베팅한 투자자들에게는 이례적인 소식입니다. 중국 경제의 불확실성 속에서 이번 배당이 어떤 시장 흐름을 만들어낼지 지켜봐야 합니다.",
+                "sentiment": "neutral"
+            },
+            {
+                "record_id": "1329788248",
+                "url": "https://www.lettera43.it/eta-oro-universita-cinese-perche-pechino-beffe-declino-europeo/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -4.0,
+                "tone": -0.81018518518519,
+                "score": 74.0
+            },
+            {
+                "record_id": "1329711588",
+                "url": "https://calgarysun.com/opinion/columnists/lorne-gunter-canada-public-private-models-to-improve-health-care/wcm/2c666ee0-6d09-4094-ab06-e5f4fb5e4aeb",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 0.178613701486178,
+                "score": 67.5
+            }
+        ],
+        "last_updated": "2026-10-26 21:55:02 KST",
+        "current_rank": 6
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 388.5,
+        "trends": [
+            {
+                "record_id": "1329737299",
+                "url": "https://aa.com.tr/en/world/police-clash-with-protesters-in-rome-as-demonstrators-march-toward-prime-minister-s-office/4100018",
+                "related_urls": [],
+                "title": "",
+                "mentions": 140,
+                "sources": 1,
+                "goldstein": -7.5,
+                "tone": -4.37956204379562,
+                "score": 201.5,
+                "keyword": "로마 시위대 충돌",
+                "hook": "이탈리아 로마 중심부에서 정부를 향한 성난 군중의 폭력 사태가 발생했습니다.",
+                "script": "로마 총리실로 향하던 시위대가 경찰 저지선을 뚫고 충돌했습니다. 최루탄이 터지고 거리는 아수라장이 되었습니다. 부상자가 속출하는 가운데 이탈리아 정부는 극도의 긴장감에 휩싸였습니다. 현장 상황을 지금 바로 확인하세요.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1329758204",
+                "url": "https://rtsh.al/te-lenduarit-ne-protesta-rama-akuzon-nxitesit-e-dhunes-i-riu-qe-u-plagos-ne-sy-kambane-alarmi-jam-marre-personalisht-me-kurimin-e-tij-ne-itali/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 3,
+                "goldstein": -6.5,
+                "tone": -11.8329643191568,
+                "score": 58.5
+            },
+            {
+                "record_id": "1329792482",
+                "url": "https://www.zazoom.it/2026-10-25/in-piemonte-si-celebra-san-giuda-che-e-solo-omonimo-del-traditore/19847136/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 54,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 4.9438202247191,
+                "score": 46.0
+            },
+            {
+                "record_id": "1329861857",
+                "url": "https://www.ilmessaggero.it/economia/news/q8_prezzi_benzina_gasolio_price_cap_oggi-9849364.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 3,
+                "goldstein": 3.5,
+                "tone": 3.37831905126075,
+                "score": 43.5
+            },
+            {
+                "record_id": "1329843931",
+                "url": "https://www.zazoom.it/2026-10-26/come-cambia-la-popolazione-di-bologna-i-residenti-crescono-ancora-grazie-ai-nuovi-arrivi-ma-si-migra-verso-la-provincia/19848070/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 0.566572237960341,
+                "score": 39.0
+            }
+        ],
+        "last_updated": "2026-10-26 21:55:02 KST",
+        "current_rank": 7
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 333.0,
+        "trends": [
+            {
+                "record_id": "1329717723",
+                "url": "https://www.birgun.net/haber/istanbuldan-vana-izmirden-artvine-ulke-tek-ses-susturamazsiniz-742349%20target=_blank%20class=stretched-link",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -9.0,
+                "tone": -2.21550855991944,
+                "score": 114.0,
+                "keyword": "전국적인 시위 확산",
+                "hook": "이스탄불부터 반까지, 터키 전역이 하나의 목소리로 거리에 쏟아져 나왔습니다.",
+                "script": "침묵을 강요받던 시민들이 거리로 나섰습니다. 전국에서 동시다발적으로 열린 대규모 시위는 현 정권을 향한 강한 경고입니다. 터키의 뜨거운 현장, 분노의 목소리를 지금 들어보십시오.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329834378",
+                "url": "https://www.birgun.net/makale/en-kotu-8-ulke-dibin-dibindeyiz-742482%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -2.73224043715847,
+                "score": 82.0,
+                "keyword": "최악의 국가 선정",
+                "hook": "터키가 세계 최악의 국가 8곳 중 하나라는 충격적인 평가가 나왔습니다.",
+                "script": "경제와 인권, 사회적 안전망까지 모든 지표가 바닥을 치고 있습니다. 국제 사회가 평가한 터키의 성적표는 참담합니다. 우리가 몰랐던 혹은 외면했던 터키의 현실을 정면으로 마주합니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1329768814",
+                "url": "https://www.birgun.net/haber/tuncer-bakirhan-surecin-temposunda-bir-dusme-var-742443",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": -0.23923444976076,
+                "score": 64.0,
+                "keyword": "정치 프로세스 지체",
+                "hook": "터키 정국이 정체기에 빠지며 개혁 속도가 눈에 띄게 느려지고 있습니다.",
+                "script": "정치권의 갈등이 국가의 발목을 잡고 있습니다. 툰제르 바크르한이 경고한 대로, 현재 정국의 속도는 매우 위험한 수준입니다. 터키의 미래를 결정지을 중요한 시기에 멈춰버린 시계추, 그 원인을 파헤칩니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329762804",
+                "url": "https://www.birgun.net/haber/secim-tarihi-tartismasi-yeniden-gundeme-geldi-su-ana-kadar-kim-ne-soyledi-742432%20class=slide-legend-link%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": 3.13479623824451,
+                "score": 37.0,
+                "keyword": "조기 총선 논란",
+                "hook": "터키 정가에 조기 총선 가능성이 다시 수면 위로 떠오르고 있습니다.",
+                "script": "선거 시기를 둘러싼 정치권의 공방이 뜨겁습니다. 여야가 팽팽하게 맞서는 가운데, 조기 총선이 정국 돌파구가 될지 아니면 혼란의 시작이 될지 주목됩니다. 지금 터키 정치의 핵심 쟁점을 정리합니다.",
+                "sentiment": "neutral"
+            },
+            {
+                "record_id": "1329746504",
+                "url": "https://www.haberekspres.com.tr/iste-izmirle-is-buldu-ogrencileriyle-derste-bulustu",
+                "related_urls": [],
+                "title": "",
+                "mentions": 34,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 5.04451038575668,
+                "score": 36.0,
+                "keyword": "이즈미르 교육 성과",
+                "hook": "이즈미르의 한 교육자가 혁신적인 수업 방식으로 학생들의 마음을 사로잡았습니다.",
+                "script": "교실 밖에서 학생들과 만나 소통하는 새로운 수업 방식이 화제입니다. 현장 중심의 교육으로 학생들의 참여를 이끌어낸 이즈미르의 교육 현장. 희망적인 교육의 미래를 지금 만나보십시오.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-26 21:55:02 KST",
+        "current_rank": 8
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 202.0,
+        "trends": [
+            {
+                "record_id": "1329704976",
+                "url": "https://www.traunsteiner-tagblatt.de/nachrichten_artikel,-mindestens-1000-festnahmen-nach-protesten-in-frankreich-_arid,1023137.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 4,
+                "goldstein": -9.5,
+                "tone": -6.02049657114266,
+                "score": 80.5,
+                "keyword": "프랑스 시위대 체포",
+                "hook": "프랑스 전역이 1,000명 이상의 체포자가 발생하며 대혼란에 빠졌습니다.",
+                "script": "프랑스 거리마다 비명이 터져 나옵니다. 시위대와 경찰의 격렬한 충돌로 최소 1,000명이 체포되었습니다. 평화롭던 도시는 최루탄 가스와 화염으로 뒤덮였습니다. 지금 프랑스에서 무슨 일이 벌어지고 있는지, 현장의 긴박함을 전합니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1329715869",
+                "url": "https://nypost.com/2026/10/24/world-news/peaceful-paris-protest-turned-into-tear-gas-filled-riot-by-nightfall-after-violent-far-left-mob-arrived/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": -5.7909604519774,
+                "score": 77.5
+            },
+            {
+                "record_id": "1329873560",
+                "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69933339-frankreich-haelt-wegen-protesten-an-ausgangssperren-fest-016.htm",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": 4.0,
+                "tone": -6.00762346702022,
+                "score": 44.0
+            }
+        ],
+        "last_updated": "2026-10-26 21:55:02 KST",
+        "current_rank": 9
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 187.0,
+        "trends": [
+            {
+                "record_id": "1329882741",
+                "url": "https://www.koreatimes.com/article/11629189",
+                "related_urls": [],
+                "title": "",
+                "mentions": 350,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": 1.48638584860914,
+                "score": 187.0,
+                "keyword": "한국 경제 회복",
+                "hook": "한국 경제가 예상을 뛰어넘는 회복세로 반전의 계기를 마련했습니다.",
+                "script": "글로벌 경기 침체 속에서도 한국 경제가 뚜렷한 반등 신호를 보이고 있습니다. 주요 지표들이 일제히 긍정적인 수치를 나타내며 기대감을 높이고 있습니다. 한국 경제의 새로운 동력을 지금 확인해보십시오.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-26 21:55:02 KST",
+        "current_rank": 10
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 185.5,
+        "trends": [
+            {
+                "record_id": "1329890858",
+                "url": "https://www.theobserver.ca/press-releases/globe-newswire/morien-announces-strategic-aggregate-royalty-alliance-with-rife-royalties/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 7.4,
+                "tone": 1.4674923050119,
+                "score": 65.0
+            },
+            {
+                "record_id": "1329890780",
+                "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/globenewswire/timbercreek-financial-to-release-q3-2026-results-november-11-conference-call-scheduled-november-12/2453944",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 4.0,
+                "tone": 2.07160183661093,
+                "score": 48.0
+            },
+            {
+                "record_id": "1329798813",
+                "url": "https://calgarysun.com/news/local-news/calgary-honours-158-canadian-soldiers-killed-afghanistan-war",
+                "related_urls": [],
+                "title": "",
+                "mentions": 35,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 1.86735350933676,
+                "score": 36.5,
+                "keyword": "캐나다 추모 행사",
+                "hook": "캐나다 전역이 아프가니스탄 전쟁에서 희생된 158명의 영웅을 위해 눈물로 멈춰 섰습니다.",
+                "script": "캘거리에서 158명의 캐나다 군인을 기리는 엄숙한 추모식이 열렸습니다. 아프가니스탄의 총성 속에서 산화한 이들의 숭고한 희생을 기리며 캐나다 국민들은 깊은 애도를 표하고 있습니다. 잊지 말아야 할 역사의 기록입니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1329841466",
+                "url": "https://www.hna.de/politik/obama-stichelt-gegen-verteidigungsminister-hegseth-diese-leute-sind-nicht-ernst-zu-nehmen-zr-94557943.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 3,
+                "goldstein": -2.0,
+                "tone": -2.83533260632497,
+                "score": 36.0
+            }
+        ],
+        "last_updated": "2026-10-26 21:55:02 KST",
+        "current_rank": 11
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 174.0,
+        "trends": [
+            {
+                "record_id": "1329722409",
+                "url": "https://www.noz.de/deutschland-welt/wirtschaft/artikel/einigung-auf-hafen-finanzierung-noch-2026-51646203",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 3.0,
+                "tone": 0.643651984815705,
+                "score": 86.0
+            },
+            {
+                "record_id": "1329869697",
+                "url": "https://www.freiepresse.de/nachrichten/panorama/jugendstrafe-nach-ermordung-von-maedchen-vor-fast-33-jahren-artikel14459009",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -5.0,
+                "tone": -9.93432338715875,
+                "score": 53.0,
+                "keyword": "33년 만의 판결",
+                "hook": "33년 전 발생한 끔찍한 소녀 살인 사건, 드디어 법의 심판이 내려졌습니다.",
+                "script": "독일 사회가 충격에 빠졌습니다. 33년 전 발생한 소녀 살해 사건의 범인이 마침내 법정에 섰습니다. 너무나 긴 시간이 흘렀지만, 정의는 멈추지 않았습니다. 가해자에게 내려진 소년법상의 형량이 과연 합당한지, 독일에선 논란이 뜨겁습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329814813",
+                "url": "https://www.noz.de/deutschland-welt/wirtschaft/artikel/ohne-schnickschnack-wie-wohnungsbau-guenstiger-werden-soll-51648912",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 0.0,
+                "tone": -1.87039277772454,
+                "score": 35.0
+            }
+        ],
+        "last_updated": "2026-10-26 21:55:02 KST",
+        "current_rank": 12
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 85.0,
+        "trends": [
+            {
+                "record_id": "1329869558",
+                "url": "https://hindi.business-standard.com/mutual-fund/equity-funds/life-cycle-funds-for-retirement-how-good-are-they-what-investors-should-know-before-investing-id-562740/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 5.2,
+                "tone": -0.0584795321637501,
+                "score": 48.0,
+                "keyword": "은퇴 자금 전략",
+                "hook": "당신의 노후 자금, 라이프 사이클 펀드가 정답일까요?",
+                "script": "인도 투자 시장이 은퇴 자금 관리에 주목하고 있습니다. 라이프 사이클 펀드가 노후 대비의 핵심으로 떠오르면서, 투자 전 반드시 알아야 할 주의사항들이 쏟아지고 있습니다. 안정적인 미래를 위해 지금 당장 확인해야 할 투자 가이드를 정리했습니다.",
+                "sentiment": "neutral"
+            },
+            {
+                "record_id": "1329887855",
+                "url": "http://strugalajm.com/15-vite-premtime-zero-urbanizim-kujt-i-pengon-zhvillimi-i-zones-nga-struga-drejt-kalishtit-dhe-tefericit/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": 1.55038759689922,
+                "score": 37.0
+            }
+        ],
+        "last_updated": "2026-10-26 21:55:02 KST",
+        "current_rank": 13
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 76.0,
+        "trends": [
+            {
+                "record_id": "1329891467",
+                "url": "https://veropatriot.iheart.com/content/2026-10-26-japan-indicts-us-marine-in-okinawa-murder/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -7.78384705423333,
+                "score": 76.0,
+                "keyword": "오키나와 살인 기소",
+                "hook": "오키나와에서 발생한 살인 사건, 미 해병대원이 전격 기소되었습니다.",
+                "script": "일본 오키나와 주민들의 분노가 폭발했습니다. 살인 사건에 연루된 미 해병대원이 끝내 기소 처분을 받았습니다. 미일 관계의 뇌관이 된 이번 사건, 일본 검찰의 강경 대응이 향후 양국 관계에 어떤 파장을 몰고 올지 전 세계가 주목하고 있습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-26 21:55:02 KST",
+        "current_rank": 14
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 57.0,
+        "trends": [
+            {
+                "record_id": "1329789565",
+                "url": "http://www.0223.com.ar/nota/2026-10-25-14-21-0-ara-san-juan-a-nueve-anos-de-su-zarpada-el-dolor-de-las-familias-y-el-reclamo-de-justicia",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -5.36193029490616,
+                "score": 57.0,
+                "keyword": "아라 산후안 비극",
+                "hook": "사라진 잠수함 아라 산후안호, 9년이 지나도 멈추지 않는 유족들의 눈물입니다.",
+                "script": "아르헨티나 해군 역사상 가장 뼈아픈 비극. 9년 전 오늘, 44명의 승조원을 삼킨 바다는 여전히 차갑기만 합니다. 진실을 요구하는 유족들의 외침과 멈춰버린 정의, 그 슬픈 역사를 기억합니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-26 21:55:02 KST",
+        "current_rank": 15
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 37.0,
+        "trends": [
+            {
+                "record_id": "1329867633",
+                "url": "https://www.kioscomayor.com/gobierno-de-sonora-fomenta-educacion-integral-a-traves-de-expresiones-artisticas-y-culturales-sec",
+                "related_urls": [],
+                "title": "",
+                "mentions": 36,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 8.52272727272727,
+                "score": 37.0,
+                "keyword": "멕시코 교육 혁신",
+                "hook": "멕시코 소노라 주가 예술과 문화 교육을 통해 미래 세대의 잠재력을 깨우고 있습니다.",
+                "script": "멕시코 소노라 정부가 새로운 통합 교육 프로그램을 시작했습니다. 예술과 문화적 표현을 통해 청소년들의 창의성을 극대화하겠다는 전략입니다. 교육 혁신을 통해 변화를 꿈꾸는 멕시코의 희망찬 소식을 전합니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-26 21:55:02 KST",
+        "current_rank": 16
+    }
+}
