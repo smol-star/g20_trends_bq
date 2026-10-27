@@ -1,21 +1,8 @@
 {
     "United Kingdom": {
         "gdp_rank": 6,
-        "spike_score": 2040.0,
+        "spike_score": 1820.0,
         "trends": [
-            {
-                "record_id": "1329877025",
-                "url": "https://www.surreycomet.co.uk/news/national/26669295.thousands-without-power-schools-shut-storm-boelo/",
-                "related_urls": [
-                    "https://www.whtimes.co.uk/news/national/26669295.thousands-without-power-schools-shut-storm-boelo/"
-                ],
-                "title": "",
-                "mentions": 80,
-                "sources": 8,
-                "goldstein": 7.0,
-                "tone": -3.53089533417403,
-                "score": 708.5
-            },
             {
                 "record_id": "1329924307",
                 "url": "https://www.wirralglobe.co.uk/news/national/26671182.northern-ireland-secretary-urged-get-real-funding-ahead-uk-budget/",
@@ -26,6 +13,17 @@
                 "goldstein": 6.0,
                 "tone": 0.53081696146832,
                 "score": 600.0
+            },
+            {
+                "record_id": "1329876156",
+                "url": "https://www.surreycomet.co.uk/news/national/26669295.thousands-without-power-schools-shut-storm-boelo/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": 7.0,
+                "tone": -3.53089533417403,
+                "score": 488.5
             },
             {
                 "record_id": "1329900676",
@@ -61,7 +59,7 @@
                 "score": 175.0
             }
         ],
-        "last_updated": "2026-10-28 00:19:28 KST",
+        "last_updated": "2026-10-28 07:10:08 KST",
         "current_rank": 1
     },
     "Australia": {
@@ -78,10 +76,10 @@
                 "goldstein": -10.0,
                 "tone": -8.31821305898717,
                 "score": 340.0,
-                "keyword": "경찰 살인 증언",
-                "hook": "경찰이 살인 사건에 연루되었다는 충격적인 폭로가 터졌습니다.",
-                "script": "살인 사건의 배후에 경찰이 있었다? 법정에서 나온 결정적 증언이 호주 사회를 뒤흔들고 있습니다. 신뢰를 저버린 경찰의 민낯, 사건의 전말을 추적합니다.",
-                "sentiment": "negative"
+                "keyword": "경찰 살인 사건",
+                "hook": "살인범 경찰의 친구가 증언대에 섰습니다, 밝혀지는 추악한 진실.",
+                "script": "경찰이 살인범으로 몰린 충격적인 사건. 법정에서 터져 나온 증언들이 호주 사회를 뒤흔들고 있습니다.",
+                "sentiment": "warning"
             },
             {
                 "record_id": "1329935113",
@@ -93,9 +91,9 @@
                 "goldstein": -9.0,
                 "tone": -5.32942841615086,
                 "score": 332.0,
-                "keyword": "사이버 공격 비상",
-                "hook": "호주 전역이 사이버 대란의 공포에 휩싸였습니다.",
-                "script": "사이버 통신 장애가 멈추지 않고 있습니다. 정부는 즉각적인 대응을 경고하며 국민들에게 주의를 당부했습니다. 우리의 일상이 디지털 위협 앞에 놓여 있습니다.",
+                "keyword": "사이버 공격 경보",
+                "hook": "전국적인 사이버 대란, 당신의 데이터가 위험합니다.",
+                "script": "호주 전역이 사이버 공격으로 마비될 위기입니다. 지금 즉시 보안을 점검하세요. 당신의 정보가 타겟입니다.",
                 "sentiment": "warning"
             },
             {
@@ -108,9 +106,9 @@
                 "goldstein": -2.0,
                 "tone": -5.78088433180449,
                 "score": 323.5,
-                "keyword": "정치인 협박 논란",
-                "hook": "국회의원 차량에 총알이 발견되는 끔찍한 사건이 발생했습니다.",
-                "script": "호주 의회에 충격적인 협박 사건이 터졌습니다. 노조 위원장의 발언 뒤에 숨겨진 섬뜩한 진실, 민주주의를 위협하는 폭력의 실체를 파헤칩니다.",
+                "keyword": "정치인 협박 사건",
+                "hook": "의원 차량에 남겨진 총알 한 발, 호주 정계가 공포에 떨고 있습니다.",
+                "script": "정치인 차량에 발견된 실탄. 노조 보스까지 개입하며 논란은 걷잡을 수 없이 커지고 있습니다. 호주 정치가 위험합니다.",
                 "sentiment": "negative"
             },
             {
@@ -123,9 +121,9 @@
                 "goldstein": -10.0,
                 "tone": -4.16761828468349,
                 "score": 310.0,
-                "keyword": "총기 반납 급증",
-                "hook": "호주 전역에서 총기 반납 행렬이 이어지고 있습니다.",
-                "script": "더 이상 안전지대는 없다. 정부의 강력한 정책에 따라 시민들이 앞다투어 총기를 반납하고 있습니다. 호주를 바꾸는 총기 정책, 지금 현장 분위기를 전합니다.",
+                "keyword": "총기 반납 운동",
+                "hook": "호주 전역에서 총기 반납 쇄도, 대체 무슨 일이 벌어지는 걸까요?",
+                "script": "정부의 총기 회수 프로그램에 시민들이 줄을 잇고 있습니다. 호주 사회의 무서운 변화, 지금 확인하세요.",
                 "sentiment": "negative"
             },
             {
@@ -139,18 +137,29 @@
                 "tone": -1.6330877386306,
                 "score": 280.5,
                 "keyword": "여성 의원 학대",
-                "hook": "소셜 미디어가 여성 정치인들을 향한 증오의 놀이터가 되었습니다.",
-                "script": "온라인상에서 여성 의원들을 향한 무차별적인 학대가 선을 넘었습니다. 소셜 미디어가 증폭시킨 혐오 문화, 이것이 우리가 마주한 현실입니다.",
+                "hook": "소셜 미디어가 부추기는 여성 정치인 향한 무차별 폭력.",
+                "script": "온라인상에서 벌어지는 여성 의원들에 대한 끔찍한 학대. 비난을 넘어선 범죄 수준의 괴롭힘이 사회 문제가 되고 있습니다.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-28 00:19:28 KST",
+        "last_updated": "2026-10-28 07:10:08 KST",
         "current_rank": 2
     },
     "United States": {
         "gdp_rank": 1,
-        "spike_score": 940.0,
+        "spike_score": 1354.0,
         "trends": [
+            {
+                "record_id": "1330123822",
+                "url": "https://mix981fm.iheart.com/content/2026-10-27-middle-school-teacher-arrested-in-alleged-prostitution-robbery-scheme-at-casino-hotel/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 136,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -10.7313401473155,
+                "score": 533.0
+            },
             {
                 "record_id": "1330055140",
                 "url": "https://www.kasu.org/politics/2026-10-27/democrats-still-poised-to-make-gains-but-poll-shows-warning-signs-for-just-how-many",
@@ -194,84 +203,10 @@
                 "goldstein": -5.0,
                 "tone": -5.95816429823913,
                 "score": 131.0
-            },
-            {
-                "record_id": "1329918025",
-                "url": "https://wtam.iheart.com/content/2026-10-26-president-trump-praises-libyans-after-criticizing-country/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 78,
-                "sources": 1,
-                "goldstein": -4.0,
-                "tone": 0.0,
-                "score": 119.0
             }
         ],
-        "last_updated": "2026-10-28 00:19:28 KST",
+        "last_updated": "2026-10-28 07:10:08 KST",
         "current_rank": 3
-    },
-    "Germany": {
-        "gdp_rank": 3,
-        "spike_score": 431.0,
-        "trends": [
-            {
-                "record_id": "1329898880",
-                "url": "http://www.merkur.de/bayern/gewalt-gegen-polizei-in-bayern-auf-hoechststand-dramatische-lage-zr-94558791.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 5,
-                "goldstein": 7.4,
-                "tone": -7.67740285161377,
-                "score": 152.0
-            },
-            {
-                "record_id": "1330080761",
-                "url": "https://www.az-online.de/politik/rot-gruen-rot-in-berlin-spd-politiker-oezdemir-im-interview-zr-94560534.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 90,
-                "sources": 8,
-                "goldstein": -0.4,
-                "tone": -4.54049699448473,
-                "score": 126.0
-            },
-            {
-                "record_id": "1330066249",
-                "url": "https://www.oz-online.de/artikel/1698463/Gericht-Zschaepe-soll-bis-mindestens-2035-in-Haft-bleiben",
-                "related_urls": [],
-                "title": "",
-                "mentions": 64,
-                "sources": 8,
-                "goldstein": -4.0,
-                "tone": -10.4206819161986,
-                "score": 68.0
-            },
-            {
-                "record_id": "1330032055",
-                "url": "http://www.tz.de/auto/tausende-vw-mitarbeiter-sollen-in-transfergesellschaft-wechseln-zr-94559582.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 5,
-                "goldstein": 3.0,
-                "tone": -2.2034568401845,
-                "score": 50.0
-            },
-            {
-                "record_id": "1329814813",
-                "url": "https://www.noz.de/deutschland-welt/wirtschaft/artikel/ohne-schnickschnack-wie-wohnungsbau-guenstiger-werden-soll-51648912",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 5,
-                "goldstein": 0.0,
-                "tone": -1.87039277772454,
-                "score": 35.0
-            }
-        ],
-        "last_updated": "2026-10-28 00:19:28 KST",
-        "current_rank": 4
     },
     "Mexico": {
         "gdp_rank": 12,
@@ -287,9 +222,9 @@
                 "goldstein": -6.5,
                 "tone": -2.97619047619048,
                 "score": 134.5,
-                "keyword": "죽은 자의 축제",
-                "hook": "멕시코 시티가 수천 개의 해골과 꽃으로 뒤덮였습니다.",
-                "script": "죽음을 축제로 승화시키는 멕시코 전통, '망자의 날' 현장입니다. 죽은 자들을 기리는 화려하고도 기괴한 행렬이 멕시코 거리를 가득 채웠습니다. 그 신비로운 풍경 속으로 들어갑니다.",
+                "keyword": "죽은 자의 날",
+                "hook": "멕시코 시티를 뒤덮은 수천 개의 해골, 죽음의 축제가 시작됐습니다.",
+                "script": "죽은 자들이 돌아오는 날, 멕시코 시티가 해골과 꽃으로 뒤덮였습니다. 전 세계를 압도하는 기괴하고 아름다운 축제의 현장입니다.",
                 "sentiment": "negative"
             },
             {
@@ -302,9 +237,9 @@
                 "goldstein": 0.0,
                 "tone": -3.48993169150509,
                 "score": 99.0,
-                "keyword": "정치권 결집 강화",
-                "hook": "멕시코 정치권이 내부 결속을 다지며 긴장감이 감돌고 있습니다.",
-                "script": "멕시코 주요 정당들이 보닐라를 중심으로 결집하며 정치적 파장을 예고했습니다. 닫힌 문 뒤에서 오간 날 선 대화들, 멕시코 정계가 요동치고 있습니다.",
+                "keyword": "정당 내분 격화",
+                "hook": "비공개 회의에서 터져 나온 정치권의 고성, 분열이 가속화됩니다.",
+                "script": "멕시코 야권이 무너지고 있습니다. 비공개 회의에서 드러난 노골적인 갈등, 내부 결속은 이미 끝났습니다.",
                 "sentiment": "negative"
             },
             {
@@ -317,14 +252,14 @@
                 "goldstein": 0.0,
                 "tone": -3.54895945239206,
                 "score": 74.0,
-                "keyword": "도로 위 전복",
-                "hook": "멕시코 도심 한복판에서 픽업트럭이 전복되는 사고가 발생했습니다.",
-                "script": "알마다 도로에서 픽업트럭이 뒤집히는 아찔한 사고가 발생했습니다. 탑승자들은 다행히 가벼운 부상에 그쳤지만, 사고 당시의 충격적인 현장을 영상으로 보시겠습니다.",
+                "keyword": "교통사고 발생",
+                "hook": "페리페리코 도로 위 픽업트럭 전복, 아수라장이 된 현장.",
+                "script": "멕시코 주요 도로에서 픽업트럭이 뒤집혔습니다. 출근길 교통 대란과 함께 긴급 구조 작업이 이어지고 있습니다.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-28 00:19:28 KST",
-        "current_rank": 5
+        "last_updated": "2026-10-28 07:10:08 KST",
+        "current_rank": 4
     },
     "France": {
         "gdp_rank": 7,
@@ -342,7 +277,7 @@
                 "score": 100.0
             },
             {
-                "record_id": "1329934553",
+                "record_id": "1329934866",
                 "url": "https://www.naroomanewsonline.com.au/story/9380403/macron-vows-strong-measures-to-assuage-france-demos/",
                 "related_urls": [],
                 "title": "",
@@ -375,8 +310,8 @@
                 "score": 42.0
             }
         ],
-        "last_updated": "2026-10-28 00:19:28 KST",
-        "current_rank": 6
+        "last_updated": "2026-10-28 07:10:08 KST",
+        "current_rank": 5
     },
     "South Korea": {
         "gdp_rank": 14,
@@ -392,9 +327,9 @@
                 "goldstein": -2.0,
                 "tone": 1.48638584860914,
                 "score": 187.0,
-                "keyword": "정치적 신뢰 회복",
-                "hook": "한국 사회가 갈등을 넘어 새로운 통합의 길을 모색하고 있습니다.",
-                "script": "정치권의 화합을 향한 노력이 이어지고 있습니다. 국민들의 신뢰를 회복하기 위한 의미 있는 움직임들, 한국 정치가 나아갈 방향을 짚어봅니다.",
+                "keyword": "한국 경제 회복",
+                "hook": "모두가 우려하던 한국 경제, 놀라운 반등을 시작했습니다.",
+                "script": "위기설을 비웃듯 한국 경제가 다시 달립니다. 주요 지표가 상승세를 타며 글로벌 시장의 주목을 받고 있습니다.",
                 "sentiment": "positive"
             },
             {
@@ -407,14 +342,14 @@
                 "goldstein": 7.4,
                 "tone": 0.788849457013773,
                 "score": 69.0,
-                "keyword": "첨단 과학 성과",
-                "hook": "대한민국 과학 기술이 세계를 놀라게 할 성과를 냈습니다.",
-                "script": "불가능을 가능으로 만든 한국 연구진의 쾌거입니다. 미래 산업의 판도를 바꿀 새로운 기술, 그 놀라운 발견의 핵심을 공개합니다.",
+                "keyword": "과학 기술 성과",
+                "hook": "한국 과학계가 세계를 놀라게 할 혁신을 발표했습니다.",
+                "script": "상상을 현실로 만드는 한국의 과학 기술. 인류의 미래를 바꿀 획기적인 연구 성과를 지금 공개합니다.",
                 "sentiment": "positive"
             }
         ],
-        "last_updated": "2026-10-28 00:19:28 KST",
-        "current_rank": 7
+        "last_updated": "2026-10-28 07:10:08 KST",
+        "current_rank": 6
     },
     "China": {
         "gdp_rank": 2,
@@ -454,8 +389,8 @@
                 "score": 45.0
             }
         ],
-        "last_updated": "2026-10-28 00:19:28 KST",
-        "current_rank": 8
+        "last_updated": "2026-10-28 07:10:08 KST",
+        "current_rank": 7
     },
     "Turkey": {
         "gdp_rank": 16,
@@ -471,9 +406,9 @@
                 "goldstein": -10.0,
                 "tone": -2.73224043715847,
                 "score": 82.0,
-                "keyword": "국가 위기 직면",
-                "hook": "터키가 세계 최악의 국가 순위권에 이름을 올렸습니다.",
-                "script": "경제와 사회 지표가 바닥을 치고 있습니다. 터키가 직면한 국가적 위기, 과연 탈출구는 어디에 있는가? 지금 터키가 처한 암울한 현실을 분석합니다.",
+                "keyword": "최악의 국가 선정",
+                "hook": "세계가 지켜보는 가운데 터키가 바닥 밑의 바닥으로 추락하고 있습니다.",
+                "script": "터키가 세계 최악의 8개 국가 명단에 이름을 올렸습니다. 경제와 사회 지표가 동반 침몰하며 국민들의 삶은 벼랑 끝으로 내몰리고 있습니다. 이대로라면 회복 불가능한 붕괴가 시작될 수 있다는 경고가 쏟아집니다.",
                 "sentiment": "warning"
             },
             {
@@ -486,9 +421,9 @@
                 "goldstein": 1.0,
                 "tone": 8.73786407766989,
                 "score": 74.0,
-                "keyword": "정치인 화해 시도",
-                "hook": "터키 정계의 거물들이 전화 한 통으로 화해의 물꼬를 텄습니다.",
-                "script": "키리치다로을루와 코자사칼 사이의 뜻밖의 전화 통화가 정계에 파장을 일으키고 있습니다. 대립을 끝내고 화합으로 나아갈 수 있을지, 터키 정가의 변화를 주목하십시오.",
+                "keyword": "야권 인사 격려",
+                "hook": "터키 정계의 막후에서 긴박한 전화 한 통이 오갔습니다.",
+                "script": "케말 클르츠다로을루가 우미트 코자사칼에게 직접 전화를 걸어 축하 메시지를 전했습니다. 야권의 결속을 다지는 이번 행보가 향후 터키 정국에 어떤 파장을 불러올지 이목이 집중됩니다.",
                 "sentiment": "positive"
             },
             {
@@ -501,14 +436,14 @@
                 "goldstein": -2.0,
                 "tone": -6.6532258064516,
                 "score": 52.0,
-                "keyword": "실업난 가속화",
-                "hook": "터키 수백만 명의 시민들이 실업의 공포 속에 살고 있습니다.",
-                "script": "일자리를 잃고 거리로 내몰리는 시민들, 터키의 경제 상황이 갈수록 악화되고 있습니다. 실업의 그늘 아래 놓인 터키의 어두운 초상을 확인하십시오.",
+                "keyword": "실업 대란 심화",
+                "hook": "수백만 명의 시민들이 실업이라는 짙은 그림자 아래 신음하고 있습니다.",
+                "script": "터키의 실업률이 걷잡을 수 없이 치솟으며 국가 경제의 근간을 뒤흔들고 있습니다. 일자리를 잃은 수백만 명이 생존을 위협받는 가운데, 정부의 대응은 속수무책입니다. 실업의 공포가 터키를 덮쳤습니다.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-28 00:19:28 KST",
-        "current_rank": 9
+        "last_updated": "2026-10-28 07:10:08 KST",
+        "current_rank": 8
     },
     "Brazil": {
         "gdp_rank": 9,
@@ -525,8 +460,8 @@
                 "tone": 0.26281208935611,
                 "score": 91.0,
                 "keyword": "룰라 대통령 당선",
-                "hook": "브라질 대선 결과 발표 직후 볼소나로가 승복을 거부하며 국가적 혼란이 시작되었습니다.",
-                "script": "브라질 대선에서 룰라가 승리했습니다. 하지만 볼소나로 측이 즉각 결과 불복을 선언하며 정국이 급격히 얼어붙고 있습니다. 민주주의의 위기인가, 아니면 권력 투쟁의 서막인가. 지금 브라질 거리에서 벌어지는 일들을 주목하십시오.",
+                "hook": "브라질 대선 결과, 보우소나루 승복 거부하며 대혼돈 시작.",
+                "script": "브라질 대선이 끝났습니다. 룰라의 승리 선언에도 보우소나루 진영이 결과를 전면 거부하며 국가가 둘로 쪼개지고 있습니다.",
                 "sentiment": "positive"
             },
             {
@@ -539,9 +474,9 @@
                 "goldstein": 3.4,
                 "tone": -1.29237411905042,
                 "score": 57.0,
-                "keyword": "대선 결과 불복",
-                "hook": "브라질 대선의 정당성이 도마 위에 올랐습니다.",
-                "script": "볼소나로가 브라질 대선 결과 무효화를 요구하며 파장을 일으키고 있습니다. 선거의 신뢰성을 둘러싼 공방이 격화되면서 남미 최대 국가 브라질이 분열의 소용돌이 속으로 빠져들고 있습니다.",
+                "keyword": "선거 결과 불복",
+                "hook": "선거 결과 무효화 요구, 브라질 정국 마비 위기.",
+                "script": "보우소나루가 브라질 대선 결과 무효화를 공식 요구했습니다. 민주주의 근간이 흔들리는 지금, 브라질의 운명은 어디로 향할까요?",
                 "sentiment": "warning"
             },
             {
@@ -555,12 +490,42 @@
                 "tone": -1.44927536231884,
                 "score": 56.0,
                 "keyword": "투표 시간 연장",
-                "hook": "브라질 선거 막판, 예상치 못한 투표 연장 결정이 내려졌습니다.",
-                "script": "마감 직전 투표 시간 연장이라는 초유의 사태가 발생했습니다. 브라질 전역에서 개표 작업이 재개된 가운데, 긴박하게 돌아가는 현장 상황을 실시간으로 확인하십시오.",
+                "hook": "마감 직전 투표 시간 연장, 브라질 선거 막판 초접전.",
+                "script": "브라질 선거 개표가 다시 시작됐습니다. 마감 직전 투표 시간까지 연장하며 한 치 앞을 알 수 없는 대혼전이 벌어지고 있습니다.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-28 00:19:28 KST",
+        "last_updated": "2026-10-28 07:10:08 KST",
+        "current_rank": 9
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 194.0,
+        "trends": [
+            {
+                "record_id": "1330080762",
+                "url": "https://www.az-online.de/politik/rot-gruen-rot-in-berlin-spd-politiker-oezdemir-im-interview-zr-94560534.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 8,
+                "goldstein": -0.4,
+                "tone": -4.54049699448473,
+                "score": 126.0
+            },
+            {
+                "record_id": "1330066249",
+                "url": "https://www.oz-online.de/artikel/1698463/Gericht-Zschaepe-soll-bis-mindestens-2035-in-Haft-bleiben",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 8,
+                "goldstein": -4.0,
+                "tone": -10.4206819161986,
+                "score": 68.0
+            }
+        ],
+        "last_updated": "2026-10-28 07:10:08 KST",
         "current_rank": 10
     },
     "Russia": {
@@ -577,10 +542,10 @@
                 "goldstein": -7.2,
                 "tone": -0.07326603712146,
                 "score": 70.0,
-                "keyword": "나토 긴장 고조",
-                "hook": "러시아와 나토 사이의 전운이 다시 감돌고 있습니다.",
-                "script": "러시아를 향한 나토의 압박이 임계점을 넘었습니다. 양측의 군사적 대치가 가속화되면서 유럽의 안보 지도가 다시 그려지고 있습니다. 지금 러시아에서 벌어지는 심상치 않은 움직임을 주목하십시오.",
-                "sentiment": "negative"
+                "keyword": "나토 갈등 심화",
+                "hook": "나토와의 긴장감이 최고조에 달하며 러시아가 전면 대응을 예고했습니다.",
+                "script": "러시아와 나토, 다시 정면 충돌합니다. 한순간도 방심할 수 없는 긴박한 국제 정세, 지금 러시아의 움직임을 주목하십시오.",
+                "sentiment": "warning"
             },
             {
                 "record_id": "1329936260",
@@ -592,9 +557,9 @@
                 "goldstein": 5.0,
                 "tone": -0.899213820562134,
                 "score": 65.0,
-                "keyword": "베를린 UFO 포착",
-                "hook": "수십 년간 숨겨졌던 베를린 상공의 미스터리가 세상에 드러났습니다.",
-                "script": "냉전 시대 독일 베를린 상공에 정체불명의 비행체가 나타났습니다. 최근 공개된 미국 기밀 문서가 전 세계를 충격에 빠뜨리고 있습니다. 외계의 존재인가, 아니면 군사 기밀인가?",
+                "keyword": "베를린 UFO 목격",
+                "hook": "미국 기밀 문서에 기록된 베를린 상공의 미확인 비행물체 정체.",
+                "script": "베를린 템펠호프 상공에 나타난 의문의 물체. 미 정부 기밀 문서가 드디어 그 충격적인 실체를 드러냈습니다.",
                 "sentiment": "negative"
             },
             {
@@ -607,13 +572,13 @@
                 "goldstein": 1.0,
                 "tone": 1.18168174361468,
                 "score": 42.0,
-                "keyword": "경제 지표 회복",
-                "hook": "러시아 경제가 제재 속에서도 예상 밖의 반등을 보이고 있습니다.",
-                "script": "서방의 강력한 경제 제재에도 불구하고 러시아 경제가 회복 신호를 보내고 있습니다. 수치로 증명되는 러시아 경제의 현주소, 지금 바로 확인해 보십시오.",
+                "keyword": "러시아 경제 지표",
+                "hook": "경제 제재 속 러시아가 보여준 뜻밖의 수치.",
+                "script": "러시아 경제가 살아나고 있습니다. 예상치를 뛰어넘는 경제 지표, 그 이면에 숨겨진 진짜 이유는 무엇일까요?",
                 "sentiment": "positive"
             }
         ],
-        "last_updated": "2026-10-28 00:19:28 KST",
+        "last_updated": "2026-10-28 07:10:08 KST",
         "current_rank": 11
     },
     "South Africa": {
@@ -629,10 +594,14 @@
                 "sources": 1,
                 "goldstein": 2.8,
                 "tone": -1.1060507482108,
-                "score": 137.5
+                "score": 137.5,
+                "keyword": "식수 오염 충격",
+                "hook": "사람과 동물이 같은 강물을 마시는 비극적인 현실이 펼쳐지고 있습니다.",
+                "script": "남아공 움슈와티 지역 주민들이 동물과 같은 강물을 마시며 생존을 이어가고 있습니다. 2026년 현재, 기본적인 식수조차 보장되지 않는 참혹한 수질 위기가 주민들의 건강을 심각하게 위협하고 있습니다.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-28 00:19:28 KST",
+        "last_updated": "2026-10-28 07:10:08 KST",
         "current_rank": 12
     },
     "India": {
@@ -651,7 +620,30 @@
                 "score": 67.0
             }
         ],
-        "last_updated": "2026-10-28 00:19:28 KST",
+        "last_updated": "2026-10-28 07:10:08 KST",
         "current_rank": 13
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 64.0,
+        "trends": [
+            {
+                "record_id": "1330171929",
+                "url": "https://www.index.hr/food/clanak/zasto-je-pizza-u-zagrebu-duplo-skuplja-nego-u-italiji/2849908.aspx?index_ref=homepage_comment_box_d&commentId=12354828",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 6.4,
+                "tone": -0.12239902080784,
+                "score": 64.0,
+                "keyword": "이탈리아 피자 가격",
+                "hook": "왜 자그레브 피자가 이탈리아보다 두 배나 비싼 걸까요?",
+                "script": "이탈리아 본토 피자 가격, 왜 외국보다 저렴할까요? 현지 물가와 외식 시장의 비밀을 파헤칩니다. 지금 바로 확인하세요.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-28 07:10:08 KST",
+        "current_rank": 14
     }
 }
