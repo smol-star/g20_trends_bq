@@ -1,7 +1,7 @@
 {
     "United States": {
         "gdp_rank": 1,
-        "spike_score": 1542.0,
+        "spike_score": 1590.5,
         "trends": [
             {
                 "record_id": "1330123822",
@@ -14,9 +14,20 @@
                 "tone": -10.7313401473155,
                 "score": 533.0,
                 "keyword": "교사 성매매 체포",
-                "hook": "학생을 가르치던 교사가 카지노 호텔에서 충격적인 성매매 범죄에 연루되었습니다.",
-                "script": "현직 중학교 교사가 카지노 호텔에서 성매매 및 강도 행각을 벌인 혐의로 긴급 체포됐습니다. 교육자의 탈을 쓴 범죄 현장, 어떻게 이런 일이 가능했을까요? 현재 경찰이 수사를 확대하고 있습니다.",
-                "sentiment": "negative"
+                "hook": "학생을 가르치던 교사가 카지노 호텔 성매매 사건의 주범으로 검거되었습니다.",
+                "script": "교단에 서던 교사가 범죄의 늪에 빠졌습니다. 카지노 호텔에서 벌어진 충격적인 성매매 및 강도 사건, 경찰은 현장에서 현직 중학교 교사를 전격 체포했습니다. 교육자의 탈을 쓴 범죄, 그 실체가 지금 드러납니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1330267635",
+                "url": "https://www.yorkpress.co.uk/news/national/26676581.flavio-bolsonaro-flees-brazil-argentina-expected-land-miami/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 104,
+                "sources": 13,
+                "goldstein": 6.0,
+                "tone": -0.990099009900988,
+                "score": 285.0
             },
             {
                 "record_id": "1329991166",
@@ -41,9 +52,9 @@
                 "goldstein": 7.4,
                 "tone": -2.65048783065056,
                 "score": 260.0,
-                "keyword": "등산객 사체 수습",
-                "hook": "폭풍우가 휩쓸고 간 산악지대에서 실종되었던 등산객의 차가운 시신이 발견되었습니다.",
-                "script": "휘트니 산 정상 부근, 실종되었던 등산객이 결국 싸늘한 주검으로 발견됐습니다. 거센 폭풍우를 뚫고 수색대가 사투를 벌였지만 시간은 너무 늦었습니다. 자연의 무서움이 다시 한번 확인된 비극입니다.",
+                "keyword": "등산객 시신 발견",
+                "hook": "폭풍우 속 실종되었던 등산객이 결국 차가운 시신으로 발견되었습니다.",
+                "script": "휘트니산 정상 부근, 폭풍우에 갇혔던 실종자가 싸늘한 주검으로 돌아왔습니다. 구조대의 수색 끝에 발견된 비극적인 현장. 자연의 무서운 경고 앞에 가족들은 오열하고 있습니다.",
                 "sentiment": "negative"
             },
             {
@@ -56,43 +67,17 @@
                 "goldstein": -2.0,
                 "tone": 0.322681667583736,
                 "score": 252.0
-            },
-            {
-                "record_id": "1330108024",
-                "url": "https://wsyr.iheart.com/content/2026-10-27-florida-mom-arrested-after-vegas-trip-leaves-kids-alone-at-home/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 129,
-                "sources": 1,
-                "goldstein": 2.8,
-                "tone": -4.31654676258994,
-                "score": 236.5
             }
         ],
-        "last_updated": "2026-10-28 14:35:35 KST",
+        "last_updated": "2026-10-28 21:46:49 KST",
         "current_rank": 1
     },
     "Australia": {
         "gdp_rank": 13,
-        "spike_score": 1260.0,
+        "spike_score": 1051.0,
         "trends": [
             {
-                "record_id": "1330037625",
-                "url": "https://www.armidaleexpress.com.au/story/9380409/mps-revert-to-snide-remarks-following-day-of-unity/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 56,
-                "sources": 4,
-                "goldstein": 3.0,
-                "tone": -4.07887794995565,
-                "score": 331.0,
-                "keyword": "의회 비난 공방",
-                "hook": "단 하루의 단합도 없었습니다. 호주 의회에서 의원들의 비열한 말싸움이 다시 시작됐습니다.",
-                "script": "단합을 외치던 의원들이 하루 만에 다시 서로를 헐뜯고 있습니다. 의회 내 오가는 비꼬는 말들, 국민들은 피로감을 호소합니다. 호주 정치권의 진흙탕 싸움, 이대로 괜찮을까요?",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1330126424",
+                "record_id": "1330126788",
                 "url": "https://www.newcastleherald.com.au/story/9381178/online-hate-is-spilling-into-the-real-world-afp-warns/",
                 "related_urls": [],
                 "title": "",
@@ -101,25 +86,10 @@
                 "goldstein": 4.0,
                 "tone": -6.08757776641779,
                 "score": 280.0,
-                "keyword": "온라인 혐오 경고",
-                "hook": "온라인의 혐오가 현실 세계로 쏟아져 나오고 있습니다. 호주 연방경찰이 긴급 경고를 내렸습니다.",
-                "script": "스크린 속의 증오가 칼이 되어 돌아옵니다. 온라인상의 혐오 표현이 현실 범죄로 이어지는 위험한 징후들, 경찰이 직접 나섰습니다. 당신의 댓글이 누군가를 위협하고 있을지도 모릅니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1330034367",
-                "url": "https://www.theadvocate.com.au/story/9380420/calls-for-bolstered-national-standards-amid-final-exams/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 90,
-                "sources": 5,
-                "goldstein": 3.0,
-                "tone": 0.0644122383252822,
-                "score": 242.0,
-                "keyword": "국가 표준 강화",
-                "hook": "시험 기간을 앞두고 교육 현장에서 국가 표준을 강화해야 한다는 목소리가 높아지고 있습니다.",
-                "script": "학생들의 성적과 미래가 걸린 시험, 공정성은 지켜지고 있을까요? 호주 전역에서 교육 표준 강화를 요구하는 목소리가 거셉니다. 혼란스러운 입시 환경을 바로잡기 위한 변화가 시작됩니다.",
-                "sentiment": "neutral"
+                "keyword": "온라인 혐오 확산",
+                "hook": "스크린 속 증오가 당신의 현관문까지 들이닥쳤습니다.",
+                "script": "온라인상의 혐오 발언이 현실 세계의 폭력으로 번지고 있습니다. 호주 연방경찰이 경고했습니다. 이제 키보드 뒤에 숨은 범죄는 더 이상 가상 공간에 머물지 않습니다. 당신의 일상이 위협받고 있습니다. 지금 즉시 주변을 경계하십시오.",
+                "sentiment": "warning"
             },
             {
                 "record_id": "1330037628",
@@ -130,11 +100,18 @@
                 "sources": 11,
                 "goldstein": -4.0,
                 "tone": -6.6128792887751,
-                "score": 222.0,
-                "keyword": "전직 경찰 고백",
-                "hook": "눈물로 참회하는 전직 경찰, 그가 고백한 스테로이드 밀거래의 추악한 실체.",
-                "script": "한때 법을 수호하던 경찰이 어떻게 범죄의 늪에 빠졌을까요? 스테로이드 밀거래 혐의로 법정에 선 전직 경찰이 눈물로 자신의 잘못을 털어놨습니다. 권력을 악용한 그의 몰락, 충격적인 전말을 공개합니다.",
-                "sentiment": "negative"
+                "score": 222.0
+            },
+            {
+                "record_id": "1330034367",
+                "url": "https://www.theadvocate.com.au/story/9380420/calls-for-bolstered-national-standards-amid-final-exams/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 5,
+                "goldstein": 3.0,
+                "tone": 0.0644122383252822,
+                "score": 194.0
             },
             {
                 "record_id": "1329999653",
@@ -145,19 +122,26 @@
                 "sources": 5,
                 "goldstein": -5.0,
                 "tone": -4.40820820506746,
-                "score": 185.0,
-                "keyword": "노동당원 총리 비판",
-                "hook": "당 내에서도 비판이 터져 나옵니다. 노동당 이탈자가 총리의 무책임한 처사를 정면으로 비판했습니다.",
-                "script": "노동당의 내분이 격화되고 있습니다. 인력 충원 요청을 묵살한 총리를 향해 당 내부에서마저 거센 비판이 쏟아집니다. 리더십 위기에 빠진 총리, 과연 이 사태를 어떻게 수습할까요?",
-                "sentiment": "negative"
+                "score": 185.0
+            },
+            {
+                "record_id": "1330009313",
+                "url": "https://www.maitlandmercury.com.au/story/9380409/duress-alarms-floated-as-mps-raise-safety-concerns/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 8,
+                "goldstein": 1.0,
+                "tone": -4.71227754775441,
+                "score": 170.0
             }
         ],
-        "last_updated": "2026-10-28 14:35:35 KST",
+        "last_updated": "2026-10-28 21:46:49 KST",
         "current_rank": 2
     },
     "United Kingdom": {
         "gdp_rank": 6,
-        "spike_score": 738.5,
+        "spike_score": 693.5,
         "trends": [
             {
                 "record_id": "1330120629",
@@ -170,10 +154,14 @@
                 "sources": 10,
                 "goldstein": 2.8,
                 "tone": -6.11140130440565,
-                "score": 241.5
+                "score": 241.5,
+                "keyword": "이란 연계 테러",
+                "hook": "영국 페어포드 공군기지를 타겟으로 한 테러 음모가 이란 정보기관과 연루된 것으로 드러났습니다.",
+                "script": "영국 심장부, 공군기지를 노린 테러 계획이 발각되었습니다. 뒤에는 이란이 있었습니다. 영국 국가 안보를 위협한 충격적인 테러 음모, 두 명의 용의자가 기소되며 수사가 급물살을 타고 있습니다.",
+                "sentiment": "warning"
             },
             {
-                "record_id": "1330072052",
+                "record_id": "1330071948",
                 "url": "https://www.milfordmercury.co.uk/news/national/26673306.reynolds-says-no-assumptions-eu-talks-will-go-next-month/",
                 "related_urls": [],
                 "title": "",
@@ -184,21 +172,10 @@
                 "score": 175.0
             },
             {
-                "record_id": "1329990705",
-                "url": "https://clearwatertimes.com/2026/10/26/b-c-election-outcome-does-not-reflect-popular-vote/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": 3.4,
-                "tone": 5.5905695611578,
-                "score": 125.0
-            },
-            {
-                "record_id": "1330015361",
-                "url": "https://www.countytimes.co.uk/news/national/26672175.supreme-court-hear-government-appeal-sean-brown-public-inquiry-case/",
+                "record_id": "1330015360",
+                "url": "https://www.messengernewspapers.co.uk/news/national/26672175.supreme-court-hear-government-appeal-sean-brown-public-inquiry-case/",
                 "related_urls": [
-                    "https://www.messengernewspapers.co.uk/news/national/26672175.supreme-court-hear-government-appeal-sean-brown-public-inquiry-case/"
+                    "https://www.countytimes.co.uk/news/national/26672175.supreme-court-hear-government-appeal-sean-brown-public-inquiry-case/"
                 ],
                 "title": "",
                 "mentions": 60,
@@ -206,6 +183,17 @@
                 "goldstein": 3.4,
                 "tone": -3.33587147485852,
                 "score": 118.0
+            },
+            {
+                "record_id": "1329990158",
+                "url": "https://clearwatertimes.com/2026/10/26/b-c-election-outcome-does-not-reflect-popular-vote/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 3.4,
+                "tone": 5.5905695611578,
+                "score": 80.0
             },
             {
                 "record_id": "1330086283",
@@ -216,86 +204,11 @@
                 "sources": 9,
                 "goldstein": -5.0,
                 "tone": -5.82343545350074,
-                "score": 79.0,
-                "keyword": "이란 연계 테러",
-                "hook": "영국 공군 기지를 노린 테러 음모가 발각되며 국가 안보에 비상이 걸렸습니다.",
-                "script": "영국 공군 페어포드 기지를 타깃으로 한 테러 음모가 적발됐습니다. 이란의 지시를 받은 것으로 추정되는 용의자 두 명이 전격 기소됐습니다. 영국 안보 당국이 테러 조직의 실체를 추적 중입니다.",
-                "sentiment": "warning"
+                "score": 79.0
             }
         ],
-        "last_updated": "2026-10-28 14:35:35 KST",
+        "last_updated": "2026-10-28 21:46:49 KST",
         "current_rank": 3
-    },
-    "Germany": {
-        "gdp_rank": 3,
-        "spike_score": 355.5,
-        "trends": [
-            {
-                "record_id": "1330080762",
-                "url": "https://www.az-online.de/politik/rot-gruen-rot-in-berlin-spd-politiker-oezdemir-im-interview-zr-94560534.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 90,
-                "sources": 8,
-                "goldstein": -0.4,
-                "tone": -4.54049699448473,
-                "score": 126.0
-            },
-            {
-                "record_id": "1330140997",
-                "url": "https://aktuale.mk/vrasja-e-arlinda-zekajt-reagon-ambasada-gjermane-te-mbrohen-grate-ne-rrezik/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": 8.3,
-                "tone": -4.37658436481197,
-                "score": 69.5
-            },
-            {
-                "record_id": "1330066249",
-                "url": "https://www.oz-online.de/artikel/1698463/Gericht-Zschaepe-soll-bis-mindestens-2035-in-Haft-bleiben",
-                "related_urls": [],
-                "title": "",
-                "mentions": 64,
-                "sources": 8,
-                "goldstein": -4.0,
-                "tone": -10.4206819161986,
-                "score": 68.0,
-                "keyword": "범죄자 구금 연장",
-                "hook": "독일 법원이 흉악범의 출소를 2035년까지 절대 불가하다고 못 박았습니다.",
-                "script": "테러범 체페의 수감 생활이 2035년까지 연장됐습니다. 법원은 사회 안전을 위해 그녀를 절대 세상 밖으로 내보낼 수 없다는 판결을 내렸습니다. 독일에 울려 퍼진 단호한 사법부의 결정입니다.",
-                "sentiment": "warning"
-            },
-            {
-                "record_id": "1330032055",
-                "url": "http://www.tz.de/auto/tausende-vw-mitarbeiter-sollen-in-transfergesellschaft-wechseln-zr-94559582.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 5,
-                "goldstein": 3.0,
-                "tone": -2.2034568401845,
-                "score": 50.0
-            },
-            {
-                "record_id": "1330072944",
-                "url": "https://www.hna.de/verbraucher/fuehrerschein-betrug-16-prueflinge-mit-hightech-masche-ertappt-zr-94560412.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": 2.8,
-                "tone": -5.43603455368161,
-                "score": 42.0,
-                "keyword": "면허 부정 적발",
-                "hook": "운전면허 시험장에서 최첨단 장비를 동원한 대규모 부정행위가 발각되었습니다.",
-                "script": "카메라와 무선 장비까지, 16명의 응시자가 하이테크 기술을 동원해 운전면허 시험을 치르다 현장에서 덜미를 잡혔습니다. 도로 위를 위협할 뻔한 부정 합격자들, 경찰이 즉각 수사에 착수했습니다.",
-                "sentiment": "negative"
-            }
-        ],
-        "last_updated": "2026-10-28 14:35:35 KST",
-        "current_rank": 4
     },
     "South Korea": {
         "gdp_rank": 14,
@@ -311,13 +224,13 @@
                 "goldstein": -10.0,
                 "tone": -2.33644859813084,
                 "score": 154.5,
-                "keyword": "국내 경제 위기",
-                "hook": "대한민국 경제가 벼랑 끝에 몰렸습니다.",
-                "script": "지표가 곤두박질치고 있습니다. 수출은 감소하고 내수는 얼어붙었습니다. 전문가들은 지금이 최악의 위기라고 경고합니다. 당신의 지갑은 안전합니까? 지금 당장 대비책이 필요합니다.",
+                "keyword": "국가 재난 비상",
+                "hook": "대한민국을 뒤흔든 충격적인 재난 사태가 발생했습니다.",
+                "script": "지금 대한민국 전역에 비상이 걸렸습니다. 예기치 못한 대형 사고가 발생하며 국가 시스템이 흔들리고 있습니다. 현장 상황은 처참합니다. 정부의 긴급 대응이 시작되었지만, 피해 규모는 걷잡을 수 없이 커지고 있습니다. 실시간 소식을 확인하십시오.",
                 "sentiment": "negative"
             },
             {
-                "record_id": "1330220295",
+                "record_id": "1330220360",
                 "url": "https://www.newspim.com/news/view/20261028000720",
                 "related_urls": [],
                 "title": "",
@@ -325,11 +238,7 @@
                 "sources": 1,
                 "goldstein": 7.0,
                 "tone": 2.26460071513707,
-                "score": 124.0,
-                "keyword": "기술 혁신 성과",
-                "hook": "대한민국이 세계를 놀라게 할 기술을 공개했습니다.",
-                "script": "불가능이라 여겨졌던 기술적 난제를 해결했습니다. 글로벌 시장이 한국의 행보에 주목하고 있습니다. 미래 산업의 판도가 뒤바뀝니다. 지금 바로 그 핵심을 확인하십시오.",
-                "sentiment": "positive"
+                "score": 124.0
             },
             {
                 "record_id": "1330018445",
@@ -340,15 +249,11 @@
                 "sources": 1,
                 "goldstein": 7.4,
                 "tone": 0.788849457013773,
-                "score": 69.0,
-                "keyword": "과학계 돌파구 발견",
-                "hook": "인류의 숙원을 풀 과학적 발견이 나왔습니다.",
-                "script": "실험실의 작은 변화가 세상을 바꿉니다. 수년간의 연구 끝에 마침내 결실을 맺었습니다. 과학계가 흥분을 감추지 못하고 있습니다. 인류의 내일이 오늘 결정됩니다.",
-                "sentiment": "positive"
+                "score": 69.0
             }
         ],
-        "last_updated": "2026-10-28 14:35:35 KST",
-        "current_rank": 5
+        "last_updated": "2026-10-28 21:46:49 KST",
+        "current_rank": 4
     },
     "France": {
         "gdp_rank": 7,
@@ -365,9 +270,9 @@
                 "tone": -8.5776330076004,
                 "score": 125.0,
                 "keyword": "코미 연방 기소",
-                "hook": "전 FBI 국장 제임스 코미가 기소 면제 권리를 포기하지 않으면서 연방 사건이 급격히 뒤집히고 있습니다.",
-                "script": "전 FBI 국장 제임스 코미를 둘러싼 연방 사건이 미궁 속으로 빠졌습니다. 기소 면제 권리를 포기하지 않겠다는 그의 결정이 사법 당국을 당혹케 하며 사건은 새로운 국면을 맞이했습니다. 과연 무엇이 그를 숨게 만드는 것일까요?",
-                "sentiment": "warning"
+                "hook": "전 FBI 국장 제임스 코미가 기소 권리를 포기하지 않으며 법적 공방의 서막을 알렸습니다.",
+                "script": "전 FBI 국장 제임스 코미가 연방 사건에서 기소 권리를 포기하지 않겠다고 선언했습니다. 이는 트럼프 행정부와의 갈등 속에서 사법 절차를 뒤흔드는 중대한 결정입니다. 향후 법적 공방이 어떻게 전개될지 전 세계가 주목하고 있습니다.",
+                "sentiment": "negative"
             },
             {
                 "record_id": "1329990863",
@@ -378,11 +283,7 @@
                 "sources": 2,
                 "goldstein": 4.0,
                 "tone": -2.40692023512505,
-                "score": 52.0,
-                "keyword": "프랑스 여행 경고",
-                "hook": "낭만의 도시 프랑스가 지금 심상치 않은 기운으로 여행객들의 안전을 위협하고 있습니다.",
-                "script": "프랑스 여행, 정말 안전할까요? 최근 이어지는 불안한 정세와 시위 소식에 호주인들을 비롯한 전 세계 여행객들의 고민이 깊어지고 있습니다. 출발 전 반드시 확인해야 할 현지 상황, 지금 바로 체크하세요.",
-                "sentiment": "negative"
+                "score": 52.0
             },
             {
                 "record_id": "1330087671",
@@ -393,11 +294,7 @@
                 "sources": 5,
                 "goldstein": -0.4,
                 "tone": -1.08303532216575,
-                "score": 42.0,
-                "keyword": "유럽 평화 난항",
-                "hook": "푸틴의 강경한 태도에 유럽 전역이 평화에 대한 희망을 잃어가고 있습니다.",
-                "script": "유럽의 평화는 끝난 것일까요? 블라디미르 푸틴 러시아 대통령이 평화 협상에 대한 기대를 사실상 꺾어버렸습니다. 긴장이 고조되는 유럽 대륙, 각국 정부의 대응이 시급해진 지금의 상황을 전합니다.",
-                "sentiment": "negative"
+                "score": 42.0
             },
             {
                 "record_id": "1330209501",
@@ -408,72 +305,105 @@
                 "sources": 4,
                 "goldstein": 0.0,
                 "tone": -6.20856670009213,
-                "score": 32.0,
-                "keyword": "잔디깎기 살인 의혹",
-                "hook": "끔찍한 잔디깎기 사고 직전, 한 여성이 느꼈던 죽음의 공포가 법정에서 공개됐습니다.",
-                "script": "사고인가, 살인인가. 잔디깎기 기계에 의한 비극적인 사망 사건, 그 이면에는 피해자가 느꼈던 끔찍한 위협이 있었습니다. 배심원들 앞에 드러난 사건의 진실, 과연 그녀는 예고된 죽음을 맞이한 것일까요?",
-                "sentiment": "negative"
+                "score": 32.0
             }
         ],
-        "last_updated": "2026-10-28 14:35:35 KST",
-        "current_rank": 6
+        "last_updated": "2026-10-28 21:46:49 KST",
+        "current_rank": 5
     },
-    "Canada": {
-        "gdp_rank": 10,
-        "spike_score": 178.5,
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 244.0,
         "trends": [
             {
-                "record_id": "1330193891",
-                "url": "https://calgarysun.com/news/alberta-teachers-association-strike-students-classrooms-teacher-salaries/wcm/0528b5e1-734f-45c1-b0c2-78634f53f5f8",
+                "record_id": "1330080761",
+                "url": "https://www.az-online.de/politik/rot-gruen-rot-in-berlin-spd-politiker-oezdemir-im-interview-zr-94560534.html",
                 "related_urls": [],
                 "title": "",
-                "mentions": 71,
-                "sources": 1,
-                "goldstein": 2.8,
-                "tone": 0.433546434122149,
-                "score": 98.5,
-                "keyword": "교사 대규모 파업",
-                "hook": "교실이 텅 비었습니다. 캐나다 전역에서 교사들이 연봉과 처우 개선을 요구하며 거리로 나섰습니다.",
-                "script": "아이들의 수업권이 위협받고 있습니다. 알버타주 교사들이 대규모 파업에 돌입하면서 교육 현장이 마비되었습니다. 연봉 인상과 교실 환경 개선, 과연 합의점을 찾을 수 있을까요?",
-                "sentiment": "neutral"
+                "mentions": 90,
+                "sources": 8,
+                "goldstein": -0.4,
+                "tone": -4.54049699448473,
+                "score": 126.0
             },
             {
-                "record_id": "1329999524",
-                "url": "https://calgarysun.com/news/politics/labour-allies-rally-against-federal-government-plan-possible-airport-privatization",
+                "record_id": "1330066249",
+                "url": "https://www.oz-online.de/artikel/1698463/Gericht-Zschaepe-soll-bis-mindestens-2035-in-Haft-bleiben",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 8,
+                "goldstein": -4.0,
+                "tone": -10.4206819161986,
+                "score": 68.0,
+                "keyword": "극우 테러범 구속",
+                "hook": "독일 법원이 극우 테러범의 수감 기간을 2035년까지 연장하며 강경 대응에 나섰습니다.",
+                "script": "악명 높은 극우 테러리스트 츠셰페, 법의 심판은 끝나지 않았습니다. 독일 법원은 최소 2035년까지 그녀를 감옥에 가두기로 결정했습니다. 사회적 경각심을 일깨우는 단호한 판결, 그 배경을 전합니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330032055",
+                "url": "http://www.tz.de/auto/tausende-vw-mitarbeiter-sollen-in-transfergesellschaft-wechseln-zr-94559582.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 3.0,
+                "tone": -2.2034568401845,
+                "score": 50.0
+            }
+        ],
+        "last_updated": "2026-10-28 21:46:49 KST",
+        "current_rank": 6
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 229.0,
+        "trends": [
+            {
+                "record_id": "1330260490",
+                "url": "https://nomad.su/?a=3-202610280032",
+                "related_urls": [],
+                "title": "",
+                "mentions": 130,
+                "sources": 1,
+                "goldstein": 8.0,
+                "tone": -0.0826058615730798,
+                "score": 107.0
+            },
+            {
+                "record_id": "1330230041",
+                "url": "https://3dprint.com/335249/how-am-funding-shifted-in-china-and-the-us-2021-2025/",
                 "related_urls": [],
                 "title": "",
                 "mentions": 50,
                 "sources": 1,
-                "goldstein": 3.0,
-                "tone": 1.67992823359279,
-                "score": 42.0,
-                "keyword": "공항 민영화 반대",
-                "hook": "정부의 공항 민영화 계획에 노동계가 분노하며 거센 반대 집회를 열었습니다.",
-                "script": "캐나다 공항 민영화, 과연 누구를 위한 것일까요? 정부의 계획에 맞서 노동조합과 시민단체가 강력한 저항을 예고했습니다. 공공 서비스의 민영화를 둘러싼 거대한 논쟁, 지금 시작됩니다.",
+                "goldstein": 7.4,
+                "tone": 1.26249342451341,
+                "score": 64.0,
+                "keyword": "적층제조 투자 변화",
+                "hook": "미국과 중국의 3D 프린팅 기술 패권 전쟁이 자금 흐름을 바꾸고 있습니다.",
+                "script": "기술의 미래, 3D 프린팅 시장의 돈줄이 요동칩니다. 지난 5년간 미국과 중국 사이에서 벌어진 치열한 투자 이동. 누가 차세대 제조 강국이 될 것인가, 그 경제적 분석을 지금 확인하십시오.",
                 "sentiment": "positive"
             },
             {
-                "record_id": "1330094684",
-                "url": "https://www.owensoundsuntimes.com/press-releases/globe-newswire/fatboys-holiday-gift-guide-2026-design-forward-gifts-that-bring-joy-to-every-home/",
+                "record_id": "1330058036",
+                "url": "http://www.hna.de/verbraucher/nach-200-millionen-euro-strafe-eu-billigt-temu-aktionsplan-zr-94560187.html",
                 "related_urls": [],
                 "title": "",
-                "mentions": 40,
+                "mentions": 50,
                 "sources": 4,
-                "goldstein": -2.0,
-                "tone": 12.9663742690058,
-                "score": 38.0,
-                "keyword": "연말 선물 가이드",
-                "hook": "올해 연말, 사랑하는 가족을 위한 완벽한 선물을 찾고 계신가요?",
-                "script": "디자인과 실용성을 동시에 잡은 2026년 홀리데이 선물 가이드가 공개되었습니다. 이번 연말, 우리 집을 더욱 특별하게 만들어줄 아이템들만 모았습니다. 선물 고민은 이제 여기서 끝내세요.",
-                "sentiment": "positive"
+                "goldstein": -5.0,
+                "tone": -1.48809523809523,
+                "score": 58.0
             }
         ],
-        "last_updated": "2026-10-28 14:35:35 KST",
+        "last_updated": "2026-10-28 21:46:49 KST",
         "current_rank": 7
     },
     "Italy": {
         "gdp_rank": 8,
-        "spike_score": 141.5,
+        "spike_score": 189.5,
         "trends": [
             {
                 "record_id": "1330093167",
@@ -485,9 +415,9 @@
                 "goldstein": 2.8,
                 "tone": 3.06603773584905,
                 "score": 77.5,
-                "keyword": "호나우지뉴 복귀 열풍",
-                "hook": "전설의 귀환! 호나우지뉴가 이탈리아 클럽에서 다시 공을 잡자 암표 시장까지 들썩입니다.",
-                "script": "전설이 돌아옵니다. 호나우지뉴의 복귀 소식에 이탈리아 축구계가 마비될 지경입니다. 경기장 입장을 위한 티켓 전쟁은 물론, 팬들의 열기는 이미 최고조에 달했습니다. 다시 보는 마법 같은 플레이, 지금 시작됩니다.",
+                "keyword": "호나우지뉴 이탈리아 복귀",
+                "hook": "축구 전설 호나우지뉴의 깜짝 복귀 소식에 이탈리아 축구계가 마비되었습니다.",
+                "script": "축구의 신 호나우지뉴가 이탈리아 클럽으로 돌아옵니다. 이 소식이 전해지자마자 티켓 예매 사이트는 폭주했고 팬들의 열기는 뜨겁습니다. 과연 그는 과거의 영광을 재현할 수 있을까요? 축구계의 거대한 움직임이 시작됐습니다.",
                 "sentiment": "positive"
             },
             {
@@ -499,15 +429,137 @@
                 "sources": 1,
                 "goldstein": 6.4,
                 "tone": -0.12239902080784,
-                "score": 64.0,
-                "keyword": "피자 가격 역설",
-                "hook": "왜 자그레브의 피자가 본고장 이탈리아보다 두 배나 비싼 걸까요?",
-                "script": "이탈리아 피자보다 비싼 자그레브 피자, 그 이유가 무엇일까요? 물가 상승인지 거품인지, 현지인들도 납득할 수 없는 가격 논란이 뜨겁습니다. 우리가 몰랐던 외식 물가의 불편한 진실을 파헤쳐 봅니다.",
-                "sentiment": "negative"
+                "score": 64.0
+            },
+            {
+                "record_id": "1330229612",
+                "url": "https://www.kathimerini.gr/istoria/564543196/to-paraskinio-toy-ochi-osa-apokalypse-o-metaxas-stoys-dimosiografoys-gia-tin-apofasi-toy-na-aporripsei-to-italiko-telesigrafo/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 52,
+                "sources": 1,
+                "goldstein": -4.0,
+                "tone": -2.27272727272728,
+                "score": 48.0
             }
         ],
-        "last_updated": "2026-10-28 14:35:35 KST",
+        "last_updated": "2026-10-28 21:46:49 KST",
         "current_rank": 8
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 169.0,
+        "trends": [
+            {
+                "record_id": "1330230028",
+                "url": "https://indiankanoon.org/doc/23878511/",
+                "related_urls": [
+                    "https://indiankanoon.org/doc/179854053/"
+                ],
+                "title": "",
+                "mentions": 64,
+                "sources": 1,
+                "goldstein": 4.0,
+                "tone": -5.48913742126238,
+                "score": 102.0,
+                "keyword": "인도 법적 논란",
+                "hook": "인도 사법 체계의 근간을 흔드는 충격적인 법적 분쟁이 공개되었습니다.",
+                "script": "법의 이름으로 벌어지는 은밀한 공방. 인도 법원을 뒤흔든 이번 사건은 시민들의 공분을 사고 있습니다. 정의와 부패 사이, 복잡하게 얽힌 인도 사법의 실상을 긴급 점검합니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330020093",
+                "url": "https://www.legallyindia.com/convos/topic/500030-question-answer-time",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.70039675334755,
+                "score": 67.0
+            }
+        ],
+        "last_updated": "2026-10-28 21:46:49 KST",
+        "current_rank": 9
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 162.0,
+        "trends": [
+            {
+                "record_id": "1330267263",
+                "url": "https://www.yorkpress.co.uk/news/national/26676581.flavio-bolsonaro-flees-brazil-argentina-expected-land-miami/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 52,
+                "sources": 13,
+                "goldstein": 5.0,
+                "tone": -0.990099009900989,
+                "score": 77.0,
+                "keyword": "볼소나로 아들 도주",
+                "hook": "플라비오 볼소나로가 브라질을 떠나 마이애미로 향한다는 충격적인 정황이 포착되었습니다.",
+                "script": "플라비오 볼소나로가 브라질을 탈출했습니다. 아르헨티나를 거쳐 마이애미로 향할 것으로 예상되는 가운데, 그의 갑작스러운 출국 배경을 두고 정치권의 의혹이 증폭되고 있습니다. 브라질 정국이 다시 한번 소용돌이치고 있습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330100703",
+                "url": "http://www.fnp.de/politik/bolsonaro-raeumt-wahlniederlage-gegen-lula-in-brasilien-ein-zr-94560810.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 4,
+                "goldstein": 3.0,
+                "tone": -5.54821664464993,
+                "score": 48.0
+            },
+            {
+                "record_id": "1330111953",
+                "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/27/gesto-nazista-investigacao.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -4.18410041841003,
+                "score": 37.0
+            }
+        ],
+        "last_updated": "2026-10-28 21:46:49 KST",
+        "current_rank": 10
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 140.5,
+        "trends": [
+            {
+                "record_id": "1330193891",
+                "url": "https://calgarysun.com/news/alberta-teachers-association-strike-students-classrooms-teacher-salaries/wcm/0528b5e1-734f-45c1-b0c2-78634f53f5f8",
+                "related_urls": [],
+                "title": "",
+                "mentions": 71,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 0.433546434122149,
+                "score": 98.5,
+                "keyword": "앨버타 교사 파업",
+                "hook": "교실이 텅 비었습니다. 앨버타주 교사들이 연봉 협상 결렬로 전면 파업에 돌입했습니다.",
+                "script": "앨버타주 전역의 학교 문이 닫혔습니다. 교사 협회가 정부의 급여 안을 거부하며 거리로 쏟아져 나왔습니다. 학생들의 수업권이 심각하게 위협받는 가운데 해결책은 보이지 않고 있습니다. 사태의 향방을 지켜봐야 합니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1329999524",
+                "url": "https://calgarysun.com/news/politics/labour-allies-rally-against-federal-government-plan-possible-airport-privatization",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": 1.67992823359279,
+                "score": 42.0
+            }
+        ],
+        "last_updated": "2026-10-28 21:46:49 KST",
+        "current_rank": 11
     },
     "South Africa": {
         "gdp_rank": 19,
@@ -524,13 +576,47 @@
                 "tone": -1.1060507482108,
                 "score": 137.5,
                 "keyword": "식수 오염 비상",
-                "hook": "사람과 동물이 같은 강물을 마시는 충격적인 현장이 목격되었습니다.",
-                "script": "남아프리카의 한 마을이 생존 위기에 처했습니다. 깨끗한 물은 사라진 지 오래입니다. 아이들이 질병의 위험에 무방비로 노출되어 있습니다. 이 비극을 방치할 것입니까?",
-                "sentiment": "warning"
+                "hook": "사람과 짐승이 같은 강물을 마시는 비극이 벌어졌습니다.",
+                "script": "남아프리카공화국 우므슈와티 주민들의 식수원은 동물들과 공유하는 오염된 강물입니다. 2026년, 여전히 깨끗한 물 한 잔을 마시지 못하는 인간의 존엄성이 무너지고 있습니다. 당국의 관리 부실이 낳은 참혹한 현실을 고발합니다.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-28 14:35:35 KST",
-        "current_rank": 9
+        "last_updated": "2026-10-28 21:46:49 KST",
+        "current_rank": 12
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 131.0,
+        "trends": [
+            {
+                "record_id": "1330110252",
+                "url": "https://www.inewsgr.com/351/synechi-chtypimata-ton-chouthi-sti-saoudiki-aravia--sto-stochastro-to-ypourgeio-amynas-kai-megalo-diylistirio-petrelaiou.htm",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -10.0,
+                "tone": -3.46560442433793,
+                "score": 78.0,
+                "keyword": "사우디 정유시설 공격",
+                "hook": "중동의 심장부가 후티 반군의 타깃이 되었습니다.",
+                "script": "사우디아라비아의 핵심 국방부와 대형 정유시설이 후티 반군의 무차별 공격을 받았습니다. 글로벌 에너지 공급망이 붕괴될 위기입니다. 중동의 화약고가 다시 폭발했습니다. 세계 경제의 운명이 지금 이 순간, 불길에 휩싸였습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1330269598",
+                "url": "http://www.leadertelegram.com/news/nation-world/iran-hails-tehran-security-talks-as-a-step-toward-regional-dialogue-and-other-mideast-news/article_338c5f92-8e11-5e4c-a77b-1e4f97e08e30.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 6,
+                "goldstein": 3.4,
+                "tone": -2.94196203575319,
+                "score": 53.0
+            }
+        ],
+        "last_updated": "2026-10-28 21:46:49 KST",
+        "current_rank": 13
     },
     "Turkey": {
         "gdp_rank": 16,
@@ -545,11 +631,7 @@
                 "sources": 1,
                 "goldstein": 1.0,
                 "tone": 8.73786407766989,
-                "score": 74.0,
-                "keyword": "정치권 화합 신호",
-                "hook": "터키 정치권에서 예상치 못한 화해의 제스처가 포착되었습니다.",
-                "script": "앙숙 관계였던 두 인물이 전화기를 들었습니다. 대립하던 정계에 새로운 국면이 열릴까요? 이 한 통의 전화가 가져올 파장을 지금 분석합니다.",
-                "sentiment": "positive"
+                "score": 74.0
             },
             {
                 "record_id": "1330061893",
@@ -561,14 +643,14 @@
                 "goldstein": -2.0,
                 "tone": -6.6532258064516,
                 "score": 52.0,
-                "keyword": "고용 시장 붕괴",
-                "hook": "터키 경제의 심장인 고용 시장이 멈춰 섰습니다.",
-                "script": "수백만 명이 일자리를 잃고 거리로 내몰리고 있습니다. 통계 뒤에 숨겨진 참혹한 현실을 보십시오. 생존을 위한 투쟁이 시작되었습니다. 지금 터키에서 벌어지는 일입니다.",
-                "sentiment": "warning"
+                "keyword": "실업 대란 심화",
+                "hook": "수백만 명의 삶이 벼랑 끝으로 내몰리고 있습니다.",
+                "script": "터키의 실업난이 임계점을 넘었습니다. 일자리를 잃은 수백만 명이 경제적 파탄의 공포에 떨고 있습니다. 통계 수치 뒤에 숨겨진 잔혹한 현실, 지금 터키의 경제 시계는 멈춰 서기 직전입니다. 당신의 일자리는 안전합니까?",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-28 14:35:35 KST",
-        "current_rank": 10
+        "last_updated": "2026-10-28 21:46:49 KST",
+        "current_rank": 14
     },
     "Mexico": {
         "gdp_rank": 12,
@@ -583,11 +665,7 @@
                 "sources": 1,
                 "goldstein": 0.0,
                 "tone": -3.54895945239206,
-                "score": 74.0,
-                "keyword": "차량 전복 사고",
-                "hook": "도로 위에서 픽업트럭이 뒤집히는 끔찍한 사고가 발생했습니다.",
-                "script": "멕시코 알마다 페리페리코 도로, 픽업트럭이 전복되는 사고가 발생했습니다. 탑승자들은 다행히 경상을 입었지만 사고 현장은 아수라장이었습니다. 운전자의 부주의가 부른 아찔한 순간, 영상으로 확인하세요.",
-                "sentiment": "negative"
+                "score": 74.0
             },
             {
                 "record_id": "1330137821",
@@ -599,98 +677,60 @@
                 "goldstein": -2.0,
                 "tone": -3.09808785147067,
                 "score": 37.0,
-                "keyword": "마약 제조실 적발",
-                "hook": "멕시코 쿨리아칸에서 대규모 마약 제조 시설이 당국에 의해 완전히 파괴됐습니다.",
-                "script": "100kg이 넘는 마약과 제조 장비가 쏟아져 나왔습니다. 멕시코 당국이 쿨리아칸의 은밀한 마약 제조실을 급습해 완전히 해체했습니다. 카르텔의 자금줄을 끊어내기 위한 대대적인 작전 현장입니다.",
+                "keyword": "마약 실험실 적발",
+                "hook": "쿨리아칸 중심부에서 대규모 마약 제조 시설이 당국에 의해 급습당했습니다.",
+                "script": "멕시코 쿨리아칸에서 대규모 마약 제조 실험실이 적발됐습니다. 현장에서 압수된 마약만 100킬로그램, 범죄 조직의 치밀한 범행 현장이 낱낱이 드러났습니다. 멕시코 치안 불안이 다시 한번 도마 위에 올랐습니다.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-28 14:35:35 KST",
-        "current_rank": 11
+        "last_updated": "2026-10-28 21:46:49 KST",
+        "current_rank": 15
     },
-    "Brazil": {
-        "gdp_rank": 9,
-        "spike_score": 85.0,
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 87.0,
         "trends": [
             {
-                "record_id": "1330100703",
-                "url": "http://www.fnp.de/politik/bolsonaro-raeumt-wahlniederlage-gegen-lula-in-brasilien-ein-zr-94560810.html",
+                "record_id": "1330257654",
+                "url": "https://www.thenorthernecho.co.uk/news/national/26676412.ceasefire-devastated-ukrainian-city-holds-first-30-hours-officials-say/",
                 "related_urls": [],
                 "title": "",
-                "mentions": 50,
-                "sources": 4,
-                "goldstein": 3.0,
-                "tone": -5.54821664464993,
-                "score": 48.0,
-                "keyword": "볼소나루 패배 인정",
-                "hook": "브라질 대선이 마침내 끝났습니다. 볼소나루가 루라에게 패배를 인정하며 정권 교체가 확정됐습니다.",
-                "script": "브라질 정치사의 거대한 변곡점입니다. 자이르 볼소나루 전 대통령이 루라 당선인에게 패배를 공식 인정했습니다. 혼돈의 대선 정국이 정리되면서 브라질의 새로운 시대가 열리고 있습니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1330111953",
-                "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/27/gesto-nazista-investigacao.ghtml",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 1,
-                "goldstein": -2.0,
-                "tone": -4.18410041841003,
-                "score": 37.0,
-                "keyword": "나치 경례 파문",
-                "hook": "브라질 리우데자네이루에서 발생한 나치 경례 사건이 전국을 충격에 빠뜨렸습니다.",
-                "script": "용납할 수 없는 역사의 악몽이 브라질에서 재현됐습니다. 리우데자네이루에서 포착된 나치 경례 사건, 당국이 즉각 수사에 착수했습니다. 증오 범죄에 대한 브라질 사회의 분노가 들끓고 있습니다.",
-                "sentiment": "negative"
+                "mentions": 84,
+                "sources": 14,
+                "goldstein": 3.4,
+                "tone": -4.86725663716815,
+                "score": 87.0,
+                "keyword": "우크라이나 휴전 유지",
+                "hook": "폐허가 된 도시에서 기적 같은 30시간의 침묵이 흐르고 있습니다.",
+                "script": "전쟁으로 초토화된 우크라이나의 한 도시가 30시간째 휴전을 유지하고 있습니다. 극적인 긴장 속에서 총성은 멈췄지만, 평화가 지속될지는 미지수입니다. 국제 사회는 이 짧은 평화의 시간을 숨죽여 지켜보고 있습니다.",
+                "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-28 14:35:35 KST",
-        "current_rank": 12
+        "last_updated": "2026-10-28 21:46:49 KST",
+        "current_rank": 16
     },
-    "India": {
-        "gdp_rank": 5,
-        "spike_score": 67.0,
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 66.0,
         "trends": [
             {
-                "record_id": "1330020093",
-                "url": "https://www.legallyindia.com/convos/topic/500030-question-answer-time",
+                "record_id": "1330268093",
+                "url": "https://www.yorkpress.co.uk/news/national/26676581.flavio-bolsonaro-flees-brazil-argentina-expected-land-miami/",
                 "related_urls": [],
                 "title": "",
-                "mentions": 80,
-                "sources": 1,
-                "goldstein": -5.0,
-                "tone": 2.70039675334755,
-                "score": 67.0,
-                "keyword": "법률 질의 응답",
-                "hook": "인도의 법조계가 뜨거운 법률적 쟁점 해결을 위해 머리를 맞대고 있습니다.",
-                "script": "법률적 난제들을 해결하기 위한 전문가들의 집중 토론이 시작됐습니다. 인도 사법 체계의 미래를 결정지을 핵심 질문들, 과연 어떤 해답이 제시될까요? 법조계의 이목이 집중되고 있습니다.",
-                "sentiment": "neutral"
-            }
-        ],
-        "last_updated": "2026-10-28 14:35:35 KST",
-        "current_rank": 13
-    },
-    "China": {
-        "gdp_rank": 2,
-        "spike_score": 58.0,
-        "trends": [
-            {
-                "record_id": "1330058036",
-                "url": "http://www.hna.de/verbraucher/nach-200-millionen-euro-strafe-eu-billigt-temu-aktionsplan-zr-94560187.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 4,
-                "goldstein": -5.0,
-                "tone": -1.48809523809523,
-                "score": 58.0,
-                "keyword": "테무 벌금 부과",
-                "hook": "유럽연합이 거액의 벌금을 맞은 테무의 불법 행위에 제동을 걸었습니다.",
-                "script": "2억 유로라는 천문학적 벌금을 낸 테무, 하지만 유럽연합은 여기서 멈추지 않았습니다. 이제 테무의 모든 활동은 EU의 강도 높은 감시 아래 놓이게 됩니다. 과연 이 제재가 온라인 쇼핑 판도를 바꿀까요?",
+                "mentions": 52,
+                "sources": 13,
+                "goldstein": 2.8,
+                "tone": -0.990099009900989,
+                "score": 66.0,
+                "keyword": "정치 망명 급박",
+                "hook": "남미의 거물 정치인이 급히 국경을 넘었습니다.",
+                "script": "브라질의 플라비오 볼소나로가 아르헨티나를 거쳐 마이애미로 도주했습니다. 정치적 위기가 최고조에 달한 상황에서 벌어진 전격적인 탈출입니다. 남미 정가가 발칵 뒤집혔습니다. 과연 그는 왜 서둘러 망명을 택했을까요?",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-28 14:35:35 KST",
-        "current_rank": 14
+        "last_updated": "2026-10-28 21:46:49 KST",
+        "current_rank": 17
     },
     "Japan": {
         "gdp_rank": 4,
@@ -706,13 +746,13 @@
                 "goldstein": 0.0,
                 "tone": -4.48343079922027,
                 "score": 29.0,
-                "keyword": "일본 외교 긴장",
-                "hook": "급변하는 국제 정세 속에서 일본의 외교 전략이 시험대에 올랐습니다.",
-                "script": "글로벌 뉴스 분석 결과, 일본의 대외 관계가 심상치 않습니다. 복잡한 국제 이해관계 속에서 일본 정부의 대응이 도마 위에 올랐습니다. 향후 동북아 정세에 미칠 영향이 주목됩니다.",
+                "keyword": "일본 외교 갈등",
+                "hook": "동북아시아의 긴장감이 고조되는 가운데 일본의 외교적 입지가 좁아지고 있습니다.",
+                "script": "주변국과의 마찰이 임계점에 도달했습니다. 일본을 향한 강도 높은 비판과 외교적 고립, 그 중심에 선 갈등의 원인을 분석합니다. 한 치 앞을 알 수 없는 동북아 정세, 지금 바로 확인하십시오.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-28 14:35:35 KST",
-        "current_rank": 15
+        "last_updated": "2026-10-28 21:46:49 KST",
+        "current_rank": 18
     }
 }
