@@ -25,11 +25,7 @@
                 "sources": 10,
                 "goldstein": -2.0,
                 "tone": -2.86260428689031,
-                "score": 323.0,
-                "keyword": "알래스카 상원 격랑",
-                "hook": "알래스카 상원 선거 판도를 뒤흔들 희대의 스포일러 후보 논란이 터졌습니다.",
-                "script": "알래스카 상원 선거가 충격적인 폭로로 마비됐습니다. 특정 후보의 출마가 선거 결과를 조작하기 위한 '스포일러 작전'이라는 의혹이 제기됐습니다. 유권자들의 분노가 극에 달한 가운데, 과연 누가 이 혼란의 배후인지 끝까지 지켜봐야 합니다.",
-                "sentiment": "negative"
+                "score": 323.0
             },
             {
                 "record_id": "1330566073",
@@ -56,10 +52,10 @@
                 "goldstein": 7.0,
                 "tone": 5.3061224489796,
                 "score": 269.0,
-                "keyword": "전설의 별 지다",
-                "hook": "스타트렉과 엑스맨의 얼굴, 명배우 패트릭 스튜어트가 86세의 나이로 우리 곁을 떠났습니다.",
-                "script": "은하계를 누비던 캡틴 피카드, 이제 그는 역사 속으로 사라집니다. 연기 인생 86년, 수많은 명작을 남긴 전설적인 배우 패트릭 스튜어트가 별세했습니다. 전 세계 팬들이 슬픔에 잠긴 지금, 그가 남긴 위대한 유산을 다시 기억합니다.",
-                "sentiment": "neutral"
+                "keyword": "전설적 배우 별세",
+                "hook": "할리우드의 영원한 별, 패트릭 스튜어트가 86세의 나이로 우리 곁을 떠났습니다.",
+                "script": "스타트렉의 피카드 함장, 엑스맨의 프로페서 X. 패트릭 스튜어트가 세상을 떠났습니다. 수많은 이들에게 영감을 준 그의 연기 인생은 이제 역사 속으로 남습니다. 전 세계 팬들의 추모 물결이 이어지고 있습니다.",
+                "sentiment": "positive"
             },
             {
                 "record_id": "1330393697",
@@ -70,14 +66,10 @@
                 "sources": 8,
                 "goldstein": -5.0,
                 "tone": -2.9673590504451,
-                "score": 233.0,
-                "keyword": "요양원 학대 적발",
-                "hook": "뉴욕 성인 주간 보호시설에서 충격적인 학대 정황이 포착되어 메디케이드 조사가 강화됩니다.",
-                "script": "가장 안전해야 할 곳이 지옥으로 변했습니다. 뉴욕의 한 성인 보호시설에서 노인들을 향한 끔찍한 학대 행위가 드러나며 보건 당국이 칼을 빼 들었습니다. 메디케이드 부정 수급과 학대 의혹, 지금 당신의 가족은 안전합니까?",
-                "sentiment": "warning"
+                "score": 233.0
             }
         ],
-        "last_updated": "2026-10-31 02:59:17 KST",
+        "last_updated": "2026-10-31 07:15:42 KST",
         "current_rank": 1
     },
     "United Kingdom": {
@@ -94,9 +86,9 @@
                 "goldstein": -10.0,
                 "tone": -9.39153439153436,
                 "score": 480.0,
-                "keyword": "총격범 구속 수감",
-                "hook": "영국을 뒤흔든 분파 간 총격전, 핵심 용의자가 구속되며 수사가 급물살을 타고 있습니다.",
-                "script": "평온한 영국 거리에 울린 총성. 분파 간 갈등이 유혈 사태로 번진 이번 사건의 피의자가 결국 구속됐습니다. 보복의 악순환을 끊어낼 수 있을지, 영국 경찰의 수사 결과에 관심이 쏠립니다.",
+                "keyword": "총격 사건 발생",
+                "hook": "영국 도심 한복판에서 벌어진 잔혹한 총격전, 용의자가 결국 붙잡혔습니다.",
+                "script": "분파 간 갈등이 결국 유혈 사태로 번졌습니다. 영국 경찰은 총격 사건의 핵심 용의자를 체포해 구금 중이라고 밝혔습니다. 평온했던 거리는 공포에 휩싸였고, 치안 대책에 비상이 걸렸습니다.",
                 "sentiment": "negative"
             },
             {
@@ -132,11 +124,7 @@
                 "sources": 10,
                 "goldstein": 4.0,
                 "tone": 1.76791456132292,
-                "score": 190.0,
-                "keyword": "아스트라제네카 감원",
-                "hook": "제약 거인 아스트라제네카가 11억 파운드 규모의 대규모 비용 절감안을 발표했습니다.",
-                "script": "글로벌 제약사 아스트라제네카가 생존을 위한 고강도 구조조정에 나섭니다. 연간 11억 파운드를 절감하겠다는 대규모 감원 계획이 발표되면서 제약 업계 전체가 술렁이고 있습니다.",
-                "sentiment": "negative"
+                "score": 190.0
             },
             {
                 "record_id": "1330692879",
@@ -150,7 +138,7 @@
                 "score": 181.0
             }
         ],
-        "last_updated": "2026-10-31 02:59:17 KST",
+        "last_updated": "2026-10-31 07:15:42 KST",
         "current_rank": 2
     },
     "South Korea": {
@@ -169,13 +157,13 @@
                 "goldstein": 7.4,
                 "tone": -3.18764329945117,
                 "score": 999.5,
-                "keyword": "국내 경제 위기",
-                "hook": "대한민국 경제에 붉은 경고등이 켜지며 실물 경제가 급격히 얼어붙고 있습니다.",
-                "script": "대한민국 경제 지표가 심상치 않습니다. 주요 산업의 생산성 저하와 소비 심리 위축이 동시에 나타나며 위기감이 최고조에 달했습니다. 전문가들은 지금의 하락세를 멈추지 못할 경우 장기 침체로 이어질 수 있다고 경고합니다. 당신의 지갑은 안전합니까? 지금 즉시 경제 상황을 점검해야 합니다.",
+                "keyword": "국가 경제 위기",
+                "hook": "대한민국 경제에 붉은 경고등이 켜졌습니다.",
+                "script": "대한민국 경제 지표가 급격히 무너지고 있습니다. 전문가들은 지금의 하락세가 단순한 일시적 현상이 아니라고 경고합니다. 물가는 치솟고 가계 부채는 한계치에 도달했습니다. 우리 경제의 미래, 과연 어디로 향하고 있을까요? 지금 즉시 대응이 필요합니다.",
                 "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-31 02:59:17 KST",
+        "last_updated": "2026-10-31 07:15:42 KST",
         "current_rank": 3
     },
     "Australia": {
@@ -214,10 +202,10 @@
                 "goldstein": -10.0,
                 "tone": -2.99575709513671,
                 "score": 198.0,
-                "keyword": "엽기 살인 재판",
-                "hook": "아내를 살해한 뒤 시신 앞에서 엽기적인 행각을 벌인 남성의 재판이 호주 사회를 경악케 했습니다.",
-                "script": "호주 법정에서 상상조차 하기 힘든 끔찍한 살인 사건의 전말이 공개됐습니다. 피고인은 아내를 살해한 후 시신에 입을 맞추고 대화를 나누는 등 엽기적인 행동을 서슴지 않았습니다. 법정 내부는 침묵에 잠겼고, 범행의 잔혹함에 시민들은 큰 충격과 공포에 빠져 있습니다.",
-                "sentiment": "negative"
+                "keyword": "살인 사건 재판",
+                "hook": "아내를 살해한 혐의를 받는 남성이 범행 후 시신과 대화했다는 끔찍한 사실이 드러났습니다.",
+                "script": "호주 법정을 경악하게 만든 살인 사건입니다. 피고인은 아내를 살해한 뒤 시신에 입을 맞추고 말을 거는 등 이해할 수 없는 행동을 보였습니다. 인간의 광기가 어디까지 갈 수 있는지, 충격적인 재판 현장을 전합니다.",
+                "sentiment": "warning"
             },
             {
                 "record_id": "1330570703",
@@ -242,12 +230,12 @@
                 "score": 107.5
             }
         ],
-        "last_updated": "2026-10-31 02:59:17 KST",
+        "last_updated": "2026-10-31 07:15:42 KST",
         "current_rank": 4
     },
     "France": {
         "gdp_rank": 7,
-        "spike_score": 797.5,
+        "spike_score": 752.5,
         "trends": [
             {
                 "record_id": "1330707426",
@@ -259,9 +247,9 @@
                 "goldstein": -9.0,
                 "tone": -2.46710526315791,
                 "score": 633.5,
-                "keyword": "난민 보트 위협",
-                "hook": "프랑스 해안에서 흉기를 든 남성이 영국행 난민 보트를 습격하는 초유의 사태가 발생했습니다.",
-                "script": "프랑스 북부 해안, 영국으로 향하던 난민 보트에 무장 괴한이 난입했습니다. 흉기를 휘두르며 공포를 조장한 남성으로 인해 현장은 순식간에 아수라장이 됐습니다. 당국은 즉각 수사에 착수했지만, 밀입국 루트를 노린 범죄가 갈수록 대담해지고 있어 시민들의 불안감이 최고조에 달하고 있습니다.",
+                "keyword": "흉기 난동 발생",
+                "hook": "영국행 밀입국 보트에 흉기를 든 남성이 난입해 탑승객들을 위협하는 아찔한 상황이 포착됐습니다.",
+                "script": "프랑스 해안, 영국으로 향하던 소형 보트에 흉기를 든 괴한이 들이닥쳤습니다. 보트에 탄 이주민들은 공포에 질려 도망칠 곳도 없는 바다 한가운데에 고립됐습니다. 대체 왜 이런 범죄가 벌어진 걸까요? 지금 즉시 현장 상황을 확인하십시오.",
                 "sentiment": "warning"
             },
             {
@@ -285,21 +273,66 @@
                 "goldstein": 4.0,
                 "tone": 0.10729613733905,
                 "score": 57.0
+            }
+        ],
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 5
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 343.0,
+        "trends": [
+            {
+                "record_id": "1330635357",
+                "url": "http://www.schwaebische-post.de/welt/politik/trump-aussenpolitik-19-milliarden-dollar-kosten-laut-bericht-zr-94565898.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 6,
+                "goldstein": 8.0,
+                "tone": -2.6713500044887,
+                "score": 149.0
             },
             {
-                "record_id": "1330671029",
-                "url": "https://www.az-online.de/welt/internationale-umfrage-mehrheit-erwartet-kontakt-mit-ausserirdischen-zr-94565645.html",
+                "record_id": "1330723681",
+                "url": "https://www.swindonadvertiser.co.uk/news/national/26683813.evacuated-oleshky-residents-begin-long-journey-russian-occupied-region/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 76,
+                "sources": 12,
+                "goldstein": 4.0,
+                "tone": -2.88378510805141,
+                "score": 82.0,
+                "keyword": "올레시키 주민 탈출",
+                "hook": "러시아 점령지 올레시키에서 긴급 탈출한 주민들의 고통스러운 피난길이 시작되었습니다.",
+                "script": "전쟁터로 변한 올레시키를 떠나는 주민들의 행렬이 끊이지 않고 있습니다. 러시아군 점령 하의 척박한 삶을 뒤로하고, 언제 끝날지 모르는 긴 피난길에 오른 이들의 절박한 심정을 전합니다. 지금 이 순간에도 이어지는 비극을 주목하십시오.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330625117",
+                "url": "https://www.hna.de/wirtschaft/trump-putin-deal-russischer-diesel-auf-dem-weg-in-die-usa-zr-94565681.html",
                 "related_urls": [],
                 "title": "",
                 "mentions": 50,
                 "sources": 5,
+                "goldstein": -5.0,
+                "tone": -1.54109589041096,
+                "score": 60.0
+            },
+            {
+                "record_id": "1330411645",
+                "url": "https://energyland.info/news-show--atom-288753",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
                 "goldstein": -2.0,
-                "tone": -0.892326558490959,
-                "score": 45.0
+                "tone": -1.0179129732612,
+                "score": 52.0
             }
         ],
-        "last_updated": "2026-10-31 02:59:17 KST",
-        "current_rank": 5
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 6
     },
     "Canada": {
         "gdp_rank": 10,
@@ -338,8 +371,8 @@
                 "tone": -1.86332351905374,
                 "score": 62.0,
                 "keyword": "러셀 브랜드 재판",
-                "hook": "전 세계를 충격에 빠뜨린 러셀 브랜드의 성폭행 재판, 아내가 법정에서 밝힌 진실은 무엇일까요?",
-                "script": "유명 방송인 러셀 브랜드의 성폭행 재판이 새로운 국면을 맞았습니다. 법정에 선 아내는 그가 평소 단조로운 결혼 생활을 견디기 힘들어했다고 증언하며, 재판의 핵심 증거들이 공개됐습니다. 화려한 스포트라이트 뒤에 숨겨진 추악한 민낯이 드러나며 대중의 분노가 걷잡을 수 없이 커지고 있습니다.",
+                "hook": "성폭행 혐의로 재판을 받는 러셀 브랜드의 충격적인 법정 증언이 공개되었습니다.",
+                "script": "유명인 러셀 브랜드의 성폭행 재판이 새로운 국면을 맞았습니다. 그의 아내가 법정에 출석해 부부 관계의 어두운 이면을 폭로하며 증언석을 눈물바다로 만들었습니다. 과연 그에게 어떤 진실이 숨겨져 있을까요?",
                 "sentiment": "negative"
             },
             {
@@ -365,12 +398,12 @@
                 "score": 56.0
             }
         ],
-        "last_updated": "2026-10-31 02:59:17 KST",
-        "current_rank": 6
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 7
     },
     "Germany": {
         "gdp_rank": 3,
-        "spike_score": 271.0,
+        "spike_score": 298.0,
         "trends": [
             {
                 "record_id": "1330472786",
@@ -384,6 +417,17 @@
                 "score": 70.0
             },
             {
+                "record_id": "1330414614",
+                "url": "https://www.rhein-zeitung.de/deutschland-welt/politik/gen-z-regelt-was-vom-protest-samstag-zu-erwarten-ist_arid-4166024.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -5.8,
+                "tone": -3.48755625318737,
+                "score": 64.0
+            },
+            {
                 "record_id": "1330491111",
                 "url": "https://www.news.de/panorama/860141956/zugunglueck-welche-rolle-spielt-das-sicherungssystem-unfall-news-der-dpa-aktuell-zu-notfall-bahn-und-verkehr/1/",
                 "related_urls": [],
@@ -393,9 +437,9 @@
                 "goldstein": -2.0,
                 "tone": -4.14849271153898,
                 "score": 59.0,
-                "keyword": "열차 사고 비극",
-                "hook": "독일 열차 사고 현장에서 안전 시스템의 치명적인 결함이 드러나며 수사망이 좁혀지고 있습니다.",
-                "script": "멈추지 못한 열차, 그리고 끔찍한 충돌. 독일 열차 사고의 원인이 안전 시스템 오류로 지목됐습니다. 왜 사고를 막지 못했나? 당국의 조사 결과에 따라 수많은 생명이 오간 책임 소재가 가려질 예정입니다.",
+                "keyword": "열차 사고 조사",
+                "hook": "독일 전역을 충격에 빠뜨린 열차 사고, 안전 시스템에 치명적인 결함이 있었나?",
+                "script": "독일의 철도 안전망이 뚫렸습니다. 사고 당시 열차의 자동 정지 시스템이 제대로 작동하지 않았다는 의혹이 제기되면서, 당국이 긴급 조사에 착수했습니다. 시민들의 불안은 극에 달하고 있습니다.",
                 "sentiment": "warning"
             },
             {
@@ -419,70 +463,48 @@
                 "goldstein": 3.4,
                 "tone": -0.393540084242231,
                 "score": 51.0
-            },
-            {
-                "record_id": "1330414658",
-                "url": "https://www.rhein-zeitung.de/deutschland-welt/politik/gen-z-regelt-was-vom-protest-samstag-zu-erwarten-ist_arid-4166024.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 5,
-                "goldstein": -0.4,
-                "tone": -3.48755625318737,
-                "score": 37.0,
-                "keyword": "Z세대 시위 예고",
-                "hook": "이번 주말, 베를린 거리가 Z세대의 분노로 뒤덮일 예정입니다.",
-                "script": "기성세대에 던지는 강력한 경고장. Z세대가 거리로 나옵니다. 이번 주말, 베를린에서 대규모 시위가 예고되면서 도시 전체에 긴장감이 감돌고 있습니다. 그들이 요구하는 변화는 무엇인가?",
-                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-31 02:59:17 KST",
-        "current_rank": 7
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 8
     },
-    "Russia": {
-        "gdp_rank": 11,
-        "spike_score": 261.0,
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 265.0,
         "trends": [
             {
-                "record_id": "1330635357",
-                "url": "http://www.schwaebische-post.de/welt/politik/trump-aussenpolitik-19-milliarden-dollar-kosten-laut-bericht-zr-94565898.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 70,
-                "sources": 6,
-                "goldstein": 8.0,
-                "tone": -2.6713500044887,
-                "score": 149.0,
-                "keyword": "트럼프 외교 비용",
-                "hook": "트럼프의 외교 정책에 무려 190억 달러라는 천문학적 비용이 소요된다는 충격적인 보고서가 나왔습니다.",
-                "script": "러시아 정계가 트럼프 전 대통령의 외교 행보에 따른 막대한 비용 문제를 정조준했습니다. 보고서에 따르면 관련 정책 유지에만 190억 달러가 투입될 것으로 예상되는데, 이는 국제 정세에 엄청난 파장을 예고합니다. 강대국 간의 복잡한 셈법 속에서 드러난 이 비용의 실체, 과연 누구를 위한 지출일까요?",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1330625117",
-                "url": "https://www.hna.de/wirtschaft/trump-putin-deal-russischer-diesel-auf-dem-weg-in-die-usa-zr-94565681.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 5,
-                "goldstein": -5.0,
-                "tone": -1.54109589041096,
-                "score": 60.0
-            },
-            {
-                "record_id": "1330411645",
-                "url": "https://energyland.info/news-show--atom-288753",
+                "record_id": "1330725751",
+                "url": "https://www.birgun.net/haber/akp-li-savci-sayan-dan-bddk-baskani-na-sorular-emre-tezmen-kardes-gel-birlikte-bir-kahve-icelim-dediniz-mi-743566%20class=slide-legend-link%20target=_blank",
                 "related_urls": [],
                 "title": "",
                 "mentions": 80,
                 "sources": 1,
-                "goldstein": -2.0,
-                "tone": -1.0179129732612,
-                "score": 52.0
+                "goldstein": 7.4,
+                "tone": -2.84090909090909,
+                "score": 141.0,
+                "keyword": "정치적 유착 의혹",
+                "hook": "터키 정계가 의문의 커피 회동으로 발칵 뒤집혔습니다.",
+                "script": "여당 인사의 충격적인 폭로가 터졌습니다. 금융 당국 수장과 나눈 은밀한 제안, 그 속에 숨겨진 검은 거래의 실체는 무엇일까요? 권력형 비리 의혹이 일파만파 번지며 터키 정국이 소용돌이치고 있습니다. 진실은 과연 무엇일까요?",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330531471",
+                "url": "https://fox23.com/news/nation-world/michigan-democrat-on-fiance-voting-for-republican-mike-rogers-were-a-household-divided-senate-nominee-abdul-el-sayed-jewish-ted-cruz-elissa-slotkin-rrt",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 4.0,
+                "tone": -3.19361277445108,
+                "score": 124.0,
+                "keyword": "정치적 갈등 심화",
+                "hook": "한 지붕 아래 두 정치색, 분열된 가정이 미국을 비춥니다.",
+                "script": "민주당 지지자인 약혼녀와 공화당 후보를 지지하는 약혼자. 미국 대선을 앞두고 갈라선 한 가정이 정치적 극단주의의 단면을 보여줍니다. 신념의 차이가 가족마저 갈라놓는 현실, 미국 사회의 갈등은 끝을 모르고 치닫고 있습니다.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-31 02:59:17 KST",
-        "current_rank": 8
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 9
     },
     "Mexico": {
         "gdp_rank": 12,
@@ -509,14 +531,14 @@
                 "goldstein": -2.0,
                 "tone": -2.92665753743011,
                 "score": 85.0,
-                "keyword": "선관위 비위 조사",
-                "hook": "멕시코 선거관리위원회가 내부 인사의 심각한 부정행위를 포착하고 대대적인 조사에 착수했습니다.",
-                "script": "멕시코 선관위가 과달루페를 포함한 핵심 인사들의 비위 의혹을 공식 조사합니다. 부정 선거 개입과 부적절한 행태가 꼬리에 꼬리를 물며 민주주의의 근간을 흔들고 있습니다. 신뢰를 잃어버린 선거 시스템, 과연 이번 조사로 썩은 환부를 도려낼 수 있을지 지켜봐야 합니다.",
+                "keyword": "부적절 행위 조사",
+                "hook": "멕시코 선거관리위원회(INE)가 과달루페의 위법 행위를 포착하고 강경 대응에 나섰습니다.",
+                "script": "멕시코 정치권이 또다시 부패 스캔들에 휩싸였습니다. INE는 과달루페의 부적절한 행동을 당국에 보고하기 위한 검토 작업에 착수했습니다. 과연 멕시코 정치의 민낯은 어디까지일까요? 지금 바로 확인하십시오.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-31 02:59:17 KST",
-        "current_rank": 9
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 10
     },
     "Brazil": {
         "gdp_rank": 9,
@@ -532,9 +554,9 @@
                 "goldstein": -10.0,
                 "tone": -13.373253493014,
                 "score": 97.0,
-                "keyword": "마약 카르텔 소탕",
-                "hook": "브라질 아크레주 전역을 뒤흔든 대규모 마약 조직 검거 작전이 시작되었습니다.",
-                "script": "브라질 경찰이 아크레주에서 대대적인 마약 소탕 작전을 벌였습니다. 정예 병력이 투입된 이번 작전으로 다수의 조직원이 체포됐고, 은닉된 거액의 마약 자금과 무기가 압수됐습니다. 도시를 병들게 했던 마약 카르텔의 뿌리를 뽑을 수 있을지 브라질 전역의 시선이 집중되고 있습니다.",
+                "keyword": "마약 조직 소탕",
+                "hook": "브라질 아크레주에서 대규모 마약 조직을 겨냥한 전격적인 체포 작전이 시작되었습니다.",
+                "script": "브라질 경찰이 마약 조직의 뿌리를 뽑기 위해 아크레주 전역을 덮쳤습니다. 수많은 체포 영장이 발부되었고, 범죄 조직원들은 속수무책으로 검거되고 있습니다. 브라질을 뒤흔든 이번 마약 소탕 작전의 내막을 지금 바로 공개합니다.",
                 "sentiment": "negative"
             },
             {
@@ -549,8 +571,8 @@
                 "score": 49.0
             }
         ],
-        "last_updated": "2026-10-31 02:59:17 KST",
-        "current_rank": 10
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 11
     },
     "Saudi Arabia": {
         "gdp_rank": 17,
@@ -566,14 +588,14 @@
                 "goldstein": 8.0,
                 "tone": 3.71287128712871,
                 "score": 144.0,
-                "keyword": "자원 산업 협력",
-                "hook": "사우디아라비아의 거대 광산 프로젝트가 글로벌 파트너십으로 새로운 도약을 시작합니다.",
-                "script": "사우디아라비아의 인산염 광산 산업이 거대한 변화를 맞이했습니다. 존 크레인과의 3년 대규모 독점 계약이 체결되면서 사우디의 자원 수출 전략에 청신호가 켜졌습니다. 이번 협력은 단순한 계약을 넘어 사우디 경제 다변화 비전 2030의 핵심 엔진이 될 전망입니다. 중동 자원 시장의 판도가 바뀌고 있습니다.",
+                "keyword": "광산업 거대 계약",
+                "hook": "사우디 광산업의 판도가 단번에 뒤바뀝니다.",
+                "script": "존 크레인이 사우디 인산염 채굴 시장의 거물과 3년 독점 계약을 체결했습니다. 이번 계약으로 사우디의 자원 수출 경쟁력은 폭발적인 성장을 예고합니다. 중동을 넘어 세계 광물 시장의 중심이 사우디로 옮겨오고 있습니다.",
                 "sentiment": "positive"
             }
         ],
-        "last_updated": "2026-10-31 02:59:17 KST",
-        "current_rank": 11
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 12
     },
     "China": {
         "gdp_rank": 2,
@@ -588,7 +610,11 @@
                 "sources": 1,
                 "goldstein": 1.0,
                 "tone": 4.4700793078587,
-                "score": 70.0
+                "score": 70.0,
+                "keyword": "중국 발전 성과",
+                "hook": "세계가 주목하는 중국의 놀라운 변화, 그 중심에 있는 새로운 발전 소식을 전합니다.",
+                "script": "중국이 새로운 국가적 목표를 향해 속도를 높이고 있습니다. 경제와 사회 전반에 걸친 변화가 가시화되면서 글로벌 영향력을 확대하고 있습니다. 과연 이 흐름이 세계 경제에 어떤 변수가 될까요?",
+                "sentiment": "positive"
             },
             {
                 "record_id": "1330666883",
@@ -599,37 +625,10 @@
                 "sources": 2,
                 "goldstein": 3.4,
                 "tone": -0.134680134680136,
-                "score": 54.0,
-                "keyword": "티베트 지진 참사",
-                "hook": "티베트 나취 지역을 강타한 지진으로 유치원까지 붕괴하며 긴급 이주가 시작되었습니다.",
-                "script": "평화롭던 티베트 나취가 지진의 공포에 휩싸였습니다. 아이들이 머물던 유치원이 무너져 내렸고, 수많은 주민이 삶의 터전을 잃고 긴급 대피했습니다. 자연재해가 할퀴고 간 상처, 복구 작업이 시급합니다.",
-                "sentiment": "negative"
+                "score": 54.0
             }
         ],
-        "last_updated": "2026-10-31 02:59:17 KST",
-        "current_rank": 12
-    },
-    "Turkey": {
-        "gdp_rank": 16,
-        "spike_score": 124.0,
-        "trends": [
-            {
-                "record_id": "1330531471",
-                "url": "https://fox23.com/news/nation-world/michigan-democrat-on-fiance-voting-for-republican-mike-rogers-were-a-household-divided-senate-nominee-abdul-el-sayed-jewish-ted-cruz-elissa-slotkin-rrt",
-                "related_urls": [],
-                "title": "",
-                "mentions": 60,
-                "sources": 6,
-                "goldstein": 4.0,
-                "tone": -3.19361277445108,
-                "score": 124.0,
-                "keyword": "정치적 분열 심화",
-                "hook": "가족조차 갈라놓은 극단적인 정치 갈등이 사회의 근간을 뒤흔들고 있습니다.",
-                "script": "정치적 신념이 가족의 대화마저 끊어놓았습니다. 최근 정치권의 극단적인 대립이 민간 영역까지 침투하며 갈등이 폭발하고 있습니다. 서로 다른 후보를 지지한다는 이유로 관계가 파탄 나는 사례가 속출하고 있습니다. 과연 우리는 다시 하나가 될 수 있을까요? 정치가 일상을 파괴하는 현장을 취재했습니다.",
-                "sentiment": "negative"
-            }
-        ],
-        "last_updated": "2026-10-31 02:59:17 KST",
+        "last_updated": "2026-10-31 07:15:42 KST",
         "current_rank": 13
     },
     "Japan": {
@@ -646,13 +645,13 @@
                 "goldstein": -2.0,
                 "tone": 1.10497237569061,
                 "score": 62.0,
-                "keyword": "일본 정세 변화",
-                "hook": "예측 불가능한 일본 정계, 새로운 국면을 맞이했습니다.",
-                "script": "일본 정국이 요동치고 있습니다. 정책 방향부터 지지율까지, 한 치 앞을 내다볼 수 없는 상황이 이어지며 주변국들의 시선이 집중됩니다. 과연 일본의 다음 행보는 무엇일까요?",
+                "keyword": "한일 관계 긴장",
+                "hook": "동북아의 정세가 다시 요동치고 있습니다. 일본 내에서 심상치 않은 기류가 감지됩니다.",
+                "script": "최근 일본의 외교적 행보가 한국을 포함한 주변국에 큰 파장을 일으키고 있습니다. 단순한 외교적 마찰을 넘어 경제와 안보 문제까지 번질 조짐입니다. 향후 대응책에 전 세계가 주목하고 있습니다.",
                 "sentiment": "neutral"
             }
         ],
-        "last_updated": "2026-10-31 02:59:17 KST",
+        "last_updated": "2026-10-31 07:15:42 KST",
         "current_rank": 14
     },
     "India": {
@@ -669,13 +668,13 @@
                 "goldstein": -5.0,
                 "tone": -2.4235935370839,
                 "score": 54.0,
-                "keyword": "인도 법적 공방",
-                "hook": "인도 사법부의 판결이 사회적 파장을 일으키며 긴급한 법적 논쟁을 촉발했습니다.",
-                "script": "법의 심판대 위에 오른 뜨거운 감자. 인도 법원이 내린 이번 판결이 사회 전반에 엄청난 충격을 주고 있습니다. 찬반 논란이 거세지는 가운데, 인도의 사법 시스템이 시험대에 올랐습니다.",
+                "keyword": "사법 체계 논란",
+                "hook": "인도의 사법 시스템이 거센 비판의 도마 위에 올랐습니다.",
+                "script": "판결의 공정성을 두고 인도 전역이 들끓고 있습니다. 복잡한 법적 쟁점 속에서 민심은 사법부를 향해 강한 불신을 드러내고 있습니다. 이번 사건이 인도 사회에 던진 충격은 매우 큽니다.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-31 02:59:17 KST",
+        "last_updated": "2026-10-31 07:15:42 KST",
         "current_rank": 15
     }
 }

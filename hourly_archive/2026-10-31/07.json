@@ -1,0 +1,680 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 1672.0,
+        "trends": [
+            {
+                "record_id": "1330424549",
+                "url": "https://indiankanoon.org/doc/184519156/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 390,
+                "sources": 1,
+                "goldstein": -0.4,
+                "tone": 0.663041686424524,
+                "score": 577.0
+            },
+            {
+                "record_id": "1330571245",
+                "url": "https://www.southcarolinapublicradio.org/news/2026-10-29/alaskas-all-important-senate-race-is-roiled-by-a-report-on-alleged-spoiler-candidate",
+                "related_urls": [
+                    "https://www.kpcw.org/npr-news/2026-10-29/alaskas-all-important-senate-race-is-roiled-by-a-report-on-alleged-spoiler-candidate"
+                ],
+                "title": "",
+                "mentions": 76,
+                "sources": 10,
+                "goldstein": -2.0,
+                "tone": -2.86260428689031,
+                "score": 323.0
+            },
+            {
+                "record_id": "1330566073",
+                "url": "https://wrko.iheart.com/content/2026-10-29-trump-to-campaign-in-florida-friday/",
+                "related_urls": [
+                    "https://wtkg.iheart.com/content/2026-10-29-trump-to-campaign-in-florida-friday/"
+                ],
+                "title": "",
+                "mentions": 54,
+                "sources": 1,
+                "goldstein": -6.5,
+                "tone": 0.396660858762878,
+                "score": 270.0
+            },
+            {
+                "record_id": "1330570665",
+                "url": "https://1190talkradio.iheart.com/content/2026-10-29-patrick-stewart-legendary-star-trek-x-men-actor-dies-at-86/",
+                "related_urls": [
+                    "https://thetwister.iheart.com/content/2026-10-29-patrick-stewart-legendary-star-trek-x-men-actor-dies-at-86/"
+                ],
+                "title": "",
+                "mentions": 210,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": 5.3061224489796,
+                "score": 269.0,
+                "keyword": "전설적 배우 별세",
+                "hook": "할리우드의 영원한 별, 패트릭 스튜어트가 86세의 나이로 우리 곁을 떠났습니다.",
+                "script": "스타트렉의 피카드 함장, 엑스맨의 프로페서 X. 패트릭 스튜어트가 세상을 떠났습니다. 수많은 이들에게 영감을 준 그의 연기 인생은 이제 역사 속으로 남습니다. 전 세계 팬들의 추모 물결이 이어지고 있습니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1330393697",
+                "url": "https://wjla.com/news/nation-world/dr-oz-cites-alleged-nyc-adult-day-care-abuses-as-cms-steps-up-medicaid-checks-medicare-new-york-minnesota",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 8,
+                "goldstein": -5.0,
+                "tone": -2.9673590504451,
+                "score": 233.0
+            }
+        ],
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 1
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 1265.0,
+        "trends": [
+            {
+                "record_id": "1330488104",
+                "url": "https://www.eveshamjournal.co.uk/news/national/26681577.man-remanded-custody-dissident-feud-shooting-charge/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 11,
+                "goldstein": -10.0,
+                "tone": -9.39153439153436,
+                "score": 480.0,
+                "keyword": "총격 사건 발생",
+                "hook": "영국 도심 한복판에서 벌어진 잔혹한 총격전, 용의자가 결국 붙잡혔습니다.",
+                "script": "분파 간 갈등이 결국 유혈 사태로 번졌습니다. 영국 경찰은 총격 사건의 핵심 용의자를 체포해 구금 중이라고 밝혔습니다. 평온했던 거리는 공포에 휩싸였고, 치안 대책에 비상이 걸렸습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330386374",
+                "url": "https://www.thurrockgazette.co.uk/news/national/26679574.budget-bold-enough-despite-limited-room-manoeuvre-andy-burnham-says/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 140,
+                "sources": 14,
+                "goldstein": 5.2,
+                "tone": -2.85692420328883,
+                "score": 208.0
+            },
+            {
+                "record_id": "1330681764",
+                "url": "https://www.dissexpress.co.uk/national/four-nations-must-move-at-same-pace-together-burnham-says-on-devolution-173664/",
+                "related_urls": [
+                    "https://www.eastlothiancourier.com/news/national/26685383.four-nations-must-move-pace-together-burnham-says-devolution/"
+                ],
+                "title": "",
+                "mentions": 55,
+                "sources": 11,
+                "goldstein": 7.4,
+                "tone": -0.973510772432701,
+                "score": 206.0
+            },
+            {
+                "record_id": "1330650783",
+                "url": "https://www.thenorthernecho.co.uk/news/national/26684276.astrazeneca-launches-overhaul-cut-costs-gbp1-1bn-year/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 10,
+                "goldstein": 4.0,
+                "tone": 1.76791456132292,
+                "score": 190.0
+            },
+            {
+                "record_id": "1330692879",
+                "url": "https://www.yorkpress.co.uk/news/national/26685883.streeting-condemns-swinneys-irresponsible-unfounded-comments-defence/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 12,
+                "goldstein": -2.0,
+                "tone": -4.40261063519177,
+                "score": 181.0
+            }
+        ],
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 2
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 999.5,
+        "trends": [
+            {
+                "record_id": "1330391651",
+                "url": "https://www.newspim.com/news/view/20261029000265",
+                "related_urls": [
+                    "https://www.newspim.com/news/view/20261029000196"
+                ],
+                "title": "",
+                "mentions": 270,
+                "sources": 1,
+                "goldstein": 7.4,
+                "tone": -3.18764329945117,
+                "score": 999.5,
+                "keyword": "국가 경제 위기",
+                "hook": "대한민국 경제에 붉은 경고등이 켜졌습니다.",
+                "script": "대한민국 경제 지표가 급격히 무너지고 있습니다. 전문가들은 지금의 하락세가 단순한 일시적 현상이 아니라고 경고합니다. 물가는 치솟고 가계 부채는 한계치에 도달했습니다. 우리 경제의 미래, 과연 어디로 향하고 있을까요? 지금 즉시 대응이 필요합니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 3
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 928.5,
+        "trends": [
+            {
+                "record_id": "1330553267",
+                "url": "https://www.edenmagnet.com.au/story/9382757/woman-allegedly-sexually-touched-while-jogging-in-bondi/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 140,
+                "sources": 7,
+                "goldstein": 7.0,
+                "tone": -2.5676510600953,
+                "score": 238.0
+            },
+            {
+                "record_id": "1330395717",
+                "url": "https://www.northerndailyleader.com.au/story/9382217/pm-slams-nativist-politics-for-blocking-eu-trade-deal/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 10,
+                "goldstein": -5.0,
+                "tone": -0.947080318155818,
+                "score": 220.0
+            },
+            {
+                "record_id": "1330424559",
+                "url": "https://www.dailyliberal.com.au/story/9382321/murder-accused-kissed-held-spoke-to-wifes-body/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 84,
+                "sources": 7,
+                "goldstein": -10.0,
+                "tone": -2.99575709513671,
+                "score": 198.0,
+                "keyword": "살인 사건 재판",
+                "hook": "아내를 살해한 혐의를 받는 남성이 범행 후 시신과 대화했다는 끔찍한 사실이 드러났습니다.",
+                "script": "호주 법정을 경악하게 만든 살인 사건입니다. 피고인은 아내를 살해한 뒤 시신에 입을 맞추고 말을 거는 등 이해할 수 없는 행동을 보였습니다. 인간의 광기가 어디까지 갈 수 있는지, 충격적인 재판 현장을 전합니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1330570703",
+                "url": "https://www.wellingtontimes.com.au/story/9382830/farmers-led-down-dead-end-on-opposition-to-eu-deal/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 7,
+                "goldstein": -4.0,
+                "tone": -0.703271936910055,
+                "score": 165.0
+            },
+            {
+                "record_id": "1330434326",
+                "url": "https://www.begadistrictnews.com.au/story/9382629/location-and-intent-disputed-after-mans-alleged-murder/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 7,
+                "goldstein": 2.8,
+                "tone": -10.6121906261285,
+                "score": 107.5
+            }
+        ],
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 4
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 752.5,
+        "trends": [
+            {
+                "record_id": "1330707426",
+                "url": "https://www.greenocktelegraph.co.uk/news/national/26685458.man-wielding-knife-threatens-migrants-boards-small-boat-bound-uk/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 180,
+                "sources": 18,
+                "goldstein": -9.0,
+                "tone": -2.46710526315791,
+                "score": 633.5,
+                "keyword": "흉기 난동 발생",
+                "hook": "영국행 밀입국 보트에 흉기를 든 남성이 난입해 탑승객들을 위협하는 아찔한 상황이 포착됐습니다.",
+                "script": "프랑스 해안, 영국으로 향하던 소형 보트에 흉기를 든 괴한이 들이닥쳤습니다. 보트에 탄 이주민들은 공포에 질려 도망칠 곳도 없는 바다 한가운데에 고립됐습니다. 대체 왜 이런 범죄가 벌어진 걸까요? 지금 즉시 현장 상황을 확인하십시오.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1330494578",
+                "url": "https://www.runcornandwidnesworld.co.uk/news/national/26681895.u2-announce-two-london-gigs-next-summer-greatest-show-earth-tour/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 7,
+                "goldstein": 4.0,
+                "tone": 2.72727272727273,
+                "score": 62.0
+            },
+            {
+                "record_id": "1330458593",
+                "url": "https://www.elcorreodeburgos.com/burgos/261028/246681/cartografia-intima-camino-santiago-33-etapas-salir-burgos.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": 4.0,
+                "tone": 0.10729613733905,
+                "score": 57.0
+            }
+        ],
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 5
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 343.0,
+        "trends": [
+            {
+                "record_id": "1330635357",
+                "url": "http://www.schwaebische-post.de/welt/politik/trump-aussenpolitik-19-milliarden-dollar-kosten-laut-bericht-zr-94565898.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 6,
+                "goldstein": 8.0,
+                "tone": -2.6713500044887,
+                "score": 149.0
+            },
+            {
+                "record_id": "1330723681",
+                "url": "https://www.swindonadvertiser.co.uk/news/national/26683813.evacuated-oleshky-residents-begin-long-journey-russian-occupied-region/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 76,
+                "sources": 12,
+                "goldstein": 4.0,
+                "tone": -2.88378510805141,
+                "score": 82.0,
+                "keyword": "올레시키 주민 탈출",
+                "hook": "러시아 점령지 올레시키에서 긴급 탈출한 주민들의 고통스러운 피난길이 시작되었습니다.",
+                "script": "전쟁터로 변한 올레시키를 떠나는 주민들의 행렬이 끊이지 않고 있습니다. 러시아군 점령 하의 척박한 삶을 뒤로하고, 언제 끝날지 모르는 긴 피난길에 오른 이들의 절박한 심정을 전합니다. 지금 이 순간에도 이어지는 비극을 주목하십시오.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330625117",
+                "url": "https://www.hna.de/wirtschaft/trump-putin-deal-russischer-diesel-auf-dem-weg-in-die-usa-zr-94565681.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -5.0,
+                "tone": -1.54109589041096,
+                "score": 60.0
+            },
+            {
+                "record_id": "1330411645",
+                "url": "https://energyland.info/news-show--atom-288753",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -1.0179129732612,
+                "score": 52.0
+            }
+        ],
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 6
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 339.0,
+        "trends": [
+            {
+                "record_id": "1330557079",
+                "url": "https://www.brantfordexpositor.ca/press-releases/pr-newswire/friday-october-30-2026/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 3,
+                "goldstein": 1.0,
+                "tone": 2.23214285714286,
+                "score": 97.0
+            },
+            {
+                "record_id": "1330695112",
+                "url": "https://www.nugget.ca/press-releases/pr-newswire/osc-invites-applications-for-securities-advisory-committee/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 4,
+                "goldstein": 3.0,
+                "tone": 4.54545454545454,
+                "score": 63.0
+            },
+            {
+                "record_id": "1330492065",
+                "url": "https://torontosun.com/entertainment/celebrity/russell-brand-found-monogamy-difficult-wife-tells-u-k-rape-trial",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": 5.0,
+                "tone": -1.86332351905374,
+                "score": 62.0,
+                "keyword": "러셀 브랜드 재판",
+                "hook": "성폭행 혐의로 재판을 받는 러셀 브랜드의 충격적인 법정 증언이 공개되었습니다.",
+                "script": "유명인 러셀 브랜드의 성폭행 재판이 새로운 국면을 맞았습니다. 그의 아내가 법정에 출석해 부부 관계의 어두운 이면을 폭로하며 증언석을 눈물바다로 만들었습니다. 과연 그에게 어떤 진실이 숨겨져 있을까요?",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330450210",
+                "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69971654-eqs-news-cantourage-group-se-cantourage-baut-fuehrende-marktposition-weiter-aus-premiumproduzent-lot420-erhaelt-eu-gmp-zertifizierung-022.htm",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 3,
+                "goldstein": 3.0,
+                "tone": 5.99415323426728,
+                "score": 61.0
+            },
+            {
+                "record_id": "1330531003",
+                "url": "https://www.owensoundsuntimes.com/press-releases/globe-newswire/prostar-ceo-michael-wolff-outlines-growth-strategy-after-first-90-days/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 3,
+                "goldstein": 4.0,
+                "tone": 2.82317979197622,
+                "score": 56.0
+            }
+        ],
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 7
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 298.0,
+        "trends": [
+            {
+                "record_id": "1330472786",
+                "url": "http://www.soester-anzeiger.de/politik/eralp-werde-fuer-die-sicherheit-aller-berliner-sorgen-zr-94564300.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 9,
+                "goldstein": -0.4,
+                "tone": -6.25319054386145,
+                "score": 70.0
+            },
+            {
+                "record_id": "1330414614",
+                "url": "https://www.rhein-zeitung.de/deutschland-welt/politik/gen-z-regelt-was-vom-protest-samstag-zu-erwarten-ist_arid-4166024.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -5.8,
+                "tone": -3.48755625318737,
+                "score": 64.0
+            },
+            {
+                "record_id": "1330491111",
+                "url": "https://www.news.de/panorama/860141956/zugunglueck-welche-rolle-spielt-das-sicherungssystem-unfall-news-der-dpa-aktuell-zu-notfall-bahn-und-verkehr/1/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -2.0,
+                "tone": -4.14849271153898,
+                "score": 59.0,
+                "keyword": "열차 사고 조사",
+                "hook": "독일 전역을 충격에 빠뜨린 열차 사고, 안전 시스템에 치명적인 결함이 있었나?",
+                "script": "독일의 철도 안전망이 뚫렸습니다. 사고 당시 열차의 자동 정지 시스템이 제대로 작동하지 않았다는 의혹이 제기되면서, 당국이 긴급 조사에 착수했습니다. 시민들의 불안은 극에 달하고 있습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1330643882",
+                "url": "http://www.tz.de/welt/schauspielerin-helene-grass-appelliert-wer-organe-spenden-will-sollte-es-zu-lebzeiten-klar-festhalten-zr-94566094.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 1.0,
+                "tone": -0.833831440525997,
+                "score": 54.0
+            },
+            {
+                "record_id": "1330580859",
+                "url": "https://edmontonsun.com/entertainment/celebrity/jon-lovitz-crystal-hefners-playboys-no-1-customer",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": -0.393540084242231,
+                "score": 51.0
+            }
+        ],
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 8
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 265.0,
+        "trends": [
+            {
+                "record_id": "1330725751",
+                "url": "https://www.birgun.net/haber/akp-li-savci-sayan-dan-bddk-baskani-na-sorular-emre-tezmen-kardes-gel-birlikte-bir-kahve-icelim-dediniz-mi-743566%20class=slide-legend-link%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": 7.4,
+                "tone": -2.84090909090909,
+                "score": 141.0,
+                "keyword": "정치적 유착 의혹",
+                "hook": "터키 정계가 의문의 커피 회동으로 발칵 뒤집혔습니다.",
+                "script": "여당 인사의 충격적인 폭로가 터졌습니다. 금융 당국 수장과 나눈 은밀한 제안, 그 속에 숨겨진 검은 거래의 실체는 무엇일까요? 권력형 비리 의혹이 일파만파 번지며 터키 정국이 소용돌이치고 있습니다. 진실은 과연 무엇일까요?",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330531471",
+                "url": "https://fox23.com/news/nation-world/michigan-democrat-on-fiance-voting-for-republican-mike-rogers-were-a-household-divided-senate-nominee-abdul-el-sayed-jewish-ted-cruz-elissa-slotkin-rrt",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 4.0,
+                "tone": -3.19361277445108,
+                "score": 124.0,
+                "keyword": "정치적 갈등 심화",
+                "hook": "한 지붕 아래 두 정치색, 분열된 가정이 미국을 비춥니다.",
+                "script": "민주당 지지자인 약혼녀와 공화당 후보를 지지하는 약혼자. 미국 대선을 앞두고 갈라선 한 가정이 정치적 극단주의의 단면을 보여줍니다. 신념의 차이가 가족마저 갈라놓는 현실, 미국 사회의 갈등은 끝을 모르고 치닫고 있습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 9
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 174.0,
+        "trends": [
+            {
+                "record_id": "1330406450",
+                "url": "https://www.am.com.mx/guanajuato/2026/10/28/dia-de-san-judas-tadeo-en-guanajuato-fieles-cumplen-mandas-con-fe-y-regalos-1859989.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 78,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": 2.75779376498801,
+                "score": 89.0
+            },
+            {
+                "record_id": "1330409149",
+                "url": "https://www.omnia.com.mx/noticia/447482/ine-evalua-informar-a-las-autoridades-sobre-las-conductas-indebidas-de-guadalupe",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -2.92665753743011,
+                "score": 85.0,
+                "keyword": "부적절 행위 조사",
+                "hook": "멕시코 선거관리위원회(INE)가 과달루페의 위법 행위를 포착하고 강경 대응에 나섰습니다.",
+                "script": "멕시코 정치권이 또다시 부패 스캔들에 휩싸였습니다. INE는 과달루페의 부적절한 행동을 당국에 보고하기 위한 검토 작업에 착수했습니다. 과연 멕시코 정치의 민낯은 어디까지일까요? 지금 바로 확인하십시오.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 10
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 146.0,
+        "trends": [
+            {
+                "record_id": "1330491074",
+                "url": "https://g1.globo.com/ac/acre/noticia/2026/10/29/evasao-operacao-contra-trafico-de-drogas-cumpre-mandados-de-prisao-no-acre.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -13.373253493014,
+                "score": 97.0,
+                "keyword": "마약 조직 소탕",
+                "hook": "브라질 아크레주에서 대규모 마약 조직을 겨냥한 전격적인 체포 작전이 시작되었습니다.",
+                "script": "브라질 경찰이 마약 조직의 뿌리를 뽑기 위해 아크레주 전역을 덮쳤습니다. 수많은 체포 영장이 발부되었고, 범죄 조직원들은 속수무책으로 검거되고 있습니다. 브라질을 뒤흔든 이번 마약 소탕 작전의 내막을 지금 바로 공개합니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330506965",
+                "url": "http://www.tz.de/politik/demokratische-kandidatin-meta-sperrte-wahlkampfseite-waehrend-wichtiger-kundgebung-zr-94565003.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 6,
+                "goldstein": -0.4,
+                "tone": -2.67568501245478,
+                "score": 49.0
+            }
+        ],
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 11
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 144.0,
+        "trends": [
+            {
+                "record_id": "1330385987",
+                "url": "https://tradearabia.com:443/News/488838/John-Crane-seals-three-year-deal-with-Saudi-phosphate-mining-leader/CONS",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 8.0,
+                "tone": 3.71287128712871,
+                "score": 144.0,
+                "keyword": "광산업 거대 계약",
+                "hook": "사우디 광산업의 판도가 단번에 뒤바뀝니다.",
+                "script": "존 크레인이 사우디 인산염 채굴 시장의 거물과 3년 독점 계약을 체결했습니다. 이번 계약으로 사우디의 자원 수출 경쟁력은 폭발적인 성장을 예고합니다. 중동을 넘어 세계 광물 시장의 중심이 사우디로 옮겨오고 있습니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 12
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 124.0,
+        "trends": [
+            {
+                "record_id": "1330588957",
+                "url": "http://en.people.cn/n3/2026/1030/c90000-20513866.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": 4.4700793078587,
+                "score": 70.0,
+                "keyword": "중국 발전 성과",
+                "hook": "세계가 주목하는 중국의 놀라운 변화, 그 중심에 있는 새로운 발전 소식을 전합니다.",
+                "script": "중국이 새로운 국가적 목표를 향해 속도를 높이고 있습니다. 경제와 사회 전반에 걸친 변화가 가시화되면서 글로벌 영향력을 확대하고 있습니다. 과연 이 흐름이 세계 경제에 어떤 변수가 될까요?",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1330666883",
+                "url": "http://www.bignewsnetwork.com/news/279404531/china-xizang-nagqu-earthquake-resettlement-kindergarten-cn",
+                "related_urls": [],
+                "title": "",
+                "mentions": 66,
+                "sources": 2,
+                "goldstein": 3.4,
+                "tone": -0.134680134680136,
+                "score": 54.0
+            }
+        ],
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 13
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 62.0,
+        "trends": [
+            {
+                "record_id": "1330463455",
+                "url": "https://www.busan.com/view/busan/view.php?code=2026102916175527465",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": 1.10497237569061,
+                "score": 62.0,
+                "keyword": "한일 관계 긴장",
+                "hook": "동북아의 정세가 다시 요동치고 있습니다. 일본 내에서 심상치 않은 기류가 감지됩니다.",
+                "script": "최근 일본의 외교적 행보가 한국을 포함한 주변국에 큰 파장을 일으키고 있습니다. 단순한 외교적 마찰을 넘어 경제와 안보 문제까지 번질 조짐입니다. 향후 대응책에 전 세계가 주목하고 있습니다.",
+                "sentiment": "neutral"
+            }
+        ],
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 14
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 54.0,
+        "trends": [
+            {
+                "record_id": "1330598997",
+                "url": "https://indiankanoon.org/doc/177949005/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 54,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -2.4235935370839,
+                "score": 54.0,
+                "keyword": "사법 체계 논란",
+                "hook": "인도의 사법 시스템이 거센 비판의 도마 위에 올랐습니다.",
+                "script": "판결의 공정성을 두고 인도 전역이 들끓고 있습니다. 복잡한 법적 쟁점 속에서 민심은 사법부를 향해 강한 불신을 드러내고 있습니다. 이번 사건이 인도 사회에 던진 충격은 매우 큽니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-10-31 07:15:42 KST",
+        "current_rank": 15
+    }
+}
