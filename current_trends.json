@@ -1,7 +1,7 @@
 {
     "United States": {
         "gdp_rank": 1,
-        "spike_score": 1861.5,
+        "spike_score": 1782.5,
         "trends": [
             {
                 "record_id": "1330424549",
@@ -28,23 +28,6 @@
                 "score": 376.0
             },
             {
-                "record_id": "1330570665",
-                "url": "https://1190talkradio.iheart.com/content/2026-10-29-patrick-stewart-legendary-star-trek-x-men-actor-dies-at-86/",
-                "related_urls": [
-                    "https://thetwister.iheart.com/content/2026-10-29-patrick-stewart-legendary-star-trek-x-men-actor-dies-at-86/"
-                ],
-                "title": "",
-                "mentions": 210,
-                "sources": 1,
-                "goldstein": 7.0,
-                "tone": 5.3061224489796,
-                "score": 345.0,
-                "keyword": "배우 패트릭 스튜어트 별세",
-                "hook": "스타트렉의 전설, 캡틴 피카드 역의 패트릭 스튜어트가 향년 86세로 눈을 감았습니다.",
-                "script": "전 세계가 충격에 빠졌습니다. '스타트렉'과 '엑스맨'으로 전설적인 연기를 선보였던 배우 패트릭 스튜어트가 86세를 일기로 세상을 떠났습니다. 수많은 팬들의 애도 물결이 이어지고 있습니다. 그의 위대한 발자취를 되돌아봅니다.",
-                "sentiment": "negative"
-            },
-            {
                 "record_id": "1330393697",
                 "url": "https://wjla.com/news/nation-world/dr-oz-cites-alleged-nyc-adult-day-care-abuses-as-cms-steps-up-medicaid-checks-medicare-new-york-minnesota",
                 "related_urls": [],
@@ -56,26 +39,45 @@
                 "score": 290.5
             },
             {
-                "record_id": "1330380871",
-                "url": "https://www.irvinetimes.com/news/national/26678804.losing-presidential-candidate-bolsonaro-arrives-us-via-argentina-ecuador/",
-                "related_urls": [],
+                "record_id": "1330566073",
+                "url": "https://wrko.iheart.com/content/2026-10-29-trump-to-campaign-in-florida-friday/",
+                "related_urls": [
+                    "https://wtkg.iheart.com/content/2026-10-29-trump-to-campaign-in-florida-friday/"
+                ],
                 "title": "",
-                "mentions": 56,
-                "sources": 7,
-                "goldstein": 6.0,
-                "tone": -2.67686424474187,
-                "score": 273.0
+                "mentions": 54,
+                "sources": 1,
+                "goldstein": -6.5,
+                "tone": 0.396660858762878,
+                "score": 270.0
+            },
+            {
+                "record_id": "1330570665",
+                "url": "https://1190talkradio.iheart.com/content/2026-10-29-patrick-stewart-legendary-star-trek-x-men-actor-dies-at-86/",
+                "related_urls": [
+                    "https://thetwister.iheart.com/content/2026-10-29-patrick-stewart-legendary-star-trek-x-men-actor-dies-at-86/"
+                ],
+                "title": "",
+                "mentions": 210,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": 5.3061224489796,
+                "score": 269.0,
+                "keyword": "패트릭 스튜어트 별세",
+                "hook": "스크린 속 영원한 영웅, 패트릭 스튜어트가 86세의 나이로 우리 곁을 떠났습니다.",
+                "script": "스타트렉의 캡틴 피카드이자 엑스맨의 프로페서 X, 패트릭 스튜어트가 세상을 떠났습니다. 수많은 명작을 남긴 그의 전설적인 연기 인생은 여기서 멈췄지만, 그가 남긴 감동은 영원히 기억될 것입니다.",
+                "sentiment": "positive"
             }
         ],
-        "last_updated": "2026-10-30 09:57:01 KST",
+        "last_updated": "2026-10-30 18:56:48 KST",
         "current_rank": 1
     },
     "United Kingdom": {
         "gdp_rank": 6,
-        "spike_score": 1283.5,
+        "spike_score": 1184.0,
         "trends": [
             {
-                "record_id": "1330488104",
+                "record_id": "1330487964",
                 "url": "https://www.eveshamjournal.co.uk/news/national/26681577.man-remanded-custody-dissident-feud-shooting-charge/",
                 "related_urls": [],
                 "title": "",
@@ -83,18 +85,7 @@
                 "sources": 11,
                 "goldstein": -10.0,
                 "tone": -9.39153439153436,
-                "score": 541.0
-            },
-            {
-                "record_id": "1330530125",
-                "url": "https://www.bordertelegraph.com/news/national/26682951.dup-blocked-michelle-oneill-engaging-irish-president/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 56,
-                "sources": 14,
-                "goldstein": 4.0,
-                "tone": -3.97729858798897,
-                "score": 224.5
+                "score": 480.0
             },
             {
                 "record_id": "1330386374",
@@ -108,6 +99,17 @@
                 "score": 208.0
             },
             {
+                "record_id": "1330601884",
+                "url": "https://www.mudgeeguardian.com.au/story/9382705/burnout-warning-as-ai-rolled-out-for-public-servants/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 140,
+                "sources": 7,
+                "goldstein": 1.0,
+                "tone": -4.02426721503993,
+                "score": 178.0
+            },
+            {
                 "record_id": "1330380694",
                 "url": "https://www.nwemail.co.uk/news/national/26679499.train-attacker-asked-passenger-do-want-die--rampage-court-told/",
                 "related_urls": [],
@@ -117,24 +119,24 @@
                 "goldstein": -2.0,
                 "tone": -7.91208791208791,
                 "score": 166.0,
-                "keyword": "열차 무차별 습격",
-                "hook": "열차 안에서 벌어진 광기 어린 습격, 범인의 입에서 나온 충격적인 한마디가 공개되었습니다.",
-                "script": "영국 열차 내에서 발생한 공포스러운 습격 사건입니다. 범인은 승객에게 '죽고 싶냐'고 물으며 흉기를 휘둘렀습니다. 법정에서 드러난 당시의 참혹한 상황, 지금 바로 보시죠.",
+                "keyword": "열차 흉기 난동",
+                "hook": "평화롭던 열차 안, 흉기를 든 범인이 승객을 향해 던진 한 마디에 모두가 얼어붙었습니다.",
+                "script": "열차 안에서 벌어진 끔찍한 난동 사건이 법정에서 공개되었습니다. 범인은 피해자에게 죽음을 언급하며 공포에 몰아넣었습니다. 충격적인 범행 전모가 드러나며 영국 전역이 경악하고 있습니다.",
                 "sentiment": "warning"
             },
             {
-                "record_id": "1330381044",
-                "url": "https://www.halesowennews.co.uk/news/national/26677895.bank-taxes-rise-less-feared-help-fund-breathing-space/",
+                "record_id": "1330530137",
+                "url": "https://www.bordertelegraph.com/news/national/26682951.dup-blocked-michelle-oneill-engaging-irish-president/",
                 "related_urls": [],
                 "title": "",
-                "mentions": 50,
-                "sources": 5,
-                "goldstein": 7.4,
-                "tone": -2.21642764015645,
-                "score": 144.0
+                "mentions": 56,
+                "sources": 14,
+                "goldstein": 4.0,
+                "tone": -3.97729858798897,
+                "score": 152.0
             }
         ],
-        "last_updated": "2026-10-30 09:57:01 KST",
+        "last_updated": "2026-10-30 18:56:48 KST",
         "current_rank": 2
     },
     "South Korea": {
@@ -153,9 +155,9 @@
                 "goldstein": 7.4,
                 "tone": -3.18764329945117,
                 "score": 999.5,
-                "keyword": "국내 경제 위기",
-                "hook": "대한민국 경제 지표가 곤두박질치며 국가적 비상사태가 선포되었습니다.",
-                "script": "지금 대한민국 경제에 빨간불이 켜졌습니다. 주요 지표가 일제히 하락하며 시장의 공포감이 극에 달하고 있습니다. 전문가들은 이번 사태가 단순한 일시적 현상이 아닐 수 있다고 경고합니다. 과연 우리 경제는 이 위기를 버텨낼 수 있을까요?",
+                "keyword": "국내 경제 위기감",
+                "hook": "한국 경제를 뒤흔드는 예상치 못한 지표들이 쏟아지며 시장의 불안이 극에 달하고 있습니다.",
+                "script": "대한민국 경제에 빨간불이 켜졌습니다. 오늘 발표된 데이터는 그야말로 충격적입니다. 전문가들은 지금의 하락세가 단순한 조정이 아닐 수 있다고 경고합니다. 여러분의 자산은 안전합니까? 지금 바로 핵심 지표를 확인하십시오.",
                 "sentiment": "negative"
             },
             {
@@ -167,22 +169,18 @@
                 "sources": 1,
                 "goldstein": 2.8,
                 "tone": 0.0,
-                "score": 77.5,
-                "keyword": "일상 경제 흐름",
-                "hook": "평범한 일상 속, 눈에 띄지 않는 경제 변화가 시작되었습니다.",
-                "script": "우리 주변의 경제 상황을 점검합니다. 수치상으로는 평온해 보이지만, 시장의 움직임은 미묘하게 변하고 있습니다. 지금 당신의 지갑과 직결된 경제 뉴스를 확인하세요. 차분하게 상황을 분석할 때입니다.",
-                "sentiment": "neutral"
+                "score": 77.5
             }
         ],
-        "last_updated": "2026-10-30 09:57:01 KST",
+        "last_updated": "2026-10-30 18:56:49 KST",
         "current_rank": 3
     },
     "Australia": {
         "gdp_rank": 13,
-        "spike_score": 973.0,
+        "spike_score": 936.0,
         "trends": [
             {
-                "record_id": "1330553267",
+                "record_id": "1330553265",
                 "url": "https://www.edenmagnet.com.au/story/9382757/woman-allegedly-sexually-touched-while-jogging-in-bondi/",
                 "related_urls": [],
                 "title": "",
@@ -190,26 +188,7 @@
                 "sources": 7,
                 "goldstein": 7.0,
                 "tone": -2.5676510600953,
-                "score": 238.0,
-                "keyword": "본다이 성추행 사건",
-                "hook": "평화롭던 본다이 해변 조깅 코스에서 끔찍한 성추행 사건이 발생했습니다.",
-                "script": "조깅하던 여성을 향한 갑작스러운 공격, 경찰이 즉각 수사에 착수했습니다. 안전한 일상을 위협하는 이번 사건에 지역 사회가 충격에 빠졌습니다.",
-                "sentiment": "warning"
-            },
-            {
-                "record_id": "1330424559",
-                "url": "https://www.dailyliberal.com.au/story/9382321/murder-accused-kissed-held-spoke-to-wifes-body/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 84,
-                "sources": 7,
-                "goldstein": -10.0,
-                "tone": -2.99575709513671,
-                "score": 235.0,
-                "keyword": "살인범의 기행",
-                "hook": "살인 혐의를 받는 남성이 피해자의 시신을 향해 보인 기괴한 행동이 드러났습니다.",
-                "script": "아내를 살해한 혐의로 기소된 남성이 범행 직후 시신과 대화하고 입을 맞췄다는 증언이 법정을 경악게 했습니다. 사법 역사상 가장 기괴한 사건으로 기록될 전망입니다.",
-                "sentiment": "negative"
+                "score": 238.0
             },
             {
                 "record_id": "1330395717",
@@ -220,11 +199,18 @@
                 "sources": 10,
                 "goldstein": -5.0,
                 "tone": -0.947080318155818,
-                "score": 220.0,
-                "keyword": "무역 협정 결렬",
-                "hook": "호주 총리가 EU 무역 협정을 가로막는 자국 내 정치 세력을 강하게 비판했습니다.",
-                "script": "협소한 자국 우선주의 정치가 국가 경제의 미래를 망치고 있다며 총리가 공개적으로 분노를 표출했습니다. EU와의 협력 관계가 벼랑 끝에 섰습니다.",
-                "sentiment": "negative"
+                "score": 220.0
+            },
+            {
+                "record_id": "1330424559",
+                "url": "https://www.dailyliberal.com.au/story/9382321/murder-accused-kissed-held-spoke-to-wifes-body/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 84,
+                "sources": 7,
+                "goldstein": -10.0,
+                "tone": -2.99575709513671,
+                "score": 198.0
             },
             {
                 "record_id": "1330570703",
@@ -235,11 +221,7 @@
                 "sources": 7,
                 "goldstein": -4.0,
                 "tone": -0.703271936910055,
-                "score": 165.0,
-                "keyword": "농민 무역 반대",
-                "hook": "EU 무역 협정에 반대하는 농민들이 막다른 길에 몰렸습니다.",
-                "script": "협상 저지에 나선 농민 단체들이 정책 변화를 이끌어내지 못한 채 고립되고 있습니다. 산업 현장의 분노와 정부의 입장 차이가 극에 달했습니다.",
-                "sentiment": "negative"
+                "score": 165.0
             },
             {
                 "record_id": "1330574591",
@@ -251,58 +233,39 @@
                 "goldstein": -9.0,
                 "tone": -13.6022991531745,
                 "score": 115.0,
-                "keyword": "아동 성범죄 추가",
-                "hook": "악명 높은 성범죄자가 수백 건의 추가 혐의로 다시 법정에 섰습니다.",
-                "script": "이미 악명이 자자했던 범죄자에게 수백 건의 아동 학대 혐의가 추가로 적용됐습니다. 죗값을 치를 수 없는 범죄의 규모에 사법부가 분노하고 있습니다.",
+                "keyword": "연쇄 성범죄자 추가기소",
+                "hook": "호주 사회를 경악하게 만든 악명 높은 포식자가 수백 건의 추가 학대 혐의로 법정에 섭니다.",
+                "script": "호주 전역이 충격에 빠졌습니다. 수십 건의 범죄를 저지른 악명 높은 성범죄자가 무려 수백 개의 추가 학대 혐의로 다시 기소됐습니다. 피해자들의 고통은 끝이 보이지 않습니다. 법의 심판이 어디까지 미칠지 전 국민이 지켜보고 있습니다.",
                 "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-10-30 09:57:01 KST",
+        "last_updated": "2026-10-30 18:56:49 KST",
         "current_rank": 4
     },
-    "France": {
-        "gdp_rank": 7,
-        "spike_score": 366.0,
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 435.0,
         "trends": [
             {
-                "record_id": "1330494578",
-                "url": "https://www.runcornandwidnesworld.co.uk/news/national/26681895.u2-announce-two-london-gigs-next-summer-greatest-show-earth-tour/",
-                "related_urls": [],
+                "record_id": "1330598997",
+                "url": "https://indiankanoon.org/doc/177949005/",
+                "related_urls": [
+                    "https://indiankanoon.org/doc/68544924/",
+                    "https://indiankanoon.org/doc/10453951/"
+                ],
                 "title": "",
-                "mentions": 56,
-                "sources": 7,
-                "goldstein": 4.0,
-                "tone": 2.72727272727273,
-                "score": 282.0
-            },
-            {
-                "record_id": "1330458593",
-                "url": "https://www.elcorreodeburgos.com/burgos/261028/246681/cartografia-intima-camino-santiago-33-etapas-salir-burgos.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 70,
+                "mentions": 54,
                 "sources": 1,
-                "goldstein": 4.0,
-                "tone": 0.10729613733905,
-                "score": 57.0
-            },
-            {
-                "record_id": "1330440706",
-                "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-avec-loic-de-la-mornais-israel-netanyahou-revient-dans-la-course_8258387.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 1,
-                "goldstein": 0.0,
-                "tone": -0.65977245712345,
-                "score": 27.0,
-                "keyword": "네타냐후 정치 복귀",
-                "hook": "이스라엘 정계가 요동칩니다. 네타냐후가 다시 권력의 핵심으로 돌아왔습니다.",
-                "script": "이스라엘의 네타냐후가 정치적 재기를 선언하며 다시 전면에 등장했습니다. 국제 사회가 이 급격한 변화를 주시하고 있습니다. 중동 정세에 어떤 폭풍을 몰고 올지 분석합니다.",
-                "sentiment": "neutral"
+                "goldstein": -5.0,
+                "tone": -2.4235935370839,
+                "score": 435.0,
+                "keyword": "인도 법적 갈등",
+                "hook": "법의 심판대 위에 오른 사건이 인도 전역을 뒤흔들고 있습니다.",
+                "script": "사법부의 판결이 사회적 파장을 일으키고 있습니다. 복잡하게 얽힌 법적 공방 속에서 과연 정의는 어디에 있는지 국민들의 분노와 의구심이 최고조에 달하고 있습니다.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-30 09:57:01 KST",
+        "last_updated": "2026-10-30 18:56:48 KST",
         "current_rank": 5
     },
     "Canada": {
@@ -318,11 +281,7 @@
                 "sources": 3,
                 "goldstein": 1.0,
                 "tone": 2.23214285714286,
-                "score": 97.0,
-                "keyword": "캐나다 경제 발표",
-                "hook": "10월 마지막 금요일, 캐나다 경제의 새로운 향방이 결정됩니다.",
-                "script": "주요 경제 지표와 기업 보도자료가 쏟아지며 시장이 요동치고 있습니다. 이번 발표가 캐나다 경제 전반에 어떤 영향을 미칠지 투자자들의 이목이 집중됩니다.",
-                "sentiment": "positive"
+                "score": 97.0
             },
             {
                 "record_id": "1330492065",
@@ -335,8 +294,8 @@
                 "tone": -1.86332351905374,
                 "score": 62.0,
                 "keyword": "러셀 브랜드 재판",
-                "hook": "러셀 브랜드의 성폭행 재판에서 충격적인 증언이 쏟아졌습니다.",
-                "script": "브랜드의 아내가 법정에서 그의 비정상적인 독점욕과 성적 행동을 폭로했습니다. 영국 법정을 뒤흔든 이번 증언으로 사건의 향방이 급변하고 있습니다.",
+                "hook": "러셀 브랜드의 성폭행 혐의 재판에서 아내의 충격적인 증언이 법정을 얼어붙게 만들었습니다.",
+                "script": "일부일처제의 어려움을 토로했던 러셀 브랜드, 그 이면의 추악한 진실이 폭로되었습니다. 재판을 통해 드러나는 충격적인 증언들, 과연 법의 심판은 어디로 향할까요?",
                 "sentiment": "negative"
             },
             {
@@ -348,11 +307,7 @@
                 "sources": 3,
                 "goldstein": 3.0,
                 "tone": 5.99415323426728,
-                "score": 61.0,
-                "keyword": "칸투라지 시장 확대",
-                "hook": "칸투라지 그룹이 EU GMP 인증을 획득하며 글로벌 시장을 장악하고 있습니다.",
-                "script": "프리미엄 생산 시설이 유럽 인증을 통과하며 시장 지배력을 공고히 했습니다. 급성장하는 칸투라지의 전략적 행보가 업계의 판도를 바꾸고 있습니다.",
-                "sentiment": "positive"
+                "score": 61.0
             },
             {
                 "record_id": "1330531003",
@@ -363,11 +318,7 @@
                 "sources": 3,
                 "goldstein": 4.0,
                 "tone": 2.82317979197622,
-                "score": 56.0,
-                "keyword": "프로스타 성장 전략",
-                "hook": "프로스타 CEO가 취임 90일 만에 파격적인 성장 청사진을 제시했습니다.",
-                "script": "마이클 울프 CEO가 향후 기업의 공격적인 확장 전략을 공개했습니다. 불확실한 시장 상황 속에서도 성장을 자신하는 그의 행보에 시장이 주목합니다.",
-                "sentiment": "positive"
+                "score": 56.0
             },
             {
                 "record_id": "1330385302",
@@ -378,57 +329,15 @@
                 "sources": 6,
                 "goldstein": 3.0,
                 "tone": -1.37030451469222,
-                "score": 51.0,
-                "keyword": "EU 가입 무산",
-                "hook": "캐나다의 EU 준회원국 가입 시도가 결국 좌절됐습니다.",
-                "script": "정치적, 경제적 장벽에 부딪히며 캐나다의 EU 준회원국 추진이 무기한 연기됐습니다. 국제 관계 변화를 예고하는 이번 결정으로 외교적 긴장감이 감돌고 있습니다.",
-                "sentiment": "negative"
+                "score": 51.0
             }
         ],
-        "last_updated": "2026-10-30 09:57:01 KST",
+        "last_updated": "2026-10-30 18:56:49 KST",
         "current_rank": 6
-    },
-    "Saudi Arabia": {
-        "gdp_rank": 17,
-        "spike_score": 248.0,
-        "trends": [
-            {
-                "record_id": "1330386888",
-                "url": "https://tradearabia.com:443/News/488838/John-Crane-seals-three-year-deal-with-Saudi-phosphate-mining-leader/CONS",
-                "related_urls": [],
-                "title": "",
-                "mentions": 60,
-                "sources": 1,
-                "goldstein": 8.0,
-                "tone": 3.71287128712871,
-                "score": 144.0,
-                "keyword": "광산 대형 계약",
-                "hook": "사우디아라비아 광업계가 3년짜리 초대형 계약을 성사시키며 지각변동을 예고했습니다.",
-                "script": "존 크레인이 사우디 인산염 광업 리더와 손을 잡았습니다. 이번 3년 계약은 사우디 자원 산업의 판도를 뒤흔들 대규모 프로젝트입니다. 중동 경제의 새로운 엔진이 가동되기 시작했습니다.",
-                "sentiment": "positive"
-            },
-            {
-                "record_id": "1330385986",
-                "url": "https://tradearabia.com:443/News/488839/Riyadh-awards-contract-for-first-alternative-mobility-network-phase/CONS",
-                "related_urls": [],
-                "title": "",
-                "mentions": 48,
-                "sources": 1,
-                "goldstein": 5.2,
-                "tone": 6.09318996415771,
-                "score": 104.0,
-                "keyword": "미래 모빌리티 도입",
-                "hook": "사우디 리야드가 도시 전체를 바꿀 혁명적인 교통망 구축에 착수했습니다.",
-                "script": "리야드의 거리가 바뀝니다! 사우디 정부가 첫 대체 모빌리티 네트워크 사업을 공식 발주했습니다. 석유의 나라가 이제는 첨단 미래형 교통 허브로 거듭나고 있습니다. 사우디의 미래, 지금 시작됩니다.",
-                "sentiment": "positive"
-            }
-        ],
-        "last_updated": "2026-10-30 09:57:01 KST",
-        "current_rank": 7
     },
     "Germany": {
         "gdp_rank": 3,
-        "spike_score": 230.0,
+        "spike_score": 281.0,
         "trends": [
             {
                 "record_id": "1330414614",
@@ -462,120 +371,104 @@
                 "goldstein": -2.0,
                 "tone": -4.14849271153898,
                 "score": 59.0,
-                "keyword": "독일 열차 탈선 사고",
-                "hook": "독일 철도망에 비상이 걸렸습니다. 열차 사고의 원인으로 지목된 안전 시스템에 의문이 제기됩니다.",
-                "script": "독일에서 발생한 끔찍한 열차 사고, 그 중심에 안전 시스템 결함 의혹이 불거졌습니다. 도대체 무엇이 문제였을까요? 당국이 긴급 조사에 착수한 가운데, 시민들의 불안은 극에 달하고 있습니다.",
+                "keyword": "열차 탈선 참사",
+                "hook": "달리던 열차가 멈춰 섰습니다. 사고 원인을 둘러싼 의혹이 증폭되고 있습니다.",
+                "script": "독일의 철도 안전 시스템에 빨간불이 켜졌습니다. 대규모 열차 사고로 인해 안전 규정에 대한 비판이 쏟아지고 있습니다. 과연 무엇이 문제였는지, 지금 당국이 긴급 조사에 착수했습니다.",
                 "sentiment": "warning"
-            }
-        ],
-        "last_updated": "2026-10-30 09:57:01 KST",
-        "current_rank": 8
-    },
-    "Brazil": {
-        "gdp_rank": 9,
-        "spike_score": 225.5,
-        "trends": [
-            {
-                "record_id": "1330491074",
-                "url": "https://g1.globo.com/ac/acre/noticia/2026/10/29/evasao-operacao-contra-trafico-de-drogas-cumpre-mandados-de-prisao-no-acre.ghtml",
-                "related_urls": [],
-                "title": "",
-                "mentions": 90,
-                "sources": 1,
-                "goldstein": -10.0,
-                "tone": -13.373253493014,
-                "score": 97.0,
-                "keyword": "브라질 마약 소탕",
-                "hook": "브라질 아크레 주가 대규모 마약 조직 검거 작전으로 발칵 뒤집혔습니다.",
-                "script": "현지 경찰이 대대적인 마약 소탕 작전에 돌입해 다수의 체포 영장을 집행했습니다. 도심 곳곳에서 긴박한 검거 현장이 포착됐습니다. 정부의 강력한 마약 근절 의지가 이번 작전을 통해 확인되고 있습니다.",
-                "sentiment": "negative"
             },
             {
-                "record_id": "1330506965",
-                "url": "http://www.tz.de/politik/demokratische-kandidatin-meta-sperrte-wahlkampfseite-waehrend-wichtiger-kundgebung-zr-94565003.html",
+                "record_id": "1330580859",
+                "url": "https://edmontonsun.com/entertainment/celebrity/jon-lovitz-crystal-hefners-playboys-no-1-customer",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": -0.393540084242231,
+                "score": 51.0
+            }
+        ],
+        "last_updated": "2026-10-30 18:56:48 KST",
+        "current_rank": 7
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 261.0,
+        "trends": [
+            {
+                "record_id": "1330635357",
+                "url": "http://www.schwaebische-post.de/welt/politik/trump-aussenpolitik-19-milliarden-dollar-kosten-laut-bericht-zr-94565898.html",
                 "related_urls": [],
                 "title": "",
                 "mentions": 70,
                 "sources": 6,
-                "goldstein": -0.4,
-                "tone": -2.67568501245478,
-                "score": 49.0,
-                "keyword": "선거 사이트 차단",
-                "hook": "중요한 유세 현장에서 갑자기 선거 사이트가 먹통이 되는 사태가 발생했습니다.",
-                "script": "민주당 후보 메타의 공식 선거 운동 사이트가 핵심 유세 도중 차단됐습니다. 의도적인 방해인지 시스템 오류인지 논란이 커지고 있습니다. 지지자들의 혼란 속에 선거 캠프는 긴급 대응에 나섰습니다.",
-                "sentiment": "negative"
+                "goldstein": 8.0,
+                "tone": -2.6713500044887,
+                "score": 149.0
             },
             {
-                "record_id": "1330382160",
-                "url": "https://www.irvinetimes.com/news/national/26678804.losing-presidential-candidate-bolsonaro-arrives-us-via-argentina-ecuador/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 42,
-                "sources": 7,
-                "goldstein": 1.9,
-                "tone": -2.67686424474187,
-                "score": 44.5,
-                "keyword": "볼소나로 미국행",
-                "hook": "패배한 브라질 대통령이 남미를 거쳐 미국으로 도피하듯 떠났습니다.",
-                "script": "대선 패배 직후 볼소나로 전 대통령이 아르헨티나와 에콰도르를 경유해 미국 땅을 밟았습니다. 그의 갑작스러운 출국 배경을 두고 정치적 망명설까지 제기되고 있습니다. 브라질 정계의 후폭풍이 거셉니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1330385847",
-                "url": "https://www.handelsblatt.com/politik/international/praesidentenwahl-in-brasilien-anfuehrer-statt-praesident-bolsonaro-korrigiert-sich/100265721.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 42,
-                "sources": 7,
-                "goldstein": 0.0,
-                "tone": -3.00032757940627,
-                "score": 35.0,
-                "keyword": "대통령 발언 번복",
-                "hook": "대통령직을 내려놓은 볼소나로가 자신을 지도자로 칭하며 입장을 번복했습니다.",
-                "script": "브라질 대선 이후 볼소나로가 스스로를 대통령이 아닌 지도자라고 지칭하며 발언을 수정했습니다. 권력 이양기를 앞두고 나온 그의 모호한 행보가 정치적 갈등을 심화시키고 있습니다.",
-                "sentiment": "negative"
-            }
-        ],
-        "last_updated": "2026-10-30 09:57:01 KST",
-        "current_rank": 9
-    },
-    "Argentina": {
-        "gdp_rank": 18,
-        "spike_score": 189.5,
-        "trends": [
-            {
-                "record_id": "1330380926",
-                "url": "https://www.irvinetimes.com/news/national/26678804.losing-presidential-candidate-bolsonaro-arrives-us-via-argentina-ecuador/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 42,
-                "sources": 7,
-                "goldstein": 2.8,
-                "tone": -2.67686424474187,
-                "score": 142.5,
-                "keyword": "대선 후보 망명",
-                "hook": "패배한 대선 후보가 비밀스러운 경로로 국경을 넘는 모습이 포착되었습니다.",
-                "script": "볼소나로 전 후보가 아르헨티나와 에콰도르를 거쳐 미국으로 향했습니다. 그의 갑작스러운 이동은 정치적 망명 논란을 불러일으키고 있습니다. 그가 왜 이런 선택을 했는지, 그 배후를 추적합니다.",
-                "sentiment": "negative"
-            },
-            {
-                "record_id": "1330387378",
-                "url": "https://www.ambito.com/informacion-general/la-uba-otorgara-el-honoris-causa-al-papa-leon-xiv-su-visita-argentina-n6339071",
+                "record_id": "1330625117",
+                "url": "https://www.hna.de/wirtschaft/trump-putin-deal-russischer-diesel-auf-dem-weg-in-die-usa-zr-94565681.html",
                 "related_urls": [],
                 "title": "",
                 "mentions": 50,
+                "sources": 5,
+                "goldstein": -5.0,
+                "tone": -1.54109589041096,
+                "score": 60.0,
+                "keyword": "러시아산 디젤 유입",
+                "hook": "트럼프와 푸틴의 비밀 거래설이 제기된 가운데, 러시아산 디젤이 미국으로 향하고 있습니다.",
+                "script": "제재를 뚫고 움직이는 러시아산 에너지, 그 배후에 트럼프와 푸틴의 합의가 있다는 의혹이 확산 중입니다. 국제 경제 질서가 흔들리는 현장을 추적합니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1330411645",
+                "url": "https://energyland.info/news-show--atom-288753",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
                 "sources": 1,
-                "goldstein": 4.0,
-                "tone": 2.54901960784314,
-                "score": 47.0,
-                "keyword": "교황 명예 박사",
-                "hook": "아르헨티나 대학이 교황에게 최고 영예를 수여하며 뜨거운 환영을 준비하고 있습니다.",
-                "script": "부에노스아이레스 대학이 교황 레오 14세에게 명예 박사 학위를 수여합니다. 이번 학위 수여는 교황의 아르헨티나 방문을 앞두고 국가적인 축제 분위기를 조성하고 있습니다. 과연 교황은 어떤 메시지를 던질까요?",
-                "sentiment": "positive"
+                "goldstein": -2.0,
+                "tone": -1.0179129732612,
+                "score": 52.0
             }
         ],
-        "last_updated": "2026-10-30 09:57:01 KST",
-        "current_rank": 10
+        "last_updated": "2026-10-30 18:56:49 KST",
+        "current_rank": 8
+    },
+    "Saudi Arabia": {
+        "gdp_rank": 17,
+        "spike_score": 248.0,
+        "trends": [
+            {
+                "record_id": "1330386888",
+                "url": "https://tradearabia.com:443/News/488838/John-Crane-seals-three-year-deal-with-Saudi-phosphate-mining-leader/CONS",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 8.0,
+                "tone": 3.71287128712871,
+                "score": 144.0,
+                "keyword": "사우디 광업 대규모계약",
+                "hook": "사우디아라비아의 인산염 채굴 시장이 거대 기업과의 계약으로 기록적인 성장을 예고합니다.",
+                "script": "사우디아라비아가 자원 대국으로의 도약을 가속화합니다. 오늘 존 크레인과의 3년 대규모 계약이 체결되며 인산염 채굴 산업에 막대한 자금이 풀립니다. 중동 경제의 지각변동이 다시 한번 시작되었습니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1330385986",
+                "url": "https://tradearabia.com:443/News/488839/Riyadh-awards-contract-for-first-alternative-mobility-network-phase/CONS",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 1,
+                "goldstein": 5.2,
+                "tone": 6.09318996415771,
+                "score": 104.0
+            }
+        ],
+        "last_updated": "2026-10-30 18:56:49 KST",
+        "current_rank": 9
     },
     "Mexico": {
         "gdp_rank": 12,
@@ -590,11 +483,7 @@
                 "sources": 1,
                 "goldstein": 1.0,
                 "tone": 2.75779376498801,
-                "score": 89.0,
-                "keyword": "산 후다스 축제",
-                "hook": "멕시코 과나후아토가 산 후다스 타데오 축제로 뜨겁게 달아올랐습니다.",
-                "script": "수많은 신자들이 믿음과 선물로 성인을 기리며 거리를 가득 채웠습니다. 멕시코 전통의 깊은 신앙심을 엿볼 수 있는 축제의 열기를 전합니다.",
-                "sentiment": "positive"
+                "score": 89.0
             },
             {
                 "record_id": "1330409149",
@@ -606,21 +495,21 @@
                 "goldstein": -2.0,
                 "tone": -2.92665753743011,
                 "score": 85.0,
-                "keyword": "선거 관리 논란",
-                "hook": "멕시코 선거관리위원회가 내부 부적절 행위 척결에 나섰습니다.",
-                "script": "과달루페의 부적절한 행태를 두고 선관위가 사법 당국에 직접 고발을 검토 중입니다. 선거 공정성을 뒤흔드는 이번 사건의 귀추가 주목됩니다.",
+                "keyword": "부정선거 감시 강화",
+                "hook": "멕시코 선거관리위원회가 과달루페의 위법 행위를 포착하고 사법 당국 고발을 검토 중입니다.",
+                "script": "선거판이 흔들리고 있습니다. 부정행위 의혹에 휩싸인 과달루페, 선관위가 칼을 빼 들었습니다. 민주주의를 위협하는 부패의 실체를 지금 바로 공개합니다.",
                 "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-30 09:57:01 KST",
-        "current_rank": 11
+        "last_updated": "2026-10-30 18:56:49 KST",
+        "current_rank": 10
     },
     "Turkey": {
         "gdp_rank": 16,
-        "spike_score": 124.0,
+        "spike_score": 151.0,
         "trends": [
             {
-                "record_id": "1330531685",
+                "record_id": "1330531471",
                 "url": "https://fox23.com/news/nation-world/michigan-democrat-on-fiance-voting-for-republican-mike-rogers-were-a-household-divided-senate-nominee-abdul-el-sayed-jewish-ted-cruz-elissa-slotkin-rrt",
                 "related_urls": [],
                 "title": "",
@@ -628,40 +517,128 @@
                 "sources": 6,
                 "goldstein": 4.0,
                 "tone": -3.19361277445108,
-                "score": 124.0,
-                "keyword": "정치적 분열 심화",
-                "hook": "하나의 집안이 두 개의 정치색으로 쪼개지는 충격적인 현실이 드러났습니다.",
-                "script": "가족조차 갈라놓은 극단적인 정치 대립. 지금 터키와 연계된 국제 사회에서 벌어지는 민주당과 공화당의 갈등이 한 가정을 어떻게 파괴하고 있는지 보도합니다. 신념의 차이가 불러온 비극, 지금 바로 확인하십시오.",
-                "sentiment": "negative"
-            }
-        ],
-        "last_updated": "2026-10-30 09:57:01 KST",
-        "current_rank": 12
-    },
-    "India": {
-        "gdp_rank": 5,
-        "spike_score": 73.0,
-        "trends": [
+                "score": 124.0
+            },
             {
-                "record_id": "1330414101",
-                "url": "https://indiankanoon.org/doc/68544924/",
-                "related_urls": [
-                    "https://indiankanoon.org/doc/10453951/"
-                ],
+                "record_id": "1330616069",
+                "url": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/karadag-vize-istedi-turk-tatilci-yeni-adresleri-secti-balkan-turlarinda-rota-degisiyor_ID102278824/",
+                "related_urls": [],
                 "title": "",
                 "mentions": 50,
                 "sources": 1,
-                "goldstein": -2.0,
-                "tone": -2.5273799494524,
-                "score": 73.0,
-                "keyword": "인도 법적 분쟁",
-                "hook": "법정의 판결이 인도 사회의 뜨거운 감자로 떠올랐습니다.",
-                "script": "인도 사법부의 결정이 내려졌습니다. 이번 판결은 단순한 법적 공방을 넘어 사회적 파장을 예고하고 있습니다. 자세한 내용을 지금 바로 확인하세요.",
-                "sentiment": "negative"
+                "goldstein": 0.0,
+                "tone": 1.44230769230769,
+                "score": 27.0,
+                "keyword": "튀르키예 여행지 변경",
+                "hook": "몬테네그로의 비자 요구로 인해 튀르키예 여행객들의 발길이 새로운 목적지로 향하고 있습니다.",
+                "script": "튀르키예 여행객들에게 비상 상황이 발생했습니다. 몬테네그로가 갑작스러운 비자 규제를 강화하면서, 수많은 관광객이 발길을 돌리고 있습니다. 발칸 반도 여행 지도가 완전히 바뀌고 있습니다. 대체 여행지는 어디가 될까요?",
+                "sentiment": "neutral"
             }
         ],
-        "last_updated": "2026-10-30 09:57:01 KST",
+        "last_updated": "2026-10-30 18:56:49 KST",
+        "current_rank": 11
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 146.0,
+        "trends": [
+            {
+                "record_id": "1330494578",
+                "url": "https://www.runcornandwidnesworld.co.uk/news/national/26681895.u2-announce-two-london-gigs-next-summer-greatest-show-earth-tour/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 7,
+                "goldstein": 4.0,
+                "tone": 2.72727272727273,
+                "score": 62.0
+            },
+            {
+                "record_id": "1330458593",
+                "url": "https://www.elcorreodeburgos.com/burgos/261028/246681/cartografia-intima-camino-santiago-33-etapas-salir-burgos.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": 4.0,
+                "tone": 0.10729613733905,
+                "score": 57.0
+            },
+            {
+                "record_id": "1330440706",
+                "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-avec-loic-de-la-mornais-israel-netanyahou-revient-dans-la-course_8258387.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": -0.65977245712345,
+                "score": 27.0,
+                "keyword": "네타냐후 정치 복귀",
+                "hook": "이스라엘 정국을 뒤흔든 네타냐후의 충격적인 재등장이 프랑스 외교 현안으로 떠올랐습니다.",
+                "script": "네타냐후가 다시 권력의 중심에 섰습니다. 전 세계가 주목하는 가운데, 이번 복귀가 중동 정세와 프랑스 외교에 미칠 파장이 심상치 않습니다. 격변하는 국제 정치, 지금 바로 확인하십시오.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-10-30 18:56:48 KST",
+        "current_rank": 12
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 146.0,
+        "trends": [
+            {
+                "record_id": "1330491074",
+                "url": "https://g1.globo.com/ac/acre/noticia/2026/10/29/evasao-operacao-contra-trafico-de-drogas-cumpre-mandados-de-prisao-no-acre.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -13.373253493014,
+                "score": 97.0,
+                "keyword": "마약 조직 소탕",
+                "hook": "브라질 아크레 주 전역에서 대규모 마약 조직을 겨냥한 긴급 체포 작전이 시작되었습니다.",
+                "script": "새벽을 가르는 경찰의 급습, 브라질 마약 카르텔이 궤멸 위기에 처했습니다. 체포 영장이 발부된 핵심 인물들이 줄줄이 수갑을 차고 있습니다. 현장의 긴박한 상황을 전합니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330506965",
+                "url": "http://www.tz.de/politik/demokratische-kandidatin-meta-sperrte-wahlkampfseite-waehrend-wichtiger-kundgebung-zr-94565003.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 6,
+                "goldstein": -0.4,
+                "tone": -2.67568501245478,
+                "score": 49.0
+            }
+        ],
+        "last_updated": "2026-10-30 18:56:49 KST",
         "current_rank": 13
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 70.0,
+        "trends": [
+            {
+                "record_id": "1330589139",
+                "url": "http://en.people.cn/n3/2026/1030/c90000-20513866.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": 4.4700793078587,
+                "score": 70.0,
+                "keyword": "중국 외교 강화",
+                "hook": "국제 무대에서 중국의 영향력이 다시 한번 요동치고 있습니다.",
+                "script": "중국이 글로벌 외교 전략의 새로운 장을 열었습니다. 이번 발표는 향후 국제 정세에 상당한 변화를 예고하고 있습니다. 과연 어떤 결과로 이어질지 전 세계가 주목하고 있습니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-10-30 18:56:48 KST",
+        "current_rank": 14
     },
     "Italy": {
         "gdp_rank": 8,
@@ -677,14 +654,14 @@
                 "goldstein": 7.0,
                 "tone": -6.97753791807476,
                 "score": 68.0,
-                "keyword": "이탈리아 마약 살인",
-                "hook": "마약 거래 분쟁이 결국 20대 청년의 참혹한 살인극으로 번졌습니다.",
-                "script": "이탈리아에서 발생한 알바니아인 살해 사건, 29세 용의자가 범행을 전면 자백했습니다. 마약 거래를 둘러싼 다툼이 끔찍한 비극의 도화선이 됐습니다. 현재 경찰은 사건의 배후와 마약 조직의 연루 가능성을 집중 수사 중입니다.",
-                "sentiment": "warning"
+                "keyword": "이탈리아 살인 자백",
+                "hook": "마약 거래 다툼 끝에 벌어진 끔찍한 살인, 29세 범인이 마침내 입을 열었습니다.",
+                "script": "이탈리아를 충격에 빠뜨린 사건입니다. 마약 시장을 둘러싼 잔혹한 혈투, 그 끝은 살인이었습니다. 29세의 용의자가 범행을 자백하며 사건의 전말이 드러나고 있습니다.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-10-30 09:57:01 KST",
-        "current_rank": 14
+        "last_updated": "2026-10-30 18:56:49 KST",
+        "current_rank": 15
     },
     "Japan": {
         "gdp_rank": 4,
@@ -700,36 +677,36 @@
                 "goldstein": -2.0,
                 "tone": 1.10497237569061,
                 "score": 62.0,
-                "keyword": "일본 지역 이슈",
-                "hook": "부산 지역 소식과 연계된 일본 현지의 긴박한 정보가 공개되었습니다.",
-                "script": "일본 내 유의미한 소식이 전해졌습니다. 현재 관련 사안에 대한 상세 내용이 확인되고 있으며, 향후 지역 사회에 미칠 영향에 이목이 쏠리고 있습니다.",
-                "sentiment": "neutral"
+                "keyword": "한일 교류 변화",
+                "hook": "부산과 일본을 잇는 새로운 흐름이 감지되고 있습니다.",
+                "script": "지리적 인접성을 넘어선 새로운 교류의 장이 열리고 있습니다. 이번 변화가 양국 관계에 어떤 긍정적인 영향을 미칠지 관심이 집중됩니다. 새로운 파트너십의 시작, 지금 확인해보세요.",
+                "sentiment": "positive"
             }
         ],
-        "last_updated": "2026-10-30 09:57:01 KST",
-        "current_rank": 15
+        "last_updated": "2026-10-30 18:56:48 KST",
+        "current_rank": 16
     },
-    "Russia": {
-        "gdp_rank": 11,
-        "spike_score": 52.0,
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 47.0,
         "trends": [
             {
-                "record_id": "1330411645",
-                "url": "https://energyland.info/news-show--atom-288753",
+                "record_id": "1330387378",
+                "url": "https://www.ambito.com/informacion-general/la-uba-otorgara-el-honoris-causa-al-papa-leon-xiv-su-visita-argentina-n6339071",
                 "related_urls": [],
                 "title": "",
-                "mentions": 80,
+                "mentions": 50,
                 "sources": 1,
-                "goldstein": -2.0,
-                "tone": -1.0179129732612,
-                "score": 52.0,
-                "keyword": "러시아 원자력 뉴스",
-                "hook": "러시아 원자력 산업의 현재를 보여주는 긴급 소식이 전해졌습니다.",
-                "script": "에너지 현장에서 들려온 원자력 관련 소식이 업계에 미칠 파장이 주목됩니다. 러시아 원자력 정책의 변곡점이 될지 지켜봐야 합니다.",
-                "sentiment": "neutral"
+                "goldstein": 4.0,
+                "tone": 2.54901960784314,
+                "score": 47.0,
+                "keyword": "교황 명예박사 수여",
+                "hook": "아르헨티나 부에노스아이레스 대학이 프란치스코 교황에게 명예박사 학위를 수여하며 방문 기대감이 고조됩니다.",
+                "script": "아르헨티나가 들썩이고 있습니다. 부에노스아이레스 대학이 프란치스코 교황에게 명예박사 학위를 수여하기로 결정했습니다. 이번 학위 수여가 교황의 고국 방문으로 이어질지 전 세계의 시선이 집중되고 있습니다.",
+                "sentiment": "positive"
             }
         ],
-        "last_updated": "2026-10-30 09:57:01 KST",
-        "current_rank": 16
+        "last_updated": "2026-10-30 18:56:49 KST",
+        "current_rank": 17
     }
 }
