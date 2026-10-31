@@ -1,0 +1,683 @@
+{
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 1117.0,
+        "trends": [
+            {
+                "record_id": "1330707426",
+                "url": "https://www.greenocktelegraph.co.uk/news/national/26685458.man-wielding-knife-threatens-migrants-boards-small-boat-bound-uk/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 180,
+                "sources": 18,
+                "goldstein": -9.0,
+                "tone": -2.46710526315791,
+                "score": 633.5
+            },
+            {
+                "record_id": "1330828383",
+                "url": "https://www.thenorthernecho.co.uk/news/national/26687192.nearly-1-000-migrants-cross-channel-two-days-three-week-pause/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 11,
+                "goldstein": -9.0,
+                "tone": -4.07186309625334,
+                "score": 243.0
+            },
+            {
+                "record_id": "1330844598",
+                "url": "https://www.sthelensstar.co.uk/news/national/26687375.320-000-join-nationwide-protests-france-reduced-turnout-says-government/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 130,
+                "sources": 13,
+                "goldstein": -7.5,
+                "tone": -8.43195266272189,
+                "score": 128.5,
+                "keyword": "프랑스 전국 시위",
+                "hook": "프랑스 전역이 멈춰 섰습니다. 32만 명의 인파가 거리로 쏟아져 나왔습니다.",
+                "script": "프랑스 정부의 발표에도 불구하고, 전국 각지에서 32만 명이 참여한 대규모 시위가 벌어졌습니다. 민심의 분노는 가라앉지 않고 있으며, 정국은 대혼란의 소용돌이 속으로 빠져들고 있습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1330774545",
+                "url": "https://www.advance.hr/perpetuum/energetska-kriza/?update=4957&sNaslovnice=1",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -1.11111111111111,
+                "score": 67.0
+            },
+            {
+                "record_id": "1330671029",
+                "url": "https://www.az-online.de/welt/internationale-umfrage-mehrheit-erwartet-kontakt-mit-ausserirdischen-zr-94565645.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -2.0,
+                "tone": -0.892326558490959,
+                "score": 45.0
+            }
+        ],
+        "last_updated": "2026-11-01 04:15:38 KST",
+        "current_rank": 1
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 1100.0,
+        "trends": [
+            {
+                "record_id": "1330817220",
+                "url": "https://www.peeblesshirenews.com/news/national/26687064.evacuees-occupied-oleshky-arrive-belarus-en-route-ukraine/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": -10.0,
+                "tone": -1.85185185185185,
+                "score": 331.5,
+                "keyword": "올레시키 피란민 이송",
+                "hook": "러시아 점령지 올레시키에서 탈출한 피란민들이 고통스러운 여정을 이어가고 있습니다.",
+                "script": "러시아군 점령지 올레시키를 떠난 피란민들이 벨라루스를 거쳐 우크라이나로 향하고 있습니다. 전쟁의 상흔을 안고 돌아온 이들의 모습이 현장을 더욱 숙연하게 만듭니다. 생존을 향한 처절한 사투가 계속되고 있습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330825575",
+                "url": "https://www.aol.co.uk/articles/adventurer-karl-bushby-48-hours-132416000.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 96,
+                "sources": 16,
+                "goldstein": 3.4,
+                "tone": 1.40406416662539,
+                "score": 280.5,
+                "keyword": "모험가 칼 부시비",
+                "hook": "극한의 모험가 칼 부시비가 다시 한번 한계에 도전합니다.",
+                "script": "48시간 동안 펼쳐지는 극한의 모험이 시작되었습니다. 칼 부시비의 새로운 도전은 전 세계 시청자들의 가슴을 뛰게 만듭니다. 그가 보여줄 기적 같은 생존 드라마를 주목하십시오.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1330835251",
+                "url": "https://www.dudleynews.co.uk/news/national/26687277.evacuees-russian-occupied-oleshky-reunited-relatives-ukraine/",
+                "related_urls": [
+                    "https://www.witneygazette.co.uk/news/national/26687277.evacuees-russian-occupied-oleshky-back-ukraine-local-ceasefire/"
+                ],
+                "title": "",
+                "mentions": 64,
+                "sources": 8,
+                "goldstein": -9.5,
+                "tone": -1.70623517047162,
+                "score": 216.0,
+                "keyword": "피란민 가족 재회",
+                "hook": "전쟁의 포화 속에서 헤어졌던 피란민 가족이 눈물의 재회를 했습니다.",
+                "script": "올레시키 점령지에서 탈출한 피란민들이 우크라이나에서 가족과 다시 만났습니다. 전쟁이 갈라놓았던 이들의 재회는 현장의 모든 이들을 눈물짓게 했습니다. 비극적인 전쟁 속 희망의 신호탄입니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330635357",
+                "url": "http://www.schwaebische-post.de/welt/politik/trump-aussenpolitik-19-milliarden-dollar-kosten-laut-bericht-zr-94565898.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 6,
+                "goldstein": 8.0,
+                "tone": -2.6713500044887,
+                "score": 149.0,
+                "keyword": "트럼프 외교 비용",
+                "hook": "트럼프의 외교 정책이 막대한 재정적 부담을 초래하고 있다는 분석이 나왔습니다.",
+                "script": "190억 달러, 트럼프 외교 정책에 들어가는 천문학적인 비용이 공개됐습니다. 국제 사회의 비판과 함께 예산 낭비 논란이 점화되고 있습니다. 과연 이 비용은 정당한 투자인가요?",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330839576",
+                "url": "https://wlos.com/news/nation-world/us-embassy-warns-of-credible-threat-of-a-mass-casualty-event-at-moscow-museum-tsaritsyno-museum-reserve-halloween-alert-warning-russia",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 3.0,
+                "tone": -6.07142857142857,
+                "score": 123.0,
+                "keyword": "모스크바 테러 경고",
+                "hook": "모스크바 차리치노 박물관에 끔찍한 테러 위협이 감지되었습니다.",
+                "script": "미국 대사관이 긴급 경보를 발령했습니다. 핼러윈을 앞두고 다수의 사상자를 낼 수 있는 테러 위협이 제기됐습니다. 러시아 수도 모스크바 전역에 초비상이 걸렸습니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-11-01 04:15:38 KST",
+        "current_rank": 2
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 996.5,
+        "trends": [
+            {
+                "record_id": "1330756668",
+                "url": "https://www.armidaleexpress.com.au/story/9383443/king-charles-sorrow-over-slavery-faces-financial-test/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 6,
+                "goldstein": 3.0,
+                "tone": -5.72992022055331,
+                "score": 209.5
+            },
+            {
+                "record_id": "1330681764",
+                "url": "https://www.dissexpress.co.uk/national/four-nations-must-move-at-same-pace-together-burnham-says-on-devolution-173664/",
+                "related_urls": [
+                    "https://www.eastlothiancourier.com/news/national/26685383.four-nations-must-move-pace-together-burnham-says-devolution/"
+                ],
+                "title": "",
+                "mentions": 55,
+                "sources": 11,
+                "goldstein": 7.4,
+                "tone": -0.973510772432701,
+                "score": 206.0
+            },
+            {
+                "record_id": "1330724710",
+                "url": "https://www.romfordrecorder.co.uk/news/national/26686599.charles-hears-tale-prejudice-guyanese-veteran-fought-britain/",
+                "related_urls": [
+                    "https://www.kentonline.co.uk/news/national/charles-hears-tale-of-prejudice-from-guyanese-veteran-who-fought-for-britain-173681/",
+                    "https://www.cambstimes.co.uk/news/national/26686599.charles-hears-tale-prejudice-guyanese-veteran-fought-britain/"
+                ],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 1.9,
+                "tone": -1.02884128858155,
+                "score": 201.0
+            },
+            {
+                "record_id": "1330822599",
+                "url": "https://www.sthelensstar.co.uk/news/national/26687130.environmentalists-stage-halloween-demonstration-scary-fossil-fuels/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -6.5,
+                "tone": -4.53918679237735,
+                "score": 190.0
+            },
+            {
+                "record_id": "1330650783",
+                "url": "https://www.thenorthernecho.co.uk/news/national/26684276.astrazeneca-launches-overhaul-cut-costs-gbp1-1bn-year/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 10,
+                "goldstein": 4.0,
+                "tone": 1.76791456132292,
+                "score": 190.0,
+                "keyword": "아스트라제네카 비용 절감",
+                "hook": "제약 거인 아스트라제네카, 1조 원대 비용 절감이라는 초강수를 뒀습니다.",
+                "script": "글로벌 제약사 아스트라제네카가 연간 11억 파운드, 우리 돈으로 약 1조 9천억 원 규모의 대대적인 비용 절감 계획을 발표했습니다. 경영 효율화를 위한 이번 개편이 업계에 미칠 파장이 상당할 것으로 보입니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-01 04:15:38 KST",
+        "current_rank": 3
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 953.5,
+        "trends": [
+            {
+                "record_id": "1330750968",
+                "url": "https://www.centralwesterndaily.com.au/story/9383397/serious-harm-all-eyes-on-australia-over-toxic-spray/",
+                "related_urls": [
+                    "https://www.blayneychronicle.com.au/story/9383397/serious-harm-all-eyes-on-australia-over-toxic-spray/"
+                ],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 4.0,
+                "tone": -4.26220949683318,
+                "score": 290.0,
+                "keyword": "독성 스프레이 경고",
+                "hook": "호주 전역에 독성 물질에 대한 치명적인 경고가 울렸습니다.",
+                "script": "독성 스프레이가 인체에 심각한 해를 끼칠 수 있다는 사실이 드러났습니다. 전 세계가 호주의 대응을 주시하고 있습니다. 건강을 위협하는 화학 물질로부터 시민들을 보호할 방안이 시급합니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1330749960",
+                "url": "https://www.muswellbrookchronicle.com.au/story/9383389/election-pledges-yet-to-remedy-gaps-in-health-care/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 3.4,
+                "tone": -2.08545182474668,
+                "score": 223.5,
+                "keyword": "의료 공백 방치",
+                "hook": "정치권의 약속에도 불구하고 호주 의료 시스템은 붕괴 직전입니다.",
+                "script": "선거 공약은 허울뿐이었습니다. 의료 현장의 공백은 여전히 메워지지 않고 있으며, 환자들의 고통은 가중되고 있습니다. 정부의 실질적인 대책이 절실한 시점입니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330570703",
+                "url": "https://www.wellingtontimes.com.au/story/9382830/farmers-led-down-dead-end-on-opposition-to-eu-deal/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 7,
+                "goldstein": -4.0,
+                "tone": -0.703271936910055,
+                "score": 165.0,
+                "keyword": "농가 EU 협상",
+                "hook": "EU와의 무역 협상에 농민들의 분노가 폭발했습니다.",
+                "script": "농민들이 막다른 골목에 몰렸습니다. 정부의 무능한 EU 협상 추진에 농업계가 강력히 반발하고 있습니다. 이들의 생존권이 달린 협상의 끝은 어디일까요?",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330771025",
+                "url": "https://www.northerndailyleader.com.au/story/9383446/liberals-surge-in-polls-as-leader-signs-up-for-debate/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 3.4,
+                "tone": -0.295100683870509,
+                "score": 160.0,
+                "keyword": "자유당 지지율 급등",
+                "hook": "호주 자유당이 지지율 수직 상승을 기록하며 정국이 요동치고 있습니다.",
+                "script": "여론조사 결과 자유당의 지지율이 급등했습니다. 당 대표가 토론에 참여하기로 결정하면서 정권 교체의 신호탄이 될지 귀추가 주목됩니다. 정치권의 판도가 완전히 바뀌고 있습니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1330574591",
+                "url": "https://www.armidaleexpress.com.au/story/9382895/notorious-predator-hit-with-hundreds-more-abuse-charges/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -9.0,
+                "tone": -13.6022991531745,
+                "score": 115.0,
+                "keyword": "악질 범죄자 추가 기소",
+                "hook": "악명 높은 성범죄자가 수백 건의 추가 혐의로 법의 심판대에 섭니다.",
+                "script": "희대의 악질 범죄자가 수백 개의 새로운 학대 혐의를 받고 있습니다. 피해자들의 고통을 외면할 수 없는 잔혹한 범죄 행각이 낱낱이 드러나고 있습니다. 정의가 구현될 시간입니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-01 04:15:38 KST",
+        "current_rank": 4
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 776.0,
+        "trends": [
+            {
+                "record_id": "1330676386",
+                "url": "https://www.dailylocal.com/2026/10/30/online-career-training/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 2.8,
+                "tone": 0.33613445378151,
+                "score": 205.5
+            },
+            {
+                "record_id": "1330570857",
+                "url": "https://wtkg.iheart.com/content/2026-10-29-trump-to-campaign-in-florida-friday/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 54,
+                "sources": 1,
+                "goldstein": -6.5,
+                "tone": 0.398062056033068,
+                "score": 159.5
+            },
+            {
+                "record_id": "1330571245",
+                "url": "https://www.southcarolinapublicradio.org/news/2026-10-29/alaskas-all-important-senate-race-is-roiled-by-a-report-on-alleged-spoiler-candidate",
+                "related_urls": [],
+                "title": "",
+                "mentions": 76,
+                "sources": 10,
+                "goldstein": -2.0,
+                "tone": -2.86260428689031,
+                "score": 152.0
+            },
+            {
+                "record_id": "1330570665",
+                "url": "https://1190talkradio.iheart.com/content/2026-10-29-patrick-stewart-legendary-star-trek-x-men-actor-dies-at-86/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 210,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": 5.3061224489796,
+                "score": 142.0,
+                "keyword": "전설적 배우 별세",
+                "hook": "스타트렉의 아이콘, 패트릭 스튜어트가 86세의 나이로 우리 곁을 떠났습니다.",
+                "script": "할리우드의 거목이 쓰러졌습니다. 스타트렉과 엑스맨 시리즈로 전 세계인의 사랑을 받았던 배우 패트릭 스튜어트가 향년 86세로 별세했습니다. 수많은 팬들이 그의 영원한 안식을 기원하고 있습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330750859",
+                "url": "https://krcgtv.com/news/nation-world/appeals-court-rejects-dojs-request-for-california-to-set-aside-disputed-ballots-politics-midterms-midterm-elections-government-mail-in-votes-voters-voting-polls-noncitizens-citizenship-illegal-immigrants",
+                "related_urls": [],
+                "title": "",
+                "mentions": 170,
+                "sources": 6,
+                "goldstein": -4.0,
+                "tone": -4.71113526592017,
+                "score": 117.0,
+                "keyword": "투표용지 법적 공방",
+                "hook": "미국 대선을 뒤흔들 투표용지 논란, 법원이 드디어 입을 열었습니다.",
+                "script": "캘리포니아주 투표용지 처리를 두고 벌어진 법무부와 법원의 정면충돌입니다. 항소법원이 투표용지 분류 보류 요청을 기각하며 대선 정국은 한 치 앞을 알 수 없는 혼돈 속으로 빠져들고 있습니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-11-01 04:15:38 KST",
+        "current_rank": 5
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 413.0,
+        "trends": [
+            {
+                "record_id": "1330749500",
+                "url": "https://correiodoestado.com.br/cidades/funai-aciona-pf-e-pede-apuracao-de-casos-de-ataques-contra-indigenas/475969/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -3.8737890108828,
+                "score": 413.0,
+                "keyword": "원주민 습격 수사",
+                "hook": "브라질 원주민을 향한 잔혹한 습격이 잇따르며 국가 비상이 걸렸습니다.",
+                "script": "FUNAI가 연방 경찰에 즉각적인 수사를 요청했습니다. 원주민 거주지를 겨냥한 공격이 멈추지 않고 있습니다. 생존을 위협받는 이들을 보호하기 위해 공권력이 투입될 예정입니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-01 04:15:38 KST",
+        "current_rank": 6
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 396.5,
+        "trends": [
+            {
+                "record_id": "1330852652",
+                "url": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26687375.third-weekend-protests-france-youth-led-rallies-sweep-europe/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 2.8,
+                "tone": -9.4017094017094,
+                "score": 107.5,
+                "keyword": "유럽 전역 시위",
+                "hook": "유럽의 거리가 멈췄습니다. 청년들이 이끄는 분노의 물결이 대륙을 뒤덮었습니다.",
+                "script": "3주 연속 이어진 대규모 시위가 유럽을 마비시키고 있습니다. 기성세대를 향한 청년층의 목소리가 점점 거세지는 가운데, 독일을 포함한 유럽 전역의 긴장감이 최고조에 달했습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1330670267",
+                "url": "http://www.merkur.de/politik/prien-an-gen-z-regelt-vor-demos-seid-laut-aber-nicht-gewalttaetig-zr-94566540.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 4,
+                "goldstein": 4.0,
+                "tone": -5.46045626712748,
+                "score": 96.0
+            },
+            {
+                "record_id": "1330666367",
+                "url": "https://www.kreiszeitung.de/boulevard/gryffindor-slytherin-und-so-weiter-richard-david-precht-fordert-schulhaeuser-wie-bei-harry-potter-zr-94566464.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 4,
+                "goldstein": -4.0,
+                "tone": -0.716158636512618,
+                "score": 88.0
+            },
+            {
+                "record_id": "1330643882",
+                "url": "http://www.tz.de/welt/schauspielerin-helene-grass-appelliert-wer-organe-spenden-will-sollte-es-zu-lebzeiten-klar-festhalten-zr-94566094.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 1.0,
+                "tone": -0.833831440525997,
+                "score": 54.0
+            },
+            {
+                "record_id": "1330580859",
+                "url": "https://edmontonsun.com/entertainment/celebrity/jon-lovitz-crystal-hefners-playboys-no-1-customer",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": -0.393540084242231,
+                "score": 51.0
+            }
+        ],
+        "last_updated": "2026-11-01 04:15:38 KST",
+        "current_rank": 7
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 309.0,
+        "trends": [
+            {
+                "record_id": "1330793605",
+                "url": "https://indiankanoon.org/doc/84925351/",
+                "related_urls": [
+                    "https://indiankanoon.org/doc/144177147/",
+                    "https://indiankanoon.org/doc/177949005/"
+                ],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": 5.0,
+                "tone": -5.59628331726174,
+                "score": 247.0,
+                "keyword": "사법부 엄중 판결",
+                "hook": "인도 법원이 내린 충격적인 판결, 사회적 파장이 예고됩니다.",
+                "script": "인도 사법부가 최근 내린 판결이 법조계와 시민 사회를 뒤흔들고 있습니다. 이번 결정이 향후 인도 사회의 법적 기준과 질서에 어떤 파장을 몰고 올지 귀추가 주목됩니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330762477",
+                "url": "https://www.legallyindia.com/convos/topic/499526-salary-hike",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.62709887124901,
+                "score": 62.0
+            }
+        ],
+        "last_updated": "2026-11-01 04:15:38 KST",
+        "current_rank": 8
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 238.0,
+        "trends": [
+            {
+                "record_id": "1330831248",
+                "url": "https://www.zazoom.it/2026-10-31/oltre-cento-partecipanti-per-la-giornata-di-formazione-professionale-per-le-forze-di-polizia-al-castello-di-poppi/19871813/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": 8.3,
+                "tone": 0.93023255813953,
+                "score": 78.5,
+                "keyword": "경찰 전문 교육",
+                "hook": "이탈리아 포피 성에서 경찰 병력을 위한 대규모 전문 교육이 시작되었습니다.",
+                "script": "이탈리아 포피 성에 백 명이 넘는 경찰 인력이 집결했습니다. 치안 강화와 전문성 향상을 위한 집중 교육이 진행 중입니다. 현장 보안은 삼엄하며, 이번 훈련이 지역 사회에 미칠 영향에 이목이 쏠리고 있습니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1330844429",
+                "url": "https://www.sthelensstar.co.uk/news/national/26687375.320-000-join-nationwide-protests-france-reduced-turnout-says-government/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 65,
+                "sources": 13,
+                "goldstein": -2.0,
+                "tone": -8.43195266272191,
+                "score": 68.5,
+                "keyword": "프랑스 대규모 시위",
+                "hook": "프랑스 전역이 반정부 시위대의 함성으로 뒤덮였습니다.",
+                "script": "32만 명의 시민들이 거리로 쏟아져 나왔습니다. 정부는 시위 규모가 줄었다고 주장하지만, 분노한 군중은 물러설 기미가 보이지 않습니다. 과연 프랑스의 정국은 어디로 향할까요?",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330803271",
+                "url": "https://www.index.hr/vijesti/clanak/europa-vrije-stotine-tisuce-izlaze-na-ulice-noc-vjestica-mogla-bi-im-biti-paravan/2851754.aspx?index_ref=homepage_comment_box_d&commentId=12378605",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -4.4,
+                "tone": -5.40897097625328,
+                "score": 64.0,
+                "keyword": "유럽 거리 시위",
+                "hook": "핼러윈의 밤, 유럽 전역이 시위대의 분노로 불타고 있습니다.",
+                "script": "유럽 주요 도시들이 시위로 마비되었습니다. 축제 분위기여야 할 핼러윈 밤이 정치적 갈등의 현장으로 변질됐습니다. 시민들의 분노가 폭발하면서 유럽 대륙에 긴장감이 최고조에 달했습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330810595",
+                "url": "https://www.zazoom.it/2026-10-31/il-neosegretario-della-fiom-cgil-samuele-lodi-con-la-kefiah-che-cita-il-7-ottobre-la-difesa-scritta-in-arabo-nessuno-ha-tradotto-idee-incompatibili-con-noi-ma-vicini-alla-palestina/19871141/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": 1.55709342560554,
+                "score": 27.0,
+                "keyword": "노조 위원장 논란",
+                "hook": "이탈리아 노동계가 충격적인 상징물 논란에 휩싸였습니다.",
+                "script": "FIOM-CGIL의 사무총장 사무엘 로디가 7일 사건을 연상시키는 문구가 새겨진 케피야를 착용해 거센 비판을 받고 있습니다. 친팔레스타인 행보가 도를 넘었다는 지적과 함께 정치적 파장이 일파만파 번지고 있습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-01 04:15:38 KST",
+        "current_rank": 9
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 178.0,
+        "trends": [
+            {
+                "record_id": "1330725751",
+                "url": "https://www.birgun.net/haber/akp-li-savci-sayan-dan-bddk-baskani-na-sorular-emre-tezmen-kardes-gel-birlikte-bir-kahve-icelim-dediniz-mi-743566%20class=slide-legend-link%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": 7.4,
+                "tone": -2.84090909090909,
+                "score": 141.0,
+                "keyword": "정치권 커피 회동",
+                "hook": "터키 정치권에서 의문의 커피 회동 제안이 논란을 일으키고 있습니다.",
+                "script": "AKP의 사브지 사얀이 BDDK 회장에게 던진 커피 제안이 정치적 공방으로 번졌습니다. 단순한 친목인지, 아니면 배후가 있는 정치적 거래인지 의혹이 증폭되고 있습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330790409",
+                "url": "https://www.haberler.com/ekonomi/ticaret-bakanligi-turquality-de-fuar-katilimina-20382297-haberi/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": 5.57432432432433,
+                "score": 37.0,
+                "keyword": "무역 박람회 지원",
+                "hook": "터키가 글로벌 시장 공략을 위해 무역 박람회 지원에 사활을 걸었습니다.",
+                "script": "무역부가 터키퀄리티 브랜드를 앞세워 박람회 참여 기업들을 전폭 지원합니다. 수출 시장 확대를 위한 공격적인 행보입니다. 터키 경제의 새로운 도약이 시작됩니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-11-01 04:15:38 KST",
+        "current_rank": 10
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 172.0,
+        "trends": [
+            {
+                "record_id": "1330589139",
+                "url": "http://en.people.cn/n3/2026/1030/c90000-20513866.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": 4.4700793078587,
+                "score": 70.0
+            },
+            {
+                "record_id": "1330666883",
+                "url": "http://www.bignewsnetwork.com/news/279404531/china-xizang-nagqu-earthquake-resettlement-kindergarten-cn",
+                "related_urls": [],
+                "title": "",
+                "mentions": 66,
+                "sources": 2,
+                "goldstein": 3.4,
+                "tone": -0.134680134680136,
+                "score": 54.0
+            },
+            {
+                "record_id": "1330796078",
+                "url": "http://www.australiannews.net/news/279405528/ai-takes-on-bigger-role-in-china-express-delivery-during-singles-day-peak",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 4,
+                "goldstein": 0.0,
+                "tone": 1.88028056751156,
+                "score": 48.0,
+                "keyword": "AI 배송 혁명",
+                "hook": "중국 쇼핑 대목, 사람 대신 AI가 물류를 장악하고 있습니다.",
+                "script": "싱글즈 데이 특수를 앞둔 중국, 물류 현장의 풍경이 완전히 달라졌습니다. 인공지능이 배송 효율을 극대화하며 거대한 물류 네트워크를 실시간으로 지휘하고 있습니다. 기술이 바꾼 쇼핑의 미래를 확인하십시오.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-11-01 04:15:38 KST",
+        "current_rank": 11
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 63.0,
+        "trends": [
+            {
+                "record_id": "1330695112",
+                "url": "https://www.nugget.ca/press-releases/pr-newswire/osc-invites-applications-for-securities-advisory-committee/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 4,
+                "goldstein": 3.0,
+                "tone": 4.54545454545454,
+                "score": 63.0,
+                "keyword": "자문 위원 모집",
+                "hook": "캐나다 금융 시장의 미래를 결정할 핵심 자문 위원회가 문을 엽니다.",
+                "script": "온타리오 증권위원회가 자문 위원회에 합류할 인재를 찾습니다. 금융 시장의 안정과 혁신을 이끌 전문가들의 지원이 시작되었습니다. 캐나다 경제의 새로운 밑그림이 그려질지 주목됩니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-11-01 04:15:38 KST",
+        "current_rank": 12
+    }
+}
