@@ -1,0 +1,559 @@
+{
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 1016.5,
+        "trends": [
+            {
+                "record_id": "1330750968",
+                "url": "https://www.centralwesterndaily.com.au/story/9383397/serious-harm-all-eyes-on-australia-over-toxic-spray/",
+                "related_urls": [
+                    "https://www.blayneychronicle.com.au/story/9383397/serious-harm-all-eyes-on-australia-over-toxic-spray/"
+                ],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 4.0,
+                "tone": -4.26220949683318,
+                "score": 290.0
+            },
+            {
+                "record_id": "1330750523",
+                "url": "https://www.muswellbrookchronicle.com.au/story/9383389/election-pledges-yet-to-remedy-gaps-in-health-care/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 6,
+                "goldstein": -5.0,
+                "tone": -2.08545182474668,
+                "score": 284.5
+            },
+            {
+                "record_id": "1330570703",
+                "url": "https://www.wellingtontimes.com.au/story/9382830/farmers-led-down-dead-end-on-opposition-to-eu-deal/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 7,
+                "goldstein": -4.0,
+                "tone": -0.703271936910055,
+                "score": 165.0
+            },
+            {
+                "record_id": "1330771025",
+                "url": "https://www.northerndailyleader.com.au/story/9383446/liberals-surge-in-polls-as-leader-signs-up-for-debate/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 3.4,
+                "tone": -0.295100683870509,
+                "score": 160.0
+            },
+            {
+                "record_id": "1330750122",
+                "url": "https://www.dungogchronicle.com.au/story/9383391/little-cleos-recovery-so-fortunate-say-crime-experts/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 6,
+                "goldstein": 7.4,
+                "tone": 0.585049609265673,
+                "score": 117.0
+            }
+        ],
+        "last_updated": "2026-10-31 21:20:04 KST",
+        "current_rank": 1
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 987.5,
+        "trends": [
+            {
+                "record_id": "1330756668",
+                "url": "https://www.armidaleexpress.com.au/story/9383443/king-charles-sorrow-over-slavery-faces-financial-test/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 6,
+                "goldstein": 3.0,
+                "tone": -5.72992022055331,
+                "score": 209.5
+            },
+            {
+                "record_id": "1330681764",
+                "url": "https://www.dissexpress.co.uk/national/four-nations-must-move-at-same-pace-together-burnham-says-on-devolution-173664/",
+                "related_urls": [
+                    "https://www.eastlothiancourier.com/news/national/26685383.four-nations-must-move-pace-together-burnham-says-devolution/"
+                ],
+                "title": "",
+                "mentions": 55,
+                "sources": 11,
+                "goldstein": 7.4,
+                "tone": -0.973510772432701,
+                "score": 206.0
+            },
+            {
+                "record_id": "1330749956",
+                "url": "https://www.kentonline.co.uk/news/national/charles-hears-tale-of-prejudice-from-guyanese-veteran-who-fought-for-britain-173681/",
+                "related_urls": [
+                    "https://www.cambstimes.co.uk/news/national/26686599.charles-hears-tale-prejudice-guyanese-veteran-fought-britain/",
+                    "https://www.romfordrecorder.co.uk/news/national/26686599.charles-hears-tale-prejudice-guyanese-veteran-fought-britain/"
+                ],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 1.9,
+                "tone": -1.02884128858155,
+                "score": 201.0
+            },
+            {
+                "record_id": "1330651988",
+                "url": "https://www.thenorthernecho.co.uk/news/national/26684276.astrazeneca-launches-overhaul-cut-costs-gbp1-1bn-year/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 10,
+                "goldstein": 4.0,
+                "tone": 1.76791456132292,
+                "score": 190.0
+            },
+            {
+                "record_id": "1330692879",
+                "url": "https://www.yorkpress.co.uk/news/national/26685883.streeting-condemns-swinneys-irresponsible-unfounded-comments-defence/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 12,
+                "goldstein": -2.0,
+                "tone": -4.40261063519177,
+                "score": 181.0
+            }
+        ],
+        "last_updated": "2026-10-31 21:20:04 KST",
+        "current_rank": 2
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 924.5,
+        "trends": [
+            {
+                "record_id": "1330675961",
+                "url": "https://www.dailylocal.com/2026/10/30/online-career-training/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 2.8,
+                "tone": 0.33613445378151,
+                "score": 301.0
+            },
+            {
+                "record_id": "1330571245",
+                "url": "https://www.southcarolinapublicradio.org/news/2026-10-29/alaskas-all-important-senate-race-is-roiled-by-a-report-on-alleged-spoiler-candidate",
+                "related_urls": [],
+                "title": "",
+                "mentions": 76,
+                "sources": 10,
+                "goldstein": -2.0,
+                "tone": -2.86260428689031,
+                "score": 205.0
+            },
+            {
+                "record_id": "1330570857",
+                "url": "https://wtkg.iheart.com/content/2026-10-29-trump-to-campaign-in-florida-friday/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 54,
+                "sources": 1,
+                "goldstein": -6.5,
+                "tone": 0.398062056033068,
+                "score": 159.5
+            },
+            {
+                "record_id": "1330570665",
+                "url": "https://1190talkradio.iheart.com/content/2026-10-29-patrick-stewart-legendary-star-trek-x-men-actor-dies-at-86/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 210,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": 5.3061224489796,
+                "score": 142.0
+            },
+            {
+                "record_id": "1330750859",
+                "url": "https://krcgtv.com/news/nation-world/appeals-court-rejects-dojs-request-for-california-to-set-aside-disputed-ballots-politics-midterms-midterm-elections-government-mail-in-votes-voters-voting-polls-noncitizens-citizenship-illegal-immigrants",
+                "related_urls": [],
+                "title": "",
+                "mentions": 170,
+                "sources": 6,
+                "goldstein": -4.0,
+                "tone": -4.71113526592017,
+                "score": 117.0
+            }
+        ],
+        "last_updated": "2026-10-31 21:20:04 KST",
+        "current_rank": 3
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 745.5,
+        "trends": [
+            {
+                "record_id": "1330707426",
+                "url": "https://www.greenocktelegraph.co.uk/news/national/26685458.man-wielding-knife-threatens-migrants-boards-small-boat-bound-uk/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 180,
+                "sources": 18,
+                "goldstein": -9.0,
+                "tone": -2.46710526315791,
+                "score": 633.5
+            },
+            {
+                "record_id": "1330774545",
+                "url": "https://www.advance.hr/perpetuum/energetska-kriza/?update=4957&sNaslovnice=1",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -1.11111111111111,
+                "score": 67.0
+            },
+            {
+                "record_id": "1330671029",
+                "url": "https://www.az-online.de/welt/internationale-umfrage-mehrheit-erwartet-kontakt-mit-ausserirdischen-zr-94565645.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -2.0,
+                "tone": -0.892326558490959,
+                "score": 45.0
+            }
+        ],
+        "last_updated": "2026-10-31 21:20:04 KST",
+        "current_rank": 4
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 687.5,
+        "trends": [
+            {
+                "record_id": "1330817220",
+                "url": "https://www.peeblesshirenews.com/news/national/26687064.evacuees-occupied-oleshky-arrive-belarus-en-route-ukraine/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": -10.0,
+                "tone": -1.85185185185185,
+                "score": 331.5
+            },
+            {
+                "record_id": "1330635357",
+                "url": "http://www.schwaebische-post.de/welt/politik/trump-aussenpolitik-19-milliarden-dollar-kosten-laut-bericht-zr-94565898.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 6,
+                "goldstein": 8.0,
+                "tone": -2.6713500044887,
+                "score": 149.0
+            },
+            {
+                "record_id": "1330723681",
+                "url": "https://www.swindonadvertiser.co.uk/news/national/26683813.evacuated-oleshky-residents-begin-long-journey-russian-occupied-region/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 76,
+                "sources": 12,
+                "goldstein": 4.0,
+                "tone": -2.88378510805141,
+                "score": 82.0
+            },
+            {
+                "record_id": "1330729153",
+                "url": "https://nebraska.tv/news/nation-world/photos-trump-welcomes-freed-stephen-hubbard-to-oval-office-after-securing-russian-release-putin-sanctions-negotiations-ukraine-war",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 3,
+                "goldstein": 7.0,
+                "tone": -3.39366515837104,
+                "score": 65.0
+            },
+            {
+                "record_id": "1330625117",
+                "url": "https://www.hna.de/wirtschaft/trump-putin-deal-russischer-diesel-auf-dem-weg-in-die-usa-zr-94565681.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -5.0,
+                "tone": -1.54109589041096,
+                "score": 60.0
+            }
+        ],
+        "last_updated": "2026-10-31 21:20:04 KST",
+        "current_rank": 5
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 487.0,
+        "trends": [
+            {
+                "record_id": "1330793605",
+                "url": "https://indiankanoon.org/doc/84925351/",
+                "related_urls": [
+                    "https://indiankanoon.org/doc/144177147/",
+                    "https://indiankanoon.org/doc/177949005/"
+                ],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": 5.0,
+                "tone": -5.59628331726174,
+                "score": 425.0
+            },
+            {
+                "record_id": "1330762477",
+                "url": "https://www.legallyindia.com/convos/topic/499526-salary-hike",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.62709887124901,
+                "score": 62.0
+            }
+        ],
+        "last_updated": "2026-10-31 21:20:04 KST",
+        "current_rank": 6
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 450.0,
+        "trends": [
+            {
+                "record_id": "1330749500",
+                "url": "https://correiodoestado.com.br/cidades/funai-aciona-pf-e-pede-apuracao-de-casos-de-ataques-contra-indigenas/475969/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -3.8737890108828,
+                "score": 413.0
+            },
+            {
+                "record_id": "1330718604",
+                "url": "https://correiodoestado.com.br/cidades/piracema-proibe-pesca-a-partir-de-domingo-e-mobiliza-40-fiscais-em-ms/475958/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -4.63837631435397,
+                "score": 37.0
+            }
+        ],
+        "last_updated": "2026-10-31 21:20:04 KST",
+        "current_rank": 7
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 370.0,
+        "trends": [
+            {
+                "record_id": "1330670267",
+                "url": "http://www.merkur.de/politik/prien-an-gen-z-regelt-vor-demos-seid-laut-aber-nicht-gewalttaetig-zr-94566540.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 4,
+                "goldstein": 4.0,
+                "tone": -5.46045626712748,
+                "score": 96.0
+            },
+            {
+                "record_id": "1330666367",
+                "url": "https://www.kreiszeitung.de/boulevard/gryffindor-slytherin-und-so-weiter-richard-david-precht-fordert-schulhaeuser-wie-bei-harry-potter-zr-94566464.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 4,
+                "goldstein": -4.0,
+                "tone": -0.716158636512618,
+                "score": 88.0
+            },
+            {
+                "record_id": "1330724438",
+                "url": "https://www.tv2nord.dk/vesthimmerland/nu-vil-han-advare-andre-46b3b",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -2.32377899747176,
+                "score": 81.0
+            },
+            {
+                "record_id": "1330643882",
+                "url": "http://www.tz.de/welt/schauspielerin-helene-grass-appelliert-wer-organe-spenden-will-sollte-es-zu-lebzeiten-klar-festhalten-zr-94566094.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 1.0,
+                "tone": -0.833831440525997,
+                "score": 54.0
+            },
+            {
+                "record_id": "1330580859",
+                "url": "https://edmontonsun.com/entertainment/celebrity/jon-lovitz-crystal-hefners-playboys-no-1-customer",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": -0.393540084242231,
+                "score": 51.0
+            }
+        ],
+        "last_updated": "2026-10-31 21:20:04 KST",
+        "current_rank": 8
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 205.0,
+        "trends": [
+            {
+                "record_id": "1330725751",
+                "url": "https://www.birgun.net/haber/akp-li-savci-sayan-dan-bddk-baskani-na-sorular-emre-tezmen-kardes-gel-birlikte-bir-kahve-icelim-dediniz-mi-743566%20class=slide-legend-link%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": 7.4,
+                "tone": -2.84090909090909,
+                "score": 141.0
+            },
+            {
+                "record_id": "1330790409",
+                "url": "https://www.haberler.com/ekonomi/ticaret-bakanligi-turquality-de-fuar-katilimina-20382297-haberi/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": 5.57432432432433,
+                "score": 37.0
+            },
+            {
+                "record_id": "1330616069",
+                "url": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/karadag-vize-istedi-turk-tatilci-yeni-adresleri-secti-balkan-turlarinda-rota-degisiyor_ID102278824/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": 1.44230769230769,
+                "score": 27.0
+            }
+        ],
+        "last_updated": "2026-10-31 21:20:04 KST",
+        "current_rank": 9
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 172.0,
+        "trends": [
+            {
+                "record_id": "1330589139",
+                "url": "http://en.people.cn/n3/2026/1030/c90000-20513866.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": 4.4700793078587,
+                "score": 70.0
+            },
+            {
+                "record_id": "1330666883",
+                "url": "http://www.bignewsnetwork.com/news/279404531/china-xizang-nagqu-earthquake-resettlement-kindergarten-cn",
+                "related_urls": [],
+                "title": "",
+                "mentions": 66,
+                "sources": 2,
+                "goldstein": 3.4,
+                "tone": -0.134680134680136,
+                "score": 54.0
+            },
+            {
+                "record_id": "1330796078",
+                "url": "http://www.australiannews.net/news/279405528/ai-takes-on-bigger-role-in-china-express-delivery-during-singles-day-peak",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 4,
+                "goldstein": 0.0,
+                "tone": 1.88028056751156,
+                "score": 48.0
+            }
+        ],
+        "last_updated": "2026-10-31 21:20:04 KST",
+        "current_rank": 10
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 91.0,
+        "trends": [
+            {
+                "record_id": "1330803271",
+                "url": "https://www.index.hr/vijesti/clanak/europa-vrije-stotine-tisuce-izlaze-na-ulice-noc-vjestica-mogla-bi-im-biti-paravan/2851754.aspx?index_ref=homepage_comment_box_d&commentId=12378605",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -4.4,
+                "tone": -5.40897097625328,
+                "score": 64.0
+            },
+            {
+                "record_id": "1330810595",
+                "url": "https://www.zazoom.it/2026-10-31/il-neosegretario-della-fiom-cgil-samuele-lodi-con-la-kefiah-che-cita-il-7-ottobre-la-difesa-scritta-in-arabo-nessuno-ha-tradotto-idee-incompatibili-con-noi-ma-vicini-alla-palestina/19871141/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": 1.55709342560554,
+                "score": 27.0
+            }
+        ],
+        "last_updated": "2026-10-31 21:20:04 KST",
+        "current_rank": 11
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 63.0,
+        "trends": [
+            {
+                "record_id": "1330695112",
+                "url": "https://www.nugget.ca/press-releases/pr-newswire/osc-invites-applications-for-securities-advisory-committee/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 4,
+                "goldstein": 3.0,
+                "tone": 4.54545454545454,
+                "score": 63.0
+            }
+        ],
+        "last_updated": "2026-10-31 21:20:04 KST",
+        "current_rank": 12
+    }
+}
