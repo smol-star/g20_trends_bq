@@ -15,10 +15,10 @@
                 "goldstein": -6.5,
                 "tone": -4.55352914328964,
                 "score": 1102.0,
-                "keyword": "대사관 앞 체포",
-                "hook": "런던 한복판 미국 대사관 앞에서 100명이 넘는 시위대가 무더기로 체포되었습니다.",
-                "script": "긴박한 상황입니다. 런던 미국 대사관 앞에서 팔레스타인을 지지하는 시위가 벌어졌고, 경찰은 100명이 넘는 인원을 즉각 체포했습니다. 현장은 아수라장이 되었고, 당국은 추가 충돌을 막기 위해 경계 수위를 최대로 높였습니다. 도심은 지금 일촉즉발의 상황입니다.",
-                "sentiment": "negative"
+                "keyword": "영국 대규모 체포",
+                "hook": "런던 도심 한복판, 주영 미국 대사관 앞이 수백 명의 시위대로 점거당했습니다.",
+                "script": "팔레스타인 지지 시위가 격화되면서 런던 경찰이 100명을 전격 체포했습니다. 대사관 주변은 아수라장이 됐고, 시위대의 거센 저항에 경찰력 투입이 이어졌는데요. 영국 치안 당국에 비상이 걸렸습니다.",
+                "sentiment": "warning"
             },
             {
                 "record_id": "1330756668",
@@ -32,7 +32,7 @@
                 "score": 209.5
             },
             {
-                "record_id": "1330822599",
+                "record_id": "1330822612",
                 "url": "https://www.sthelensstar.co.uk/news/national/26687130.environmentalists-stage-halloween-demonstration-scary-fossil-fuels/",
                 "related_urls": [],
                 "title": "",
@@ -67,18 +67,17 @@
                 "score": 143.5
             }
         ],
-        "last_updated": "2026-11-01 09:05:55 KST",
+        "last_updated": "2026-11-01 14:57:15 KST",
         "current_rank": 1
     },
     "United States": {
         "gdp_rank": 1,
-        "spike_score": 1285.0,
+        "spike_score": 1242.0,
         "trends": [
             {
                 "record_id": "1330873378",
                 "url": "https://www.hillingdontimes.co.uk/news/national/26687622.trump-lawsuit-wall-street-journal-epstein-birthday-letter-rejected/",
                 "related_urls": [
-                    "https://www.brandonsun.com/world/2026/10/31/trump-lawsuit-against-wall-street-journal-over-epstein-birthday-letter-is-dismissed-with-prejudice",
                     "https://www.wandsworthguardian.co.uk/news/national/26687622.trump-lawsuit-wall-street-journal-epstein-birthday-letter-rejected/"
                 ],
                 "title": "",
@@ -86,7 +85,7 @@
                 "sources": 13,
                 "goldstein": -5.0,
                 "tone": -9.19007005167802,
-                "score": 941.5
+                "score": 894.5
             },
             {
                 "record_id": "1330750859",
@@ -122,22 +121,22 @@
                 "score": 77.5
             },
             {
-                "record_id": "1330832450",
-                "url": "https://kfoxtv.com/news/nation-world/75-year-old-woman-charged-with-animal-crushing-after-deliberately-killing-puppy-doj-animal-cruelty-abuse-lured-pit-bull-with-food-crushed-skull-complete-brain-damage-extreme-pain-death-president-donald-trump",
+                "record_id": "1330889298",
+                "url": "https://wtkg.iheart.com/content/2026-11-01-judge-dismisses-trumps-lawsuit-against-wsj/",
                 "related_urls": [],
                 "title": "",
                 "mentions": 50,
-                "sources": 5,
-                "goldstein": -5.0,
-                "tone": -10.1659751037344,
-                "score": 60.0,
-                "keyword": "잔혹한 동물 학대",
-                "hook": "75세 여성이 강아지를 유인해 끔찍하게 살해한 사건이 온 국민을 충격에 빠뜨렸습니다.",
-                "script": "충격적인 사건입니다. 75세 여성이 음식을 미끼로 강아지를 유인한 뒤, 잔인한 방식으로 살해했습니다. 두개골이 부서질 정도의 극심한 고통 속에 생명을 잃은 강아지, 현재 이 여성은 동물 학대 혐의로 긴급 체포되었습니다. 인간의 잔혹함이 어디까지인지 모두가 분노하고 있습니다.",
-                "sentiment": "warning"
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -7.23159738623839,
+                "score": 64.0,
+                "keyword": "트럼프 소송 기각",
+                "hook": "법원이 트럼프의 월스트리트저널 상대 소송을 전격 기각하며 파문이 일고 있습니다.",
+                "script": "트럼프 전 대통령이 제기한 월스트리트저널 상대 소송이 법원에서 최종 기각됐습니다. 엡스타인 관련 편지 내용을 문제 삼았던 트럼프 측의 주장이 법적 효력을 얻지 못한 건데요. 대선 정국 속 사법 리스크가 다시금 부각되고 있습니다.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-11-01 09:05:55 KST",
+        "last_updated": "2026-11-01 14:57:15 KST",
         "current_rank": 2
     },
     "Russia": {
@@ -190,8 +189,8 @@
                 "tone": -6.07142857142857,
                 "score": 158.0,
                 "keyword": "모스크바 테러 경고",
-                "hook": "모스크바 박물관을 겨냥한 대규모 살상 테러 위협이 포착되었습니다.",
-                "script": "미 대사관이 긴급 경고를 발령했습니다. 모스크바 차리치노 박물관 일대에서 대규모 인명 피해를 노린 테러 위협이 확인된 것인데요. 할로윈을 앞두고 러시아 전역에 최고 수준의 긴장감이 감돌고 있습니다.",
+                "hook": "모스크바 박물관에서 대규모 인명 피해가 발생할 수 있다는 긴급 경고가 발령되었습니다.",
+                "script": "러시아 모스크바 차리치노 박물관에 테러 경고가 떨어졌습니다. 핼러윈을 앞두고 대규모 인명 피해 가능성이 제기되면서 현지 보안에 초비상이 걸렸습니다.",
                 "sentiment": "warning"
             },
             {
@@ -206,7 +205,7 @@
                 "score": 46.0
             }
         ],
-        "last_updated": "2026-11-01 09:05:55 KST",
+        "last_updated": "2026-11-01 14:57:15 KST",
         "current_rank": 3
     },
     "Australia": {
@@ -245,10 +244,10 @@
                 "goldstein": 4.0,
                 "tone": -4.26220949683318,
                 "score": 250.0,
-                "keyword": "유독물질 살포 논란",
-                "hook": "호주 전역이 유독성 물질 살포 논란으로 인해 전 세계의 시선을 집중시키고 있습니다.",
-                "script": "호주 내 유독성 스프레이 살포로 인한 심각한 피해 우려가 제기되었습니다. 환경과 건강을 위협하는 이번 사태에 전 세계 보건 당국이 예의주시하고 있습니다. 과연 호주는 이 위기를 극복할 수 있을까요?",
-                "sentiment": "warning"
+                "keyword": "독성 물질 비상",
+                "hook": "호주 전역에 독성 물질 살포 논란이 일며 전 세계가 사태를 주시하고 있습니다.",
+                "script": "호주가 독성 물질 살포 사건으로 뒤집혔습니다. 심각한 피해가 우려되는 가운데, 전 세계 전문가들의 시선이 호주의 대응 체계로 쏠리고 있습니다.",
+                "sentiment": "negative"
             },
             {
                 "record_id": "1330771025",
@@ -273,12 +272,12 @@
                 "score": 95.0
             }
         ],
-        "last_updated": "2026-11-01 09:05:55 KST",
+        "last_updated": "2026-11-01 14:57:15 KST",
         "current_rank": 4
     },
     "France": {
         "gdp_rank": 7,
-        "spike_score": 859.0,
+        "spike_score": 832.0,
         "trends": [
             {
                 "record_id": "1330828383",
@@ -292,7 +291,7 @@
                 "score": 243.0
             },
             {
-                "record_id": "1330873044",
+                "record_id": "1330873043",
                 "url": "https://www.kmuw.org/2026-10-31/france-seethes-again-as-youth-led-protests-sweep-europe",
                 "related_urls": [],
                 "title": "",
@@ -303,6 +302,19 @@
                 "score": 201.0
             },
             {
+                "record_id": "1330887085",
+                "url": "https://www.advance.hr/perpetuum/energetska-kriza/?update=5035&sNaslovnice=1",
+                "related_urls": [
+                    "https://www.advance.hr/perpetuum/energetska-kriza/?update=4957&sNaslovnice=1"
+                ],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -1.11111111111111,
+                "score": 134.0
+            },
+            {
                 "record_id": "1330844598",
                 "url": "https://www.sthelensstar.co.uk/news/national/26687375.320-000-join-nationwide-protests-france-reduced-turnout-says-government/",
                 "related_urls": [],
@@ -311,7 +323,7 @@
                 "sources": 13,
                 "goldstein": -7.5,
                 "tone": -8.43195266272189,
-                "score": 176.0
+                "score": 128.5
             },
             {
                 "record_id": "1330862905",
@@ -324,23 +336,12 @@
                 "tone": -21.9512195121951,
                 "score": 125.5,
                 "keyword": "프랑스 시위 유혈",
-                "hook": "프랑스 거리에서 경찰과 시위대가 정면 충돌하며 수백 명이 체포되는 사태가 발생했습니다.",
-                "script": "프랑스가 멈췄습니다. 정부를 향한 분노가 폭발하며 거리마다 최루탄과 화염이 가득합니다. 경찰과 시위대의 격렬한 충돌로 부상자가 속출하고, 수백 명이 현장에서 체포되었습니다. 평화로운 일상은 사라지고, 프랑스는 지금 극심한 혼란의 소용돌이 속에 빠져 있습니다.",
+                "hook": "프랑스 전역이 멈췄습니다. 전국을 뒤덮은 시위대의 분노가 경찰과의 유혈 충돌로 번졌습니다.",
+                "script": "프랑스 거리 곳곳에서 수천 명의 시위대가 경찰과 격렬하게 맞붙었습니다. 체포된 인원만 수백 명에 달하는 최악의 상황입니다. 멈추지 않는 청년들의 분노, 프랑스는 지금 대혼란의 소용돌이 속에 있습니다.",
                 "sentiment": "warning"
-            },
-            {
-                "record_id": "1330791966",
-                "url": "https://www.peeblesshirenews.com/news/national/26686776.police-gendarmes-alert-france-prepares-another-day-protests/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": -6.5,
-                "tone": -7.6271186440678,
-                "score": 113.5
             }
         ],
-        "last_updated": "2026-11-01 09:05:55 KST",
+        "last_updated": "2026-11-01 14:57:15 KST",
         "current_rank": 5
     },
     "India": {
@@ -352,8 +353,8 @@
                 "url": "https://indiankanoon.org/doc/29941011/",
                 "related_urls": [
                     "https://indiankanoon.org/doc/27456488/",
-                    "https://indiankanoon.org/doc/175786290/",
-                    "https://indiankanoon.org/doc/126933659/"
+                    "https://indiankanoon.org/doc/144177147/",
+                    "https://indiankanoon.org/doc/175786290/"
                 ],
                 "title": "",
                 "mentions": 100,
@@ -373,12 +374,12 @@
                 "tone": 2.62709887124901,
                 "score": 62.0,
                 "keyword": "임금 인상 논란",
-                "hook": "직장인들의 뜨거운 감자, 임금 인상을 둘러싼 팽팽한 논쟁이 시작됐습니다.",
-                "script": "물가는 오르는데 내 월급은 그대로일까요? 최근 인도 내에서 임금 인상을 요구하는 목소리가 거세지고 있습니다. 기업과 노동자 사이의 갈등은 최고조에 달했고, 경제계는 이번 협상 결과에 촉각을 곤두세우고 있습니다. 과연 당신의 지갑은 두꺼워질 수 있을까요?",
+                "hook": "인도 노동 시장이 임금 인상 문제로 뜨겁게 달아오르고 있습니다.",
+                "script": "치솟는 물가 속에서 인도 내 임금 인상 요구가 거세지고 있습니다. 기업들의 고민은 깊어지고 노동자들의 불만은 폭발 직전인데요. 과연 이 갈등이 인도 경제에 어떤 파장을 몰고 올지 귀추가 주목됩니다.",
                 "sentiment": "neutral"
             }
         ],
-        "last_updated": "2026-11-01 09:05:55 KST",
+        "last_updated": "2026-11-01 14:57:15 KST",
         "current_rank": 6
     },
     "Germany": {
@@ -394,11 +395,7 @@
                 "sources": 6,
                 "goldstein": -10.0,
                 "tone": -7.95610181712137,
-                "score": 418.5,
-                "keyword": "유럽 전역 시위",
-                "hook": "분노한 유럽의 청년들이 거리로 쏟아져 나오며 대규모 시위가 대륙을 뒤덮었습니다.",
-                "script": "유럽이 다시 한번 들끓고 있습니다. 프랑스에서 시작된 청년 주도의 시위가 국경을 넘어 유럽 전역으로 확산 중입니다. 프랑크푸르트 등 주요 도시마다 거리는 점거되었고, 정부를 향한 분노는 최고조에 달했습니다. 지금 유럽은 그 어느 때보다 위험한 밤을 보내고 있습니다.",
-                "sentiment": "negative"
+                "score": 418.5
             },
             {
                 "record_id": "1330852652",
@@ -420,10 +417,14 @@
                 "sources": 5,
                 "goldstein": 1.0,
                 "tone": -5.68065431196022,
-                "score": 40.0
+                "score": 40.0,
+                "keyword": "프랑크푸르트 폭동",
+                "hook": "평온하던 밤, 프랑크푸르트 거리가 순식간에 불타는 폭동 현장으로 변했습니다.",
+                "script": "독일 프랑크푸르트 도심이 대규모 소요 사태로 마비됐습니다. 유럽 전역을 휩쓰는 청년 주도의 시위가 독일로 번지며 경찰과 시위대가 격렬하게 충돌했는데요. 통제 불능 상태에 빠진 거리의 모습을 지금 확인하십시오.",
+                "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-11-01 09:05:55 KST",
+        "last_updated": "2026-11-01 14:57:15 KST",
         "current_rank": 7
     },
     "Italy": {
@@ -442,7 +443,7 @@
                 "score": 78.5,
                 "keyword": "경찰 전문 교육",
                 "hook": "이탈리아 포피 성에서 경찰력을 강화하기 위한 대규모 전문 교육이 시작되었습니다.",
-                "script": "이탈리아 포피 성에 100명 이상의 경찰이 집결했습니다. 치안 강화를 위한 고강도 전문 교육이 한창인데요. 시민의 안전을 지키기 위한 그들의 치열한 훈련 현장을 지금 확인하세요.",
+                "script": "이탈리아 포피 성에 100명이 넘는 경찰관들이 집결했습니다. 치안 유지와 전문 역량 강화를 위한 집중 훈련 현장, 지금 바로 확인해 보시죠.",
                 "sentiment": "positive"
             },
             {
@@ -490,7 +491,7 @@
                 "score": 27.0
             }
         ],
-        "last_updated": "2026-11-01 09:05:55 KST",
+        "last_updated": "2026-11-01 14:57:15 KST",
         "current_rank": 8
     },
     "China": {
@@ -507,13 +508,13 @@
                 "goldstein": 7.0,
                 "tone": 1.88028056751155,
                 "score": 154.0,
-                "keyword": "AI 배송 혁명",
-                "hook": "광군제 물류 대란, 이제 AI가 완벽하게 해결합니다.",
-                "script": "중국 광군제 쇼핑 시즌이 돌아왔습니다. 엄청난 택배 물량을 처리하는 주인공은 사람이 아닌 인공지능입니다. AI가 물류 허브를 장악하며 배송 속도는 압도적으로 빨라졌고 효율은 극대화됐습니다. 물류 현장의 풍경이 지금 완전히 바뀌고 있습니다.",
+                "keyword": "AI 물류 급성장",
+                "hook": "중국 쇼핑 대목, 인간 대신 AI가 물류 현장을 완전히 장악했습니다.",
+                "script": "싱글즈 데이 물류 대란이 AI로 해결되고 있습니다. 중국 전역의 배송 시스템에 인공지능이 도입되면서 분류부터 배송까지 처리 속도가 비약적으로 향상됐는데요. 인간의 한계를 넘어선 AI 물류 혁명이 시작됐습니다.",
                 "sentiment": "positive"
             },
             {
-                "record_id": "1330873017",
+                "record_id": "1330872807",
                 "url": "https://www.kmuw.org/2026-10-31/key-takeaways-from-this-weeks-political-meeting-in-beijing",
                 "related_urls": [],
                 "title": "",
@@ -535,7 +536,7 @@
                 "score": 32.0
             }
         ],
-        "last_updated": "2026-11-01 09:05:55 KST",
+        "last_updated": "2026-11-01 14:57:15 KST",
         "current_rank": 9
     },
     "Brazil": {
@@ -553,9 +554,9 @@
                 "tone": -2.5080068118145,
                 "score": 143.0,
                 "keyword": "공공안전 법안",
-                "hook": "브라질의 미래를 뒤흔들 공공안전 법안 표결이 코앞으로 다가왔습니다.",
-                "script": "알콜룸브레 의장이 공공안전 헌법 개정안 표결을 다음 주 화요일로 확정했습니다. 치안 불안에 시달리는 브라질, 과연 이 법안이 게임 체인저가 될 수 있을까요? 긴박한 국회 상황을 전합니다.",
-                "sentiment": "warning"
+                "hook": "브라질의 치안을 뒤흔들 공공안전 개정안 투표가 코앞으로 다가왔습니다.",
+                "script": "알콜룸브레 의장이 공공안전 개정안 투표일을 다음 주 화요일로 확정했습니다. 브라질 사회의 안전망을 바꿀 이번 결정, 그 결과에 전국이 주목하고 있습니다.",
+                "sentiment": "negative"
             },
             {
                 "record_id": "1330776355",
@@ -580,7 +581,7 @@
                 "score": 37.0
             }
         ],
-        "last_updated": "2026-11-01 09:05:55 KST",
+        "last_updated": "2026-11-01 14:57:15 KST",
         "current_rank": 10
     },
     "Turkey": {
@@ -608,9 +609,9 @@
                 "goldstein": -5.0,
                 "tone": 0.677966101694909,
                 "score": 57.0,
-                "keyword": "소셜미디어 연령 제한",
-                "hook": "튀르키예가 15세 미만 청소년의 소셜미디어 사용을 전면 금지합니다.",
-                "script": "오늘부터 튀르키예에서 15세 미만 청소년의 소셜미디어 접근이 차단됩니다. 나이 인증 시스템 도입과 함께 시작되는 이번 강력한 규제, 어떤 앱이 영향을 받을지 지금 바로 확인하세요.",
+                "keyword": "SNS 이용 제한",
+                "hook": "15세 미만 청소년의 소셜 미디어 접속이 전면 금지되는 강력한 규제가 시작됩니다.",
+                "script": "터키가 15세 미만 청소년의 SNS 이용을 제한합니다. 나이 인증 절차는 어떻게 될지, 어떤 앱이 차단 대상인지 지금 바로 핵심 내용을 정리해 드립니다.",
                 "sentiment": "neutral"
             },
             {
@@ -636,7 +637,7 @@
                 "score": 37.0
             }
         ],
-        "last_updated": "2026-11-01 09:05:55 KST",
+        "last_updated": "2026-11-01 14:57:15 KST",
         "current_rank": 11
     },
     "Canada": {
@@ -653,36 +654,36 @@
                 "goldstein": 7.0,
                 "tone": 1.85843500712293,
                 "score": 194.0,
-                "keyword": "항만 확장 투자",
-                "hook": "캐나다 정부가 국가적 이익을 위해 59억 달러 규모의 항만 확장을 결정했습니다.",
-                "script": "캐나다 해운 물류의 지각변동이 시작됩니다. 59억 달러가 투입되는 대규모 컨테이너 항만 확장 사업이 국가 핵심 과제로 선정되었습니다. 캐나다 경제의 새로운 심장부가 될 현장을 주목하세요.",
+                "keyword": "항만 확장 사업",
+                "hook": "캐나다 정부가 59억 달러를 투입해 국가적 규모의 항만 확장 프로젝트를 승인했습니다.",
+                "script": "캐나다 물류의 지형이 바뀝니다. 59억 달러 규모의 컨테이너 항만 확장 사업이 국가 핵심 과제로 확정되었습니다. 경제 활성화의 신호탄이 될까요?",
                 "sentiment": "positive"
             }
         ],
-        "last_updated": "2026-11-01 09:05:55 KST",
+        "last_updated": "2026-11-01 14:57:15 KST",
         "current_rank": 12
     },
     "Saudi Arabia": {
         "gdp_rank": 17,
-        "spike_score": 67.5,
+        "spike_score": 31.5,
         "trends": [
             {
-                "record_id": "1330830084",
+                "record_id": "1330830477",
                 "url": "https://www.dostor.org/5758976",
                 "related_urls": [],
                 "title": "",
                 "mentions": 40,
                 "sources": 1,
-                "goldstein": 2.8,
+                "goldstein": 1.9,
                 "tone": 0.130039011703511,
-                "score": 67.5,
-                "keyword": "사우디 경제 전환",
-                "hook": "오일 머니의 시대가 저물고 사우디가 전례 없는 대변혁의 소용돌이 속으로 빠져들고 있습니다.",
-                "script": "석유에만 의존하던 사우디 경제가 송두리째 바뀌고 있습니다. 비전 2030 아래 거대 도시 네옴 건설부터 관광 산업 육성까지, 왕국 전체가 거대한 실험실로 변했습니다. 탈석유를 향한 이 무모하고도 거대한 도박이 과연 중동의 질서를 어떻게 재편할지 전 세계가 주목하고 있습니다. 지금 사우디에서 벌어지는 변화는 단순한 경제 성장이 아닌 국가 생존을 위한 사투입니다.",
+                "score": 31.5,
+                "keyword": "사우디 경제 대전환",
+                "hook": "석유 시대를 끝내려는 사우디의 초강수, 세계 경제 지도가 뒤집히고 있습니다.",
+                "script": "석유로 쌓은 부를 넘어 사우디가 전례 없는 국가 개조에 돌입했습니다. 비전 2030을 앞세워 네옴시티와 첨단 기술 산업에 수천억 달러를 쏟아붓고 있습니다. 과거의 자원 강국에서 미래 기술의 허브로 탈바꿈하려는 이들의 행보가 글로벌 시장의 판도를 완전히 흔들고 있습니다. 사우디의 이 위험한 도박은 과연 성공할 수 있을까요?",
                 "sentiment": "positive"
             }
         ],
-        "last_updated": "2026-11-01 09:05:55 KST",
+        "last_updated": "2026-11-01 14:57:15 KST",
         "current_rank": 13
     }
 }
