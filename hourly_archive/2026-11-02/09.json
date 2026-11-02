@@ -1,0 +1,729 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 1399.0,
+        "trends": [
+            {
+                "record_id": "1330873378",
+                "url": "https://www.hillingdontimes.co.uk/news/national/26687622.trump-lawsuit-wall-street-journal-epstein-birthday-letter-rejected/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 78,
+                "sources": 13,
+                "goldstein": -5.0,
+                "tone": -9.19007005167802,
+                "score": 667.5
+            },
+            {
+                "record_id": "1330982259",
+                "url": "https://www.wimbledonguardian.co.uk/news/national/26688513.nine-killed-florida-plane-crash/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 130,
+                "sources": 13,
+                "goldstein": -4.0,
+                "tone": -8.33333333333334,
+                "score": 278.5,
+                "keyword": "플로리다 비행기 추락",
+                "hook": "하늘에서 떨어진 9명의 생명, 플로리다 상공의 비극이 밝혀졌습니다.",
+                "script": "플로리다에서 발생한 비행기 추락 사고로 탑승자 9명 전원이 사망했습니다. 사고 직후 현장은 아수라장이 되었고, 당국은 즉각적인 조사에 착수했습니다. 비극적인 사고 원인에 전 세계의 이목이 쏠리고 있습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330964283",
+                "url": "https://isp.netscape.com:443/news/story/0001/20261101/bb4bb89daf78484fb97496dfd88c4a10",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -5.0,
+                "tone": -6.40850559755299,
+                "score": 175.0
+            },
+            {
+                "record_id": "1330980468",
+                "url": "http://www.goskagit.com/news/politics/justice-department-urges-sanctions-for-database-analysis-critical-of-its-noncitizen-voting-claims/article_523ea774-8599-5b66-92e0-84d7b0b0e6fa.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 30,
+                "sources": 3,
+                "goldstein": -10.0,
+                "tone": -3.66592782929841,
+                "score": 142.0
+            },
+            {
+                "record_id": "1330982693",
+                "url": "https://newsradio1049.iheart.com/content/2026-11-01-learjet-crash-kills-9-in-palm-beach-county/",
+                "related_urls": [
+                    "https://whp580.iheart.com/content/2026-11-01-learjet-crash-kills-9-in-palm-beach-county/"
+                ],
+                "title": "",
+                "mentions": 96,
+                "sources": 1,
+                "goldstein": 1.9,
+                "tone": -6.7679033189719,
+                "score": 136.0
+            }
+        ],
+        "last_updated": "2026-11-02 09:40:00 KST",
+        "current_rank": 1
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 1231.0,
+        "trends": [
+            {
+                "record_id": "1330873515",
+                "url": "https://www.cambstimes.co.uk/news/national/26687661.100-arrested-outside-us-embassy-supporting-palestine-action/",
+                "related_urls": [
+                    "https://www.dunmowbroadcast.co.uk/news/national/26687894.300-arrested-outside-us-embassy-supporting-palestine-action/"
+                ],
+                "title": "",
+                "mentions": 88,
+                "sources": 11,
+                "goldstein": -9.0,
+                "tone": -4.62143559488692,
+                "score": 647.0,
+                "keyword": "영국 대사관 앞 체포",
+                "hook": "런던 한복판에서 벌어진 대규모 체포 작전, 100명이 수갑을 찼습니다.",
+                "script": "미국 대사관 앞이 시위대로 가득 찼습니다. 팔레스타인 지지 시위가 격해지면서 경찰이 100명을 현장에서 체포했습니다. 런던 도심을 마비시킨 이번 사태의 파장이 일파만파 번지고 있습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330956772",
+                "url": "https://www.heraldseries.co.uk/news/national/26688386.monica-dolan-privilege-raise-awareness-parkinsons-new-film/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": 1.0,
+                "tone": 0.752547257195791,
+                "score": 210.0
+            },
+            {
+                "record_id": "1330976994",
+                "url": "https://www.northsomersettimes.co.uk/news/national/26688510.antigua-barbuda-pm-calls-burnham-offer-reparations/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 30,
+                "sources": 5,
+                "goldstein": -5.0,
+                "tone": -4.90463215258855,
+                "score": 166.5
+            },
+            {
+                "record_id": "1330943062",
+                "url": "https://www.hampshirechronicle.co.uk/news/national/26688222.mummified-remains-removed-public-view-returned-egypt/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 140,
+                "sources": 14,
+                "goldstein": 1.9,
+                "tone": -2.64453674301303,
+                "score": 107.5
+            },
+            {
+                "record_id": "1330981680",
+                "url": "https://news.mail.ru/politics/72940346/",
+                "related_urls": [
+                    "https://news.mail.ru/politics/72939545/"
+                ],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -7.0,
+                "tone": 0.819672131147541,
+                "score": 100.0
+            }
+        ],
+        "last_updated": "2026-11-02 09:40:00 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 770.0,
+        "trends": [
+            {
+                "record_id": "1330873086",
+                "url": "https://www.kmuw.org/2026-10-31/france-seethes-again-as-youth-led-protests-sweep-europe",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -10.0,
+                "tone": -7.95610181712137,
+                "score": 418.5
+            },
+            {
+                "record_id": "1330932656",
+                "url": "https://www.eastlondonadvertiser.co.uk/news/national/26688075.french-protest-violence-eases-scattered-riots-hit-germany/",
+                "related_urls": [
+                    "https://www.winnipegfreepress.com/world/2026/11/01/french-protest-violence-eases-and-scattered-riots-hit-germany-ahead-of-more-action",
+                    "https://www.times-series.co.uk/news/national/26688075.french-protest-violence-eases-scattered-riots-hit-germany/"
+                ],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 1.9,
+                "tone": -9.4575799721836,
+                "score": 153.5
+            },
+            {
+                "record_id": "1330895689",
+                "url": "http://www.merkur.de/politik/islamistischer-antisemitismus-bka-meldet-hoechststand-2025-zr-94567991.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 30,
+                "sources": 3,
+                "goldstein": -9.0,
+                "tone": -6.22710622710623,
+                "score": 102.0
+            },
+            {
+                "record_id": "1330943758",
+                "url": "https://www.antenne.de/nachrichten/stars/filmproduzentin-regina-ziegler-mit-82-jahren-gestorben",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 3.0,
+                "tone": 1.45809833046493,
+                "score": 50.0
+            },
+            {
+                "record_id": "1330970175",
+                "url": "https://www.smh.com.au/national/germany-vows-to-crackdown-on-protesters-20261102-p61ag2.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": -5.8,
+                "tone": -22.5806451612903,
+                "score": 46.0,
+                "keyword": "독일 시위대 탄압",
+                "hook": "독일 거리에서 벌어지는 전쟁 같은 시위, 정부가 결국 칼을 뽑았습니다.",
+                "script": "독일 전역을 뒤덮은 격렬한 시위가 통제 불능 상태에 빠졌습니다. 정부는 강력한 단속을 예고하며 강경 대응 방침을 밝혔습니다. 자유와 질서 사이, 독일의 거리는 지금 일촉즉발의 위기입니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-11-02 09:40:00 KST",
+        "current_rank": 3
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 424.0,
+        "trends": [
+            {
+                "record_id": "1330873198",
+                "url": "https://www.kmuw.org/2026-10-31/france-seethes-again-as-youth-led-protests-sweep-europe",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -5.0,
+                "tone": -7.95610181712137,
+                "score": 201.0,
+                "keyword": "유럽 휩쓴 청년 시위",
+                "hook": "프랑스에서 시작된 불길이 유럽 전역을 집어삼키고 있습니다.",
+                "script": "프랑스의 분노가 멈추지 않고 있습니다. 청년들이 주도하는 시위가 유럽 전역으로 번지며 대륙 전체를 흔들고 있습니다. 멈추지 않는 폭력 사태, 과연 유럽의 미래는 어디로 향하고 있을까요?",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330932671",
+                "url": "https://www.eastlondonadvertiser.co.uk/news/national/26688075.french-protest-violence-eases-scattered-riots-hit-germany/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": -10.0,
+                "tone": -9.4575799721836,
+                "score": 113.0
+            },
+            {
+                "record_id": "1330887085",
+                "url": "https://www.advance.hr/perpetuum/energetska-kriza/?update=5035&sNaslovnice=1",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -1.11111111111111,
+                "score": 110.0
+            }
+        ],
+        "last_updated": "2026-11-02 09:40:00 KST",
+        "current_rank": 4
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 418.5,
+        "trends": [
+            {
+                "record_id": "1330984892",
+                "url": "https://www.mcall.com/2026/11/01/dia-de-los-muertos-festival-photos/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 388,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 4.86983154670749,
+                "score": 418.5,
+                "keyword": "죽은 자의 축제",
+                "hook": "죽음조차 축제가 되는 나라. 멕시코의 화려한 빛이 어둠을 밝힙니다.",
+                "script": "멕시코 전역이 '죽은 자의 날' 축제로 물들었습니다. 화려한 분장과 음악으로 가득 찬 거리, 죽음을 기념하는 그들만의 독특한 문화가 전 세계를 매료시키고 있습니다. 죽음과 삶이 공존하는 그 현장으로 떠나보시죠.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-11-02 09:40:00 KST",
+        "current_rank": 5
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 343.5,
+        "trends": [
+            {
+                "record_id": "1330953941",
+                "url": "https://www.dailyliberal.com.au/story/9379598/labor-private-health-rebate-cuts-face-fierce-senate-battle/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 34,
+                "sources": 4,
+                "goldstein": -10.0,
+                "tone": -2.2096851115488,
+                "score": 191.0,
+                "keyword": "의료비 전쟁 발발",
+                "hook": "내 의료비가 깎인다? 정부와 상원의 벼랑 끝 승부가 시작됐습니다.",
+                "script": "호주 의회가 의료비 환급금 삭감 문제로 정면충돌했습니다. 정부의 예산 절감안을 두고 상원에서 벌어지는 치열한 공방. 결국 피해는 국민의 몫이 될까요? 지금 상황을 지켜봐야 합니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330966690",
+                "url": "https://www.batemansbaypost.com.au/story/9372602/small-businesses-face-rising-cyber-security-threat-from-ai/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 2,
+                "goldstein": -2.0,
+                "tone": -4.81677505232884,
+                "score": 46.0,
+                "keyword": "AI 사이버 위협",
+                "hook": "당신의 사업장이 해킹당하고 있습니다. AI가 불러온 새로운 공포.",
+                "script": "호주 소상공인들이 AI 기반 사이버 공격의 타깃이 되고 있습니다. 정교해진 해킹 기술 앞에 속수무책으로 당하는 비즈니스들. 이제 보안은 선택이 아닌 생존의 문제입니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1330958978",
+                "url": "https://www.katherinetimes.com.au/story/9383936/super-funds-on-notice-over-complaints-handling-failings/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -2.0,
+                "tone": -4.19078147567045,
+                "score": 38.0,
+                "keyword": "연금 펀드 경고",
+                "hook": "당신의 노후 자금이 위험하다? 연금 운용사의 충격적인 관리 부실.",
+                "script": "호주 연금 펀드들이 소비자 불만 처리에 실패하며 당국의 경고를 받았습니다. 피땀 흘려 모은 노후 자금, 과연 안전하게 관리되고 있을까요? 지금 즉시 당신의 연금 상태를 확인하십시오.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330901921",
+                "url": "https://www.aljazeera.net/health-topic/2026/11/1/%D8%A7%D9%84%D8%B1%D8%AC%D9%84-%D9%84%D8%A7-%D9%8A%D8%B4%D8%AA%D9%83%D9%8A-%D8%B9%D9%86%D8%AF%D9%85%D8%A7-%D8%AA%D8%AA%D8%AD%D9%88%D9%84-%D8%AB%D9%82%D8%A7%D9%81%D8%A9",
+                "related_urls": [],
+                "title": "",
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": -4.0,
+                "tone": -6.66215759215418,
+                "score": 37.0
+            },
+            {
+                "record_id": "1330885294",
+                "url": "https://www.cootamundraherald.com.au/story/9383757/heritage-law-overhaul-to-combat-explosion-in-claims/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 35,
+                "sources": 7,
+                "goldstein": 0.0,
+                "tone": -1.95738863772901,
+                "score": 31.5,
+                "keyword": "유산법 전면 개정",
+                "hook": "유산 분쟁이 폭주합니다. 호주 정부가 법을 뜯어고치는 이유.",
+                "script": "유산 관련 소송이 급증하면서 호주 정부가 칼을 빼 들었습니다. 혼란스러운 상속 분쟁을 잡기 위한 강력한 법 개정안. 과연 이 조치가 갈등을 잠재울 수 있을까요?",
+                "sentiment": "neutral"
+            }
+        ],
+        "last_updated": "2026-11-02 09:40:00 KST",
+        "current_rank": 6
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 339.5,
+        "trends": [
+            {
+                "record_id": "1330901175",
+                "url": "https://www.haberturk.com/bilgi/foto/15-yas-alti-sosyal-medya-yasagi-hangi-uygulamalari-kapsiyor-mevcut-hesaplar-kapatilacak-mi-e-devlet-3924043",
+                "related_urls": [
+                    "https://www.haberturk.com/bilgi/foto/15-yas-alti-sosyal-medya-yasagi-basliyor-yas-dogrulamasi-nasil-yapilir-hangi-uygulamalari-kapsayacak-3923995"
+                ],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -1.40515222482435,
+                "score": 119.0,
+                "keyword": "15세 SNS 금지",
+                "hook": "15세 미만은 SNS 금지? 터키가 디지털 세상을 통제하기 시작했습니다.",
+                "script": "터키가 15세 미만 청소년의 소셜 미디어 사용을 전면 제한하는 강력한 규제를 도입했습니다. 기존 계정은 어떻게 될까요? 디지털 자유와 보호 사이, 터키의 파격적인 결정을 분석합니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1330946967",
+                "url": "https://www.birgun.net/haber/akp-li-ozlem-zengin-kadinlar-yan-yana-konferansina-katilmama-gerekcesini-acikladi-partimizin-politikasi-belli-743877%20class=slide-legend-link%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": 4.33604336043361,
+                "score": 86.0
+            },
+            {
+                "record_id": "1330926989",
+                "url": "https://ina-online.net/stresi-braktis-protesten-kunder-qeverise-po-largohem-ju-nuk-doni-ta-rrezoni-ramen/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": -6.5,
+                "tone": -8.33333333333332,
+                "score": 56.5,
+                "keyword": "반정부 시위 격화",
+                "hook": "터키 정국이 무너집니다. 정부를 향한 분노가 거리로 쏟아져 나왔습니다.",
+                "script": "정부 퇴진을 요구하는 거센 시위가 터키를 덮쳤습니다. 라마 정부에 실망한 시민들이 거리에서 목소리를 높이고 있습니다. 일촉즉발의 터키 정국, 지금 상황이 심상치 않습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330904728",
+                "url": "https://www.birgun.net/haber/sosyal-medyada-yeni-donem-yas-siniri-yururluge-girdi-743793%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.02952029520295,
+                "score": 47.0
+            },
+            {
+                "record_id": "1330985695",
+                "url": "https://sapo.pt/artigo/zelensky-desafia-putin-a-reunir-se-consigo-na-turquia-6ae7ccf17a19de6f9c311863",
+                "related_urls": [],
+                "title": "",
+                "mentions": 44,
+                "sources": 2,
+                "goldstein": 1.0,
+                "tone": 0.739419865461833,
+                "score": 31.0,
+                "keyword": "젤렌스키 회담 제안",
+                "hook": "터키에서 푸틴을 만난다? 젤렌스키의 깜짝 제안이 평화를 가져올까.",
+                "script": "젤렌스키 우크라이나 대통령이 푸틴에게 터키에서의 회담을 전격 제안했습니다. 중재자 역할을 자처한 터키, 과연 이 회담이 전쟁의 마침표를 찍을 수 있을까요?",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-11-02 09:40:00 KST",
+        "current_rank": 7
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 333.5,
+        "trends": [
+            {
+                "record_id": "1330904536",
+                "url": "http://www.thegazette.com/news/world/indian-opposition-parties-stage-new-protest-against-the-elections-chief/article_6f6bdc7d-0948-5932-b2e1-e4835edfd4cb.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 30,
+                "sources": 3,
+                "goldstein": -6.5,
+                "tone": -7.89389177778309,
+                "score": 176.0,
+                "keyword": "인도 야당 대규모 시위",
+                "hook": "인도 정치권이 뒤집혔습니다. 선거 책임자를 향한 분노가 폭발했습니다.",
+                "script": "인도 야당이 선거 관리 책임자를 정면으로 겨냥하며 대규모 시위에 돌입했습니다. 민주주의의 근간을 흔드는 논란이 격화되면서 현지 정치 상황은 한 치 앞을 내다볼 수 없는 안갯속으로 빠져들었습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330906316",
+                "url": "https://aninews.in/news/national/general-news/nara-lokesh-says-surgeries-on-rapthadu-attack-survivor-successful-child-shifted-to-picu20261101123059/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 3,
+                "goldstein": 4.0,
+                "tone": -1.45467847636245,
+                "score": 46.0
+            },
+            {
+                "record_id": "1330923784",
+                "url": "https://www.moneycontrol.com/banking/yes-bank-rejects-wilful-disobedience-charge-as-at-1-bond-trustee-warns-contempt-action-article-14065498.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 3.5,
+                "tone": -0.50377833753149,
+                "score": 39.5
+            },
+            {
+                "record_id": "1330939919",
+                "url": "https://www.mangalorean.com/kannada-pride-should-unite-people-through-love-and-trust-not-divide-them-u-t-khader-at-mangaluru-rajyotsava/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 5.45774647887325,
+                "score": 39.0
+            },
+            {
+                "record_id": "1330893714",
+                "url": "https://timesofindia.indiatimes.com/city/ahmedabad/when-home-trumps-the-american-dream/articleshow/135417637.cms",
+                "related_urls": [],
+                "title": "",
+                "mentions": 34,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 0.66225165562914,
+                "score": 33.0
+            }
+        ],
+        "last_updated": "2026-11-02 09:40:00 KST",
+        "current_rank": 8
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 300.5,
+        "trends": [
+            {
+                "record_id": "1330941945",
+                "url": "https://www.witneygazette.co.uk/news/national/26688212.civilians-kherson-prepare-return-war-localised-ceasefire-ends/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": -7.2,
+                "tone": -3.70786516853933,
+                "score": 86.0,
+                "keyword": "헤르손 귀환 혼란",
+                "hook": "휴전이 끝났습니다. 헤르손으로 돌아가던 민간인들이 다시 전쟁의 공포 속으로 던져졌습니다.",
+                "script": "희망은 찰나였습니다. 헤르손의 국지적 휴전이 종료되면서 민간인들의 귀환이 멈췄습니다. 포격 소리가 다시 들려오는 최전선, 그곳에 남겨진 사람들의 운명은 어떻게 될까요?",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1330885428",
+                "url": "https://home.nzcity.co.nz/news/article.aspx?id=457108&fm=psp,tsf",
+                "related_urls": [],
+                "title": "",
+                "mentions": 30,
+                "sources": 2,
+                "goldstein": 1.0,
+                "tone": -4.43656097895748,
+                "score": 72.0
+            },
+            {
+                "record_id": "1330944470",
+                "url": "https://www.northerndailyleader.com.au/story/9383924/pope-hopes-oleshky-truce-can-spur-ukraine-russia-peace/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": 7.0,
+                "tone": 2.06766917293233,
+                "score": 59.0,
+                "keyword": "교황 평화 호소",
+                "hook": "전쟁의 포화 속에서 들려온 희망의 목소리. 교황이 러-우 평화를 다시 외쳤습니다.",
+                "script": "교황이 올레시키 휴전을 계기로 러시아와 우크라이나의 종전을 촉구했습니다. 멈춰버린 평화의 시계가 다시 돌아갈 수 있을까요? 세계가 교황의 메시지에 주목하고 있습니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1330915799",
+                "url": "https://ria.ru/20261101/putin-2128430582.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": 3.33333333333334,
+                "score": 57.0,
+                "keyword": "푸틴 행보 주목",
+                "hook": "푸틴의 입에 전 세계가 집중합니다. 러시아의 다음 수는 무엇일까요?",
+                "script": "푸틴 대통령이 새로운 성명을 발표했습니다. 러시아의 전략적 행보가 다시 한번 국제 정세를 뒤흔들고 있습니다. 강대국의 움직임이 가져올 파급력, 지금 분석합니다.",
+                "sentiment": "neutral"
+            },
+            {
+                "record_id": "1330932072",
+                "url": "https://www.monitorulcj.ro/externe/141567-fotografia-de-grup-de-la-g20-anulata-dupa-refuzul-unor-delegatii-europene-de-a-poza-alaturi-de-serghei-lavrov",
+                "related_urls": [],
+                "title": "",
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": 1.9,
+                "tone": -4.47761194029851,
+                "score": 26.5,
+                "keyword": "G20 외교 결렬",
+                "hook": "사진 촬영마저 거부했습니다. G20 정상회의에서 벌어진 라브로프 외면 사태.",
+                "script": "G20 정상회의 현장이 싸늘합니다. 유럽 대표단이 세르게이 라브로프 러시아 외무장관과의 단체 사진 촬영을 전면 거부했습니다. 외교적 고립을 자초한 러시아, 그 현장 분위기를 전합니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-02 09:40:00 KST",
+        "current_rank": 9
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 224.0,
+        "trends": [
+            {
+                "record_id": "1330931418",
+                "url": "https://www.times-series.co.uk/news/national/26688075.french-protest-violence-eases-scattered-riots-hit-germany/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 2.8,
+                "tone": -9.4972067039106,
+                "score": 93.5,
+                "keyword": "유럽 전역 폭동",
+                "hook": "유럽의 거리가 다시 불타고 있습니다. 독일까지 번진 폭력 사태, 그 끝은 어디일까요?",
+                "script": "프랑스에서 시작된 폭동의 불길이 독일까지 덮쳤습니다. 거리 곳곳에서 방화와 약탈이 이어지며 시민들의 공포가 극에 달하고 있습니다. 유럽 전역이 지금 통제 불능 상태로 빠져들고 있습니다. 지금 당장 주목해야 할 유럽의 현주소입니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1330970806",
+                "url": "https://www.zazoom.it/2026-11-01/traffico-roma-del-01-11-2026-ore-1930/19873337/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": -7.5,
+                "tone": -4.83870967741935,
+                "score": 54.5,
+                "keyword": "로마 마비 사태",
+                "hook": "로마의 심장이 멈췄습니다. 교통 대란 속에서 시민들이 비명을 지르고 있습니다.",
+                "script": "오늘 저녁 로마 시내가 완전히 마비되었습니다. 도로 위는 거대한 주차장으로 변했고 운전자들은 분노를 쏟아내고 있습니다. 퇴근길 시민들의 발이 묶인 현장, 지금 로마 상황을 실시간으로 전해드립니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1330978245",
+                "url": "https://www.zazoom.it/2026-11-01/da-rifondazione-ai-sindacati-di-base-schlein-e-conte-caccia-al-voto-rosso/19873832/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": -4.05117270788913,
+                "score": 39.0,
+                "keyword": "정치권 표심 사냥",
+                "hook": "이탈리아 정치권이 뒤집혔습니다. 슐라인과 콘테가 붉은 표심을 향해 질주합니다.",
+                "script": "이탈리아 정계가 요동칩니다. 슐라인과 콘테가 좌파 표심을 잡기 위해 전면전에 돌입했습니다. 차기 권력을 향한 이들의 치열한 쟁탈전, 과연 이탈리아의 미래는 어느 방향으로 흐를까요?",
+                "sentiment": "neutral"
+            },
+            {
+                "record_id": "1330901129",
+                "url": "https://www.laleggepertutti.it/805577_chi-vince-la-causa-contro-linps-deve-pagare-le-spese-del-processo",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -2.30179028132992,
+                "score": 37.0,
+                "keyword": "법정 비용 폭탄",
+                "hook": "승소해도 돈을 잃는다? 이탈리아 사회보장국과의 소송, 그 잔혹한 진실을 공개합니다.",
+                "script": "사회보장국을 상대로 이겨도 웃을 수 없습니다. 승소 판결에도 불구하고 막대한 소송 비용을 떠안아야 하는 황당한 현실. 이탈리아 사법 체계의 모순이 지금 평범한 시민들을 울리고 있습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-02 09:40:00 KST",
+        "current_rank": 10
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 218.0,
+        "trends": [
+            {
+                "record_id": "1330873017",
+                "url": "https://www.kmuw.org/2026-10-31/key-takeaways-from-this-weeks-political-meeting-in-beijing",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 1.0,
+                "tone": -1.24653739612188,
+                "score": 80.0
+            },
+            {
+                "record_id": "1330907141",
+                "url": "https://svethardware.cz/article/catl-uvadi-513kwh-vymenne-akumulatory-pro-e-trucky-se-77kwh-pevnou-baterii/comments?focusedCommentId=377949",
+                "related_urls": [],
+                "title": "",
+                "mentions": 30,
+                "sources": 1,
+                "goldstein": 4.0,
+                "tone": 1.51515151515152,
+                "score": 74.0
+            },
+            {
+                "record_id": "1330982033",
+                "url": "http://www.brazilsun.com/news/279405104/intel-loses-usd146-billion-in-value-as-warning-sparks-chip-rout",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 0.0,
+                "tone": -3.56296018248491,
+                "score": 35.0
+            },
+            {
+                "record_id": "1330979070",
+                "url": "https://www.voria.gr/article/mystiko-diastimoplano-tis-kinas-poy-anisyhei-tis-ipa-i-proti-fotografia-oi-mystiriodeis",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -0.4,
+                "tone": -0.39313795568263,
+                "score": 29.0,
+                "keyword": "중국 비밀 우주선",
+                "hook": "미국이 두려워하는 그 물체, 중국의 비밀 우주선 사진이 마침내 공개됐습니다.",
+                "script": "베이징의 군사적 야심이 다시 한번 드러났습니다. 미국의 안보를 위협하는 중국의 비밀 우주선, 그 실체가 담긴 첫 사진이 세상에 나왔습니다. 정체불명의 비행체는 과연 무엇을 숨기고 있는 것일까요?",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-11-02 09:40:00 KST",
+        "current_rank": 11
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 37.0,
+        "trends": [
+            {
+                "record_id": "1330981584",
+                "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/01/o-que-se-sabe-sobre-aviao-da-gol-que-retornou-ao-patio-de-congonhas-a-pedido-da-policia-e-terminou-com-tres-presos.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": -0.49586776859504,
+                "score": 37.0,
+                "keyword": "항공기 강제 회항",
+                "hook": "비행기가 갑자기 멈췄습니다. 경찰의 긴급 개입으로 벌어진 기내 체포극의 전말.",
+                "script": "상파울루 공항이 발칵 뒤집혔습니다. 이륙했던 골 항공기가 경찰의 명령으로 급히 회항했습니다. 기내에서 벌어진 긴박한 체포 상황, 대체 비행기 안에서는 무슨 일이 있었던 걸까요?",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-02 09:40:00 KST",
+        "current_rank": 12
+    }
+}
