@@ -1,0 +1,711 @@
+{
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 1439.0,
+        "trends": [
+            {
+                "record_id": "1330873378",
+                "url": "https://www.hillingdontimes.co.uk/news/national/26687622.trump-lawsuit-wall-street-journal-epstein-birthday-letter-rejected/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 78,
+                "sources": 13,
+                "goldstein": -5.0,
+                "tone": -9.19007005167802,
+                "score": 667.5
+            },
+            {
+                "record_id": "1330982259",
+                "url": "https://www.wimbledonguardian.co.uk/news/national/26688513.nine-killed-florida-plane-crash/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 130,
+                "sources": 13,
+                "goldstein": -4.0,
+                "tone": -8.33333333333334,
+                "score": 278.5
+            },
+            {
+                "record_id": "1331037517",
+                "url": "https://www.wcsufm.org/latest-from-npr/2026-11-02/with-students-scarce-college-admissions-offices-get-friendlier-less-intimidating",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 5,
+                "goldstein": 1.0,
+                "tone": 0.489296636085619,
+                "score": 182.0
+            },
+            {
+                "record_id": "1330964102",
+                "url": "https://isp.netscape.com:443/news/story/0001/20261101/bb4bb89daf78484fb97496dfd88c4a10",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": -5.0,
+                "tone": -6.40850559755299,
+                "score": 175.0
+            },
+            {
+                "record_id": "1330982693",
+                "url": "https://newsradio1049.iheart.com/content/2026-11-01-learjet-crash-kills-9-in-palm-beach-county/",
+                "related_urls": [
+                    "https://whp580.iheart.com/content/2026-11-01-learjet-crash-kills-9-in-palm-beach-county/"
+                ],
+                "title": "",
+                "mentions": 96,
+                "sources": 1,
+                "goldstein": 1.9,
+                "tone": -6.7679033189719,
+                "score": 136.0
+            }
+        ],
+        "last_updated": "2026-11-02 19:57:11 KST",
+        "current_rank": 1
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 1274.0,
+        "trends": [
+            {
+                "record_id": "1330873515",
+                "url": "https://www.cambstimes.co.uk/news/national/26687661.100-arrested-outside-us-embassy-supporting-palestine-action/",
+                "related_urls": [
+                    "https://www.dunmowbroadcast.co.uk/news/national/26687894.300-arrested-outside-us-embassy-supporting-palestine-action/"
+                ],
+                "title": "",
+                "mentions": 88,
+                "sources": 11,
+                "goldstein": -9.0,
+                "tone": -4.62143559488692,
+                "score": 647.0
+            },
+            {
+                "record_id": "1330956479",
+                "url": "https://www.heraldseries.co.uk/news/national/26688386.monica-dolan-privilege-raise-awareness-parkinsons-new-film/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": 1.0,
+                "tone": 0.752547257195791,
+                "score": 210.0
+            },
+            {
+                "record_id": "1330996586",
+                "url": "https://www.somersetcountygazette.co.uk/news/national/26688553.burnham-heads-commonwealth-summit-opening-door-slavery-apology/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 10,
+                "goldstein": 4.0,
+                "tone": -5.88235294117646,
+                "score": 155.0
+            },
+            {
+                "record_id": "1331004149",
+                "url": "https://www.portstephensexaminer.com.au/story/9384538/pm-eyes-backpacker-scheme-overhaul-in-uk-leader-talks/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 4,
+                "goldstein": 7.0,
+                "tone": 0.992253058662194,
+                "score": 150.0
+            },
+            {
+                "record_id": "1331016193",
+                "url": "https://www.westerntelegraph.co.uk/news/national/26688586.skilled-migrants-contribute-gbp115bn-public-finances-think-tank-says/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 11,
+                "goldstein": 7.0,
+                "tone": -1.07671601615074,
+                "score": 112.0
+            }
+        ],
+        "last_updated": "2026-11-02 19:57:11 KST",
+        "current_rank": 2
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 793.0,
+        "trends": [
+            {
+                "record_id": "1330873086",
+                "url": "https://www.kmuw.org/2026-10-31/france-seethes-again-as-youth-led-protests-sweep-europe",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -10.0,
+                "tone": -7.95610181712137,
+                "score": 418.5
+            },
+            {
+                "record_id": "1330932656",
+                "url": "https://www.eastlondonadvertiser.co.uk/news/national/26688075.french-protest-violence-eases-scattered-riots-hit-germany/",
+                "related_urls": [
+                    "https://www.winnipegfreepress.com/world/2026/11/01/french-protest-violence-eases-and-scattered-riots-hit-germany-ahead-of-more-action",
+                    "https://www.times-series.co.uk/news/national/26688075.french-protest-violence-eases-scattered-riots-hit-germany/"
+                ],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": 1.9,
+                "tone": -9.4575799721836,
+                "score": 153.5
+            },
+            {
+                "record_id": "1331011238",
+                "url": "http://www.merkur.de/politik/wo-das-baltikum-putin-fuerchtet-und-wie-es-russland-abschrecken-will-zr-94568042.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 4,
+                "goldstein": 1.0,
+                "tone": -1.60839160839161,
+                "score": 99.0
+            },
+            {
+                "record_id": "1331037411",
+                "url": "https://www.wxxinews.org/npr-news/2026-11-02/how-does-this-fluoride-free-toothpaste-compare-when-it-comes-to-oral-health",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 7.4,
+                "tone": -0.24691358024692,
+                "score": 72.0
+            },
+            {
+                "record_id": "1330943758",
+                "url": "https://www.antenne.de/nachrichten/stars/filmproduzentin-regina-ziegler-mit-82-jahren-gestorben",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 3.0,
+                "tone": 1.45809833046493,
+                "score": 50.0
+            }
+        ],
+        "last_updated": "2026-11-02 19:57:11 KST",
+        "current_rank": 3
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 614.5,
+        "trends": [
+            {
+                "record_id": "1330984892",
+                "url": "https://www.mcall.com/2026/11/01/dia-de-los-muertos-festival-photos/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 388,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 4.86983154670749,
+                "score": 418.5
+            },
+            {
+                "record_id": "1330992317",
+                "url": "https://www.omnia.com.mx/noticia/447938/karina-ruiz-acumula-ausencias-en-el-senado-mientras-enfrenta-restricciones-para-",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -9.5,
+                "tone": -2.35508016049641,
+                "score": 164.5
+            },
+            {
+                "record_id": "1330992315",
+                "url": "https://www.omnia.com.mx/noticia/447934/austeridad-o-privilegios-javier-corral-generar-polemica-por-viaje-en-primera-cla",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 1.9,
+                "tone": -2.37039037698789,
+                "score": 31.5
+            }
+        ],
+        "last_updated": "2026-11-02 19:57:11 KST",
+        "current_rank": 4
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 570.0,
+        "trends": [
+            {
+                "record_id": "1330991533",
+                "url": "https://www.begadistrictnews.com.au/story/9383954/canavan-to-put-it-on-the-line-with-lower-house-tilt/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 98,
+                "sources": 7,
+                "goldstein": -2.0,
+                "tone": -0.864240536070624,
+                "score": 347.0
+            },
+            {
+                "record_id": "1330987262",
+                "url": "https://www.newcastleherald.com.au/story/9384143/new-spirit-of-tasmania-ferries-hit-snags-on-maiden-voyages/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 3,
+                "goldstein": 3.4,
+                "tone": 1.43119304588315,
+                "score": 94.0
+            },
+            {
+                "record_id": "1330966690",
+                "url": "https://www.batemansbaypost.com.au/story/9372602/small-businesses-face-rising-cyber-security-threat-from-ai/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 2,
+                "goldstein": -2.0,
+                "tone": -4.81677505232884,
+                "score": 46.0
+            },
+            {
+                "record_id": "1330953632",
+                "url": "https://www.dailyliberal.com.au/story/9379598/labor-private-health-rebate-cuts-face-fierce-senate-battle/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 3.4,
+                "tone": -2.22124026038376,
+                "score": 45.0
+            },
+            {
+                "record_id": "1330958978",
+                "url": "https://www.katherinetimes.com.au/story/9383936/super-funds-on-notice-over-complaints-handling-failings/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": -2.0,
+                "tone": -4.19078147567045,
+                "score": 38.0
+            }
+        ],
+        "last_updated": "2026-11-02 19:57:11 KST",
+        "current_rank": 5
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 517.5,
+        "trends": [
+            {
+                "record_id": "1331002756",
+                "url": "https://www.examiner.com.au/story/9383924/emergency-apps-hacked-in-ukraine-and-russia/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 6,
+                "goldstein": -10.0,
+                "tone": -8.23041575710454,
+                "score": 187.0
+            },
+            {
+                "record_id": "1330996809",
+                "url": "https://www.royston-crow.co.uk/news/national/26688554.adventurer-karl-bushby-complete-epic-28-year-journey-home/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": 2.8,
+                "tone": 1.0204081632653,
+                "score": 123.5
+            },
+            {
+                "record_id": "1330941945",
+                "url": "https://www.witneygazette.co.uk/news/national/26688212.civilians-kherson-prepare-return-war-localised-ceasefire-ends/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": -7.2,
+                "tone": -3.70786516853933,
+                "score": 86.0
+            },
+            {
+                "record_id": "1331015387",
+                "url": "https://www.b92.net/info/politika/281377/zamenik-nacelnika-ukp-takodje-na-informativnom-razgovoru-zbog-slucaja-senjak/vest",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": 0.563206129946538,
+                "score": 62.0
+            },
+            {
+                "record_id": "1330944470",
+                "url": "https://www.northerndailyleader.com.au/story/9383924/pope-hopes-oleshky-truce-can-spur-ukraine-russia-peace/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": 7.0,
+                "tone": 2.06766917293233,
+                "score": 59.0
+            }
+        ],
+        "last_updated": "2026-11-02 19:57:11 KST",
+        "current_rank": 6
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 415.0,
+        "trends": [
+            {
+                "record_id": "1330901175",
+                "url": "https://www.haberturk.com/bilgi/foto/15-yas-alti-sosyal-medya-yasagi-hangi-uygulamalari-kapsiyor-mevcut-hesaplar-kapatilacak-mi-e-devlet-3924043",
+                "related_urls": [
+                    "https://www.haberturk.com/bilgi/foto/15-yas-alti-sosyal-medya-yasagi-basliyor-yas-dogrulamasi-nasil-yapilir-hangi-uygulamalari-kapsayacak-3923995"
+                ],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -1.40515222482435,
+                "score": 119.0,
+                "keyword": "15세 미만 SNS 금지",
+                "hook": "당신의 자녀가 오늘부터 SNS에 접속할 수 없게 될지도 모릅니다.",
+                "script": "터키 정부가 15세 미만 아동의 SNS 사용 전면 금지를 검토 중입니다. 기존 계정 삭제 여부와 전자정부 시스템을 통한 강력한 통제안이 논의되고 있습니다. 학부모들의 혼란이 가중되는 가운데, 디지털 환경의 대대적인 변화가 예고되었습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1330946967",
+                "url": "https://www.birgun.net/haber/akp-li-ozlem-zengin-kadinlar-yan-yana-konferansina-katilmama-gerekcesini-acikladi-partimizin-politikasi-belli-743877%20class=slide-legend-link%20target=_blank",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": 4.33604336043361,
+                "score": 86.0
+            },
+            {
+                "record_id": "1331031286",
+                "url": "https://www.bursahakimiyet.com.tr/gundem/anadolu-nun-100-kultur-varligi-abd-den-turkiye-ye-dondu-1742711",
+                "related_urls": [],
+                "title": "",
+                "mentions": 44,
+                "sources": 7,
+                "goldstein": -9.0,
+                "tone": 0.461873190207519,
+                "score": 81.0,
+                "keyword": "문화재 100점 귀환",
+                "hook": "미국 땅에 묻혀있던 터키의 찬란한 역사가 드디어 제자리로 돌아옵니다.",
+                "script": "수십 년간 해외를 떠돌던 아나톨리아의 문화유산 100점이 마침내 터키 품으로 돌아왔습니다. 미국 정부와의 협상을 통해 성사된 이번 반환은 터키 문화사에서 기념비적인 사건입니다. 잃어버린 유산이 고국에서 다시 빛을 발합니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1331030581",
+                "url": "https://www.haber7.com/guncel/haber/3673454-bakan-ersoy-tanitti-yillar-sonra-abdden-turkiyeye-dondu",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 2.8,
+                "tone": 0.629634798999072,
+                "score": 70.0
+            },
+            {
+                "record_id": "1331027192",
+                "url": "https://www.birgun.net/haber/bursa-il-milli-egitim-mudurlugu-okullara-cuma-namazi-formu-gonderdi-egitim-is-ten-fisleme-tepkisi-743989%20target=_blank%20class=stretched-link",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": 0.0,
+                "score": 59.0,
+                "keyword": "학교 금요 예배 논란",
+                "hook": "학교에 배포된 의문의 서류 한 장이 학부모들을 경악하게 만들었습니다.",
+                "script": "부르사 교육청이 일선 학교에 배포한 '금요 예배 조사서'가 논란의 중심에 섰습니다. 교육 현장의 정치화와 학생들에 대한 사찰 의혹이 제기되며 교육계가 발칵 뒤집혔습니다. 교육의 중립성을 둘러싼 거센 비판이 이어지고 있습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-02 19:57:11 KST",
+        "current_rank": 7
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 381.0,
+        "trends": [
+            {
+                "record_id": "1330873044",
+                "url": "https://www.kmuw.org/2026-10-31/france-seethes-again-as-youth-led-protests-sweep-europe",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -5.0,
+                "tone": -7.95610181712137,
+                "score": 201.0
+            },
+            {
+                "record_id": "1330932671",
+                "url": "https://www.eastlondonadvertiser.co.uk/news/national/26688075.french-protest-violence-eases-scattered-riots-hit-germany/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 9,
+                "goldstein": -10.0,
+                "tone": -9.4575799721836,
+                "score": 113.0
+            },
+            {
+                "record_id": "1330887085",
+                "url": "https://www.advance.hr/perpetuum/energetska-kriza/?update=5035&sNaslovnice=1",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": -1.11111111111111,
+                "score": 67.0
+            }
+        ],
+        "last_updated": "2026-11-02 19:57:11 KST",
+        "current_rank": 8
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 319.5,
+        "trends": [
+            {
+                "record_id": "1331001258",
+                "url": "http://www.azerbaijannews.net/news/279407252/australian-exhibitors-eye-long-term-partnerships-at-china-import-expo",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 4.0,
+                "tone": 2.96495956873315,
+                "score": 175.5
+            },
+            {
+                "record_id": "1330872807",
+                "url": "https://www.kmuw.org/2026-10-31/key-takeaways-from-this-weeks-political-meeting-in-beijing",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 1.0,
+                "tone": -1.24653739612188,
+                "score": 80.0
+            },
+            {
+                "record_id": "1330982033",
+                "url": "http://www.brazilsun.com/news/279405104/intel-loses-usd146-billion-in-value-as-warning-sparks-chip-rout",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 0.0,
+                "tone": -3.56296018248491,
+                "score": 35.0
+            },
+            {
+                "record_id": "1330979070",
+                "url": "https://www.voria.gr/article/mystiko-diastimoplano-tis-kinas-poy-anisyhei-tis-ipa-i-proti-fotografia-oi-mystiriodeis",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -0.4,
+                "tone": -0.39313795568263,
+                "score": 29.0
+            }
+        ],
+        "last_updated": "2026-11-02 19:57:11 KST",
+        "current_rank": 9
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 252.5,
+        "trends": [
+            {
+                "record_id": "1330931418",
+                "url": "https://www.times-series.co.uk/news/national/26688075.french-protest-violence-eases-scattered-riots-hit-germany/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 2.8,
+                "tone": -9.4972067039106,
+                "score": 93.5
+            },
+            {
+                "record_id": "1331009756",
+                "url": "https://www.zazoom.it/2026-11-02/tra-gli-argomenti-delle-primarie-milanesi-spero-che-ci-siano-i-fondi-speculativi/19874448/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 7.4,
+                "tone": -3.69565217391305,
+                "score": 59.0
+            },
+            {
+                "record_id": "1330978245",
+                "url": "https://www.zazoom.it/2026-11-01/da-rifondazione-ai-sindacati-di-base-schlein-e-conte-caccia-al-voto-rosso/19873832/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": -4.05117270788913,
+                "score": 39.0
+            },
+            {
+                "record_id": "1330901129",
+                "url": "https://www.laleggepertutti.it/805577_chi-vince-la-causa-contro-linps-deve-pagare-le-spese-del-processo",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -2.30179028132992,
+                "score": 37.0
+            },
+            {
+                "record_id": "1331027490",
+                "url": "https://www.baritalianews.it/151751/2026/11/02/dalla-televisione-alla-politica-iacchetti-racconta-chi-lo-vuole-candidato-me-lo-ha-chiesto-fratoianni/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": 0.0,
+                "tone": -1.92597683356465,
+                "score": 24.0
+            }
+        ],
+        "last_updated": "2026-11-02 19:57:11 KST",
+        "current_rank": 10
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 144.5,
+        "trends": [
+            {
+                "record_id": "1330906316",
+                "url": "https://aninews.in/news/national/general-news/nara-lokesh-says-surgeries-on-rapthadu-attack-survivor-successful-child-shifted-to-picu20261101123059/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 3,
+                "goldstein": 4.0,
+                "tone": -1.45467847636245,
+                "score": 46.0
+            },
+            {
+                "record_id": "1330923784",
+                "url": "https://www.moneycontrol.com/banking/yes-bank-rejects-wilful-disobedience-charge-as-at-1-bond-trustee-warns-contempt-action-article-14065498.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 3.5,
+                "tone": -0.50377833753149,
+                "score": 39.5
+            },
+            {
+                "record_id": "1330939919",
+                "url": "https://www.mangalorean.com/kannada-pride-should-unite-people-through-love-and-trust-not-divide-them-u-t-khader-at-mangaluru-rajyotsava/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 5.45774647887325,
+                "score": 39.0
+            },
+            {
+                "record_id": "1330899470",
+                "url": "https://indiankanoon.org/doc/20628859/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 36,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": -4.43213594005475,
+                "score": 20.0
+            }
+        ],
+        "last_updated": "2026-11-02 19:57:11 KST",
+        "current_rank": 11
+    },
+    "South Africa": {
+        "gdp_rank": 19,
+        "spike_score": 77.5,
+        "trends": [
+            {
+                "record_id": "1330995424",
+                "url": "https://memeburn.com/best-hosting-for-small-businesses/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 3.05581540380418,
+                "score": 77.5,
+                "keyword": "소기업 최적 호스팅",
+                "hook": "당신의 온라인 비즈니스가 느린 서버 때문에 고객을 잃고 있다면 주목하십시오.",
+                "script": "남아공 소기업을 위한 최고의 웹 호스팅 솔루션을 공개합니다. 비용 효율성과 보안, 그리고 처리 속도까지 검증된 플랫폼들을 정리했습니다. 비즈니스 성장을 가속화할 디지털 인프라 구축, 지금 바로 확인하십시오.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-11-02 19:57:11 KST",
+        "current_rank": 12
+    },
+    "Japan": {
+        "gdp_rank": 4,
+        "spike_score": 67.0,
+        "trends": [
+            {
+                "record_id": "1331003120",
+                "url": "http://inews24.com/view/2021323",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -9.0,
+                "tone": -9.14454277286131,
+                "score": 67.0
+            }
+        ],
+        "last_updated": "2026-11-02 19:57:11 KST",
+        "current_rank": 13
+    },
+    "Brazil": {
+        "gdp_rank": 9,
+        "spike_score": 37.0,
+        "trends": [
+            {
+                "record_id": "1330981584",
+                "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/01/o-que-se-sabe-sobre-aviao-da-gol-que-retornou-ao-patio-de-congonhas-a-pedido-da-policia-e-terminou-com-tres-presos.ghtml",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 3.0,
+                "tone": -0.49586776859504,
+                "score": 37.0
+            }
+        ],
+        "last_updated": "2026-11-02 19:57:11 KST",
+        "current_rank": 14
+    }
+}
