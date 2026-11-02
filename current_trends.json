@@ -1,7 +1,7 @@
 {
     "United States": {
         "gdp_rank": 1,
-        "spike_score": 1439.0,
+        "spike_score": 1416.5,
         "trends": [
             {
                 "record_id": "1330873378",
@@ -23,10 +23,14 @@
                 "sources": 13,
                 "goldstein": -4.0,
                 "tone": -8.33333333333334,
-                "score": 278.5
+                "score": 215.0,
+                "keyword": "플로리다 비행기 추락",
+                "hook": "평화롭던 하늘이 순식간에 지옥으로 변했습니다.",
+                "script": "플로리다에서 발생한 충격적인 비행기 추락 사고입니다. 탑승자 9명 전원이 사망하며 현장은 아수라장이 됐습니다. 사고 원인 파악을 위한 조사가 즉각 착수되었습니다. 추가 소식 들어오는 대로 다시 전하겠습니다.",
+                "sentiment": "negative"
             },
             {
-                "record_id": "1331037517",
+                "record_id": "1331037274",
                 "url": "https://www.wcsufm.org/latest-from-npr/2026-11-02/with-students-scarce-college-admissions-offices-get-friendlier-less-intimidating",
                 "related_urls": [],
                 "title": "",
@@ -37,7 +41,20 @@
                 "score": 182.0
             },
             {
-                "record_id": "1330964102",
+                "record_id": "1331097171",
+                "url": "https://www.iowapublicradio.org/news-from-npr/2026-11-02/doj-asks-for-supreme-court-to-intervene-on-california-ballot-demands",
+                "related_urls": [
+                    "https://www.waer.org/2026-11-02/doj-asks-for-supreme-court-to-intervene-on-california-ballot-demands"
+                ],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -5.0,
+                "tone": -2.06598461416448,
+                "score": 177.0
+            },
+            {
+                "record_id": "1330964283",
                 "url": "https://isp.netscape.com:443/news/story/0001/20261101/bb4bb89daf78484fb97496dfd88c4a10",
                 "related_urls": [],
                 "title": "",
@@ -46,27 +63,14 @@
                 "goldstein": -5.0,
                 "tone": -6.40850559755299,
                 "score": 175.0
-            },
-            {
-                "record_id": "1330982693",
-                "url": "https://newsradio1049.iheart.com/content/2026-11-01-learjet-crash-kills-9-in-palm-beach-county/",
-                "related_urls": [
-                    "https://whp580.iheart.com/content/2026-11-01-learjet-crash-kills-9-in-palm-beach-county/"
-                ],
-                "title": "",
-                "mentions": 96,
-                "sources": 1,
-                "goldstein": 1.9,
-                "tone": -6.7679033189719,
-                "score": 136.0
             }
         ],
-        "last_updated": "2026-11-02 19:57:11 KST",
+        "last_updated": "2026-11-03 06:41:24 KST",
         "current_rank": 1
     },
     "United Kingdom": {
         "gdp_rank": 6,
-        "spike_score": 1274.0,
+        "spike_score": 1382.5,
         "trends": [
             {
                 "record_id": "1330873515",
@@ -79,7 +83,22 @@
                 "sources": 11,
                 "goldstein": -9.0,
                 "tone": -4.62143559488692,
-                "score": 647.0
+                "score": 647.0,
+                "keyword": "영국 대사관 체포",
+                "hook": "런던 한복판이 수백 명의 시위대로 인해 마비되었습니다.",
+                "script": "미국 대사관 앞에서 벌어진 팔레스타인 지지 시위가 격렬한 충돌로 이어졌습니다. 경찰은 현장에서 100명을 즉각 체포하며 강경 대응에 나섰습니다. 도심 기능이 완전히 마비된 긴박한 상황입니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1331045079",
+                "url": "https://www.aol.co.uk/articles/outlander-honoured-outstanding-contribution-award-105521000.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 10,
+                "goldstein": 3.4,
+                "tone": 6.26962676962677,
+                "score": 220.5
             },
             {
                 "record_id": "1330956479",
@@ -104,7 +123,7 @@
                 "score": 155.0
             },
             {
-                "record_id": "1331004149",
+                "record_id": "1331004243",
                 "url": "https://www.portstephensexaminer.com.au/story/9384538/pm-eyes-backpacker-scheme-overhaul-in-uk-leader-talks/",
                 "related_urls": [],
                 "title": "",
@@ -113,25 +132,14 @@
                 "goldstein": 7.0,
                 "tone": 0.992253058662194,
                 "score": 150.0
-            },
-            {
-                "record_id": "1331016193",
-                "url": "https://www.westerntelegraph.co.uk/news/national/26688586.skilled-migrants-contribute-gbp115bn-public-finances-think-tank-says/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 110,
-                "sources": 11,
-                "goldstein": 7.0,
-                "tone": -1.07671601615074,
-                "score": 112.0
             }
         ],
-        "last_updated": "2026-11-02 19:57:11 KST",
+        "last_updated": "2026-11-03 06:41:24 KST",
         "current_rank": 2
     },
     "Germany": {
         "gdp_rank": 3,
-        "spike_score": 793.0,
+        "spike_score": 898.0,
         "trends": [
             {
                 "record_id": "1330873086",
@@ -148,15 +156,30 @@
                 "record_id": "1330932656",
                 "url": "https://www.eastlondonadvertiser.co.uk/news/national/26688075.french-protest-violence-eases-scattered-riots-hit-germany/",
                 "related_urls": [
-                    "https://www.winnipegfreepress.com/world/2026/11/01/french-protest-violence-eases-and-scattered-riots-hit-germany-ahead-of-more-action",
-                    "https://www.times-series.co.uk/news/national/26688075.french-protest-violence-eases-scattered-riots-hit-germany/"
+                    "https://www.times-series.co.uk/news/national/26688075.french-protest-violence-eases-scattered-riots-hit-germany/",
+                    "https://www.winnipegfreepress.com/world/2026/11/01/french-protest-violence-eases-and-scattered-riots-hit-germany-ahead-of-more-action"
                 ],
                 "title": "",
                 "mentions": 90,
                 "sources": 9,
                 "goldstein": 1.9,
                 "tone": -9.4575799721836,
-                "score": 153.5
+                "score": 153.5,
+                "keyword": "독일 폭동 확산",
+                "hook": "프랑스를 휩쓴 분노의 불길이 이제 독일 국경을 넘었습니다.",
+                "script": "유럽 전역을 공포로 몰아넣은 청년들의 대규모 시위가 독일까지 번졌습니다. 거리 곳곳에서 폭력 사태와 방화가 잇따르며 치안이 마비 상태입니다. 유럽의 혼란은 과연 어디까지 이어질까요?",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1331044344",
+                "url": "http://www.kreisbote.de/wirtschaft/andreas-herb-merz-cdu-enttaeuschung-energy-drink-usa-produktion-zr-94569642.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 7.0,
+                "tone": -4.78142076502732,
+                "score": 140.0
             },
             {
                 "record_id": "1331011238",
@@ -170,75 +193,23 @@
                 "score": 99.0
             },
             {
-                "record_id": "1331037411",
-                "url": "https://www.wxxinews.org/npr-news/2026-11-02/how-does-this-fluoride-free-toothpaste-compare-when-it-comes-to-oral-health",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 5,
-                "goldstein": 7.4,
-                "tone": -0.24691358024692,
-                "score": 72.0
-            },
-            {
-                "record_id": "1330943758",
-                "url": "https://www.antenne.de/nachrichten/stars/filmproduzentin-regina-ziegler-mit-82-jahren-gestorben",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 5,
-                "goldstein": 3.0,
-                "tone": 1.45809833046493,
-                "score": 50.0
-            }
-        ],
-        "last_updated": "2026-11-02 19:57:11 KST",
-        "current_rank": 3
-    },
-    "Mexico": {
-        "gdp_rank": 12,
-        "spike_score": 614.5,
-        "trends": [
-            {
-                "record_id": "1330984892",
-                "url": "https://www.mcall.com/2026/11/01/dia-de-los-muertos-festival-photos/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 388,
-                "sources": 1,
-                "goldstein": 3.4,
-                "tone": 4.86983154670749,
-                "score": 418.5
-            },
-            {
-                "record_id": "1330992317",
-                "url": "https://www.omnia.com.mx/noticia/447938/karina-ruiz-acumula-ausencias-en-el-senado-mientras-enfrenta-restricciones-para-",
-                "related_urls": [],
-                "title": "",
-                "mentions": 50,
-                "sources": 1,
-                "goldstein": -9.5,
-                "tone": -2.35508016049641,
-                "score": 164.5
-            },
-            {
-                "record_id": "1330992315",
-                "url": "https://www.omnia.com.mx/noticia/447934/austeridad-o-privilegios-javier-corral-generar-polemica-por-viaje-en-primera-cla",
+                "record_id": "1331047081",
+                "url": "http://www.come-on.de/wirtschaft/warnstreiks-in-der-metallindustrie-der-tarifstreit-trifft-eine-geschwaechte-branche-zr-94569608.html",
                 "related_urls": [],
                 "title": "",
                 "mentions": 40,
-                "sources": 1,
-                "goldstein": 1.9,
-                "tone": -2.37039037698789,
-                "score": 31.5
+                "sources": 3,
+                "goldstein": 4.0,
+                "tone": -1.61399008781845,
+                "score": 87.0
             }
         ],
-        "last_updated": "2026-11-02 19:57:11 KST",
-        "current_rank": 4
+        "last_updated": "2026-11-03 06:41:24 KST",
+        "current_rank": 3
     },
     "Australia": {
         "gdp_rank": 13,
-        "spike_score": 570.0,
+        "spike_score": 646.0,
         "trends": [
             {
                 "record_id": "1330991533",
@@ -250,6 +221,17 @@
                 "goldstein": -2.0,
                 "tone": -0.864240536070624,
                 "score": 347.0
+            },
+            {
+                "record_id": "1331108282",
+                "url": "https://www.singletonargus.com.au/story/9384721/australia-cannot-credibly-lead-cop31-without-reform/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 72,
+                "sources": 6,
+                "goldstein": 3.0,
+                "tone": -1.68727539491453,
+                "score": 114.0
             },
             {
                 "record_id": "1330987262",
@@ -271,49 +253,65 @@
                 "sources": 2,
                 "goldstein": -2.0,
                 "tone": -4.81677505232884,
-                "score": 46.0
+                "score": 46.0,
+                "keyword": "AI 해킹 급증",
+                "hook": "호주 소상공인들이 인공지능을 이용한 정교한 사이버 공격에 무방비로 노출되었습니다.",
+                "script": "당신의 사업장이 해킹당하고 있습니다. 호주 소상공인들을 겨냥한 AI 기반 사이버 범죄가 폭증하고 있습니다. 더 이상 안전지대는 없습니다. 지금 즉시 보안 시스템을 점검하지 않으면 당신의 자산이 순식간에 사라집니다.",
+                "sentiment": "warning"
             },
             {
-                "record_id": "1330953632",
-                "url": "https://www.dailyliberal.com.au/story/9379598/labor-private-health-rebate-cuts-face-fierce-senate-battle/",
+                "record_id": "1331116909",
+                "url": "https://www.braidwoodtimes.com.au/story/9384724/widow-slams-false-hamas-claim-against-gaza-journalist/",
                 "related_urls": [],
                 "title": "",
                 "mentions": 40,
-                "sources": 4,
-                "goldstein": 3.4,
-                "tone": -2.22124026038376,
+                "sources": 5,
+                "goldstein": 3.0,
+                "tone": -8.16908433970008,
                 "score": 45.0
-            },
-            {
-                "record_id": "1330958978",
-                "url": "https://www.katherinetimes.com.au/story/9383936/super-funds-on-notice-over-complaints-handling-failings/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": -2.0,
-                "tone": -4.19078147567045,
-                "score": 38.0
             }
         ],
-        "last_updated": "2026-11-02 19:57:11 KST",
+        "last_updated": "2026-11-03 06:41:24 KST",
+        "current_rank": 4
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 583.0,
+        "trends": [
+            {
+                "record_id": "1330984892",
+                "url": "https://www.mcall.com/2026/11/01/dia-de-los-muertos-festival-photos/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 388,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 4.86983154670749,
+                "score": 418.5
+            },
+            {
+                "record_id": "1330992317",
+                "url": "https://www.omnia.com.mx/noticia/447938/karina-ruiz-acumula-ausencias-en-el-senado-mientras-enfrenta-restricciones-para-",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -9.5,
+                "tone": -2.35508016049641,
+                "score": 164.5,
+                "keyword": "상원의원 직무유기",
+                "hook": "멕시코 상원의원이 회의를 줄줄이 불참하며 논란의 중심에 섰습니다.",
+                "script": "멕시코 정치권이 발칵 뒤집혔습니다. 카리나 루이즈 상원의원이 잇따른 회의 불참으로 직무유기 논란에 휩싸였습니다. 국민의 대표가 자리를 비운 사이, 멕시코의 민생은 뒷전으로 밀려나고 있습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-03 06:41:24 KST",
         "current_rank": 5
     },
     "Russia": {
         "gdp_rank": 11,
-        "spike_score": 517.5,
+        "spike_score": 448.5,
         "trends": [
-            {
-                "record_id": "1331002756",
-                "url": "https://www.examiner.com.au/story/9383924/emergency-apps-hacked-in-ukraine-and-russia/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 120,
-                "sources": 6,
-                "goldstein": -10.0,
-                "tone": -8.23041575710454,
-                "score": 187.0
-            },
             {
                 "record_id": "1330996809",
                 "url": "https://www.royston-crow.co.uk/news/national/26688554.adventurer-karl-bushby-complete-epic-28-year-journey-home/",
@@ -324,6 +322,21 @@
                 "goldstein": 2.8,
                 "tone": 1.0204081632653,
                 "score": 123.5
+            },
+            {
+                "record_id": "1331002756",
+                "url": "https://www.examiner.com.au/story/9383924/emergency-apps-hacked-in-ukraine-and-russia/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 6,
+                "goldstein": -10.0,
+                "tone": -8.23041575710454,
+                "score": 122.0,
+                "keyword": "러시아 사이버 테러",
+                "hook": "러시아와 우크라이나의 비상 대응 앱이 해킹당하며 국가 시스템이 마비되었습니다.",
+                "script": "비상벨이 울리지 않습니다. 러시아와 우크라이나의 국가 비상 대응 앱이 해킹 공격을 받아 완전히 마비되었습니다. 통신망은 무너졌고 시민들은 공포에 떨고 있습니다. 사이버 전쟁의 실체가 드러났습니다.",
+                "sentiment": "warning"
             },
             {
                 "record_id": "1330941945",
@@ -348,96 +361,19 @@
                 "score": 62.0
             },
             {
-                "record_id": "1330944470",
-                "url": "https://www.northerndailyleader.com.au/story/9383924/pope-hopes-oleshky-truce-can-spur-ukraine-russia-peace/",
+                "record_id": "1331034685",
+                "url": "https://www.pacensure.com/mali-i-zi-heq-udhetimin-pa-viza-per-shtetasit-ruse-moska-pergjigjet-me-masa-reciproke/",
                 "related_urls": [],
                 "title": "",
-                "mentions": 40,
-                "sources": 2,
-                "goldstein": 7.0,
-                "tone": 2.06766917293233,
-                "score": 59.0
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 4.0,
+                "tone": 1.16094165458927,
+                "score": 55.0
             }
         ],
-        "last_updated": "2026-11-02 19:57:11 KST",
+        "last_updated": "2026-11-03 06:41:24 KST",
         "current_rank": 6
-    },
-    "Turkey": {
-        "gdp_rank": 16,
-        "spike_score": 415.0,
-        "trends": [
-            {
-                "record_id": "1330901175",
-                "url": "https://www.haberturk.com/bilgi/foto/15-yas-alti-sosyal-medya-yasagi-hangi-uygulamalari-kapsiyor-mevcut-hesaplar-kapatilacak-mi-e-devlet-3924043",
-                "related_urls": [
-                    "https://www.haberturk.com/bilgi/foto/15-yas-alti-sosyal-medya-yasagi-basliyor-yas-dogrulamasi-nasil-yapilir-hangi-uygulamalari-kapsayacak-3923995"
-                ],
-                "title": "",
-                "mentions": 70,
-                "sources": 1,
-                "goldstein": -5.0,
-                "tone": -1.40515222482435,
-                "score": 119.0,
-                "keyword": "15세 미만 SNS 금지",
-                "hook": "당신의 자녀가 오늘부터 SNS에 접속할 수 없게 될지도 모릅니다.",
-                "script": "터키 정부가 15세 미만 아동의 SNS 사용 전면 금지를 검토 중입니다. 기존 계정 삭제 여부와 전자정부 시스템을 통한 강력한 통제안이 논의되고 있습니다. 학부모들의 혼란이 가중되는 가운데, 디지털 환경의 대대적인 변화가 예고되었습니다.",
-                "sentiment": "warning"
-            },
-            {
-                "record_id": "1330946967",
-                "url": "https://www.birgun.net/haber/akp-li-ozlem-zengin-kadinlar-yan-yana-konferansina-katilmama-gerekcesini-acikladi-partimizin-politikasi-belli-743877%20class=slide-legend-link%20target=_blank",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 1,
-                "goldstein": -2.0,
-                "tone": 4.33604336043361,
-                "score": 86.0
-            },
-            {
-                "record_id": "1331031286",
-                "url": "https://www.bursahakimiyet.com.tr/gundem/anadolu-nun-100-kultur-varligi-abd-den-turkiye-ye-dondu-1742711",
-                "related_urls": [],
-                "title": "",
-                "mentions": 44,
-                "sources": 7,
-                "goldstein": -9.0,
-                "tone": 0.461873190207519,
-                "score": 81.0,
-                "keyword": "문화재 100점 귀환",
-                "hook": "미국 땅에 묻혀있던 터키의 찬란한 역사가 드디어 제자리로 돌아옵니다.",
-                "script": "수십 년간 해외를 떠돌던 아나톨리아의 문화유산 100점이 마침내 터키 품으로 돌아왔습니다. 미국 정부와의 협상을 통해 성사된 이번 반환은 터키 문화사에서 기념비적인 사건입니다. 잃어버린 유산이 고국에서 다시 빛을 발합니다.",
-                "sentiment": "positive"
-            },
-            {
-                "record_id": "1331030581",
-                "url": "https://www.haber7.com/guncel/haber/3673454-bakan-ersoy-tanitti-yillar-sonra-abdden-turkiyeye-dondu",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 4,
-                "goldstein": 2.8,
-                "tone": 0.629634798999072,
-                "score": 70.0
-            },
-            {
-                "record_id": "1331027192",
-                "url": "https://www.birgun.net/haber/bursa-il-milli-egitim-mudurlugu-okullara-cuma-namazi-formu-gonderdi-egitim-is-ten-fisleme-tepkisi-743989%20target=_blank%20class=stretched-link",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 1,
-                "goldstein": 3.0,
-                "tone": 0.0,
-                "score": 59.0,
-                "keyword": "학교 금요 예배 논란",
-                "hook": "학교에 배포된 의문의 서류 한 장이 학부모들을 경악하게 만들었습니다.",
-                "script": "부르사 교육청이 일선 학교에 배포한 '금요 예배 조사서'가 논란의 중심에 섰습니다. 교육 현장의 정치화와 학생들에 대한 사찰 의혹이 제기되며 교육계가 발칵 뒤집혔습니다. 교육의 중립성을 둘러싼 거센 비판이 이어지고 있습니다.",
-                "sentiment": "negative"
-            }
-        ],
-        "last_updated": "2026-11-02 19:57:11 KST",
-        "current_rank": 7
     },
     "France": {
         "gdp_rank": 7,
@@ -452,7 +388,11 @@
                 "sources": 6,
                 "goldstein": -5.0,
                 "tone": -7.95610181712137,
-                "score": 201.0
+                "score": 201.0,
+                "keyword": "프랑스 청년 시위",
+                "hook": "분노한 프랑스 청년들이 거리로 쏟아져 나와 유럽을 뒤흔들고 있습니다.",
+                "script": "프랑스에서 시작된 대규모 청년 시위가 통제 불능 상태입니다. 분노는 이제 국경을 넘어 유럽 전역으로 확산되고 있습니다. 정부의 대응은 속수무책이며, 유럽의 미래가 불투명해졌습니다.",
+                "sentiment": "negative"
             },
             {
                 "record_id": "1330932671",
@@ -477,7 +417,76 @@
                 "score": 67.0
             }
         ],
-        "last_updated": "2026-11-02 19:57:11 KST",
+        "last_updated": "2026-11-03 06:41:24 KST",
+        "current_rank": 7
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 328.0,
+        "trends": [
+            {
+                "record_id": "1330901175",
+                "url": "https://www.haberturk.com/bilgi/foto/15-yas-alti-sosyal-medya-yasagi-hangi-uygulamalari-kapsiyor-mevcut-hesaplar-kapatilacak-mi-e-devlet-3924043",
+                "related_urls": [
+                    "https://www.haberturk.com/bilgi/foto/15-yas-alti-sosyal-medya-yasagi-basliyor-yas-dogrulamasi-nasil-yapilir-hangi-uygulamalari-kapsayacak-3923995"
+                ],
+                "title": "",
+                "mentions": 70,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": -1.40515222482435,
+                "score": 119.0,
+                "keyword": "SNS 이용 제한",
+                "hook": "튀르키예 정부가 15세 미만 청소년의 소셜 미디어 사용을 전면 차단합니다.",
+                "script": "스마트폰을 뺏길 위기입니다. 튀르키예 정부가 15세 미만 청소년의 소셜 미디어 계정을 강제로 폐쇄하는 강력한 규제를 발표했습니다. 디지털 세상에서 쫓겨날 위기에 처한 청소년들과 학부모들의 반발이 거셉니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1331031286",
+                "url": "https://www.bursahakimiyet.com.tr/gundem/anadolu-nun-100-kultur-varligi-abd-den-turkiye-ye-dondu-1742711",
+                "related_urls": [],
+                "title": "",
+                "mentions": 44,
+                "sources": 7,
+                "goldstein": -9.0,
+                "tone": 0.461873190207519,
+                "score": 81.0
+            },
+            {
+                "record_id": "1331030581",
+                "url": "https://www.haber7.com/guncel/haber/3673454-bakan-ersoy-tanitti-yillar-sonra-abdden-turkiyeye-dondu",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 2.8,
+                "tone": 0.629634798999072,
+                "score": 70.0
+            },
+            {
+                "record_id": "1330985695",
+                "url": "https://sapo.pt/artigo/zelensky-desafia-putin-a-reunir-se-consigo-na-turquia-6ae7ccf17a19de6f9c311863",
+                "related_urls": [],
+                "title": "",
+                "mentions": 44,
+                "sources": 2,
+                "goldstein": 1.0,
+                "tone": 0.739419865461833,
+                "score": 31.0
+            },
+            {
+                "record_id": "1331004895",
+                "url": "https://www.hurriyet.com.tr/gundem/izmirde-insaat-temel-kazisinda-toprak-kaymasi-3-bina-tahliye-edildi-43362839",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": 0.832849880184827,
+                "score": 27.0
+            }
+        ],
+        "last_updated": "2026-11-03 06:41:24 KST",
         "current_rank": 8
     },
     "China": {
@@ -496,7 +505,7 @@
                 "score": 175.5
             },
             {
-                "record_id": "1330872807",
+                "record_id": "1330873017",
                 "url": "https://www.kmuw.org/2026-10-31/key-takeaways-from-this-weeks-political-meeting-in-beijing",
                 "related_urls": [],
                 "title": "",
@@ -526,15 +535,19 @@
                 "sources": 1,
                 "goldstein": -0.4,
                 "tone": -0.39313795568263,
-                "score": 29.0
+                "score": 29.0,
+                "keyword": "중국 비밀 우주선",
+                "hook": "미국 정보 당국이 중국의 비밀 우주선 사진을 보고 경악했습니다.",
+                "script": "베일 속에 가려져 있던 중국의 최첨단 우주선이 처음으로 포착되었습니다. 서방 국가들은 이를 심각한 안보 위협으로 간주하고 있습니다. 베이징의 다음 행보에 전 세계의 이목이 집중되고 있습니다.",
+                "sentiment": "warning"
             }
         ],
-        "last_updated": "2026-11-02 19:57:11 KST",
+        "last_updated": "2026-11-03 06:41:24 KST",
         "current_rank": 9
     },
     "Italy": {
         "gdp_rank": 8,
-        "spike_score": 252.5,
+        "spike_score": 192.5,
         "trends": [
             {
                 "record_id": "1330931418",
@@ -545,29 +558,22 @@
                 "sources": 5,
                 "goldstein": 2.8,
                 "tone": -9.4972067039106,
-                "score": 93.5
+                "score": 93.5,
+                "keyword": "유럽 전역 폭동",
+                "hook": "독일과 프랑스를 휩쓰는 폭력 사태가 유럽의 평화를 위협하고 있습니다.",
+                "script": "유럽이 불타오릅니다. 프랑스의 격렬한 시위가 이제 독일 국경까지 번졌습니다. 곳곳에서 약탈과 폭동이 발생하며 치안이 붕괴 직전입니다. 지금 유럽 여행 중이라면 당장 안전한 곳으로 대피하십시오.",
+                "sentiment": "warning"
             },
             {
-                "record_id": "1331009756",
-                "url": "https://www.zazoom.it/2026-11-02/tra-gli-argomenti-delle-primarie-milanesi-spero-che-ci-siano-i-fondi-speculativi/19874448/",
+                "record_id": "1331111386",
+                "url": "https://ilikepuglia.it/02/11/2026/sanita-prossima-fdi-bari/",
                 "related_urls": [],
                 "title": "",
-                "mentions": 40,
+                "mentions": 100,
                 "sources": 1,
-                "goldstein": 7.4,
-                "tone": -3.69565217391305,
-                "score": 59.0
-            },
-            {
-                "record_id": "1330978245",
-                "url": "https://www.zazoom.it/2026-11-01/da-rifondazione-ai-sindacati-di-base-schlein-e-conte-caccia-al-voto-rosso/19873832/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 1,
-                "goldstein": 3.4,
-                "tone": -4.05117270788913,
-                "score": 39.0
+                "goldstein": -2.0,
+                "tone": -2.45029122313716,
+                "score": 62.0
             },
             {
                 "record_id": "1330901129",
@@ -579,77 +585,14 @@
                 "goldstein": -2.0,
                 "tone": -2.30179028132992,
                 "score": 37.0
-            },
-            {
-                "record_id": "1331027490",
-                "url": "https://www.baritalianews.it/151751/2026/11/02/dalla-televisione-alla-politica-iacchetti-racconta-chi-lo-vuole-candidato-me-lo-ha-chiesto-fratoianni/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 2,
-                "goldstein": 0.0,
-                "tone": -1.92597683356465,
-                "score": 24.0
             }
         ],
-        "last_updated": "2026-11-02 19:57:11 KST",
+        "last_updated": "2026-11-03 06:41:24 KST",
         "current_rank": 10
-    },
-    "India": {
-        "gdp_rank": 5,
-        "spike_score": 144.5,
-        "trends": [
-            {
-                "record_id": "1330906316",
-                "url": "https://aninews.in/news/national/general-news/nara-lokesh-says-surgeries-on-rapthadu-attack-survivor-successful-child-shifted-to-picu20261101123059/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 3,
-                "goldstein": 4.0,
-                "tone": -1.45467847636245,
-                "score": 46.0
-            },
-            {
-                "record_id": "1330923784",
-                "url": "https://www.moneycontrol.com/banking/yes-bank-rejects-wilful-disobedience-charge-as-at-1-bond-trustee-warns-contempt-action-article-14065498.html",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 1,
-                "goldstein": 3.5,
-                "tone": -0.50377833753149,
-                "score": 39.5
-            },
-            {
-                "record_id": "1330939919",
-                "url": "https://www.mangalorean.com/kannada-pride-should-unite-people-through-love-and-trust-not-divide-them-u-t-khader-at-mangaluru-rajyotsava/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 1,
-                "goldstein": 3.4,
-                "tone": 5.45774647887325,
-                "score": 39.0
-            },
-            {
-                "record_id": "1330899470",
-                "url": "https://indiankanoon.org/doc/20628859/",
-                "related_urls": [],
-                "title": "",
-                "mentions": 36,
-                "sources": 1,
-                "goldstein": 0.0,
-                "tone": -4.43213594005475,
-                "score": 20.0
-            }
-        ],
-        "last_updated": "2026-11-02 19:57:11 KST",
-        "current_rank": 11
     },
     "South Africa": {
         "gdp_rank": 19,
-        "spike_score": 77.5,
+        "spike_score": 127.5,
         "trends": [
             {
                 "record_id": "1330995424",
@@ -661,51 +604,74 @@
                 "goldstein": 2.8,
                 "tone": 3.05581540380418,
                 "score": 77.5,
-                "keyword": "소기업 최적 호스팅",
-                "hook": "당신의 온라인 비즈니스가 느린 서버 때문에 고객을 잃고 있다면 주목하십시오.",
-                "script": "남아공 소기업을 위한 최고의 웹 호스팅 솔루션을 공개합니다. 비용 효율성과 보안, 그리고 처리 속도까지 검증된 플랫폼들을 정리했습니다. 비즈니스 성장을 가속화할 디지털 인프라 구축, 지금 바로 확인하십시오.",
+                "keyword": "소상공인 웹호스팅 선정",
+                "hook": "당신의 비즈니스가 온라인에서 사라지고 있다면 지금 당장 이 선택을 의심해야 합니다.",
+                "script": "온라인 매장이 고객을 놓치고 있습니까? 느린 속도와 잦은 다운타임은 고객을 경쟁사에게 넘겨주는 지름길입니다. 소규모 비즈니스를 위한 최적의 호스팅 서비스, 보안부터 가동 시간까지 지금 바로 확인하고 매출을 지키십시오.",
+                "sentiment": "neutral"
+            },
+            {
+                "record_id": "1331055922",
+                "url": "https://www.northernnews.ca/press-releases/globe-newswire/american-lithium-increases-macusani-uranium-measured-and-indicated-resource/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 3.0,
+                "tone": 1.19355268729092,
+                "score": 50.0,
+                "keyword": "우라늄 자원 급증",
+                "hook": "에너지 시장의 판도가 뒤집힐 엄청난 규모의 우라늄 매장량이 확인되었습니다.",
+                "script": "아메리칸 리튬이 마쿠사니 프로젝트에서 막대한 우라늄 자원량을 확보했습니다. 이는 글로벌 에너지 공급망에 미칠 파급력이 상당할 것으로 보입니다. 핵심 자원 확보 전쟁의 서막이 올랐습니다. 지금 시장의 움직임을 주목하십시오.",
                 "sentiment": "positive"
             }
         ],
-        "last_updated": "2026-11-02 19:57:11 KST",
+        "last_updated": "2026-11-03 06:41:24 KST",
+        "current_rank": 11
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 78.0,
+        "trends": [
+            {
+                "record_id": "1331050734",
+                "url": "https://cine21.com/news/view/?mag_id=111157",
+                "related_urls": [],
+                "title": "",
+                "mentions": 52,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": 0.0258129559397454,
+                "score": 78.0,
+                "keyword": "영화계 위기",
+                "hook": "한국 영화 시장이 전례 없는 침체기에 빠지며 산업 전반이 흔들리고 있습니다.",
+                "script": "한국 영화가 멈췄습니다. 시장 규모가 축소되면서 산업 전체가 뿌리째 흔들리고 있습니다. 관객의 발길은 끊겼고, 제작사는 문을 닫고 있습니다. K-콘텐츠의 화려한 명성에 드리운 짙은 그림자를 분석합니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-03 06:41:24 KST",
         "current_rank": 12
     },
-    "Japan": {
-        "gdp_rank": 4,
-        "spike_score": 67.0,
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 46.0,
         "trends": [
             {
-                "record_id": "1331003120",
-                "url": "http://inews24.com/view/2021323",
+                "record_id": "1330906316",
+                "url": "https://aninews.in/news/national/general-news/nara-lokesh-says-surgeries-on-rapthadu-attack-survivor-successful-child-shifted-to-picu20261101123059/",
                 "related_urls": [],
                 "title": "",
                 "mentions": 40,
-                "sources": 1,
-                "goldstein": -9.0,
-                "tone": -9.14454277286131,
-                "score": 67.0
+                "sources": 3,
+                "goldstein": 4.0,
+                "tone": -1.45467847636245,
+                "score": 46.0,
+                "keyword": "피습 아동 수술",
+                "hook": "잔혹한 공격 속에서 기적을 바라는 간절한 기도입니다.",
+                "script": "랩타두 피습 사건의 피해 아동이 긴급 수술을 마치고 중환자실로 옮겨졌습니다. 생사를 오가는 위태로운 상황 속에서 의료진은 필사적인 사투를 벌이고 있습니다. 가해자 엄벌을 요구하는 목소리가 높아지고 있습니다.",
+                "sentiment": "negative"
             }
         ],
-        "last_updated": "2026-11-02 19:57:11 KST",
+        "last_updated": "2026-11-03 06:41:24 KST",
         "current_rank": 13
-    },
-    "Brazil": {
-        "gdp_rank": 9,
-        "spike_score": 37.0,
-        "trends": [
-            {
-                "record_id": "1330981584",
-                "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/01/o-que-se-sabe-sobre-aviao-da-gol-que-retornou-ao-patio-de-congonhas-a-pedido-da-policia-e-terminou-com-tres-presos.ghtml",
-                "related_urls": [],
-                "title": "",
-                "mentions": 40,
-                "sources": 1,
-                "goldstein": 3.0,
-                "tone": -0.49586776859504,
-                "score": 37.0
-            }
-        ],
-        "last_updated": "2026-11-02 19:57:11 KST",
-        "current_rank": 14
     }
 }
