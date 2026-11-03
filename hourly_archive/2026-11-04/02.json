@@ -1,0 +1,522 @@
+{
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 2987.0,
+        "trends": [
+            {
+                "record_id": "1331253271",
+                "url": "https://www.asianimage.co.uk/news/national/26694292.death-toll-russian-attack-aid-centre-rises-31-officials-say/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 84,
+                "sources": 14,
+                "goldstein": 4.0,
+                "tone": -7.0291777188329,
+                "score": 1732.5,
+                "keyword": "러시아 공격 사상자",
+                "hook": "구호 센터를 덮친 미사일, 사망자가 31명까지 치솟았습니다.",
+                "script": "러시아군의 무차별 공격이 민간 구호 센터를 강타했습니다. 사망자 숫자가 계속 늘어나며 국제사회의 분노가 극에 달하고 있습니다. 현장의 참상은 말로 설명할 수 없을 정도로 처참합니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1331241068",
+                "url": "https://www.aol.co.uk/articles/robinson-insists-party-fully-behind-122257000.html",
+                "related_urls": [
+                    "https://www.echo-news.co.uk/news/national/26694631.robinson-insists-party-fully-behind-position-drumcree-dispute/"
+                ],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": 10.0,
+                "tone": -3.39893774675554,
+                "score": 652.5
+            },
+            {
+                "record_id": "1331045079",
+                "url": "https://www.aol.co.uk/articles/outlander-honoured-outstanding-contribution-award-105521000.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 10,
+                "goldstein": 3.4,
+                "tone": 6.26962676962677,
+                "score": 220.5
+            },
+            {
+                "record_id": "1331196039",
+                "url": "https://www.northwalespioneer.co.uk/news/national/26692553.streeting-condemns-iran-labelling-raf-royal-navy-terrorist-organisations/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 11,
+                "goldstein": 3.4,
+                "tone": -3.71517027863778,
+                "score": 213.5
+            },
+            {
+                "record_id": "1331153141",
+                "url": "https://www.lynnnews.co.uk/national/mahmood-defends-migration-reform-package-against-accusations-of-u-turn-173778/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 12,
+                "goldstein": -2.0,
+                "tone": -2.46197550769704,
+                "score": 168.0
+            }
+        ],
+        "last_updated": "2026-11-04 02:00:10 KST",
+        "current_rank": 1
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 2765.0,
+        "trends": [
+            {
+                "record_id": "1331253404",
+                "url": "https://www.asianimage.co.uk/news/national/26694292.death-toll-russian-attack-aid-centre-rises-31-officials-say/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 102,
+                "sources": 17,
+                "goldstein": 1.0,
+                "tone": -6.89524345108082,
+                "score": 2076.0
+            },
+            {
+                "record_id": "1330982259",
+                "url": "https://www.wimbledonguardian.co.uk/news/national/26688513.nine-killed-florida-plane-crash/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 130,
+                "sources": 13,
+                "goldstein": -4.0,
+                "tone": -8.33333333333334,
+                "score": 215.0,
+                "keyword": "플로리다 경비행기 추락",
+                "hook": "하늘에서 떨어진 불덩어리, 플로리다 상공에서 9명이 한순간에 사라졌습니다.",
+                "script": "플로리다에서 경비행기 추락 사고로 탑승자 전원이 사망했습니다. 현장은 순식간에 아수라장이 됐고, 구조대조차 손쓸 틈 없는 참혹한 상황입니다. 사고 원인 조사에 착수했지만, 유가족들의 비통함은 가시지 않고 있습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1331212650",
+                "url": "https://www.london-now.co.uk/news/national/26693225.we-lost-good-guy---ellen-degeneres-emotional-tribute-producer/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": -7.0,
+                "tone": -0.37593984962406,
+                "score": 170.0
+            },
+            {
+                "record_id": "1331242837",
+                "url": "https://magyarnemzet.hu/belfold/2026/11/december-24-orszaggyules",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -4.45211142445183,
+                "score": 164.0
+            },
+            {
+                "record_id": "1331170307",
+                "url": "https://www.newspim.com/news/view/20261103000431",
+                "related_urls": [],
+                "title": "",
+                "mentions": 168,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -5.70431320016224,
+                "score": 140.0
+            }
+        ],
+        "last_updated": "2026-11-04 02:00:10 KST",
+        "current_rank": 2
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 782.0,
+        "trends": [
+            {
+                "record_id": "1331253749",
+                "url": "https://www.asianimage.co.uk/news/national/26694292.death-toll-russian-attack-aid-centre-rises-31-officials-say/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 98,
+                "sources": 14,
+                "goldstein": 2.8,
+                "tone": -7.0291777188329,
+                "score": 258.5
+            },
+            {
+                "record_id": "1331279787",
+                "url": "https://ziare.com/razboi-ucraina/macel-donbas-coloana-nimicita-rachete-javelin-1735043",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 1,
+                "goldstein": 4.0,
+                "tone": -1.3665022489037,
+                "score": 154.0
+            },
+            {
+                "record_id": "1331251569",
+                "url": "http://www.council.gov.ru/events/news/178111/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 210,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 1.42387732749179,
+                "score": 124.0
+            },
+            {
+                "record_id": "1330996809",
+                "url": "https://www.royston-crow.co.uk/news/national/26688554.adventurer-karl-bushby-complete-epic-28-year-journey-home/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": 2.8,
+                "tone": 1.0204081632653,
+                "score": 123.5
+            },
+            {
+                "record_id": "1331002756",
+                "url": "https://www.examiner.com.au/story/9383924/emergency-apps-hacked-in-ukraine-and-russia/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 6,
+                "goldstein": -10.0,
+                "tone": -8.23041575710454,
+                "score": 122.0,
+                "keyword": "비상 앱 해킹",
+                "hook": "러시아와 우크라이나의 비상 연락망이 해커의 손에 넘어갔습니다.",
+                "script": "양국 시민의 생명을 지키는 비상 앱이 해킹당했습니다. 국가 안보의 핵심 시스템이 뚫리면서, 누구도 자신의 안전을 장담할 수 없는 공포가 확산되고 있습니다. 사이버 전쟁의 실체가 드러난 충격적인 사건입니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-11-04 02:00:10 KST",
+        "current_rank": 3
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 467.5,
+        "trends": [
+            {
+                "record_id": "1330984892",
+                "url": "https://www.mcall.com/2026/11/01/dia-de-los-muertos-festival-photos/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 388,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 4.86983154670749,
+                "score": 418.5,
+                "keyword": "죽은 자의 축제",
+                "hook": "죽은 자들이 거리를 가득 채우는 멕시코의 기괴하고도 아름다운 밤이 펼쳐집니다.",
+                "script": "멕시코 전역이 죽은 자들의 날로 물들었습니다. 수천 개의 촛불과 화려한 꽃장식, 영혼을 부르는 전통 의식이 거리마다 이어지고 있습니다. 산 자와 죽은 자가 공존하는 이 신비로운 축제의 현장을 지금 바로 확인하세요.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1330992308",
+                "url": "https://www.omnia.com.mx/noticia/447938/karina-ruiz-acumula-ausencias-en-el-senado-mientras-enfrenta-restricciones-para-",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": -2.36145684550559,
+                "score": 49.0,
+                "keyword": "상원의원 직무 유기",
+                "hook": "국민의 대표가 의회를 비우고 사라졌습니다. 카리나 루이즈 의원의 충격적인 행보가 포착됐습니다.",
+                "script": "상원 의석이 또다시 비었습니다. 카리나 루이즈 의원이 계속되는 결근으로 논란의 중심에 섰습니다. 국정 운영이 마비되는 상황 속에서도 그녀의 행적은 여전히 베일에 싸여 있습니다. 과연 그녀는 어디에 있는 것입니까?",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-11-04 02:00:10 KST",
+        "current_rank": 4
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 444.0,
+        "trends": [
+            {
+                "record_id": "1330991533",
+                "url": "https://www.begadistrictnews.com.au/story/9383954/canavan-to-put-it-on-the-line-with-lower-house-tilt/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 98,
+                "sources": 7,
+                "goldstein": -2.0,
+                "tone": -0.864240536070624,
+                "score": 198.0,
+                "keyword": "카나반 하원 출마",
+                "hook": "호주 정계가 뒤집혔습니다. 카나반 의원이 자신의 정치 생명을 건 승부수를 던졌습니다.",
+                "script": "카나반 의원이 하원 진입을 위한 배수진을 쳤습니다. 이번 결정은 호주 정치권에 거대한 파장을 예고하고 있습니다. 과연 그는 이 위험한 도박에서 살아남을 수 있을까요? 정계의 지각변동이 시작됩니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1331173373",
+                "url": "https://www.northweststar.com.au/story/9384717/plea-for-youth-voices-online-as-social-ban-case-begins/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 4,
+                "goldstein": -5.0,
+                "tone": -6.63933016113544,
+                "score": 73.0,
+                "keyword": "SNS 금지법 공방",
+                "hook": "당신의 자녀가 소셜미디어를 영원히 못 하게 될 수도 있습니다. 호주 법정이 사상 초유의 판결을 앞두고 있습니다.",
+                "script": "호주 법정에서 청소년 소셜미디어 금지법을 두고 치열한 공방이 벌어지고 있습니다. 표현의 자유인가, 아니면 강력한 보호 조치인가. 이 판결은 전 세계 디지털 환경의 미래를 바꿀 분수령이 될 전망입니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1331108282",
+                "url": "https://www.singletonargus.com.au/story/9384721/australia-cannot-credibly-lead-cop31-without-reform/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 72,
+                "sources": 6,
+                "goldstein": 3.0,
+                "tone": -1.68727539491453,
+                "score": 63.0,
+                "keyword": "기후 리더십 위기",
+                "hook": "호주가 기후 위기 대응의 주도권을 잃을 위기에 처했습니다. 지금 당장 개혁하지 않으면 국가적 망신입니다.",
+                "script": "COP31 의장국을 노리는 호주에 경고등이 켜졌습니다. 내실 없는 정책으로는 국제 사회의 신뢰를 얻을 수 없다는 비판이 쏟아지고 있습니다. 과연 호주는 기후 리더십을 회복할 수 있을까요?",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1331138554",
+                "url": "https://www.thesudburystar.com/press-releases/pr-newswire/tuesday-november-3-2026/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 3,
+                "goldstein": 4.0,
+                "tone": 3.8961038961039,
+                "score": 56.0,
+                "keyword": "산업 협력 강화",
+                "hook": "호주 경제에 새로운 바람이 불고 있습니다. 글로벌 기업들이 호주를 주목하는 이유가 밝혀졌습니다.",
+                "script": "새로운 산업 협력 파트너십이 체결되었습니다. 경제 활성화를 위한 호주의 발걸음이 빨라지고 있습니다. 이번 협력이 가져올 막대한 경제 효과와 일자리 창출 기대감이 시장을 뜨겁게 달구고 있습니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1331238082",
+                "url": "https://www.northsomersettimes.co.uk/news/national/26694556.australias-highest-court-hears-challenges-social-media-ban-children/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 1.0,
+                "tone": -5.25328330206378,
+                "score": 54.0,
+                "keyword": "사법부 금지법 심리",
+                "hook": "법의 심판대에 오른 소셜미디어. 호주 최고법원의 결정이 수백만 청소년의 디지털 일상을 뒤흔듭니다.",
+                "script": "호주 최고법원이 소셜미디어 금지법에 대한 본격적인 심리에 돌입했습니다. 정부와 IT 기업 간의 팽팽한 법리 싸움. 과연 법원은 누구의 손을 들어줄 것인가? 그 결과가 지금 바로 결정됩니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-04 02:00:10 KST",
+        "current_rank": 5
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 382.5,
+        "trends": [
+            {
+                "record_id": "1331186036",
+                "url": "https://www.ohmynews.com/NWS_Web/OhmyPhoto/annual/2026_at_pg.aspx?CNTN_CD=A0003281286&PAGE_CD=N0002&CMPT_CD=M0112",
+                "related_urls": [],
+                "title": "",
+                "mentions": 210,
+                "sources": 2,
+                "goldstein": -2.0,
+                "tone": -11.1258640325654,
+                "score": 119.0,
+                "keyword": "연례 사진 기록",
+                "hook": "대한민국의 1년을 담은 사진들이 공개되었습니다. 그 속에는 씁쓸한 현실이 투영되어 있습니다.",
+                "script": "2026년 대한민국의 기록이 한 장의 사진으로 남았습니다. 화려한 모습 뒤에 숨겨진 어두운 단면들이 우리 사회의 현주소를 적나라하게 보여줍니다. 당신이 외면했던 우리의 현실을 지금 확인하십시오.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1331050734",
+                "url": "https://cine21.com/news/view/?mag_id=111157",
+                "related_urls": [],
+                "title": "",
+                "mentions": 52,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": 0.0258129559397454,
+                "score": 78.0,
+                "keyword": "영화계 위기 심화",
+                "hook": "한국 영화가 벼랑 끝에 섰습니다. 극장가는 텅 비었고, 제작 현장은 비명 소리로 가득합니다.",
+                "script": "한국 영화 산업이 전례 없는 침체기에 빠졌습니다. 관객의 외면과 자본의 고갈이 겹치며 생존을 걱정해야 하는 상황입니다. 무엇이 우리 영화를 이토록 병들게 만들었는지 심층 분석합니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1331208803",
+                "url": "http://inews24.com/view/2022050",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": 2.52808988764045,
+                "score": 72.0,
+                "keyword": "기술 혁신 가속",
+                "hook": "대한민국의 기술력이 세계를 놀라게 했습니다. 불가능을 가능으로 바꾼 현장을 공개합니다.",
+                "script": "대한민국이 또 한 번 세계 기술 표준을 새로 썼습니다. 혁신적인 기술 도입이 산업 전반에 엄청난 변화를 예고합니다. 한국의 미래 먹거리를 책임질 놀라운 성과, 지금 바로 확인하세요.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1331199089",
+                "url": "https://www.mt.co.kr/photo/202611031149288195",
+                "related_urls": [],
+                "title": "",
+                "mentions": 94,
+                "sources": 1,
+                "goldstein": 2.5,
+                "tone": 1.09649122807018,
+                "score": 61.5,
+                "keyword": "사회적 연대 포착",
+                "hook": "차가운 도시 속에서 따뜻한 온기가 발견되었습니다. 우리 사회를 지탱하는 희망의 한 장면입니다.",
+                "script": "힘든 시기에도 서로를 돕는 손길이 끊이지 않고 있습니다. 작은 사진 한 장이 전하는 묵직한 울림. 우리 사회가 아직 희망이 있다는 증거들을 지금 만나보시죠.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1331207664",
+                "url": "https://www.hani.co.kr/arti/english_edition/e_national/1285588.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -10.1669195751138,
+                "score": 52.0,
+                "keyword": "국가 정책 실패",
+                "hook": "정부 정책이 또다시 도마 위에 올랐습니다. 국민의 삶을 외면한 처사에 분노가 들끓고 있습니다.",
+                "script": "정부의 핵심 정책들이 줄줄이 실패하며 민심이 폭발 직전입니다. 대책 없는 행정으로 고통받는 것은 결국 국민뿐입니다. 과연 누구를 위한 정책인지, 그 실체를 낱낱이 파헤칩니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-04 02:00:10 KST",
+        "current_rank": 6
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 322.0,
+        "trends": [
+            {
+                "record_id": "1331249241",
+                "url": "http://www.merkur.de/wirtschaft/knorr-bremse-chef-warnt-industrie-in-15-jahren-weg-zr-94571986.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 7.0,
+                "tone": -3.69045692117314,
+                "score": 84.0
+            },
+            {
+                "record_id": "1331202779",
+                "url": "http://www.fnp.de/politik/boris-pistorius-und-die-probleme-der-bundeswehr-zr-94571111.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 5,
+                "goldstein": -5.0,
+                "tone": -3.57917570498916,
+                "score": 65.0
+            },
+            {
+                "record_id": "1331044739",
+                "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/Politik__Inland_/article6ae867417c6a13952d3adff3/vorschlag-fuer-haertere-bestrafung-von-gruppenvergewaltigung.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -2.0,
+                "tone": -10.6676838512179,
+                "score": 59.0
+            },
+            {
+                "record_id": "1331229580",
+                "url": "http://www.soester-anzeiger.de/leben/karriere/sexuelle-belaestigung-so-muss-der-arbeitgeber-reagieren-zr-94571694.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -2.0,
+                "tone": -4.83059818653508,
+                "score": 59.0
+            },
+            {
+                "record_id": "1331249513",
+                "url": "https://www.finanzen.net/nachricht/aktien/cyberangriffe-auch-auf-kuehlanlagen-deutscher-supermaerkte-16032214",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 5,
+                "goldstein": -2.0,
+                "tone": -5.6388345627056,
+                "score": 55.0,
+                "keyword": "독일 마트 사이버테러",
+                "hook": "당신의 식탁이 해킹당했습니다, 독일 마트 냉동 시설이 무너지고 있습니다.",
+                "script": "독일 전역의 슈퍼마켓 냉동고가 사이버 공격의 표적이 됐습니다. 단순한 시스템 오류가 아닌 외부 해킹임이 드러나며 식료품 공급망에 비상이 걸렸습니다. 시민들의 불안은 극에 달했고, 당국은 즉각적인 보안 강화에 나섰습니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-11-04 02:00:10 KST",
+        "current_rank": 7
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 87.0,
+        "trends": [
+            {
+                "record_id": "1331155859",
+                "url": "https://www.legallyindia.com/convos/topic/500739-vacancy-in-competition-teams",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.40311835803339,
+                "score": 87.0,
+                "keyword": "경쟁법 전문가 채용",
+                "hook": "법조계의 새로운 기회, 경쟁법 팀에서 당신을 찾고 있습니다.",
+                "script": "인도 법조계가 경쟁법 전문가를 대거 모집합니다. 기업 간의 치열한 법적 공방이 예상되는 가운데, 최고의 인재를 영입하기 위한 로펌들의 경쟁이 시작됐습니다. 지금 바로 지원 자격을 확인하십시오.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-11-04 02:00:10 KST",
+        "current_rank": 8
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 62.0,
+        "trends": [
+            {
+                "record_id": "1331111386",
+                "url": "https://ilikepuglia.it/02/11/2026/sanita-prossima-fdi-bari/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -2.45029122313716,
+                "score": 62.0,
+                "keyword": "바리 의료 위기",
+                "hook": "이탈리아 바리의 의료 시스템이 붕괴 직전입니다.",
+                "script": "이탈리아 바리 지역의 공공 의료 부문이 심각한 위기에 봉착했습니다. 의료진 부족과 시설 노후화로 인해 환자들의 불만이 폭주하고 있습니다. 당국의 즉각적인 정책 변화 없이는 상황은 더욱 악화될 전망입니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-04 02:00:10 KST",
+        "current_rank": 9
+    }
+}
