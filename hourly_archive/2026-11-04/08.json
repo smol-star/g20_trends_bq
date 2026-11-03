@@ -1,0 +1,505 @@
+{
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 2795.0,
+        "trends": [
+            {
+                "record_id": "1331253322",
+                "url": "https://www.asianimage.co.uk/news/national/26694292.death-toll-russian-attack-aid-centre-rises-31-officials-say/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 84,
+                "sources": 14,
+                "goldstein": 4.0,
+                "tone": -7.0291777188329,
+                "score": 1732.5
+            },
+            {
+                "record_id": "1331241068",
+                "url": "https://www.aol.co.uk/articles/robinson-insists-party-fully-behind-122257000.html",
+                "related_urls": [
+                    "https://www.echo-news.co.uk/news/national/26694631.robinson-insists-party-fully-behind-position-drumcree-dispute/"
+                ],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": 10.0,
+                "tone": -3.39893774675554,
+                "score": 524.0
+            },
+            {
+                "record_id": "1331045079",
+                "url": "https://www.aol.co.uk/articles/outlander-honoured-outstanding-contribution-award-105521000.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 10,
+                "goldstein": 3.4,
+                "tone": 6.26962676962677,
+                "score": 220.5
+            },
+            {
+                "record_id": "1331153141",
+                "url": "https://www.lynnnews.co.uk/national/mahmood-defends-migration-reform-package-against-accusations-of-u-turn-173778/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 12,
+                "goldstein": -2.0,
+                "tone": -2.46197550769704,
+                "score": 168.0
+            },
+            {
+                "record_id": "1331004243",
+                "url": "https://www.portstephensexaminer.com.au/story/9384538/pm-eyes-backpacker-scheme-overhaul-in-uk-leader-talks/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 4,
+                "goldstein": 7.0,
+                "tone": 0.992253058662194,
+                "score": 150.0
+            }
+        ],
+        "last_updated": "2026-11-04 08:17:33 KST",
+        "current_rank": 1
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 2765.0,
+        "trends": [
+            {
+                "record_id": "1331253404",
+                "url": "https://www.asianimage.co.uk/news/national/26694292.death-toll-russian-attack-aid-centre-rises-31-officials-say/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 102,
+                "sources": 17,
+                "goldstein": 1.0,
+                "tone": -6.89524345108082,
+                "score": 2076.0
+            },
+            {
+                "record_id": "1330982259",
+                "url": "https://www.wimbledonguardian.co.uk/news/national/26688513.nine-killed-florida-plane-crash/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 130,
+                "sources": 13,
+                "goldstein": -4.0,
+                "tone": -8.33333333333334,
+                "score": 215.0
+            },
+            {
+                "record_id": "1331212650",
+                "url": "https://www.london-now.co.uk/news/national/26693225.we-lost-good-guy---ellen-degeneres-emotional-tribute-producer/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": -7.0,
+                "tone": -0.37593984962406,
+                "score": 170.0
+            },
+            {
+                "record_id": "1331242837",
+                "url": "https://magyarnemzet.hu/belfold/2026/11/december-24-orszaggyules",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -4.45211142445183,
+                "score": 164.0
+            },
+            {
+                "record_id": "1331170307",
+                "url": "https://www.newspim.com/news/view/20261103000431",
+                "related_urls": [],
+                "title": "",
+                "mentions": 168,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -5.70431320016224,
+                "score": 140.0
+            }
+        ],
+        "last_updated": "2026-11-04 08:17:33 KST",
+        "current_rank": 2
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 782.0,
+        "trends": [
+            {
+                "record_id": "1331253749",
+                "url": "https://www.asianimage.co.uk/news/national/26694292.death-toll-russian-attack-aid-centre-rises-31-officials-say/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 98,
+                "sources": 14,
+                "goldstein": 2.8,
+                "tone": -7.0291777188329,
+                "score": 258.5,
+                "keyword": "구호 시설 참사",
+                "hook": "러시아군의 무차별 공격으로 구호 센터가 아수라장으로 변했습니다.",
+                "script": "러시아군의 공격으로 구호 센터 사망자가 31명까지 치솟았습니다. 무고한 시민들이 피신하던 곳이 순식간에 죽음의 현장이 됐습니다. 국제사회의 공분이 커지는 가운데, 러시아 당국은 침묵을 지키고 있습니다. 추가 피해가 우려되는 상황입니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1331279787",
+                "url": "https://ziare.com/razboi-ucraina/macel-donbas-coloana-nimicita-rachete-javelin-1735043",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 1,
+                "goldstein": 4.0,
+                "tone": -1.3665022489037,
+                "score": 154.0
+            },
+            {
+                "record_id": "1331251569",
+                "url": "http://www.council.gov.ru/events/news/178111/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 210,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 1.42387732749179,
+                "score": 124.0
+            },
+            {
+                "record_id": "1330996809",
+                "url": "https://www.royston-crow.co.uk/news/national/26688554.adventurer-karl-bushby-complete-epic-28-year-journey-home/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": 2.8,
+                "tone": 1.0204081632653,
+                "score": 123.5
+            },
+            {
+                "record_id": "1331002756",
+                "url": "https://www.examiner.com.au/story/9383924/emergency-apps-hacked-in-ukraine-and-russia/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 6,
+                "goldstein": -10.0,
+                "tone": -8.23041575710454,
+                "score": 122.0,
+                "keyword": "재난 앱 해킹",
+                "hook": "국가 재난 시스템이 해킹당하며 시민들의 안전이 통째로 뚫렸습니다.",
+                "script": "러시아와 우크라이나의 긴급 재난 앱이 동시에 해킹당했습니다. 비상 상황을 알리는 핵심 시스템이 마비되면서 시민들은 패닉에 빠졌습니다. 디지털 전면전이 민간인 안전을 직접적으로 위협하고 있습니다. 지금 즉시 보안을 확인하십시오.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-11-04 08:17:33 KST",
+        "current_rank": 3
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 467.5,
+        "trends": [
+            {
+                "record_id": "1330984892",
+                "url": "https://www.mcall.com/2026/11/01/dia-de-los-muertos-festival-photos/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 388,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 4.86983154670749,
+                "score": 418.5,
+                "keyword": "죽은 자의 축제",
+                "hook": "멕시코 전역이 화려한 죽음의 축제로 뒤덮였습니다.",
+                "script": "멕시코의 상징, '죽은 자의 날' 축제가 시작됐습니다. 거리마다 화려한 해골 분장과 꽃으로 가득 찼습니다. 세상을 떠난 이들을 기리는 멕시코인들의 독특하고 아름다운 전통을 지금 영상으로 확인하세요.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1330992308",
+                "url": "https://www.omnia.com.mx/noticia/447938/karina-ruiz-acumula-ausencias-en-el-senado-mientras-enfrenta-restricciones-para-",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": -2.36145684550559,
+                "score": 49.0
+            }
+        ],
+        "last_updated": "2026-11-04 08:17:33 KST",
+        "current_rank": 4
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 449.0,
+        "trends": [
+            {
+                "record_id": "1330991533",
+                "url": "https://www.begadistrictnews.com.au/story/9383954/canavan-to-put-it-on-the-line-with-lower-house-tilt/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 98,
+                "sources": 7,
+                "goldstein": -2.0,
+                "tone": -0.864240536070624,
+                "score": 198.0
+            },
+            {
+                "record_id": "1331173373",
+                "url": "https://www.northweststar.com.au/story/9384717/plea-for-youth-voices-online-as-social-ban-case-begins/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 4,
+                "goldstein": -5.0,
+                "tone": -6.63933016113544,
+                "score": 73.0,
+                "keyword": "SNS 금지 논란",
+                "hook": "청소년의 SNS 접속을 전면 차단하려는 법안이 도마 위에 올랐습니다.",
+                "script": "호주 정부의 청소년 SNS 금지 법안이 본격적인 심판대에 올랐습니다. 표현의 자유인가, 아니면 청소년 보호인가? 찬반 논란이 거센 가운데, 이번 판결이 전 세계 디지털 정책에 미칠 영향에 이목이 쏠립니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1331108282",
+                "url": "https://www.singletonargus.com.au/story/9384721/australia-cannot-credibly-lead-cop31-without-reform/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 72,
+                "sources": 6,
+                "goldstein": 3.0,
+                "tone": -1.68727539491453,
+                "score": 63.0
+            },
+            {
+                "record_id": "1331322669",
+                "url": "https://www.goulburnpost.com.au/story/9385516/cyber-crime-cops-probing-after-health-department-hacked/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 2,
+                "goldstein": -5.0,
+                "tone": -3.67234568886407,
+                "score": 59.0,
+                "keyword": "보건부 해킹 공격",
+                "hook": "호주 보건부의 방어선이 뚫리며 국민 의료 정보가 위협받고 있습니다.",
+                "script": "호주 보건부 시스템이 사이버 공격을 당했습니다. 경찰이 즉각 수사에 착수했지만, 민감한 의료 데이터 유출 가능성에 전국이 비상입니다. 디지털 시대, 국가 보건 시스템의 허점이 여실히 드러났습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1331138554",
+                "url": "https://www.thesudburystar.com/press-releases/pr-newswire/tuesday-november-3-2026/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 3,
+                "goldstein": 4.0,
+                "tone": 3.8961038961039,
+                "score": 56.0
+            }
+        ],
+        "last_updated": "2026-11-04 08:17:33 KST",
+        "current_rank": 5
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 322.0,
+        "trends": [
+            {
+                "record_id": "1331249241",
+                "url": "http://www.merkur.de/wirtschaft/knorr-bremse-chef-warnt-industrie-in-15-jahren-weg-zr-94571986.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 7.0,
+                "tone": -3.69045692117314,
+                "score": 84.0
+            },
+            {
+                "record_id": "1331202779",
+                "url": "http://www.fnp.de/politik/boris-pistorius-und-die-probleme-der-bundeswehr-zr-94571111.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 5,
+                "goldstein": -5.0,
+                "tone": -3.57917570498916,
+                "score": 65.0
+            },
+            {
+                "record_id": "1331229580",
+                "url": "http://www.soester-anzeiger.de/leben/karriere/sexuelle-belaestigung-so-muss-der-arbeitgeber-reagieren-zr-94571694.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -2.0,
+                "tone": -4.83059818653508,
+                "score": 59.0
+            },
+            {
+                "record_id": "1331044739",
+                "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/Politik__Inland_/article6ae867417c6a13952d3adff3/vorschlag-fuer-haertere-bestrafung-von-gruppenvergewaltigung.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -2.0,
+                "tone": -10.6676838512179,
+                "score": 59.0
+            },
+            {
+                "record_id": "1331249513",
+                "url": "https://www.finanzen.net/nachricht/aktien/cyberangriffe-auch-auf-kuehlanlagen-deutscher-supermaerkte-16032214",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 5,
+                "goldstein": -2.0,
+                "tone": -5.6388345627056,
+                "score": 55.0
+            }
+        ],
+        "last_updated": "2026-11-04 08:17:33 KST",
+        "current_rank": 6
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 304.5,
+        "trends": [
+            {
+                "record_id": "1331186036",
+                "url": "https://www.ohmynews.com/NWS_Web/OhmyPhoto/annual/2026_at_pg.aspx?CNTN_CD=A0003281286&PAGE_CD=N0002&CMPT_CD=M0112",
+                "related_urls": [],
+                "title": "",
+                "mentions": 210,
+                "sources": 2,
+                "goldstein": -2.0,
+                "tone": -11.1258640325654,
+                "score": 119.0
+            },
+            {
+                "record_id": "1331208803",
+                "url": "http://inews24.com/view/2022050",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": 2.52808988764045,
+                "score": 72.0
+            },
+            {
+                "record_id": "1331199089",
+                "url": "https://www.mt.co.kr/photo/202611031149288195",
+                "related_urls": [],
+                "title": "",
+                "mentions": 94,
+                "sources": 1,
+                "goldstein": 2.5,
+                "tone": 1.09649122807018,
+                "score": 61.5
+            },
+            {
+                "record_id": "1331207664",
+                "url": "https://www.hani.co.kr/arti/english_edition/e_national/1285588.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -10.1669195751138,
+                "score": 52.0,
+                "keyword": "국가적 위기 직면",
+                "hook": "대한민국을 뒤흔드는 심각한 위기 상황이 포착되었습니다.",
+                "script": "현재 대한민국 사회 전반에 걸쳐 경고음이 울리고 있습니다. 부정적인 경제 및 사회 지표가 연일 쏟아지며 국민들의 불안감이 최고조에 달했습니다. 과연 이 위기를 어떻게 돌파할 것인지, 귀추가 주목됩니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-04 08:17:33 KST",
+        "current_rank": 7
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 94.0,
+        "trends": [
+            {
+                "record_id": "1331304882",
+                "url": "https://www.canal26.com/general/2026/11/03/el-papa-leon-xiv-recibira-cartas-de-los-argentinos-como-enviarle-un-mensaje-gratis-y-que-datos-poner-en-el-sobre/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 5.0,
+                "tone": 2.46753246753247,
+                "score": 94.0,
+                "keyword": "교황 서신 전달",
+                "hook": "아르헨티나 국민들이 교황에게 직접 메시지를 보낼 수 있는 기회가 열렸습니다.",
+                "script": "교황 레오 14세에게 직접 편지를 보낼 수 있습니다. 아르헨티나 국민들을 위한 특별한 소통 창구가 마련됐는데요. 편지를 보내는 방법과 필수 기재 사항, 지금 바로 확인하고 당신의 마음을 전하세요.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-11-04 08:17:33 KST",
+        "current_rank": 8
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 87.0,
+        "trends": [
+            {
+                "record_id": "1331155859",
+                "url": "https://www.legallyindia.com/convos/topic/500739-vacancy-in-competition-teams",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.40311835803339,
+                "score": 87.0
+            }
+        ],
+        "last_updated": "2026-11-04 08:17:33 KST",
+        "current_rank": 9
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 77.0,
+        "trends": [
+            {
+                "record_id": "1331290675",
+                "url": "https://www.harrowtimes.co.uk/news/national/26695514.king-stops-short-offering-formal-apology-transatlantic-slave-trade/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 11,
+                "goldstein": 0.0,
+                "tone": -1.72972972972973,
+                "score": 77.0
+            }
+        ],
+        "last_updated": "2026-11-04 08:17:33 KST",
+        "current_rank": 10
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 62.0,
+        "trends": [
+            {
+                "record_id": "1331111386",
+                "url": "https://ilikepuglia.it/02/11/2026/sanita-prossima-fdi-bari/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -2.45029122313716,
+                "score": 62.0
+            }
+        ],
+        "last_updated": "2026-11-04 08:17:33 KST",
+        "current_rank": 11
+    }
+}
