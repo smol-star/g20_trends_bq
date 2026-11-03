@@ -1,0 +1,693 @@
+{
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 1073.5,
+        "trends": [
+            {
+                "record_id": "1330991921",
+                "url": "https://www.begadistrictnews.com.au/story/9383954/canavan-to-put-it-on-the-line-with-lower-house-tilt/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 84,
+                "sources": 7,
+                "goldstein": 3.4,
+                "tone": -0.864240536070624,
+                "score": 347.0
+            },
+            {
+                "record_id": "1331173373",
+                "url": "https://www.northweststar.com.au/story/9384717/plea-for-youth-voices-online-as-social-ban-case-begins/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 4,
+                "goldstein": -5.0,
+                "tone": -6.63933016113544,
+                "score": 263.0
+            },
+            {
+                "record_id": "1331188253",
+                "url": "https://www.crookwellgazette.com.au/story/9385056/not-a-bad-person-cops-claim-before-bodies-found/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 48,
+                "sources": 6,
+                "goldstein": -10.0,
+                "tone": -4.71772355507956,
+                "score": 217.5,
+                "keyword": "끔찍한 시신 발견",
+                "hook": "경찰의 '착한 사람'이라는 말 뒤에 숨겨진 잔혹한 진실이 드러났습니다.",
+                "script": "경찰이 범죄를 경시한 걸까요? 시신이 발견되기 전, 용의자를 향해 '나쁜 사람이 아니다'라던 경찰의 발언이 대중의 공분을 사고 있습니다. 호주 전역을 충격에 빠뜨린 사건의 전말을 추적합니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1331095013",
+                "url": "https://www.northerndailyleader.com.au/story/9384717/high-court-to-test-under-16s-social-media-ban/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": -5.0,
+                "tone": -4.82758620689655,
+                "score": 132.0
+            },
+            {
+                "record_id": "1331108282",
+                "url": "https://www.singletonargus.com.au/story/9384721/australia-cannot-credibly-lead-cop31-without-reform/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 72,
+                "sources": 6,
+                "goldstein": 3.0,
+                "tone": -1.68727539491453,
+                "score": 114.0,
+                "keyword": "기후 대응 실패",
+                "hook": "호주가 COP31 의장국으로서의 자격을 의심받는 치명적인 위기에 직면했습니다.",
+                "script": "환경 정책의 실패인가, 기만인가. 호주가 과감한 개혁 없이는 COP31을 주도할 수 없다는 비판이 쏟아지고 있습니다. 국제 사회의 리더십이 시험대에 올랐습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-03 15:42:58 KST",
+        "current_rank": 1
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 881.0,
+        "trends": [
+            {
+                "record_id": "1330982259",
+                "url": "https://www.wimbledonguardian.co.uk/news/national/26688513.nine-killed-florida-plane-crash/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 130,
+                "sources": 13,
+                "goldstein": -4.0,
+                "tone": -8.33333333333334,
+                "score": 215.0,
+                "keyword": "플로리다 비행기 추락",
+                "hook": "하늘에서 떨어진 기체, 플로리다 상공에서 9명이 사망하는 참사가 발생했습니다.",
+                "script": "플로리다에서 경비행기가 추락하며 탑승자 9명 전원이 현장에서 사망했습니다. 사고 원인은 아직 조사 중이며, 잔해 수습과 유가족 지원이 급박하게 진행되고 있습니다. 현장 상황이 확인되는 대로 추가 보도하겠습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1331037517",
+                "url": "https://www.wcsufm.org/latest-from-npr/2026-11-02/with-students-scarce-college-admissions-offices-get-friendlier-less-intimidating",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 5,
+                "goldstein": 1.0,
+                "tone": 0.489296636085619,
+                "score": 182.0
+            },
+            {
+                "record_id": "1331097171",
+                "url": "https://www.iowapublicradio.org/news-from-npr/2026-11-02/doj-asks-for-supreme-court-to-intervene-on-california-ballot-demands",
+                "related_urls": [
+                    "https://www.waer.org/2026-11-02/doj-asks-for-supreme-court-to-intervene-on-california-ballot-demands"
+                ],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": -5.0,
+                "tone": -2.06598461416448,
+                "score": 177.0,
+                "keyword": "투표용지 대법원 개입",
+                "hook": "캘리포니아 투표용지를 둘러싼 법적 공방, 미 대법원이 결국 개입에 나섰습니다.",
+                "script": "법무부가 캘리포니아주의 투표용지 규정 변경에 제동을 걸기 위해 대법원에 긴급 개입을 요청했습니다. 선거 막판 혼란이 가중되는 가운데, 대법원의 판결이 이번 선거 결과에 어떤 파장을 미칠지 귀추가 주목됩니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1331170307",
+                "url": "https://www.newspim.com/news/view/20261103000431",
+                "related_urls": [],
+                "title": "",
+                "mentions": 168,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -5.70431320016224,
+                "score": 163.0
+            },
+            {
+                "record_id": "1331148872",
+                "url": "http://www.parisguardian.com/news/279405129/cd-r-weighs-global-payments-buyout-in-potential-mega-deal",
+                "related_urls": [
+                    "http://www.baltimorestar.com/news/279405129/cd-r-weighs-global-payments-buyout-in-potential-mega-deal"
+                ],
+                "title": "",
+                "mentions": 60,
+                "sources": 6,
+                "goldstein": 7.4,
+                "tone": -2.91133940559228,
+                "score": 144.0
+            }
+        ],
+        "last_updated": "2026-11-03 15:42:58 KST",
+        "current_rank": 2
+    },
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 805.5,
+        "trends": [
+            {
+                "record_id": "1331045079",
+                "url": "https://www.aol.co.uk/articles/outlander-honoured-outstanding-contribution-award-105521000.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 10,
+                "goldstein": 3.4,
+                "tone": 6.26962676962677,
+                "score": 220.5
+            },
+            {
+                "record_id": "1331153141",
+                "url": "https://www.lynnnews.co.uk/national/mahmood-defends-migration-reform-package-against-accusations-of-u-turn-173778/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 12,
+                "goldstein": -2.0,
+                "tone": -2.46197550769704,
+                "score": 168.0
+            },
+            {
+                "record_id": "1330996586",
+                "url": "https://www.somersetcountygazette.co.uk/news/national/26688553.burnham-heads-commonwealth-summit-opening-door-slavery-apology/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 10,
+                "goldstein": 4.0,
+                "tone": -5.88235294117646,
+                "score": 155.0,
+                "keyword": "영연방 노예 사과",
+                "hook": "역사의 빚을 갚을 시간, 영연방 정상회의에서 노예제 사과가 논의됩니다.",
+                "script": "영국이 영연방 정상회의를 통해 과거 노예제에 대한 역사적 사과를 검토하고 있습니다. 오랜 논쟁에 마침표를 찍을 수 있을지, 전 세계가 이번 정상회의의 결정을 주목하고 있습니다.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1331004149",
+                "url": "https://www.portstephensexaminer.com.au/story/9384538/pm-eyes-backpacker-scheme-overhaul-in-uk-leader-talks/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 4,
+                "goldstein": 7.0,
+                "tone": 0.992253058662194,
+                "score": 150.0
+            },
+            {
+                "record_id": "1331016193",
+                "url": "https://www.westerntelegraph.co.uk/news/national/26688586.skilled-migrants-contribute-gbp115bn-public-finances-think-tank-says/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 11,
+                "goldstein": 7.0,
+                "tone": -1.07671601615074,
+                "score": 112.0
+            }
+        ],
+        "last_updated": "2026-11-03 15:42:58 KST",
+        "current_rank": 3
+    },
+    "Mexico": {
+        "gdp_rank": 12,
+        "spike_score": 583.0,
+        "trends": [
+            {
+                "record_id": "1330984892",
+                "url": "https://www.mcall.com/2026/11/01/dia-de-los-muertos-festival-photos/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 388,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 4.86983154670749,
+                "score": 418.5
+            },
+            {
+                "record_id": "1330992317",
+                "url": "https://www.omnia.com.mx/noticia/447938/karina-ruiz-acumula-ausencias-en-el-senado-mientras-enfrenta-restricciones-para-",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": -9.5,
+                "tone": -2.35508016049641,
+                "score": 164.5,
+                "keyword": "상원의원 잦은 결근",
+                "hook": "멕시코 상원의원이 의정 활동을 방기하며 심각한 정치적 논란을 부르고 있습니다.",
+                "script": "카리나 루이즈 의원의 잇따른 상원 결근, 그 배경에는 무엇이 있을까요? 의무를 저버린 행보에 국민들의 분노가 극에 달하고 있습니다. 멕시코 정치권의 도덕적 해이가 도마 위에 올랐습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-03 15:42:58 KST",
+        "current_rank": 4
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 457.0,
+        "trends": [
+            {
+                "record_id": "1331044344",
+                "url": "http://www.kreisbote.de/wirtschaft/andreas-herb-merz-cdu-enttaeuschung-energy-drink-usa-produktion-zr-94569642.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 7.0,
+                "tone": -4.78142076502732,
+                "score": 140.0
+            },
+            {
+                "record_id": "1331011238",
+                "url": "http://www.merkur.de/politik/wo-das-baltikum-putin-fuerchtet-und-wie-es-russland-abschrecken-will-zr-94568042.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 4,
+                "goldstein": 1.0,
+                "tone": -1.60839160839161,
+                "score": 99.0
+            },
+            {
+                "record_id": "1331047081",
+                "url": "http://www.come-on.de/wirtschaft/warnstreiks-in-der-metallindustrie-der-tarifstreit-trifft-eine-geschwaechte-branche-zr-94569608.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 3,
+                "goldstein": 4.0,
+                "tone": -1.61399008781845,
+                "score": 87.0
+            },
+            {
+                "record_id": "1331037411",
+                "url": "https://www.wxxinews.org/npr-news/2026-11-02/how-does-this-fluoride-free-toothpaste-compare-when-it-comes-to-oral-health",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 7.4,
+                "tone": -0.24691358024692,
+                "score": 72.0
+            },
+            {
+                "record_id": "1331044739",
+                "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/Politik__Inland_/article6ae867417c6a13952d3adff3/vorschlag-fuer-haertere-bestrafung-von-gruppenvergewaltigung.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -2.0,
+                "tone": -10.6676838512179,
+                "score": 59.0,
+                "keyword": "집단 성폭행 처벌",
+                "hook": "독일 사회를 경악시킨 집단 성폭행, 처벌 강화를 향한 목소리가 터져 나왔습니다.",
+                "script": "독일 내 집단 성폭행 사건이 잇따르며 현행법보다 강력한 처벌이 필요하다는 제안이 공식화되었습니다. 분노한 여론이 법 개정을 압박하는 가운데, 사법 당국의 대응에 관심이 쏠리고 있습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-03 15:42:58 KST",
+        "current_rank": 5
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 413.5,
+        "trends": [
+            {
+                "record_id": "1330996809",
+                "url": "https://www.royston-crow.co.uk/news/national/26688554.adventurer-karl-bushby-complete-epic-28-year-journey-home/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": 2.8,
+                "tone": 1.0204081632653,
+                "score": 123.5
+            },
+            {
+                "record_id": "1331002756",
+                "url": "https://www.examiner.com.au/story/9383924/emergency-apps-hacked-in-ukraine-and-russia/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 6,
+                "goldstein": -10.0,
+                "tone": -8.23041575710454,
+                "score": 122.0,
+                "keyword": "비상 앱 해킹",
+                "hook": "러시아와 우크라이나의 비상 대응 시스템이 해커들의 공격을 받아 마비되었습니다.",
+                "script": "국가 비상망이 뚫렸습니다. 해커들이 양국 시민의 생명을 지키는 긴급 앱을 장악하며 혼란이 가중되고 있습니다. 지금 이 순간, 사이버 전쟁의 공포가 현실화되었습니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1331015387",
+                "url": "https://www.b92.net/info/politika/281377/zamenik-nacelnika-ukp-takodje-na-informativnom-razgovoru-zbog-slucaja-senjak/vest",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": 0.563206129946538,
+                "score": 62.0
+            },
+            {
+                "record_id": "1331034685",
+                "url": "https://www.pacensure.com/mali-i-zi-heq-udhetimin-pa-viza-per-shtetasit-ruse-moska-pergjigjet-me-masa-reciproke/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 4.0,
+                "tone": 1.16094165458927,
+                "score": 55.0
+            },
+            {
+                "record_id": "1331046502",
+                "url": "https://www.hna.de/politik/ukraine-trifft-russlands-raffinerien-sprit-notstand-droht-zr-94569703.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 3,
+                "goldstein": 5.0,
+                "tone": -5.92768853215656,
+                "score": 51.0,
+                "keyword": "러시아 정유 타격",
+                "hook": "우크라이나의 정밀 타격으로 러시아 전역에 연료 대란 경보가 울렸습니다.",
+                "script": "러시아 정유 시설이 불타고 있습니다. 연이은 타격으로 국가 전체에 연료 공급 중단 위기가 닥쳤습니다. 전쟁이 경제의 심장을 직접적으로 겨누기 시작했습니다.",
+                "sentiment": "warning"
+            }
+        ],
+        "last_updated": "2026-11-03 15:42:58 KST",
+        "current_rank": 6
+    },
+    "Turkey": {
+        "gdp_rank": 16,
+        "spike_score": 231.0,
+        "trends": [
+            {
+                "record_id": "1331031286",
+                "url": "https://www.bursahakimiyet.com.tr/gundem/anadolu-nun-100-kultur-varligi-abd-den-turkiye-ye-dondu-1742711",
+                "related_urls": [],
+                "title": "",
+                "mentions": 44,
+                "sources": 7,
+                "goldstein": -9.0,
+                "tone": 0.461873190207519,
+                "score": 81.0,
+                "keyword": "유물 100점 귀환",
+                "hook": "미국 박물관 지하에 잠들어 있던 터키의 잃어버린 역사 100점이 마침내 고국 땅을 밟았습니다.",
+                "script": "미국에서 터키로 유물 100점이 전격 반환됐습니다. 수십 년간 해외를 떠돌던 이 소중한 문화재들이 오늘 새벽 이스탄불 공항에 도착했는데요. 문화부 장관은 이번 회수가 단순한 유물 반환을 넘어 터키의 정체성을 되찾는 역사적 사건이라고 강조했습니다. 지금 터키 전역은 환호로 가득합니다.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1331030581",
+                "url": "https://www.haber7.com/guncel/haber/3673454-bakan-ersoy-tanitti-yillar-sonra-abdden-turkiyeye-dondu",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 2.8,
+                "tone": 0.629634798999072,
+                "score": 70.0
+            },
+            {
+                "record_id": "1330985695",
+                "url": "https://sapo.pt/artigo/zelensky-desafia-putin-a-reunir-se-consigo-na-turquia-6ae7ccf17a19de6f9c311863",
+                "related_urls": [],
+                "title": "",
+                "mentions": 44,
+                "sources": 2,
+                "goldstein": 1.0,
+                "tone": 0.739419865461833,
+                "score": 31.0
+            },
+            {
+                "record_id": "1331004895",
+                "url": "https://www.hurriyet.com.tr/gundem/izmirde-insaat-temel-kazisinda-toprak-kaymasi-3-bina-tahliye-edildi-43362839",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": 0.832849880184827,
+                "score": 27.0,
+                "keyword": "이즈미르 지반 붕괴",
+                "hook": "평화롭던 마을이 한순간에 무너져 내리고 있습니다.",
+                "script": "터키 이즈미르의 한 건설 현장에서 발생한 갑작스러운 지반 붕괴로 인근 주택 3채가 긴급 대피했습니다. 공사 현장 옆 지반이 순식간에 함몰되면서 주민들은 대피 명령을 받고 집을 떠나야 했습니다. 추가 붕괴 우려로 현장 일대는 봉쇄된 상태입니다.",
+                "sentiment": "warning"
+            },
+            {
+                "record_id": "1331027214",
+                "url": "https://www.birgun.net/haber/bursa-il-milli-egitim-mudurlugu-okullara-cuma-namazi-formu-gonderdi-egitim-is-ten-fisleme-tepkisi-743989%20target=_blank%20class=stretched-link",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": 0.0,
+                "tone": 0.0,
+                "score": 22.0,
+                "keyword": "학교 종교 편향 논란",
+                "hook": "공교육 현장에 불어닥친 종교 자유 논쟁이 터키 사회를 뒤흔들고 있습니다.",
+                "script": "부르사 교육청이 학교에 배포한 금요 예배 관련 설문지가 거센 반발을 사고 있습니다. 교육 노조는 이번 조치가 공교육의 세속주의 원칙을 위협하는 명백한 사찰 행위라고 비판했습니다. 학교 내 종교 활동 강요 논란이 터키 내 정치적 갈등으로 번지고 있습니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-03 15:42:58 KST",
+        "current_rank": 7
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 229.0,
+        "trends": [
+            {
+                "record_id": "1331186036",
+                "url": "https://www.ohmynews.com/NWS_Web/OhmyPhoto/annual/2026_at_pg.aspx?CNTN_CD=A0003281286&PAGE_CD=N0002&CMPT_CD=M0112",
+                "related_urls": [],
+                "title": "",
+                "mentions": 210,
+                "sources": 2,
+                "goldstein": -2.0,
+                "tone": -11.1258640325654,
+                "score": 119.0
+            },
+            {
+                "record_id": "1331050734",
+                "url": "https://cine21.com/news/view/?mag_id=111157",
+                "related_urls": [],
+                "title": "",
+                "mentions": 52,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": 0.0258129559397454,
+                "score": 78.0
+            },
+            {
+                "record_id": "1331185889",
+                "url": "https://www.hani.co.kr/arti/society/society_general/1285509.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -5.48780487804878,
+                "score": 32.0,
+                "keyword": "사회적 갈등 심화",
+                "hook": "한국 사회의 뿌리 깊은 갈등이 임계점을 넘어 폭발하고 있습니다.",
+                "script": "더 이상 외면할 수 없는 위기입니다. 한국 사회 곳곳에서 터져 나오는 갈등의 목소리가 국가 시스템을 위협하고 있습니다. 분열의 끝은 어디일까요? 지금 한국의 현주소를 진단합니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-03 15:42:58 KST",
+        "current_rank": 8
+    },
+    "China": {
+        "gdp_rank": 2,
+        "spike_score": 210.5,
+        "trends": [
+            {
+                "record_id": "1331001258",
+                "url": "http://www.azerbaijannews.net/news/279407252/australian-exhibitors-eye-long-term-partnerships-at-china-import-expo",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 4,
+                "goldstein": 4.0,
+                "tone": 2.96495956873315,
+                "score": 175.5
+            },
+            {
+                "record_id": "1330982033",
+                "url": "http://www.brazilsun.com/news/279405104/intel-loses-usd146-billion-in-value-as-warning-sparks-chip-rout",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 0.0,
+                "tone": -3.56296018248491,
+                "score": 35.0,
+                "keyword": "인텔 가치 폭락",
+                "hook": "반도체 거인 인텔이 하룻밤 사이 1460억 달러를 증발시켰습니다.",
+                "script": "인텔의 실적 경고가 글로벌 반도체 시장을 강타했습니다. 주가가 곤두박질치며 투자자들의 공포가 확산되고 있습니다. 이번 폭락이 반도체 패권 경쟁과 글로벌 경제에 던질 충격을 분석합니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-03 15:42:58 KST",
+        "current_rank": 9
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 151.0,
+        "trends": [
+            {
+                "record_id": "1331155859",
+                "url": "https://www.legallyindia.com/convos/topic/500739-vacancy-in-competition-teams",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.40311835803339,
+                "score": 87.0,
+                "keyword": "경쟁팀 채용 공고",
+                "hook": "인도 법률 시장의 거물들이 지금 '이 팀'에 사람을 구하고 있습니다.",
+                "script": "인도 경쟁법 전문가들을 위한 대규모 채용이 시작되었습니다. 관련 로펌들의 경쟁이 치열해지며 전문 인력 확보에 사활을 건 모습입니다. 전문직 취업 시장의 새로운 흐름을 확인하세요.",
+                "sentiment": "positive"
+            },
+            {
+                "record_id": "1331141613",
+                "url": "https://indiankanoon.org/doc/145206802/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 1.0,
+                "tone": -3.24305060584462,
+                "score": 64.0
+            }
+        ],
+        "last_updated": "2026-11-03 15:42:58 KST",
+        "current_rank": 10
+    },
+    "South Africa": {
+        "gdp_rank": 19,
+        "spike_score": 127.5,
+        "trends": [
+            {
+                "record_id": "1330995424",
+                "url": "https://memeburn.com/best-hosting-for-small-businesses/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 1,
+                "goldstein": 2.8,
+                "tone": 3.05581540380418,
+                "score": 77.5
+            },
+            {
+                "record_id": "1331055922",
+                "url": "https://www.northernnews.ca/press-releases/globe-newswire/american-lithium-increases-macusani-uranium-measured-and-indicated-resource/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 50,
+                "sources": 5,
+                "goldstein": 3.0,
+                "tone": 1.19355268729092,
+                "score": 50.0,
+                "keyword": "우라늄 자원 급증",
+                "hook": "남아프리카의 지하 자원 지도가 완전히 뒤바뀌고 있습니다.",
+                "script": "아메리칸 리튬이 남아프리카 지역 우라늄 매장량을 대폭 상향 조정했습니다. 이번 조사 결과로 해당 지역의 에너지 전략적 가치가 급상승하며 글로벌 투자자들의 이목이 집중되고 있습니다. 에너지 안보를 확보하려는 국가들의 치열한 경쟁이 시작될 전망입니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-11-03 15:42:58 KST",
+        "current_rank": 11
+    },
+    "Italy": {
+        "gdp_rank": 8,
+        "spike_score": 86.0,
+        "trends": [
+            {
+                "record_id": "1331111386",
+                "url": "https://ilikepuglia.it/02/11/2026/sanita-prossima-fdi-bari/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 100,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -2.45029122313716,
+                "score": 62.0,
+                "keyword": "바리 의료 위기",
+                "hook": "이탈리아 바리 지역 의료 시스템이 붕괴 직전의 긴박한 상황에 놓였습니다.",
+                "script": "이탈리아 바리, 의료 체계가 무너지고 있습니다. 시민들의 건강권이 위협받는 가운데, 정부의 대응책을 두고 거센 비판이 쏟아지고 있습니다. 현장의 참담한 실태를 지금 바로 확인하십시오.",
+                "sentiment": "negative"
+            },
+            {
+                "record_id": "1331027490",
+                "url": "https://www.baritalianews.it/151751/2026/11/02/dalla-televisione-alla-politica-iacchetti-racconta-chi-lo-vuole-candidato-me-lo-ha-chiesto-fratoianni/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": 0.0,
+                "tone": -1.92597683356465,
+                "score": 24.0,
+                "keyword": "연예인 정계 진출",
+                "hook": "유명 방송인의 갑작스러운 정계 진출 선언이 이탈리아 정치권을 뒤흔들고 있습니다.",
+                "script": "인기 방송인 이아케티가 정치권에 도전장을 내밀었습니다. 프라토이아니의 직접적인 제안이 있었다는 폭로와 함께 정치권 내부의 치열한 암투가 시작됐습니다. 과연 그는 무엇을 노리는 걸까요?",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-03 15:42:58 KST",
+        "current_rank": 12
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 56.5,
+        "trends": [
+            {
+                "record_id": "1331068042",
+                "url": "https://ru.apa.az/evropa/vo-francii-vozobnovilis-protesty-skolnikov-zablokirovany-bolee-40-skol-681825",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": -6.5,
+                "tone": -6.25532821824382,
+                "score": 56.5,
+                "keyword": "프랑스 학생 시위",
+                "hook": "프랑스 전역의 학교 40여 곳이 봉쇄되었습니다, 학생들의 분노가 폭발했습니다.",
+                "script": "교육 정책에 반대하는 학생들의 시위가 프랑스 전역으로 확산되고 있습니다. 학교 출입구가 차단되고 수업이 중단되는 등 혼란이 가중되고 있습니다. 정부와 학생 간의 대치가 극한으로 치닫는 상황입니다.",
+                "sentiment": "negative"
+            }
+        ],
+        "last_updated": "2026-11-03 15:42:58 KST",
+        "current_rank": 13
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 56.0,
+        "trends": [
+            {
+                "record_id": "1331085017",
+                "url": "http://www.bignewsnetwork.com/news/279408025/uae-canada-strengthen-economic-partnership-through-trade-investment-agreements-mous-in-promising-strategic-sectors",
+                "related_urls": [],
+                "title": "",
+                "mentions": 40,
+                "sources": 2,
+                "goldstein": 6.4,
+                "tone": 6.34743875278397,
+                "score": 56.0,
+                "keyword": "UAE 경제 동맹",
+                "hook": "캐나다와 UAE가 손잡고 거대한 경제 대전환을 예고했습니다.",
+                "script": "캐나다와 아랍에미리트가 전략적 경제 파트너십을 체결했습니다. 막대한 투자와 무역 장벽 철폐로 양국 경제는 새로운 전기를 맞이합니다. 글로벌 시장의 판도가 지금 뒤바뀌고 있습니다.",
+                "sentiment": "positive"
+            }
+        ],
+        "last_updated": "2026-11-03 15:42:58 KST",
+        "current_rank": 14
+    }
+}
