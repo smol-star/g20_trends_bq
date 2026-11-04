@@ -1,0 +1,484 @@
+{
+    "United Kingdom": {
+        "gdp_rank": 6,
+        "spike_score": 2950.0,
+        "trends": [
+            {
+                "record_id": "1331253271",
+                "url": "https://www.asianimage.co.uk/news/national/26694292.death-toll-russian-attack-aid-centre-rises-31-officials-say/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 84,
+                "sources": 14,
+                "goldstein": 4.0,
+                "tone": -7.0291777188329,
+                "score": 1732.5
+            },
+            {
+                "record_id": "1331241068",
+                "url": "https://www.aol.co.uk/articles/robinson-insists-party-fully-behind-122257000.html",
+                "related_urls": [
+                    "https://www.echo-news.co.uk/news/national/26694631.robinson-insists-party-fully-behind-position-drumcree-dispute/"
+                ],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": 10.0,
+                "tone": -3.39893774675554,
+                "score": 524.0
+            },
+            {
+                "record_id": "1331336136",
+                "url": "https://www.eastlothiancourier.com/news/national/26696552.swinney-backs-rules-people-limited-leave-remain-standing-election/",
+                "related_urls": [
+                    "https://www.countytimes.co.uk/news/national/26696552.swinney-backs-rules-people-limited-leave-remain-standing-election/"
+                ],
+                "title": "",
+                "mentions": 130,
+                "sources": 13,
+                "goldstein": -4.0,
+                "tone": 0.440528634361229,
+                "score": 312.0
+            },
+            {
+                "record_id": "1331196039",
+                "url": "https://www.northwalespioneer.co.uk/news/national/26692553.streeting-condemns-iran-labelling-raf-royal-navy-terrorist-organisations/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 11,
+                "goldstein": 3.4,
+                "tone": -3.71517027863778,
+                "score": 213.5
+            },
+            {
+                "record_id": "1331153141",
+                "url": "https://www.lynnnews.co.uk/national/mahmood-defends-migration-reform-package-against-accusations-of-u-turn-173778/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 12,
+                "goldstein": -2.0,
+                "tone": -2.46197550769704,
+                "score": 168.0
+            }
+        ],
+        "last_updated": "2026-11-04 15:10:36 KST",
+        "current_rank": 1
+    },
+    "United States": {
+        "gdp_rank": 1,
+        "spike_score": 2681.5,
+        "trends": [
+            {
+                "record_id": "1331253404",
+                "url": "https://www.asianimage.co.uk/news/national/26694292.death-toll-russian-attack-aid-centre-rises-31-officials-say/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 102,
+                "sources": 17,
+                "goldstein": 1.0,
+                "tone": -6.89524345108082,
+                "score": 2076.0
+            },
+            {
+                "record_id": "1331212650",
+                "url": "https://www.london-now.co.uk/news/national/26693225.we-lost-good-guy---ellen-degeneres-emotional-tribute-producer/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 10,
+                "goldstein": -7.0,
+                "tone": -0.37593984962406,
+                "score": 170.0
+            },
+            {
+                "record_id": "1331242837",
+                "url": "https://magyarnemzet.hu/belfold/2026/11/december-24-orszaggyules",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -4.45211142445183,
+                "score": 164.0
+            },
+            {
+                "record_id": "1331170307",
+                "url": "https://www.newspim.com/news/view/20261103000431",
+                "related_urls": [],
+                "title": "",
+                "mentions": 168,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -5.70431320016224,
+                "score": 140.0
+            },
+            {
+                "record_id": "1331374301",
+                "url": "https://wflafm.iheart.com/content/2026-11-03-democrats-win-senate-seize-full-control-of-united-states-congress/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -9.5,
+                "tone": -0.955414012738858,
+                "score": 131.5
+            }
+        ],
+        "last_updated": "2026-11-04 15:10:36 KST",
+        "current_rank": 2
+    },
+    "Russia": {
+        "gdp_rank": 11,
+        "spike_score": 659.5,
+        "trends": [
+            {
+                "record_id": "1331253749",
+                "url": "https://www.asianimage.co.uk/news/national/26694292.death-toll-russian-attack-aid-centre-rises-31-officials-say/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 98,
+                "sources": 14,
+                "goldstein": 2.8,
+                "tone": -7.0291777188329,
+                "score": 258.5
+            },
+            {
+                "record_id": "1331279999",
+                "url": "https://ziare.com/razboi-ucraina/macel-donbas-coloana-nimicita-rachete-javelin-1735043",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 1,
+                "goldstein": 4.0,
+                "tone": -1.3665022489037,
+                "score": 154.0
+            },
+            {
+                "record_id": "1331251569",
+                "url": "http://www.council.gov.ru/events/news/178111/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 210,
+                "sources": 1,
+                "goldstein": 3.4,
+                "tone": 1.42387732749179,
+                "score": 124.0
+            },
+            {
+                "record_id": "1331270227",
+                "url": "https://www.hna.de/politik/roettgen-plaediert-fuer-mehr-ehrlichkeit-beim-thema-ukraine-wir-werden-es-nicht-durch-reden-hinkriegen-zr-94572321.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 64,
+                "sources": 7,
+                "goldstein": 5.0,
+                "tone": -0.826446280991739,
+                "score": 71.0
+            },
+            {
+                "record_id": "1331243950",
+                "url": "https://www.weser-kurier.de/politik/inland/neues-spd-verfahren-gegen-schroeder-beantragt-doc88b8hxypgshtf9plmu0",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 7,
+                "goldstein": -2.0,
+                "tone": -2.28681223800368,
+                "score": 52.0
+            }
+        ],
+        "last_updated": "2026-11-04 15:10:36 KST",
+        "current_rank": 3
+    },
+    "Australia": {
+        "gdp_rank": 13,
+        "spike_score": 365.0,
+        "trends": [
+            {
+                "record_id": "1331335841",
+                "url": "https://www.braidwoodtimes.com.au/story/9385516/cyber-crime-cops-probing-after-health-department-hacked/",
+                "related_urls": [
+                    "https://www.goulburnpost.com.au/story/9385516/cyber-crime-cops-probing-after-health-department-hacked/"
+                ],
+                "title": "",
+                "mentions": 90,
+                "sources": 3,
+                "goldstein": -5.0,
+                "tone": -3.7971223567822,
+                "score": 135.0
+            },
+            {
+                "record_id": "1331173373",
+                "url": "https://www.northweststar.com.au/story/9384717/plea-for-youth-voices-online-as-social-ban-case-begins/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 4,
+                "goldstein": -5.0,
+                "tone": -6.63933016113544,
+                "score": 73.0
+            },
+            {
+                "record_id": "1331238082",
+                "url": "https://www.northsomersettimes.co.uk/news/national/26694556.australias-highest-court-hears-challenges-social-media-ban-children/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 1.0,
+                "tone": -5.25328330206378,
+                "score": 54.0
+            },
+            {
+                "record_id": "1331340871",
+                "url": "https://campaignbrief.com/latest-instalment-of-ausify-campaign-via-bureau-of-everything-invites-aussies-to-get-their-pda-on-with-local-music/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 4.0,
+                "tone": 4.85008818342152,
+                "score": 52.0
+            },
+            {
+                "record_id": "1331345262",
+                "url": "https://www.hepburnadvocate.com.au/story/9385536/existential-ai-threat-triggers-canvas-mass-job-cuts/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 0.4,
+                "tone": -0.462005674139954,
+                "score": 51.0
+            }
+        ],
+        "last_updated": "2026-11-04 15:10:36 KST",
+        "current_rank": 4
+    },
+    "South Korea": {
+        "gdp_rank": 14,
+        "spike_score": 341.0,
+        "trends": [
+            {
+                "record_id": "1331186036",
+                "url": "https://www.ohmynews.com/NWS_Web/OhmyPhoto/annual/2026_at_pg.aspx?CNTN_CD=A0003281286&PAGE_CD=N0002&CMPT_CD=M0112",
+                "related_urls": [],
+                "title": "",
+                "mentions": 210,
+                "sources": 2,
+                "goldstein": -2.0,
+                "tone": -11.1258640325654,
+                "score": 119.0
+            },
+            {
+                "record_id": "1331208803",
+                "url": "http://inews24.com/view/2022050",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": 2.52808988764045,
+                "score": 72.0
+            },
+            {
+                "record_id": "1331199089",
+                "url": "https://www.mt.co.kr/photo/202611031149288195",
+                "related_urls": [],
+                "title": "",
+                "mentions": 94,
+                "sources": 1,
+                "goldstein": 2.5,
+                "tone": 1.09649122807018,
+                "score": 61.5
+            },
+            {
+                "record_id": "1331207664",
+                "url": "https://www.hani.co.kr/arti/english_edition/e_national/1285588.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 80,
+                "sources": 1,
+                "goldstein": -2.0,
+                "tone": -10.1669195751138,
+                "score": 52.0
+            },
+            {
+                "record_id": "1331365161",
+                "url": "https://www.wikitree.co.kr/articles/1171697",
+                "related_urls": [],
+                "title": "",
+                "mentions": 65,
+                "sources": 1,
+                "goldstein": -0.4,
+                "tone": -0.938477580813349,
+                "score": 36.5
+            }
+        ],
+        "last_updated": "2026-11-04 15:10:36 KST",
+        "current_rank": 5
+    },
+    "Germany": {
+        "gdp_rank": 3,
+        "spike_score": 313.0,
+        "trends": [
+            {
+                "record_id": "1331249241",
+                "url": "http://www.merkur.de/wirtschaft/knorr-bremse-chef-warnt-industrie-in-15-jahren-weg-zr-94571986.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": 7.0,
+                "tone": -3.69045692117314,
+                "score": 84.0
+            },
+            {
+                "record_id": "1331202779",
+                "url": "http://www.fnp.de/politik/boris-pistorius-und-die-probleme-der-bundeswehr-zr-94571111.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 5,
+                "goldstein": -5.0,
+                "tone": -3.57917570498916,
+                "score": 65.0
+            },
+            {
+                "record_id": "1331229580",
+                "url": "http://www.soester-anzeiger.de/leben/karriere/sexuelle-belaestigung-so-muss-der-arbeitgeber-reagieren-zr-94571694.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 7,
+                "goldstein": -2.0,
+                "tone": -4.83059818653508,
+                "score": 59.0
+            },
+            {
+                "record_id": "1331249513",
+                "url": "https://www.finanzen.net/nachricht/aktien/cyberangriffe-auch-auf-kuehlanlagen-deutscher-supermaerkte-16032214",
+                "related_urls": [],
+                "title": "",
+                "mentions": 70,
+                "sources": 5,
+                "goldstein": -2.0,
+                "tone": -5.6388345627056,
+                "score": 55.0
+            },
+            {
+                "record_id": "1331219350",
+                "url": "http://www.fnp.de/wirtschaft/schaeffler-stellenabbau-autoexperte-warnt-vor-weiteren-werksschliessungen-zr-94571500.html",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 5,
+                "goldstein": -2.0,
+                "tone": -5.59701492537312,
+                "score": 50.0
+            }
+        ],
+        "last_updated": "2026-11-04 15:10:36 KST",
+        "current_rank": 6
+    },
+    "Canada": {
+        "gdp_rank": 10,
+        "spike_score": 207.0,
+        "trends": [
+            {
+                "record_id": "1331334157",
+                "url": "https://calgarysun.com/news/politics/alberta-to-set-standards-for-post-secondary-institutional-neutrality/wcm/3d09242a-198d-454e-b82b-86885338945e",
+                "related_urls": [],
+                "title": "",
+                "mentions": 56,
+                "sources": 1,
+                "goldstein": 7.0,
+                "tone": 0.365464258822157,
+                "score": 130.0
+            },
+            {
+                "record_id": "1331290675",
+                "url": "https://www.harrowtimes.co.uk/news/national/26695514.king-stops-short-offering-formal-apology-transatlantic-slave-trade/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 110,
+                "sources": 11,
+                "goldstein": 0.0,
+                "tone": -1.72972972972973,
+                "score": 77.0
+            }
+        ],
+        "last_updated": "2026-11-04 15:10:36 KST",
+        "current_rank": 7
+    },
+    "India": {
+        "gdp_rank": 5,
+        "spike_score": 144.0,
+        "trends": [
+            {
+                "record_id": "1331155859",
+                "url": "https://www.legallyindia.com/convos/topic/500739-vacancy-in-competition-teams",
+                "related_urls": [],
+                "title": "",
+                "mentions": 120,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.40311835803339,
+                "score": 87.0
+            },
+            {
+                "record_id": "1331359306",
+                "url": "https://www.legallyindia.com/convos/topic/500848-sr-mum-stipend",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": -5.0,
+                "tone": 2.57959090687043,
+                "score": 57.0
+            }
+        ],
+        "last_updated": "2026-11-04 15:10:36 KST",
+        "current_rank": 8
+    },
+    "France": {
+        "gdp_rank": 7,
+        "spike_score": 97.0,
+        "trends": [
+            {
+                "record_id": "1331372179",
+                "url": "https://www.newswiretoday.com/news/187178/Naval-Group-Unveils-its-New-Concept-Ship-Designed-for-Naval-Warfare-of-The-Future/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 90,
+                "sources": 1,
+                "goldstein": -10.0,
+                "tone": -2.23420647149461,
+                "score": 97.0
+            }
+        ],
+        "last_updated": "2026-11-04 15:10:36 KST",
+        "current_rank": 9
+    },
+    "Argentina": {
+        "gdp_rank": 18,
+        "spike_score": 94.0,
+        "trends": [
+            {
+                "record_id": "1331304882",
+                "url": "https://www.canal26.com/general/2026/11/03/el-papa-leon-xiv-recibira-cartas-de-los-argentinos-como-enviarle-un-mensaje-gratis-y-que-datos-poner-en-el-sobre/",
+                "related_urls": [],
+                "title": "",
+                "mentions": 60,
+                "sources": 1,
+                "goldstein": 5.0,
+                "tone": 2.46753246753247,
+                "score": 94.0
+            }
+        ],
+        "last_updated": "2026-11-04 15:10:36 KST",
+        "current_rank": 10
+    }
+}
